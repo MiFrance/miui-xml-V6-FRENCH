@@ -37,7 +37,7 @@
   <string name="power_center_battery_full">La batterie est chargée</string>
   <string name="power_chooser_title">Profils de batterie</string>
   <string name="power_chooser_check_box_title">Appliquer les paramètres</string>
-  <string name="power_chooser_check_box_summary">Choisissez un profil de gestion d\'énergie pour prolonger la vie de la batterie</string>
+  <string name="power_chooser_check_box_summary">Sélectionnez un profil de gestion d\'énergie pour prolonger la vie de la batterie</string>
   <string name="power_chooser_smart_title">Par défaut</string>
   <string name="power_chooser_smart_summary">Sauvegarde les paramètres actuels, vide les processus quand verrouillé</string>
   <string name="power_chooser_standby_title">Marathon</string>

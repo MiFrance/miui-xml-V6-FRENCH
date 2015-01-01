@@ -89,7 +89,7 @@
   <string name="download_fail">"Téléchargement échoué"</string>
   <string name="download_managent">Téléchargements</string>
   <string name="download_nosdcard">Insérez une carte SD pour télécharger %s.</string>
-  <string name="download_nosdcard_title">Pas de carte SD</string>
+  <string name="download_nosdcard_title">Aucune carte SD</string>
   <string name="download_sdcard_busy">La carte SD est occupée.</string>
   <string name="download_sdcard_busy_title">Carte SD indisponible</string>
   <string name="edit_mode_title_empty">Sélectionner des éléments</string>

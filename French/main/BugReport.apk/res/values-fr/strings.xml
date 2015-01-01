@@ -112,8 +112,8 @@ I hope you'll add X feature, because…"</string>
   <string name="title_common_problem">Bogues courants</string>
   <string name="title_nonsystem_app">Autres applis</string>
   <string name="title_system_app">Applis MIUI</string>
-  <string name="toast_feedback_network_unavailable">"Pas de connexion au réseau"</string>
-  <string name="toast_network_unavailable">"Échec de l'envoi. Pas de connexion au réseau."</string>
+  <string name="toast_feedback_network_unavailable">"Pas de connexion réseau"</string>
+  <string name="toast_network_unavailable">"Échec de l'envoi. Pas de connexion réseau."</string>
   <string name="wifi_problem1">"Impossible de se connecter automatiquement à un WLAN sécurisé"</string>
   <string name="wifi_problem2">Le signal du WLAN est faible</string>
   <string name="wifi_problem3">Déconnecté du WLAN</string>

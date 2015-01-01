@@ -465,8 +465,8 @@
   <string name="where_is_barcode">Où est le code QR ?</string>
   <string name="white_balance">"Balance blancs "</string>
   <string name="widget_type">Choix des images</string>
-  <string name="widget_type_album">Choisir un album</string>
-  <string name="widget_type_photo">Choisir une image</string>
+  <string name="widget_type_album">Sélectionner un album</string>
+  <string name="widget_type_photo">Sélectionner une image</string>
   <string name="widget_type_shuffle">Affichage aléatoire des images</string>
   <string name="width">Largeur</string>
   <string name="yes">Oui</string>

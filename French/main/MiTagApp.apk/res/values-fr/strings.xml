@@ -142,7 +142,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="screen_timeout">Veille</string>
   <string name="screen_timeout_summary">Après %s d\'inactivité</string>
   <string name="select_all">Tout sélectionner</string>
-  <string name="select_app">Choisir une appli</string>
+  <string name="select_app">Sélectionner une appli</string>
   <string name="select_config">Nouv. tâches</string>
   <string name="send_email">Envoyer un e-mail</string>
   <string name="send_sms">Envoyer un SMS</string>

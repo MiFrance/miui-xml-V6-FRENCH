@@ -13,7 +13,7 @@
   <string name="cancel_receive">Annuler</string>
   <string name="cancel_send">Annuler</string>
   <string name="canceling">Annulation</string>
-  <string name="choose_title">Choisir un fichier</string>
+  <string name="choose_title">Sélectionner un fichier</string>
   <string name="connect_confirm">%1$s requiert une connexion</string>
   <string name="connecting">Connexion…</string>
   <string name="continue_to_send">Poursuivre l\'envoi</string>
@@ -60,7 +60,7 @@
   <string name="operation_goto_folder">Aller au dossier</string>
   <string name="operation_info">Informations du fichier</string>
   <string name="operation_send">Envoyer</string>
-  <string name="picker_title">Choisir l\'app</string>
+  <string name="picker_title">Sélectionner l\'app</string>
   <string name="receive">Recevoir</string>
   <string name="receive_cancel_tip">Réception inachevée. Êtes-vous sûr de vouloir arrêter le transfert et quitter ?</string>
   <string name="receive_cancel_tip2">Annulation de la réception. Fichiers reçus : %1$d/%2$d </string>

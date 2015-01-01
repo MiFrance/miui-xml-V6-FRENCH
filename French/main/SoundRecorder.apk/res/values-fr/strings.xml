@@ -49,7 +49,7 @@
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading">Chargement de l\'enregistrement…</string>
   <string name="record_name_hour">h</string>
-  <string name="record_picker_title">Choisissez l\'enregistrement</string>
+  <string name="record_picker_title">Sélectionnez l\'enregistrement</string>
   <string name="record_saving">Sauvegarde de l\'enregistrement…</string>
   <string name="recording">Enregistrement…</string>
   <string name="recording_stopped">Fin de l\'enregistrement</string>

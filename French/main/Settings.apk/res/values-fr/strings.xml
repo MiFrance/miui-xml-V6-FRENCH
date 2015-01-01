@@ -1246,7 +1246,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
   <string name="preference_change_password_title">Modifier le mot de passe</string>
-  <string name="preferred_media_app_summary">Choisissez le lecteur de musique</string>
+  <string name="preferred_media_app_summary">Sélectionnez le lecteur de musique</string>
   <string name="privacy_mode_enable_sum">Cacher l\'historique d\'appel, les messages et autres données lors de l\'utilisation du mode invité</string>
   <string name="privacy_mode_enable_title">Activer le mode invité</string>
   <string name="privacy_protect_title">Protection des données personnelles</string>

@@ -109,7 +109,7 @@
   <string name="sns_desc_preview_wechat">Aperçu du message WeChat</string>
   <string name="format_move_notes_out_folder">%1$s déplacées</string>
   <string name="loading_text">Chargement…</string>
-  <string name="sns_message_disconnect">"Pas de connexion au réseau. Vérifiez votre connexion et essayez à nouveau."</string>
+  <string name="sns_message_disconnect">"Pas de connexion réseau. Vérifiez votre connexion et essayez à nouveau."</string>
   <string name="toast_message_add_text_warn">"Ce type de fichier n'est pas supporté"</string>
   <string name="welcome_note_for_cm">"Et encore plus de fonctionnalités!
    - Synchronisation avec Mi Cloud

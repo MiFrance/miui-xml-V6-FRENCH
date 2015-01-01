@@ -315,7 +315,7 @@
   <string name="passport_change_account"><u>Changer de compte</u></string>
   <string name="passport_checking_account">Vérif. mot de passe…</string>
   <string name="passport_checking_input">Vérif. entrées…</string>
-  <string name="passport_choose_which_one_sim">Choisissez un n° de téléphone</string>
+  <string name="passport_choose_which_one_sim">Sélectionnez un n° de téléphone</string>
   <string name="passport_click_email_to_valid">"
 
  Pour activer votre compte, suivez le
@@ -361,7 +361,7 @@
   <string name="passport_input_phone_hint">Entrer le n° de téléphone</string>
   <string name="passport_input_vcode_hint">Entrer le code de vérification</string>
   <string name="passport_input_verify_code_hint">Entrer le code de vérification</string>
-  <string name="passport_license_host_unreachable">"Pas de connexion au réseau. Vous pouvez voir cette page sur %s."</string>
+  <string name="passport_license_host_unreachable">"Pas de connexion réseau. Vous pouvez voir cette page sur %s."</string>
   <string name="passport_loading">Chargement…</string>
   <string name="passport_login">Connexion</string>
   <string name="passport_login_failed">"Échec à la connexion"</string>

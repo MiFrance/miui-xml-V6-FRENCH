@@ -80,6 +80,6 @@
   <string name="tips_title">Information</string>
   <string name="tips_message">Cette application requiert l\'accès à internet afin de vérifier la sécurité des liens provenant des code QR.</string>
   <string name="settings">Paramètres</string>
-  <string name="choose_picture">Choisissez l\'image du code QR</string>
+  <string name="choose_picture">Sélectionnez l\'image du code QR</string>
   <string name="not_insert_contact">"Impossible d'ajouter le contact"</string>
 </resources>

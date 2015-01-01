@@ -549,7 +549,7 @@
   <string name="color_picker_button_black">Noir</string>
   <string name="color_picker_button_white">Blanc</string>
   <string name="miui_content_select">Sélectionner</string>
-  <string name="miui_content_select_all">Sélectionner tout</string>
+  <string name="miui_content_select_all">Tout sélectionner</string>
   <string name="miui_content_cut">Couper</string>
   <string name="miui_content_copy">Copier</string>
   <string name="miui_content_paste">Coller</string>

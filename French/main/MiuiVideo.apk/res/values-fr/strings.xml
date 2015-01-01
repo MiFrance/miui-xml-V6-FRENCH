@@ -296,7 +296,7 @@
   <string name="start_addon">Activer l\'extension</string>
   <string name="addon_install_complete_disc">%s extensions installées. Vous pouvez les voir dans /"Mes vidéos/".</string>
   <string name="gong_count_dlna">%d DLNA</string>
-  <string name="check_network">"Pas de connexion au réseau. Vérifiez votre connexion de données et essayez à nouveau."</string>
+  <string name="check_network">"Pas de connexion réseau. Vérifiez votre connexion de données et essayez à nouveau."</string>
   <string name="click_star_rate">Cliquez sur la notation par étoiles</string>
   <string name="userdata_alert_content">Vous utilisez actuellement une connexion mobile, qui contient des limitations forfaitaires, êtes-vous sûr de vouloir continuer ?</string>
   <string name="userdata_alert_ok">Continuer</string>
@@ -337,7 +337,7 @@
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="qiyi">iQiyi</string>
-  <string name="select_media_source">Choisir la source</string>
+  <string name="select_media_source">Sélectionner la source</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
   <string name="tencent">Tencent</string>
@@ -396,7 +396,7 @@
      <string name="offline_loading">Hors-ligne</string>
      <string name="offline_media">Hors-ligne</string>
      <string name="offline_media_empty_title">Vide</string>
-     <string name="offline_no_selected_item_hint">Choisir une vidéo</string>
+     <string name="offline_no_selected_item_hint">Sélectionner une vidéo</string>
      <string name="offline_status_failed">Échoué</string>
      <string name="offline_status_finished">Terminé</string>
      <string name="offline_status_loading">Téléchargement</string>
@@ -441,7 +441,7 @@
      <string name="vp_offline_status_wait">En attente</string>
      <string name="vp_offline_title">Hors-ligne</string>
      <string name="vp_offline_title_name">Épisode %d</string>
-     <string name="vp_select_video_definition">Choisir la définition</string>
+     <string name="vp_select_video_definition">Sélectionner la définition</string>
      <string name="vp_skip">Passer l\'intro et le générique</string>
      <string name="channel_ok">OK</string>
      <string name="count_qi">Ep. %s</string>

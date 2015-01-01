@@ -302,7 +302,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="read_all_sms">Marqué comme lu(s)</string>
   <string name="report">Signaler</string>
   <string name="report_error">"Impossible de signaler"</string>
-  <string name="report_error_not_net">"Pas de connexion au réseau"</string>
+  <string name="report_error_not_net">"Pas de connexion réseau"</string>
   <string name="report_only">Choisir un message à signaler</string>
   <string name="report_sms">Signaler des messages</string>
   <string name="report_success">Message signalé</string>

@@ -27,5 +27,5 @@
   <string name="need_to_configure">Aucune photo sélectionnée.</string>
   <string name="no_photos">Aucune photo.</string>
   <string name="photodream_select_all">Tout sélectionner</string>
-  <string name="photodream_select_none">Désélectionner tout</string>
+  <string name="photodream_select_none">Tout désélectionner</string>
 </resources>

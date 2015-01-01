@@ -86,7 +86,7 @@ a plusieurs encodages pour assurer votre sécurité financière"</string>
   <string name="giftcard_denom">MiCredit</string>
   <string name="giftcard_denom_available">MiCredit disponible</string>
   <string name="giftcard_denom_frozen">MiCredit gelé</string>
-  <string name="giftcard_empty">Pas de carte-cadeau</string>
+  <string name="giftcard_empty">Aucune carte-cadeau</string>
   <string name="giftcard_expire">Expire le %1$s</string>
   <string name="giftcard_hint">Les MiCredits reçus par carte-cadeau seront\ndépensés en premier automatiquement.</string>
 <!-- à revoir les 2 phrases suivantes éventuellement) -->
