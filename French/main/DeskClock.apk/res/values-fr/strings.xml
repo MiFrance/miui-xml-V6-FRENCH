@@ -107,9 +107,9 @@
   <string name="timer_alert_alert_silenced">Minuteur arrêté après %d minutes.</string>
   <string name="timer_continue">Reprendre</string>
   <string name="timer_got_it">OK</string>
-  <string name="timer_message">Le délai de %1$d minute(s) est écoulé</string>
-  <string name="timer_message_with_seconds">Le délai de %1$d secondes est écoulé</string>
-  <string name="timer_message_with_hour">Le délai de %1$d heure(s) et %2$d minute(s) est écoulé</string>
+  <string name="timer_message">%1$d minutes et %2$d secondes</string>
+  <string name="timer_message_with_seconds">%1$d secondes</string>
+  <string name="timer_message_with_hour">%1$d heures et %2$d minutes</string>
   <string name="timer_start_alarm">Minuteur</string>
   <string name="timer_title">Minuteur</string>
   <string name="timezone_exist_error_message">Échec de l\'opération, le fuseau horaire semble déjà exister.</string>

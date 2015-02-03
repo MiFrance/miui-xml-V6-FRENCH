@@ -839,8 +839,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="confirm_delete_conversation_title">Supprimer</string>
   <string name="contact_content_provider">Contacter le fournisseur de contenu</string>
   <string name="conversation_content_provider">Fournisseur de contenu Conversation</string>
-  <string name="donot_disturb_endtime_title">De</string>
-  <string name="donot_disturb_starttime_title">Jusqu\'à</string>
+  <string name="donot_disturb_endtime_title">Jusqu\'à</string>
+  <string name="donot_disturb_starttime_title">De</string>
   <string name="donot_disturb_summary">Votre téléphone ne recevra pas de nouveaux messages durant la période spécifiée</string>
   <string name="donot_disturb_title">Ne pas déranger durant la nuit</string>
   <string name="downlaod_nonWifi_confirm_title">Télécharger cette pièce-jointe ?</string>
@@ -904,4 +904,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="switch_as_tranditional_view">Vue traditionnelle</string>
   <string name="tip_cannot_switchview_in_unread_folder">Impossible de changer de vue pour les messages non lus en mode agrégé</string>
   <string name="unread_from_someone">Messages non lus de %s</string>
+  <string name="search_tabs_name_all">Tous</string>
+  <string name="search_tabs_name_recipient">Destinataire</string>
+  <string name="search_tabs_name_sender">Expéditeur</string>
+  <string name="search_tabs_name_subject">Sujet</string>
 </resources>

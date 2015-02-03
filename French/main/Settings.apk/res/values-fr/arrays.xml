@@ -658,4 +658,8 @@
         <item>4.0 pouces</item>
         <item>3.5 pouces</item>
     </string-array>
+     <string-array name="agps_network_entries">
+        <item>Réseau domestique</item>
+        <item>Tous les réseaux</item>
+     </string-array>
 </resources>

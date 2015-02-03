@@ -41,15 +41,14 @@
      <string-array name="alarm_repeat_type">
         <item>Une fois</item>
         <item>Tous les jours</item>
-        <item>Les jours de travail</item>
-        <item>Le week-end</item>
+        <item>Jours ouvrés</item>
+        <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Une fois</item>
         <item>Tous les jours</item>
-        <item>Les jours de travail</item>
-        <item>Le week-end</item>
+        <item>Du lundi au vendredi</item>
         <item>Personnalisé</item>
      </string-array>
        <string-array name="auto_clean_size">
