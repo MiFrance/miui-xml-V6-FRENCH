@@ -51,4 +51,11 @@
     <item quantity="other">%d chansons populaires</item>
     <item quantity="one">%d chanson populaire</item>
   </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Les %d derniers jours</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="other">%1$d sur %2$d</item>
+        <item quantity="one">1 résultat</item>
+     </plurals>
 </resources>

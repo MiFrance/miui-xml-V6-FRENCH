@@ -292,4 +292,8 @@
   <string name="song_name">Chanson</string>
   <string name="start_to_play">Lecture</string>
   <string name="stream_quality">Qualité du flux</string>
+	<string name="no_album_info">Aucune information sur l\'album</string>
+	<string name="no_artist_info">Aucune information sur l\'artiste</string>
+	<string name="search_for_artist">Artiste</string>
+	<string name="support_online_only">Support uniquement en ligne</string>
 </resources>
