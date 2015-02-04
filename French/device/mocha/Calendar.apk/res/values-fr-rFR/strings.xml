@@ -4,7 +4,7 @@
    <string name="accessibility_pick_recurrence">Répéter</string>
      <string name="event_color_picker_dialog_title">Couleur de l\'événement</string>
      <string name="event_color_set_to_default">Utiliser la couleur par défaut</string>
-     <string name="choose_event_color_label">Couleur de l\'événement</string>
+     <string name="choose_event_color_label">Couleur</string>
      <string name="recurrence_dialog_title">Répétition</string>
 
 <!-- à traduire ?? affichées sur mipad ou non?? à vérifier... -->

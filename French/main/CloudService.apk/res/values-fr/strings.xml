@@ -207,10 +207,10 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_detail_wlan_mms">%d de MMS non synchronisés</string>
   <string name="micloud_main_detail">Détails</string>
   <string name="micloud_main_network_abnormal">"Impossible de se connecter au réseau"</string>
-  <string name="micloud_main_set_internet">Réseau</string>
+  <string name="micloud_main_set_internet">Paramètres</string>
   <string name="micloud_main_space_full">Espace saturé</string>
   <string name="micloud_main_space_risk">Il y a %d de données à synchroniser. Merci d\'ajuster l\'espace de stockage.</string>
-  <string name="micloud_main_sync_pause">Suspendre la synchronisation</string>
+  <string name="micloud_main_sync_pause">Synchronisation suspendue</string>
   <string name="micloud_main_synced_data_count">%d éléments ont été synchronisés</string>
   <string name="micloud_main_syncing">Synchronisation...</string>
   <string name="micloud_main_update_space">Ajuster l\'espace de stockage</string>
@@ -233,7 +233,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="buy_space_sulotion_renew_message">Valide pour %s</string>
   <string name="buy_space_sulotion_renew_title">Sélectionner le mode de renouvellement</string>
   <string name="buy_space_sulotion_title">Solution de stockage sur Cloud</string>
-  <string name="upgrade_space_successful">%s Go ajoutés</string>
+  <string name="upgrade_space_successful">%s Go ajouté(s)</string>
   <string name="upgrade_space_successful_total">%s Go disponibles</string>
   <string name="get_first_month_gb">Obtenez %s d\'espace disque la première fois</string>
   <string name="get_this_month_gb">Obtenez %s d\'espace disque ce mois-ci</string>

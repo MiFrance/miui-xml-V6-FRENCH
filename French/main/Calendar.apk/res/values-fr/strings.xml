@@ -184,10 +184,10 @@
   <string name="response_no">Non</string>
   <string name="response_yes">Oui</string>
   <string name="save_label">OK</string>
-  <string name="saving_event">Événement enregistré.</string>
-  <string name="saving_event_with_guest">Les mises à jour vont être envoyées.</string>
+  <string name="saving_event">Événement enregistré</string>
+  <string name="saving_event_with_guest">Les mises à jour vont être envoyées</string>
   <string name="search">Rechercher</string>
-  <string name="search_history_cleared">Historique des recherches effacé.</string>
+  <string name="search_history_cleared">Historique des recherches effacé</string>
   <string name="search_title">Rechercher dans mes agendas</string>
   <string name="select_synced_calendars_button">Agendas à synchroniser</string>
   <string name="select_synced_calendars_title">Agendas à synchroniser</string>

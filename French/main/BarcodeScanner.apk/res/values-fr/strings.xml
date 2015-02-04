@@ -50,7 +50,7 @@
   <string name="visit_cloud_album">Visiter l\'album cloud</string>
   <string name="web_url_apk_warning">Le code QR sélectionné contient une application qui peut contenir un risque, veuillez plutôt rechercher via le PlayStore</string>
   <string name="web_url_warning">Le site web du code QR peut entraîner un risque, le navigateur MIUI va scanner le code QR pour vous.</string>
-  <string name="website_details">"Détails du site web : "</string>
+  <string name="website_details">"Adresse web : "</string>
   <string name="wechat_details">"Weixin : "</string>
   <string name="wifi_connect_current_connetion">Connexion au réseau Wi-Fi effectuée</string>
   <string name="wifi_connect_fail">Délai de connexion dépassé ou échec du réseau Wi-Fi</string>
@@ -69,8 +69,8 @@
   <string name="barcode_into_rectangle">Placer le code QR/barre dans le viseur</string>
   <string name="recognize_fail">Détection impossible</string>
   <string name="app_name">Scanner</string>
-  <string name="continue_access_web_url">Accès sécurisé</string>
-  <string name="not_recommend_access_web_url">Accès sécurisé (non recommandé)</string>
+  <string name="continue_access_web_url">Accéder au site</string>
+  <string name="not_recommend_access_web_url">Accéder au site (non recommandé)</string>
   <string name="url_is_phish">Ce site est soupçonné de phishing.</string>
   <string name="url_is_safety">Ce site web est sûr.</string>
   <string name="url_is_unknown">Impossible de confirmer si ce site est sûr ou non.</string>

@@ -21,7 +21,7 @@
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
   <string name="create_qrcode_fail_message">Échec de la création du code QR</string>
-  <string name="qr_card_card">Mon code QR</string>
+  <string name="qr_card_card">Code QR</string>
   <string name="qrcode_card_title">Carte code QR</string>
   <string name="resource_unable_to_access">"Nous sommes désolés
 le contenu que vous recherchez n\'est actuellement pas disponible dans votre région."</string>
