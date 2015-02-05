@@ -101,7 +101,7 @@
   <string name="event_info_title_invite">Invitation à une réunion</string>
   <string name="event_view">Afficher l\'événement</string>
   <string name="every_weekday">Jours ouvrés (lun–ven)</string>
-  <string name="gadget_no_events">Aucun événement à venir</string>
+  <string name="gadget_no_events">Aucun événement</string>
   <string name="gadget_title">Agenda</string>
   <string name="goto_today">Aujourd\'hui</string>
   <string name="hide_controls">Masquer commandes</string>
@@ -234,7 +234,7 @@
   <string name="lunar_date">Date lunaire</string>
   <string name="time_zone">Fuseau horaire</string>
   <string name="widget_events">Événements à venir</string>
-  <string name="widget_no_events">Aucun événement à venir</string>
+  <string name="widget_no_events">Aucun événement</string>
   <string name="widget_select_style">Sélectionner le style de widget</string>
 <!-- work_day_indication rest_day_indication blank space to remove smileys :) :( -->
   <string name="work_day_indication">" "</string>

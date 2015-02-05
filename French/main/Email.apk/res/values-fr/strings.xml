@@ -908,4 +908,9 @@ Taille du patch Delta : %2$s"</string>
   <string name="search_tabs_name_recipient">Destinataire</string>
   <string name="search_tabs_name_sender">Expéditeur</string>
   <string name="search_tabs_name_subject">Sujet</string>
+  
+ <!-- à traduire -->
+  <string name="outbox_alert_rw_io_error">Mail read-write excetpion, please try to write and send it again</string>
+  <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
+  <string name="save_draft_failed">Save draft failed</string>
 </resources>

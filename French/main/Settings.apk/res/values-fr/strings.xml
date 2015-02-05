@@ -2894,4 +2894,5 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
   <string name="free_wifi_user_agreement">Lorsque vous utilisez WiWide pour vous connecter à un réseau, votre numéro de téléphone sera utilisé pour vérifier votre identité.</string>
   <string name="free_wifi_user_agreement_allow">Accepter</string>
   <string name="free_wifi_user_agreement_title">Conditions d\'utilisation</string>
+  <string name="cmcc_hardware_version">Version matériel</string>
 </resources>

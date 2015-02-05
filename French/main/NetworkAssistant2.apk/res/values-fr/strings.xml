@@ -444,9 +444,8 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="traffic_setting_step_num">Réglage de la planification de données</string>
   <string name="traffic_setting_update_template_falure">"Échec de connexion au réseau"</string>
   <string name="traffic_warning_purchase_title">Le solde restant est inférieur à %d%%</string>
-
-<!-- à traduire -->
-  <string name="notify_weekly_pkg_body">%s used this week. Tapez pour saisir la limite.</string>
-  <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
+  <string name="notify_weekly_pkg_body">%s utilisés cette semaine. Appuyer pour définir la limite.</string>
   
+<!-- à traduire -->
+  <string name="tc_sms_report_receive_content_null">"​Help improve this feature!&lt;br/&gt;Here's how:&lt;br/&gt;1. Go to \"Check command SMS\" and \"Recipient number\"&lt;br/&gt;2. Tap \"Get SMS template\"&lt;br/&gt;3. Wait to receive SMS message from your carrier &lt;br/&gt;4. Tap \"Upload to MIUI\"​"</string>
 </resources>
