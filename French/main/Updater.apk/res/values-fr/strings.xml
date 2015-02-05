@@ -174,7 +174,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="notification_reboot_summary_hm">Toucher pour redémarrer.</string>
   <string name="notification_reboot_title_hm">Redémarrer pour mettre à jour</string>
   <string name="open_now">Activer</string>
-  <string name="set_auto_msg">Les mises à jour seront téléchargées automatiquement lorsque connecté en Wi-Fi.</string>
+  <string name="set_auto_msg">Souhaitez-vous télécharger automatiquement les mises à jour système lorsque connecté en Wi-Fi ?</string>
   <string name="set_auto_update_title">Téléchargement automatique des mises à jour</string>
   <string name="title_toast_auto">Les mises à jour seront téléchargées automatiquement</string>
   <string name="update_feedback_need_account">Veuillez vous connecter à votre compte Mi</string>
