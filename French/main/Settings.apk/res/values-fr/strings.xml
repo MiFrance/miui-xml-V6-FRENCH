@@ -2640,7 +2640,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="toast_need_login">Veuillez vous connecter à votre compte Mi</string>
   <string name="wifi_setting_category">Pour activer votre appareil, veuillez vous connecter à internet</string>
   <string name="lockpassword_pin_fixed_length">Le code doit contenir %d numéros</string>
-  <string name="status_serialno">No de série</string>
+  <string name="status_serialno">Numéro de série</string>
   <string name="launching_pho">Initialisation de l\'application, veuillez patienter</string>
   <string name="msd_driver_download_xp">"Pour PC, téléchargez MiPhoneManager pour installer
 le pilote de stockage de masse USB"</string>
