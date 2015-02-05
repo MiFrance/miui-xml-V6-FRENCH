@@ -722,7 +722,7 @@ Appuyez sur "OK" pour continuer ou "Annuler" pour rester sur la page actuelle.</
   <string name="permdesc_accessContentProvidersExternally">Permet à l\'application titulaire d\'accéder à des fournisseurs de contenu depuis la commande shell. Les applications standards ne devraient jamais avoir recours à cette autorisation.</string>
   <string name="permlab_updateLock">déconseiller mises à jour auto appareil</string>
   <string name="permdesc_updateLock">Permet à l\'application autorisée d\'indiquer au système le moment opportun pour un redémarrage non interactif en vue de la mise à jour de l\'appareil.</string>
-  <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
+  <string name="save_password_message">Mémoriser le mot de passe ?</string>
   <string name="save_password_notnow">Pas maintenant</string>
   <string name="save_password_remember">Mémoriser</string>
   <string name="save_password_never">Jamais</string>

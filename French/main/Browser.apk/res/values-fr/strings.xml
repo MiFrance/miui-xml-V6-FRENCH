@@ -772,17 +772,17 @@
      <string name="find_previous">Recherche précédente</string>
      <string name="js_dialog_before_unload">"%s 
 
-Voulez vous vraiment quitter cette page?"</string>
+Voulez-vous vraiment quitter cette page ?"</string>
      <string name="js_dialog_before_unload_negative_button">Rester sur cette page</string>
      <string name="js_dialog_before_unload_positive_button">Quitter cette page</string>
      <string name="js_dialog_before_unload_title">Confirmer navigation</string>
-     <string name="js_dialog_title">Le page \" %s \" indique : </string>
+     <string name="js_dialog_title">Le page \"%s\" indique : </string>
      <string name="last_month">Le mois dernier</string>
-     <string name="media_error_action_refresh">Rafraîchir</string>
+     <string name="media_error_action_refresh">Actualiser</string>
      <string name="media_error_action_replace_video_source">Changer de source vidéo</string>
      <string name="media_error_failure">Échec de lecture de la vidéo</string>
      <string name="media_error_format">Erreur de format de la vidéo</string>
-     <string name="media_error_nomemory">La mémoire de l\appareil est pleine</string>
+     <string name="media_error_nomemory">La mémoire de l\'appareil est pleine</string>
      <string name="media_error_source">Erreur de source de la vidéo</string>
      <string name="media_error_timeout">Délai d\'attente dépassé</string>
      <string name="media_error_video_not_exist">La vidéo n\'existe pas</string>
@@ -790,7 +790,7 @@ Voulez vous vraiment quitter cette page?"</string>
      <string name="no_matches">Aucun résultat</string>
      <string name="older">Ancien</string>
      <string name="private_browsing_warning">Cette fonctionnalité n\'est pas supportée par cette version d\'Android.</string>
-     <string name="save_password_message">Voulez-vous le navigateur se rappelle de ce mot de passe ?</string>
+     <string name="save_password_message">Mémoriser le mot de passe ?</string>
      <string name="save_password_never">Jamais</string>
      <string name="save_password_notnow">Pas maintenant</string>
      <string name="save_password_remember">Jamais</string>
@@ -814,8 +814,8 @@ Voulez vous vraiment quitter cette page?"</string>
      <string name="video_fragment_name_offine">Hors-ligne</string>
      <string name="video_group_noupdates_list">Aucune mise à jour</string>
      <string name="video_group_updates_list">Mises à jour</string>
-     <string name="video_push_multi_message">Il y a %1$d MàJ</string>
-     <string name="video_push_multi_title">Il y a des mises à jours</string>
+     <string name="video_push_multi_message">%1$d mises à jour</string>
+     <string name="video_push_multi_title">Mises à jour disponibles</string>
      <string name="video_push_single_message">Mettre à jour vers %1$d</string>
      <string name="webviewchromium_private_browsing_warning">Cette fonctionnalité n\'est pas supportée par cette version d\'Android.</string>
 </resources>

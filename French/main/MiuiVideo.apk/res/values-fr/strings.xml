@@ -56,7 +56,7 @@
 <!-- à remplacer améliorateur ? : -->
   <string name="menu_item_enable_audio_enhance">"Activer l'equalizer"</string>
   <string name="menu_item_disable_audio_enhance">"Désactiver l'equalizer"</string>
-  <string name="vp_select_ci">Sélectionner</string>
+  <string name="vp_select_ci">Sélect.</string>
   <string name="vp_offline">Hors-ligne</string>
   <string name="vp_next_ci">Suivant</string>
   <string name="vp_standard_definition">SD</string>
@@ -225,7 +225,7 @@
   <string name="clarity_high">Haute</string>
   <string name="clarity_standard">Standard</string>
   <string name="vp_device_list">Périphériques</string>
-  <string name="vp_select_function">Paramètres</string>
+  <string name="vp_select_function">Param.</string>
   <string name="vp_media_info">Afficher les détails</string>
   <string name="vp_hide_media_info">Masquer les détails</string>
   <string name="vp_screen_shot">Capture d\'écran</string>

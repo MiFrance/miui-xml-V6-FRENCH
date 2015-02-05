@@ -494,7 +494,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="set_primary_title">Définir comme compte principal</string>
   <string name="set_primary_summary">Utilisé pour les appels sortants</string>
   <string name="advanced_settings">Paramètres facultatifs</string>
-  <string name="auth_username_title">Authentication username</string>
   <string name="auth_username_summary">Nom d\'utilisateur utilisé pour l\'authentification</string>
   <string name="default_preference_summary">&lt;Non défini&gt;</string>
   <string name="display_name_summary">&lt;Identique au nom d\'utilisateur&gt;</string>
@@ -821,22 +820,21 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="msim_not_set_summary">Non défini</string>
   <string name="msim_info_editor_name">Modifier le nom de la SIM</string>
   <string name="msim_info_editor_number">Modifier le n° de la SIM</string>
-	<string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
-	<string name="cfnrc_title_cta">Transférer si injoignable</string>
-	<string name="incall_error_no_active_sim">Aucune carte SIM.</string>
-	<string name="international_roaming_setting">Itinérance depuis l\'étranger</string>
-	<string name="mo_call_type_title">MO Call Type</string>
-	<string name="msim_set_icc_card_error">ICC card error</string>
-	<string name="msim_switch_data_conn_toast">Les paramètres réseau ont été préréglés sur la 4G LTE. Vous pouvez le modifier dans les paramètres de la carte SIM.</string>
-	<string name="msim_switch_data_conn_toast_for_h2xct">L\'emplacement SIM 2 ne supporte que les réseaux GSM. Le mode 2G uniquement à été sélectionné.</string>
-	<string name="network_unlock">Déverouiller</string>
-	<string name="password">Mot de passe</string>
-	<string name="preferred_network_restrict_network_changed_incall">Impossible de changer de réseau mobile pendant un appel</string>
-	<string name="preferred_network_type_pref_entries_4g_preferred_cdma">Préférer la 4G (CDMA)</string>
-	<string name="proxy_address">Addresse du proxy</string>
-	<string name="retry_btn">Réessayer</string>
-	<string name="transport">Protocole</string>
+  <string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
+  <string name="cfnrc_title_cta">Transférer si injoignable</string>
+  <string name="incall_error_no_active_sim">Aucune carte SIM.</string>
+  <string name="international_roaming_setting">Itinérance depuis l\'étranger</string>
+  <string name="msim_switch_data_conn_toast">Les paramètres réseau ont été préréglés sur la 4G LTE. Vous pouvez le modifier dans les paramètres de la carte SIM.</string>
+  <string name="msim_switch_data_conn_toast_for_h2xct">L\'emplacement SIM 2 ne supporte que les réseaux GSM. Le mode 2G uniquement à été sélectionné.</string>
+  <string name="network_unlock">Déverrouiller</string>
+  <string name="preferred_network_restrict_network_changed_incall">Impossible de changer de réseau mobile pendant un appel</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Préférer la 4G (CDMA)</string>
+  <string name="retry_btn">Réessayer</string>
+
 <!-- à traduire -->
+  <string name="auth_username_title">Authentication username</string>
+  <string name="mo_call_type_title">MO Call Type</string>
+  <string name="msim_set_icc_card_error">ICC card error</string>
   <string name="ims_service_capability">Enable/Disable Service Capability</string>
   <string name="ims_service_capability_title">Enable/Disable IMS Service Capability</string>
   <string name="autoip_current_areacode_summary">Area code of your current location</string>
@@ -852,7 +850,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="telocation_error_message_number">%s only supports numbers</string>
   <string name="telocation_jituan_error_message_number">%s only supports numbers and wildcards</string>
   <string name="autoip_areacode_required_for_emergency_number">Local area code required for emergency calls</string>
-
   <string name="msim_setting_screen_title">Sim cards and mobile networks</string>
   <string name="msim_setting_sim_info_editor_title">Edit card infomation</string>
   <string name="msim_setting_operator_network_title">"Operator's network"</string>

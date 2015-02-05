@@ -2,11 +2,6 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="pref_camera_facedetection_title">Détection de visage</string>
-  <string name="effect_setting_top_text">Effets</string>
-  <string name="pref_face_beauty_title">Teint de peau</string>
-  <string name="Import">Importer</string>
-  <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>
   <string name="accessibility_camera_auto_flashmode">Flash automatique</string>
   <string name="accessibility_camera_flash_closemode">Pas de Flash</string>
@@ -22,6 +17,20 @@
   <string name="accessibility_skin_beautify_closed">Rehausseur de teint de peau désactivé</string>
   <string name="accessibility_skin_beautify_opened">Rehausseur de teint de peau activé</string>
   <string name="accessibility_zoom_control">Contrôle du zoom</string>
+  <string name="accessibility_flash_mode_button">Bouton flash</string>
+  <string name="accessibility_hdr">Mode HDR</string>
+  <string name="accessibility_module_picker">ModulePicker</string>
+  <string name="accessibility_panorama_review_cancel">Quitter la vue Panorama</string>
+  <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_skin_beautify_button">Bouton teint de peau</string>
+  <string name="accessibility_video_capture_button">Bouton capture vidéo</string>
+  <string name="accessibility_video_pause_button">Bouton pause vidéo</string>
+  <string name="accessibility_setting_button">Bouton paramètres additionnels</string>
+  <string name="pref_camera_facedetection_title">Détection de visage</string>
+  <string name="effect_setting_top_text">Effets</string>
+  <string name="pref_face_beauty_title">Teint de peau</string>
+  <string name="Import">Importer</string>
+  <string name="access_sd_fail">Impossible d\'accéder à la mémoire de stockage USB.</string>
   <string name="albums">Albums</string>
   <string name="aperture">Ouverture</string>
   <string name="app_details">Détails de l\'application :</string>
@@ -41,7 +50,6 @@
   <string name="confirm_change_mode_title">Changer de mode</string>
   <string name="confirm_change_to_expert_mode_message">Passer en mode professionnel ?</string>
   <string name="confirm_change_to_simple_mode_message">Basculer vers le mode simple ?</string>
-  <string name="confirm_location_message">Enregistrer les coordonnées GPS des photos ?</string>
   <string name="confirm_restore_message">Les réglages de la caméra seront restaurés aux valeurs par défaut.</string>
   <string name="confirm_restore_title">Restaurer les paramètres par défaut</string>
   <string name="connect_wifi">Se connecter à ce réseau Wi-Fi</string>
@@ -491,15 +499,6 @@
   <string name="simple_mode_button_text_manual_mode">Quitter le mode manuel</string>
   <string name="pref_camera_manual_mode_title">Manuel</string>
   <string name="pref_qc_focus_position_title">Focus</string>
-  <string name="confirm_location_title">Enregistrer les infos du lieu</string>
-  <string name="accessibility_flash_mode_button">FlashButton</string>
-  <string name="accessibility_hdr">Mode HDR</string>
-  <string name="accessibility_module_picker">ModulePicker</string>
-  <string name="accessibility_panorama_review_cancel">Quitter la vue Panorama</string>
-  <string name="accessibility_seek_bar_line">SeekBarLine</string>
-  <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
-  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
-  <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Fermer le focus audio</string>
   <string name="pref_audio_focus_entry_front">Avant</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
@@ -524,4 +523,8 @@
   <string name="do_not_save">Ne pas enregistrer</string>
   <string name="pref_audio_indicator_entry_off">Déclench. audio</string>
   <string name="pref_audio_indicator_entry_on">Déclench. audio</string>
+  <string name="start_capture">OK</string>
+  <string name="confirm_location_alert">Enregistrement des coordonnées de localisation</string>
+  <string name="confirm_location_title">Se souvenir du lieu des photos ?</string>
+  <string name="confirm_location_message">"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue."\n\n"D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées."</string>
 </resources>
