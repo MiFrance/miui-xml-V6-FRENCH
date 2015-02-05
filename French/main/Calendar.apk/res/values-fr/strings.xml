@@ -86,7 +86,7 @@
   <string name="edit_event_from_label">De</string>
   <string name="edit_event_label">Infos</string>
   <string name="edit_event_show_all">Tout afficher</string>
-  <string name="edit_event_to_label">À</string>
+  <string name="edit_event_to_label">Jusqu\'à</string>
   <string name="edit_label">Modifier</string>
   <string name="email_guests_label">Envoyer un mail aux invités</string>
   <string name="email_picker_label">Envoyer un mail via</string>

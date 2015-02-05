@@ -714,7 +714,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dndm_auto_setting_group">Planification</string>
   <string name="dndm_auto_time_setting">Paramètres de l\'heure</string>
   <string name="dndm_auto_time_setting_summary">De %1$s à %2$s</string>
-  <string name="dndm_auto_time_turn_off">À</string>
+  <string name="dndm_auto_time_turn_off">Jusqu\'à</string>
   <string name="dndm_auto_time_turn_off_title">Désactiver automatiquement le mode NPD</string>
   <string name="dndm_auto_time_turn_on">De</string>
   <string name="dndm_auto_time_turn_on_title">Activer automatiquement le mode NPD</string>
