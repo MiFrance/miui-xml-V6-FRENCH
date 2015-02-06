@@ -20,7 +20,7 @@
   <string name="adjust_position_prev_media_notice">Précédent</string>
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
   <string name="airkan_device_xiaomi_phone">Mi phone</string>
-  <string name="airkan_tips">"Appuyer pour diffuser sur la tv</string>
+  <string name="airkan_tips">Appuyer pour diffuser sur la TV</string>
   <string name="airkan_video_playing_in">"Vidéo en "</string>
   <string name="app_name">Vidéo</string>
   <string name="buffering">Mise en mémoire tampon…</string>
@@ -81,7 +81,7 @@
   <string name="loading"><CDATA>Chargement…</CDATA></string>
   <string name="play">Lire</string>
   <string name="write_comment">Écrire un commentaire</string>
-  <string name="key_back_down_toast">Appuyez une seconde fois pour quitter</string>
+  <string name="key_back_down_toast">Appuyez une autre fois pour quitter</string>
   <string name="delete">Supprimer</string>
   <string name="login_tip_title">Connectez-vous</string>
   <string name="login_tip_content">Connectez-vous avec votre compte Mi pour synchroniser et mettre à jour les émissions que vous suivez.</string>

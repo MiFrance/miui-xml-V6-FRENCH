@@ -39,7 +39,7 @@
         <item quantity="one">%d appli</item>
      </plurals>
      <plurals name="summary_app_update">
-        <item quantity="other">Mises à jour disponibles pour %d applis.</item>
-        <item quantity="one">Mise à jour disponible pour for %d appli.</item>
+        <item quantity="other">Mises à jour disponibles pour %d applications</item>
+        <item quantity="one">Mise à jour disponible pour %d application</item>
      </plurals>
 </resources> 
