@@ -2691,7 +2691,7 @@ et lancer le logiciel."</string>
   <string name="priority_storage_summary">Veuillez sélectionner l\'emplacement par défaut de stockage des données d\'applications</string>
   <string name="priority_storage_settings_summary">"Si aucune carte SD n\'est détectée, les données seront automatiquement enregistrées dans le stockage interne de l\'appareil"</string>
   <string name="priority_storage_app_settings">Les données d\'applications seront enregistrées sur le %1$s</string>
-  <string name="music_headset_calibrate">Assigner les buttons</string>
+  <string name="music_headset_calibrate">Assigner les boutons</string>
   <string name="music_headset_calibrate_apply">Appliquer</string>
   <string name="music_headset_calibrate_confirm">Appliquer les paramètres ?</string>
   <string name="music_headset_calibrate_hint">Veuillez appuyer sur le bouton supérieur</string>
