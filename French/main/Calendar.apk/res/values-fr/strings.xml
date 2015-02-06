@@ -296,6 +296,10 @@
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeat_end_times_unit">" fois"</string>
+  <string name="anniversary_term">anniversaire</string>
+  <string name="birthday_term">anniversaire</string>
+  <string name="event_info_end">"Fin : "</string>
+  
   <!-- utilisé seulement si telephone en chinois -->
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
   <string name="subscribe_all">全部订阅</string>
@@ -313,8 +317,6 @@
   <string name="add_calendar">订阅</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
   <string name="adding_calendar">订阅中</string>
-  <string name="anniversary_term">anniversaire</string>
-  <string name="birthday_term">birthday</string>
   <string name="button_online">订</string>
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_server_error">服务器错误</string>
@@ -328,7 +330,6 @@
   <string name="delete_topic_success">退订\"%s\"成功</string>
   <string name="deleting_calendar">退订中</string>
   <string name="enter_calendar">进入日历</string>
-  <string name="event_info_end">End\u0009\u0009\u0009</string>
   <string name="exist_calendar">已订阅</string>
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
