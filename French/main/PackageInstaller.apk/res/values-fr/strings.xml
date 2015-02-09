@@ -99,7 +99,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="uninstall_update_title">Désinstaller la mise à jour</string>
   <string name="uninstalling">Désinstallation…</string>
   <string name="unknown">Inconnu</string>
-  <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre téléphone bloque l\'installation d\'applications de sources inconnues."</string>
+  <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre appareil bloque l\'installation d\'applications de sources inconnues."</string>
   <string name="unknown_apps_dlg_title">Installation bloquée</string>
   <string name="unknown_installer">Installateur inconnu</string>
   <string name="virus_scan_clear">Supprimer</string>

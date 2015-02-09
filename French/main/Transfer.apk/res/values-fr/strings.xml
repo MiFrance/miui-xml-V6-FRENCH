@@ -2,7 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="device_edit_title">Renommer le téléphone</string>
+  <string name="device_edit_title">Renommer l\'appareil</string>
   <string name="about_to_receive">Réception</string>
   <string name="about_to_send">Envoyer un fichier</string>
   <string name="app_name">Transfert</string>

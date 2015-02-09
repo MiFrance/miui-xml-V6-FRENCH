@@ -384,7 +384,7 @@
   <string name="set_lockscreen">Application du fond d\'écran…</string>
   <string name="set_recent_album">Définir en tant qu\'album récent</string>
   <string name="set_screensaver_path_message">Cet album s\'affichera 5 secondes après que l\'écran s\'éteigne.</string>
-  <string name="set_screensaver_path_message_if_only_charging">L\'images de cet album apparaîtra sur l\'écran de veille lorsque le téléphone sera en charge.</string>
+  <string name="set_screensaver_path_message_if_only_charging">L\'images de cet album apparaîtra sur l\'écran de veille lorsque l\'appareil sera en charge.</string>
   <string name="set_screensaver_path_title">Diaporama d\'écran de veille</string>
   <string name="set_wallpaper">Application du fond d\'écran…</string>
   <string name="settings">Paramètres</string>
