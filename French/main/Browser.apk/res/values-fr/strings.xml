@@ -793,7 +793,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
      <string name="save_password_message">Mémoriser le mot de passe ?</string>
      <string name="save_password_never">Jamais</string>
      <string name="save_password_notnow">Pas maintenant</string>
-     <string name="save_password_remember">Jamais</string>
+     <string name="save_password_remember">Mémoriser</string>
      <string name="ssl_certificate">Certificat de sécurité</string>
      <string name="ssl_certificate_is_valid">Ce certificat est valide.</string>
      <string name="suggest_access_btn_install">Installer</string>
