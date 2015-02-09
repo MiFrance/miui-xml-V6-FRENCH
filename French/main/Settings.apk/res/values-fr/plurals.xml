@@ -49,7 +49,7 @@
       <item quantity="one">Plus que %1$d étape avant le rapport de bogue.</item>
   </plurals>
   <plurals name="show_pho_countdown">
-      <item quantity="other">Plus que %1$d étapes avant d\'accéder aux informations du téléphone.</item>
-      <item quantity="one">Plus que %1$d étape avant d\'accéder aux informations du téléphone.</item>
+      <item quantity="other">Plus que %1$d étapes avant d\'accéder aux informations de l\'appareil.</item>
+      <item quantity="one">Plus que %1$d étape avant d\'accéder aux informations de l\'appareil.</item>
   </plurals>
 </resources>
