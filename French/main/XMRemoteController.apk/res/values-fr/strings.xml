@@ -42,7 +42,7 @@
   <string name="app_version">Version %1$s</string>
   <string name="application">Apps</string>
   <string name="back">Retour</string>
-  <string name="bedroom">Chambre à coucher</string>
+  <string name="bedroom">Chambre</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Select manufacturer</string>
   <string name="brand_title_all">All</string>
@@ -193,8 +193,8 @@
   <string name="please_enter">"Input field can't be empty"</string>
   <string name="power">Power</string>
   <string name="press_to_match">Appuyer pour démarrer</string>
-  <string name="privacy_content">"By using this product, you're agreeing to our "&lt;u&gt;Privacy Policy&lt;/u&gt; and &lt;u&gt;Terms of Service&lt;/u&gt;. Mi Remote needs to connect to the internet to work normally.</string>
-  <string name="privacy_nohit">"Don't show again"</string>
+  <string name="privacy_content">"By using this product, you're agreeing to our "<u>Privacy Policy</u> and <u>Terms of Service</u>. Mi Remote needs to connect to the internet to work normally.</string>
+  <string name="privacy_nohit">Ne plus afficher</string>
   <string name="privacy_title">Terms and Conditions</string>
   <string name="projection_failed_for_disconnect">Not paired</string>
   <string name="province">Province</string>

@@ -2547,8 +2547,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="account_add">Ajouter</string>
   <string name="apply_now_button_text">Mettre à jour</string>
   <string name="account_list">Tous</string>
-  <string name="dialog_no">Oui</string>
-  <string name="dialog_yes">Non</string>
+  <string name="dialog_no">Non</string>
+  <string name="dialog_yes">Oui</string>
   <string name="cancel_download_buton_text">Annuler</string>
   <string name="check_update">Vérifiez MàJ</string>
   <string name="checking_for_updates">Vérification de la disponibilité de mises à jour…</string>
