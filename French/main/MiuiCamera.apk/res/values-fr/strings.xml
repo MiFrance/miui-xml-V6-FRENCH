@@ -527,4 +527,6 @@
   <string name="confirm_location_alert">Enregistrement des coordonnées de localisation</string>
   <string name="confirm_location_title">Se souvenir du lieu des photos ?</string>
   <string name="confirm_location_message">"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue."\n\n"D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées."</string>
+  <string name="pref_simple_hdr_entry_off">Inactif</string>
+  <string name="pref_simple_hdr_entry_on">Actif</string>
 </resources>

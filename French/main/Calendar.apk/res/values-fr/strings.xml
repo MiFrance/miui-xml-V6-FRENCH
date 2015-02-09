@@ -275,7 +275,7 @@
   <string name="from_google_group_calendar">Calendrier Google</string>
   <string name="repeat_activity_label">Répéter</string>
   <string name="repeat_custom_activity_label">Personnalisé</string>
-  <string name="repeat_custom_prompt">chaque %1$s sur %2$s</string>
+  <string name="repeat_custom_prompt">chaque %1$s le %2$s</string>
   <string name="repeat_custom_prompt_daily">chaque %1$s</string>
   <string name="repeat_custom_prompt_sentence">L\'événement sera répété %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>

@@ -223,4 +223,72 @@
       <item>Arrière-plan transparent noir</item>
       <item>Arrière-plan blanc</item>
   </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Fév</item>
+        <item>Mar</item>
+        <item>Avr</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juil</item>
+        <item>Aout</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Déc</item>
+     </string-array>
+     <string-array name="repeat_choose_week_right">
+        <item>Lundi à vendredi</item>
+        <item>Week-end</item>
+        <item>Tous les jours</item>
+     </string-array>
+     <string-array name="repeat_choose_week_left">
+        <item>1er</item>
+        <item>2e</item>
+        <item>3e</item>
+        <item>4e</item>
+        <item>Dernier</item>
+     </string-array>
+     <string-array name="repeat_choose_weekday">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
+     </string-array>
+     <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+     </string-array>
 </resources>
