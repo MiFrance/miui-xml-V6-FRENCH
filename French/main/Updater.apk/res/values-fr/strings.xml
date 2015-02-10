@@ -190,7 +190,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="space_not_enough_msg">"L'espace disque de votre appareil est insuffisant pour télécharger cette mise à jour."</string>
   <string name="set_installfail_full_msg">"Impossible de mettre à jour actuellement. Touchez \"OK\" pour rapporter l'erreur à nos ingénieurs."</string>
   <string name="set_installfail_msg">Télécharger cette mise à jour via votre connexion mobile augmentera votre consommation de données.</string>
-  <string name="set_installfail_title">Essayez de télécharger à nouveau?</string>
+  <string name="set_installfail_title">Essayez de télécharger à nouveau ?</string>
   <string name="set_installfail_title_full">Echec de la mise à jour</string>
   <string name="set_network_msg">Se connecter à un réseau Wi-Fi pour télécharger cette mise à jour.</string>
   <string name="set_network_title">Connexion au réseau</string>
@@ -198,7 +198,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="no_wifi_msg">"Vous n'êtes plus connecté au Wi-Fi. Continuer ce téléchargement sur votre connexion mobile augmentera votre consommation de données."</string>
   <string name="no_wifi_title">Avertissement d\'utilisation de données</string>
   <string name="install_local">Installer un fichier local</string>
-  <string name="download_again">Télécharger à nouveau</string>
+  <string name="download_again">Retélécharger</string>
   <string name="download_diff">Télécharger le diff</string>
   <string name="download_error">Erreur de téléchargement. Attendez une minute ou deux et essayez à nouveau.</string>
   <string name="download_failed">"Echec du téléchargement"</string>

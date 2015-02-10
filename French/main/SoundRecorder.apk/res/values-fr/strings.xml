@@ -105,10 +105,9 @@
   <string name="error_sdcard_unmounted">Carte SD retirée, veuillez en insérer une</string>
  <string name="error_file_access">"Le fichier n'existe pas ou a été corrompu"</string>
  <string name="no_downloading_file">Aucun téléchargement de fichiers.</string>
-  <string name="wifi_recommended_body" formatted="false">"Lancer le téléchargement de %s maintenant peut réduire la durée de vie de votre batterie, et/ou entraîner une utilisation excessive de vos données mobiles : ceci peut entraîner des frais supplémentaires selon votre forfait de données.
+  <string name="wifi_recommended_body" formatted="false">"Lancer le téléchargement de %s maintenant peut impacter le niveau de charge de votre batterie, et/ou entraîner une consommation excessive de vos données mobiles : ceci peut entraîner des frais supplémentaires selon votre forfait.
 
  Touchez %s pour lancer ce téléchargement lors de votre prochaine connexion à un réseau Wi-Fi."</string>
-  <string name="data_connection_title">Astuce</string>
-  <string name="data_connection_body">"Astuce:
-Sur un réseau mobile, le téléchargement sera plus coûteux."</string>
+  <string name="data_connection_title">Avertissement</string>
+  <string name="data_connection_body">"Sur un réseau mobile, le téléchargement peut entrainer une consommation excessive de données mobiles."</string>
 </resources>

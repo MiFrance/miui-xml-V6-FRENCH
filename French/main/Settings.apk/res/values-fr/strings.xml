@@ -2764,7 +2764,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_unlock_settings_unlock_device">Déverrouiller l\'appareil</string>
   <string name="bluetooth_unlock_settings_devices_title">Périphérique</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Aucun périphérique détecté</string>
-  <string name="bluetooth_unlock_change_matched_device">Sélectionner un autre périf.</string>
+  <string name="bluetooth_unlock_change_matched_device">Sélectionner un autre périphérique</string>
   <string name="bluetooth_unlock_add_device">Ajouter un périphérique</string>
   <string name="bluetooth_unlock_delete_device">Supprimer ce périphérique</string>
   <string name="bluetooth_device_address">Adresse :</string>
