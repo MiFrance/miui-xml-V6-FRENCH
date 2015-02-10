@@ -284,32 +284,6 @@
   <string name="volume">Volume</string>
   <string name="yes">OK</string>
   <string name="guide">Guide</string>
-  
-  <!--
-  <string name="connect_to_retry">未连接网络，请联网后重试</string>
-  <string name="gesture_pad_orietaion_tips">滑动控制上下左右，点击确定</string>
-  <string name="gesture_pad_vol_tips">按下手机音量键调节音量</string>
-  <string name="milink_nowifi">未连接Wifi网络，无法连接设备</string>
-  <string name="no_ir_other_support">所以仅支持无线遥控小米电视/小米盒子</string>
-  <string name="no_ir_support">未检测到红外设备</string>
-  <string name="unkown_device_input_hint">请输入您的设备型号</string>
-  <string name="unkown_device_main">暂时无法匹配您的设备</string>
-  <string name="unkown_device_sub">感谢您反馈设备型号以协助改善设备的匹配</string>
-  <string name="unkown_device_title">缺少设备信息反馈</string>
-  <string name="select_area">选择地区</string>
-  <string name="match_stb_intro_left">发射机顶盒方向左键</string>
-  <string name="match_stb_intro_ok">发射机顶盒确定键</string>
-  <string name="match_stb_intro_up">发射机顶盒方向上键</string>
-  <string name="match_ac_intro_mode">发射空调模式键</string>
-  <string name="match_ac_intro_power">发射空调开关键</string>
-  <string name="match_is_respond">是否有相应？</string>
-  <string name="edit_controller">编辑遥控器</string>
-  <string name="edit_ir_device">遥控器命名</string>
-  <string name="passport_remove_account_notice">帐号退出后，您要如何处理手机上的联系人和便签？</string>
-  <string name="passport_data_keep_in_device">保留在我的手机上</string>
-  <string name="passport_data_wipe_from_device">从手机上删除</string>
-  -->
-  
   <string name="passport_access_denied">Accès refusé</string>
   <string name="passport_account_hint_text">Email ou n° de téléphone</string>
   <string name="passport_account_name">Compte : %1$s</string>
@@ -440,4 +414,29 @@
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>
   <string name="passport_wrong_vcode">Le code saisi est incorrect</string>
   <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes et aux autres services Mi, d\'où que vous soyez.</string>
+  
+  <!--
+  <string name="connect_to_retry">未连接网络，请联网后重试</string>
+  <string name="gesture_pad_orietaion_tips">滑动控制上下左右，点击确定</string>
+  <string name="gesture_pad_vol_tips">按下手机音量键调节音量</string>
+  <string name="milink_nowifi">未连接Wifi网络，无法连接设备</string>
+  <string name="no_ir_other_support">所以仅支持无线遥控小米电视/小米盒子</string>
+  <string name="no_ir_support">未检测到红外设备</string>
+  <string name="unkown_device_input_hint">请输入您的设备型号</string>
+  <string name="unkown_device_main">暂时无法匹配您的设备</string>
+  <string name="unkown_device_sub">感谢您反馈设备型号以协助改善设备的匹配</string>
+  <string name="unkown_device_title">缺少设备信息反馈</string>
+  <string name="select_area">选择地区</string>
+  <string name="match_stb_intro_left">发射机顶盒方向左键</string>
+  <string name="match_stb_intro_ok">发射机顶盒确定键</string>
+  <string name="match_stb_intro_up">发射机顶盒方向上键</string>
+  <string name="match_ac_intro_mode">发射空调模式键</string>
+  <string name="match_ac_intro_power">发射空调开关键</string>
+  <string name="match_is_respond">是否有相应？</string>
+  <string name="edit_controller">编辑遥控器</string>
+  <string name="edit_ir_device">遥控器命名</string>
+  <string name="passport_remove_account_notice">帐号退出后，您要如何处理手机上的联系人和便签？</string>
+  <string name="passport_data_keep_in_device">保留在我的手机上</string>
+  <string name="passport_data_wipe_from_device">从手机上删除</string>
+  -->
 </resources>

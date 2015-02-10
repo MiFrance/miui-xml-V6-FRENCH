@@ -1467,7 +1467,7 @@ Tentatives restantes :"</string>
 <string name="global_actions_miracast_mode_cancel_connection_status">Annuler la connexion</string>
 <string name="global_actions_miracast_mode_off_status_many_paired">Connexion au dispositif précédent</string>
 <string name="global_actions_miracast_mode_off_status_no_paired">Connexion au dispositif</string>
-<string name="global_actions_miracast_mode_off_status_single_paired">&quot;Connexion à &quot;</string>
+<string name="global_actions_miracast_mode_off_status_single_paired">"Connexion à "</string>
 <string name="global_actions_miracast_mode_on_status">Arrêter la diffusion</string>
 <string name="global_actions_miracast_mode_pc2thor_on_status">Indisponible car un ordinateur est déjà en train en diffuser sur ce dispositif.</string>
 <string name="global_actions_miracast_mode_wifi_off_status">Indisponible car le Wi-Fi est désactivé.</string>
