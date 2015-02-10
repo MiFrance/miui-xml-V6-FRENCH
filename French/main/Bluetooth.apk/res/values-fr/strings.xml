@@ -160,15 +160,13 @@
   <string name="mi_key_take_photo">Prendre une photo</string>
   <string name="progress_scanning">Recherche…</string>
   <string name="ble_device_unbind">Effacer les paramètres</string>
-  
-<!-- à traduire - Mediatek ?! --> 
-  <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
-  <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
-  <string name="notify_need_on_BT_before_retry">Bluetooth is Off. Please enable Bluetooth before retry sending</string>
-  <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering disconnected</string>
-  <string name="panu_no_need_connect">Unable to use Bluetooth tethering while connected to WLAN</string>
-  <string name="sim_selected_dialog_title">Select SIM</string>
-  <string name="suggested">Suggested</string>
-  <string name="too_much_file_sent">Maximum %1$s files one time</string>
-  <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
+  <string name="airplane_can_not_share">"Le Bluetooth n'est pas disponible en mode Avion"</string>
+  <string name="bluetooth_in_airplane_mode">Mode Avion actif</string>
+  <string name="notify_need_on_BT_before_retry">Le Bluetooth est inactif. Veuillez l\'activer avant d\'essayer un nouvel envoi</string>
+  <string name="panu_disconnect_while_wifi_connected">Partage Bluetooth déconnecté</string>
+  <string name="panu_no_need_connect">Impossible d\'utiliser le partage Bluetooth en étant connecté au Wi-Fi</string>
+  <string name="sim_selected_dialog_title">Choisir SIM</string>
+  <string name="suggested">Suggéré(s)</string>
+  <string name="too_much_file_sent">%1$s fichiers max à la fois</string>
+  <string name="upload_fail_waiting">L\'envoi de fichier(s) est en préparation, la transmission sera effectuée automatiquement par la suite</string>
 </resources>

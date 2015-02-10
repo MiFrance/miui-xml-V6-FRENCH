@@ -86,7 +86,5 @@
   <string name="activate_popup_title_upload_diagnosis_info">"Impossible d'activer la carte SIM"</string>
   <string name="sync_notification_title_format">Synchronisation de : %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-
-<!-- à traduire, affichée ? -->
-  <string name="xmsf_activate_info">XMSF activate info</string>
+  <string name="xmsf_activate_info">Info d\'activation XMSF</string>
 </resources>
