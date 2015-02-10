@@ -250,13 +250,13 @@
         <item>Dernier</item>
      </string-array>
      <string-array name="repeat_choose_weekday">
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mer</item>
-        <item>Jeu</item>
-        <item>Ven</item>
-        <item>Sam</item>
-        <item>Dim</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
      </string-array>
      <string-array name="repeat_choose_day">
         <item>1</item>
@@ -290,5 +290,17 @@
         <item>29</item>
         <item>30</item>
         <item>31</item>
+     </string-array>
+     <string-array name="repeat_frequency_spinner">
+        <item>jour</item>
+        <item>semaine</item>
+        <item>mois</item>
+        <item>année</item>
+     </string-array>
+ <!-- à traduire -->
+     <string-array name="repeat_choose_end">
+        <item>Jamais</item>
+        <item>Time</item>
+        <item>Count</item>
      </string-array>
 </resources>

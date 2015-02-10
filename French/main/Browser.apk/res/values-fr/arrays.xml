@@ -116,7 +116,7 @@
       <item>google</item>
       <item>yahoo</item>
       <item>bing</item>
-     </string-array>   
+     </string-array>
     <string-array name="pref_text_zoom_choices">
       <item>Minuscule</item>
       <item>Petit</item>

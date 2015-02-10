@@ -851,7 +851,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="flow_saved_dlg_i_know">OK</string>
   <string name="flow_saved_dlg_message">%1$d nouveaux messages. %2$s économisés (données mobiles).</string>
   <string name="flow_saved_dlg_title">Réduction de votre consommation de données</string>
-  <string name="flow_saved_preference_total"> %1$s économisés.</string>
+  <string name="flow_saved_preference_total">%1$s économisés.</string>
   <string name="head_only_enable_dialog_message">Seul l\'en-tête (au lieu du message complet) sera téléchargé.</string>
   <string name="head_only_enable_dialog_nagative">Rejeter</string>
   <string name="head_only_enable_dialog_positive">Accepter</string>

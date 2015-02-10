@@ -231,7 +231,7 @@
   <string name="please_download_first">Veuillez télécharger la chanson afin de pouvoir la définir comme sonnerie</string>
   <string name="song_not_find">"Impossible d\'obtenir un résultat. Vérifiez votre connexion et réessayez."</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">"Votre période d'essai ou abonnement a expiré. Veuillez sélectionner une autre qualité de téléchargement."</string>
-  <string name="order_process_fail">"Erreur d\'authentification. Veuillez patienter quelques minutes et réessayer."</string>  
+  <string name="order_process_fail">"Erreur d\'authentification. Veuillez patienter quelques minutes et réessayer."</string>
   <string name="period_format">%1$s-%2$s</string>
   <string name="action_item_hide">Masquer</string>
   <string name="album_name">Album</string>

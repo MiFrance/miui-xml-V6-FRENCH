@@ -207,7 +207,7 @@ d MMMM yyyy"</string>
   <string name="audio_effect_custom">Configurer</string>
   <string name="audio_effect_info">Optimiser l\'audio</string>
   <string name="audio_effect_settings">Définir le type d\'écouteurs</string>
-  <string name="battery_profiles">Utiliser les profils de batterie</string>
+  <string name="battery_profiles">Profils de batterie</string>
   <string name="oldman_airplane_mode_text">mode avion</string>
   <string name="oldman_incall_text">en appel</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>

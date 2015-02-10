@@ -268,7 +268,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="today_used_traffic">Auj. : %s</string>
   <string name="remained_traffic">Restant : %s</string>
   <string name="total_over_flow">Dépassé : %s</string>
-  <string name="pkg_total_traffic">Quota mensuel : %s</string>  
+  <string name="pkg_total_traffic">Quota mensuel : %s</string>
   <string name="datausage_ignore_app_list_count">"%d applis ignorées"</string>
   <string name="pref_data_usage_ignore_settings">Ignorer l\'utilisation des données</string>
   <string name="pref_data_usage_ignore_settings_summary">"Ne pas prendre un compte les données utilisées par les applis sélectionnées"</string>

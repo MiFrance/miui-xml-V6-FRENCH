@@ -45,7 +45,7 @@
   <string name="ime_privacy_policy_no_network">"Pas de connexion à internet. Consultez la politique de confidentialité pour ce clavier sur %s."</string>
   <string name="network_access_warning">Connexion réseau requise pour activer ce périphérique</string>
   <string name="miui_privacy_policy_no_network">Pas de connexion réseau. Consultez la politique de confidentialité sur %s</string>
-  <string name="miui_terms_no_network">Pas de connexion réseau. Consultez les termes du service sur %s</string>  
+  <string name="miui_terms_no_network">Pas de connexion réseau. Consultez les termes du service sur %s</string>
   <string name="install_preinstall_app">Chargement…</string>
   <string name="page_layout_label">Ajustez la taille du texte et la mise en place pour votre écran d\'accueil, menu de notifications, clavier numérique, et plus.</string>
   <string name="page_layout_title">Mise en place système</string>

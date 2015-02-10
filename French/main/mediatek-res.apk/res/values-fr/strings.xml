@@ -166,7 +166,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="drm_forwardforbidden_message">Certains fichiers protégés ne peuvent pas être transmis.</string>
   <string name="drm_license_install_success">Installation de la licence DRM réussi.</string>
   <string name="drm_license_install_fail">Échec de l\'installation de la licence DRM.</string>
-  <string name="drm_secure_timer_title">Secure clock DRM non valide</string>
+  <string name="drm_secure_timer_title">Horloge sécurisée DRM non valide.</string>
   <string name="drm_secure_timer_message">Vous ne pouvez pas utiliser les fichiers protégés par DRM. Assurez-vous que la connexion de données est disponible.</string>
   <string name="drm_consume_title">Utiliser les droits DRM</string>
   <string name="drm_consume_message">Votre action va utiliser des droits DRM.</string>
@@ -252,7 +252,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="sdcard_select_default_path">"Souhaitez-vous changer le disque d'écriture par défaut ?"</string>
   <string name="sdcard_default_path_change">"Le stockage du téléphone deviendra le disque d'écriture par défaut."</string>
   <string name="wifi_display_wfd_off_hdmi_on">"L'affichage sans-fil sera désactivé lorsque vous activerez la fonction HDMI. Continuer ?"</string>
-  <string name="wifi_display_bt_hdmi_off_wfd_on">"Les fonctions Bluetooth et HDMI seront désactivées lorsque vous activerez l'affichage sans-fil. Continuer ?"</string> 
+  <string name="wifi_display_bt_hdmi_off_wfd_on">"Les fonctions Bluetooth et HDMI seront désactivées lorsque vous activerez l'affichage sans-fil. Continuer ?"</string>
   <string name="simlock_slot_locked_message">"Le slot a été définitivement verrouillée."</string>
   <string name="simlock_entersimmelock">"Saisissez verrouillage SIM ME"</string>
   <string name="lockscreen_missing_sim_dialog_message">"La carte SIM est déconnectée. Veuillez vous assurer que votre carte SIM est correctement connectée."</string>

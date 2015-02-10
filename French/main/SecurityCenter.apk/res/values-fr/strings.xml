@@ -76,8 +76,8 @@
   <string name="power_mode_screen_brightness_manual">Manuel : %1$d%%</string>
   <string name="power_mode_screen_brightness_automatic">Automatique : %1$d%%</string>
   <string name="power_mode_sleep">Veille</string>
-  <string name="power_mode_sleep_in_seconds">après %1$d secondes d\'inactivité</string>
-  <string name="power_mode_sleep_in_minutes">après %1$d minutes d\'inactivité</string>
+  <string name="power_mode_sleep_in_seconds">Après %1$d secondes d\'inactivité</string>
+  <string name="power_mode_sleep_in_minutes">Après %1$d minutes d\'inactivité</string>
   <string name="power_mode_sleep_never">Jamais</string>
   <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_mode_internet">2G/3G</string>
@@ -153,7 +153,7 @@
   <string name="power_save_on_time_goout_title">Restaurer vers</string>
   <string name="power_save_choose_recovery_mode">Sélectionnez un profil</string>
   <string name="power_new_choose_mode">Sélectionnez un profil</string>
-  <string name="power_save_low_battery_option_recovery_title">Si le niveau de charge remonte, basculer vers</string>
+  <string name="power_save_low_battery_option_recovery_title">Si le niveau remonte, basculer vers</string>
   <string name="power_save_on_time_option_recovery_title">Si l\'heure planifiée est atteinte, basculer vers</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Suppression impossible,
 Votre appareil est configuré pour basculer sur ce profil quand le niveau de charge de la batterie remonte. Vous devez modifier vos paramètres de batterie avant de pouvoir supprimer cette configuration."</string>
@@ -616,9 +616,9 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="menu_item_app_permissions_control">Gestionnaire de permissions</string>
   <string name="power_center_auto_shutdown">Planifier les allumages/extinctions</string>
   <string name="power_center_auto_shutdown_summary">Allumer ou éteindre votre appareil à des périodes prédéfinies</string>
-  <string name="power_center_ontime_boot">Allumer à</string>
+  <string name="power_center_ontime_boot">Allumage automatique</string>
   <string name="power_center_time_to_boot">Allumer à</string>
-  <string name="power_center_ontime_shutdown">Éteindre à</string>
+  <string name="power_center_ontime_shutdown">Extinction automatique</string>
   <string name="power_center_time_to_shutdown">Éteindre à</string>
   <string name="SMS_and_MMS">SMS et MMS</string>
   <string name="auto_clean_switch_off">Désactivé</string>

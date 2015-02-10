@@ -60,7 +60,7 @@
   <string name="commit_done">Soumis avec succès</string>
   <string name="commit_thanks">Merci pour votre commentaire</string>
   <string name="confirm">OK</string>
-  <string name="confirm_on">Confirmer</string>
+  <string name="confirm_on">OK</string>
   <string name="connected">Connecté</string>
   <string name="continue_to_add_other_rc">Pair more devices</string>
   <string name="control_vol_by_cellphone">Use device to control volume</string>
@@ -184,7 +184,7 @@
   <string name="place_frame">"Localisation : "</string>
   <string name="please_enter">"Input field can't be empty"</string>
   <string name="power">Power</string>
-  <string name="press_to_match">Appuyer/npour tester</string>
+  <string name="press_to_match">Tester</string>
   <string name="privacy_content">"By using this product, you're agreeing to our "<u>Privacy Policy</u> and <u>Terms of Service</u>. Mi Remote needs to connect to the internet to work normally.</string>
   <string name="privacy_nohit">Ne plus afficher</string>
   <string name="privacy_title">Terms and Conditions</string>

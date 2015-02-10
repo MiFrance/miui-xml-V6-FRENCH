@@ -533,7 +533,7 @@
   <string name="confirm_dlg__msg">Remarque CMCC: Le service d\'envoi gratuit CMCC ne sera pas fourni si vous annulez. Etes-vous sûr ?</string>
   <string name="send_message_notification_tickerText">Demande d\'autorisation pour la gestion de l\'appareil</string>
   <string name="send_message_notification_title">Gestion de l\'appareil</string>
-  <string name="send_message_notification_msg">Demande d\'autorisation pour l\'envoi d\'un message pour le service</string>  
+  <string name="send_message_notification_msg">Demande d\'autorisation pour l\'envoi d\'un message pour le service</string>
   <string name="audio_download_failed">"Impossible de télécharger l\'enregistrement"</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="cannot_resend_audio">"Impossible d\'envoyer l\'enregistrement"</string>
