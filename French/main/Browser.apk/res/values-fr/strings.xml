@@ -786,7 +786,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
      <string name="media_error_source">Erreur de source de la vidéo</string>
      <string name="media_error_timeout">Délai d\'attente dépassé</string>
      <string name="media_error_video_not_exist">La vidéo n\'existe pas</string>
-     <string name="miui_content_open_url">Ouvrir URL</string>
+     <string name="miui_content_open_url">Ouvrir l\'URL</string>
      <string name="no_matches">Aucun résultat</string>
      <string name="older">Ancien</string>
      <string name="private_browsing_warning">Cette fonctionnalité n\'est pas supportée par cette version d\'Android.</string>
