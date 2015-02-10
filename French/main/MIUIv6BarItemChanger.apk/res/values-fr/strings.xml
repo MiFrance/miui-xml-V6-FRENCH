@@ -40,10 +40,11 @@
 2. Appuyez sur \"Sauvegarder\".
 3. Profitez !"</string>
   <string name="howtouse_text1">Utilisez \"Réinitialiser\" pour annuler les modifications.</string>
-<!-- à traduire Zzzzzzz -->
+  <string name="about_name">MIUIv6 Gestionnaire de commutateurs 1.1</string>
+  
+<!-- à traduire --> 
   <string name="err_get_data">Database reading error</string>
   <string name="err_init_settings">Error while getting current setting</string>
   <string name="err_reset">Error while reset settings</string>
   <string name="err_saving">Error while saving settings</string>
-  <string name="about_name">MIUIv6 Gestionnaire de commutateurs 1.1</string>
 </resources>

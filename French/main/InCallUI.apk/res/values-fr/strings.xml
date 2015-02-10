@@ -951,7 +951,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le n° de téléphone</string>
 
-<!-- à traduire MEDIATEK -->
+<!-- à traduire MEDIATEK --> 
   <string name="volte_add_conference_member_title">Add to conference</string>
   <string name="volte_call_waiting_indication_text">The other side is in call, please wait...</string>
   <string name="network_type">Network type</string>
@@ -974,7 +974,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="add_member_msg">Type number or name</string>
   <string name="minutereminder_summary">Remind at 50s of every minute</string>
 
-<!-- à traduire -->
+<!-- à traduire --> 
   <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
   <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>

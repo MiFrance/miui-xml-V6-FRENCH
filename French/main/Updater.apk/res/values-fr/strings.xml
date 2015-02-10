@@ -186,7 +186,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="validate_pkg_failed_msg">Le fichier semble corrompu. Veuillez le télécharger à nouveau.</string>
   <string name="validate_pkg_failed_title">Impossible de valider la mise à jour</string>
   <string name="update_downfull_no_info_title">Téléchargement impossible</string>
-<!-- à traduire -->
+<!-- à traduire --> 
   <string name="update_downfull_no_info_sum">Unable to download,please check Update button.</string>
   <string name="space_not_enough_msg">"There's not enough storage space on your device to download this update."</string>
   <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>

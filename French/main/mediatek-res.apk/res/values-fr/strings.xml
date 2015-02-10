@@ -267,7 +267,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wifi_display_change_resolution_reminder">Après un changement de résolution, l\'affichage sans fil se reconnectera automatiquement.</string>
   
 
- <!-- à traduire . affiché ??!! -->
+ <!-- à traduire --> 
   <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
   <string name="msensor_toast_text">Compass interference. Wave the phone in figure 8 motion to re-calibrate the compass.</string>
   <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>

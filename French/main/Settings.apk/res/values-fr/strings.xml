@@ -2909,7 +2909,7 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
   <string name="local_auto_backup_off">Inactif</string>
   <string name="local_auto_backup_on">Actif</string>
   
-<!-- à traduire -->
+<!-- à traduire --> 
   <string name="page_layout_1">Sun 28/12</string>
   <string name="page_layout_10">Settings</string>
   <string name="page_layout_11">Weather</string>

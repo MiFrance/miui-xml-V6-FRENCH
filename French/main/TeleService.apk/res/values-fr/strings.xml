@@ -1217,7 +1217,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="wild_prompt_str">Remplacer le caractère générique par</string>
   <string name="carrier_settings_title">Paramètres opérateur</string>
   
-<!-- à traduire MEDIATEK-->
+<!-- à traduire MEDIATEK--> 
   <string name="uplmn_numeric_is_empty">Enter a network ID</string>
   <string name="sum_search_femtocell_networks">Select femtocell manually</string>
   <string name="sim_cards_network_mode_changed_title">New SIM card detected</string>
@@ -1244,7 +1244,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="callFailed_simError_cdma">No UIM/SIM, or UIM/SIM error</string>
   <string name="minutereminder_summary">Remind at 50s of every minute</string>
 
-<!-- à traduire base cancro-->
+<!-- à traduire base cancro--> 
   <string name="auth_username_title">Authentication username</string>
   <string name="mo_call_type_title">MO Call Type</string>
   <string name="msim_set_icc_card_error">ICC card error</string>

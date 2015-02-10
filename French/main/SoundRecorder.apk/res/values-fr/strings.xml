@@ -105,7 +105,7 @@
   <string name="error_sdcard_unmounted">Carte SD retirée, veuillez en insérer une</string>
  <string name="error_file_access">"Le fichier n'existe pas ou a été corrompu"</string>
  <string name="no_downloading_file">Aucun téléchargement de fichiers.</string>
-<!-- à traduire  -->
+<!-- à traduire --> 
   <string name="wifi_recommended_body" formatted="false">"Starting this %s  download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
 
  Touch %s to start this download the next time that you're connected to a WLAN network."</string>
