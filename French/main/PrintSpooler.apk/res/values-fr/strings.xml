@@ -57,10 +57,8 @@
   <string name="reason_unknown">inconnue</string>
   <string name="printer_unavailable">%1$s – indisponible</string>
   <string name="print_error_default_message">Impossible de générer la tâche d\'impression.</string>
-<!-- à traduire
-  <string name="permlab_accessAllPrintJobs">access all print jobs</string>
-  <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
-  <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
-  <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
- -->
+  <string name="permlab_accessAllPrintJobs">Tous les travaux</string>
+  <string name="permdesc_accessAllPrintJobs">Autorise le propriétaire à accéder aux travaux créés par une autre appli. Ne devrait jamais être demandé par les applis classiques.</string>
+  <string name="permlab_startPrintServiceConfigActivity">démarrer les activités de configuration du service d\'impression</string>
+  <string name="permdesc_startPrintServiceConfigActivity">Autorise le propriétaire à démarrer les activités de configuration. Ne devrait jamais être demandé par les applis classiques.</string>
 </resources>

@@ -265,26 +265,23 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="wifi_display_unstable_suggestion">La connexion n\'est pas stable, essayez de vous rapprocher de votre dispositif d\'affichage.</string>
   <string name="wifi_display_sound_path_reminder">Le son multimédia de votre téléphone sera désactivé.</string>
   <string name="wifi_display_change_resolution_reminder">Après un changement de résolution, l\'affichage sans fil se reconnectera automatiquement.</string>
-  
-
- <!-- à traduire --> 
-  <string name="calibration_data">No calibration yet. Please download calibration data! Otherwise the device may not camp on network.[MTK Internal User]</string>
-  <string name="msensor_toast_text">Compass interference. Wave the phone in figure 8 motion to re-calibrate the compass.</string>
-  <string name="recip_unsupport_operator">RecipientsView does not support character operations, please use toolbar to operate recipients.</string>
-  <string name="recip_unsupport_selection">Sorry, you can not move the caret to the start when there are recipients in RecipientsView.</string>
-  <string name="tethered_notification_message_bandwidth_set">Bandwidth is set</string>
-  <string name="aerr_application_lowstorage">Internal storage is running out, the application has been stopped. Please free up some space and try again.</string>
-  <string name="aerr_process_lowstorage">Internal storage is running out, the process has been stopped. Please free up some space and try again.</string>
-  <string name="close">close application</string>
-  <string name="deleteMails">Delete Mails</string>
-  <string name="data_conn_only">Data connection only</string>
-  <string name="drag">drag application window size</string>
-  <string name="gallery_camera_mutex">Cannot use Gallery,Camera or Video Player at the same time</string>
-  <string name="hdmi_hdvideo_toast">HDMI cannot play the 4K video, connection will be interrupted.</string>
-  <string name="logo">application logo icon</string>
-  <string name="low_internal_storage_view_title">Internal storage running out</string>
-  <string name="low_storage_warning_message">Please free up some space, or some applications and system functions may not work well.</string>
-  <string name="maximum">maximum application</string>
-  <string name="minimize">minimize application</string>
-  <string name="mw_max_size_string">Maximum %d floating windows</string>
+  <string name="calibration_data">Pas de calibrage. Veuillez télécharger les données de calibrage! Sans quoi l\'appareil peut ne pas rester sur le réseau.[utilisateur interne MTK]</string>
+  <string name="msensor_toast_text">Interférences sur la boussole. Dessinez un 8 avec le téléphone pour la re-calibrer.</string>
+  <string name="recip_unsupport_operator">La vue destinataires n\'autorise pas les modifications de caractères, veuillez utiliser la barre d\'outil pour modifier les destinataires.</string>
+  <string name="recip_unsupport_selection">Désolé, vous ne pouvez replacer le curseur au début si la vue contient déjà des destinataires.</string>
+  <string name="tethered_notification_message_bandwidth_set">Bande-passante définie</string>
+  <string name="aerr_application_lowstorage">Le stockage interne est saturé, l\'application a été arrêtée. Veuillez libérer de l\'espace et essayez à nouveau.</string>
+  <string name="aerr_process_lowstorage">Le stockage interne est saturé, le processus a été arrêté. Veuillez libérer de l\'espace et essayez à nouveau.</string>
+  <string name="close">fermer l\'application</string>
+  <string name="deleteMails">Supprimer les mails</string>
+  <string name="data_conn_only">Données uniquement</string>
+  <string name="drag">glisser taille fenêtre de l\'application</string>
+  <string name="gallery_camera_mutex">Impossible d\'utiliser Galerie, Appareil Photo et Lecteur Vidéo simultanément</string>
+  <string name="hdmi_hdvideo_toast">HDMI ne peut lire les vidéos 4K, la connexion va être interrompue.</string>
+  <string name="logo">icône logo de l\'application</string>
+  <string name="low_internal_storage_view_title">Saturation du stockage interne</string>
+  <string name="low_storage_warning_message">Veuillez libérer de l\'espace, car certaines applis et fonctions systèmes risquent de mal fonctionner.</string>
+  <string name="maximum">maximiser l\'application</string>
+  <string name="minimize">minimiser l\'application</string>
+  <string name="mw_max_size_string">Max %d fenêtre(s) flottante(s)</string>
 </resources>

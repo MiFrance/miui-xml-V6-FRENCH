@@ -265,18 +265,16 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="sync_resend_sms_dspt_provision">" Si vous changez vos cartes SIM, votre opérateur peut potentiellement vous facturer un SMS pour la réactivation du service."</string>
   <string name="user_agreement_title">"Conditions d\'utilisation Mi Cloud"</string>
  <string name="find_device_dspt_provision_4">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver cette fonctionnalité.</string>
- 
- <!-- à traduire éventuellement -->
-  <string name="share_cancel">Share canceled</string>
-  <string name="share_failed">"Couldn't share"</string>
-  <string name="share_miliao_not_installed">MiTalk is not installed.</string>
-  <string name="share_success">Share successful</string>
-  <string name="share_weibo_not_installed">Weibo is not installed.</string>
-  <string name="share_weixin_not_installed">Wechat is not installed.</string>
-  <string name="sina_share_fail">Failed to send</string>
-  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
-  <string name="sina_share_pendding">Sending…</string>
-  <string name="sina_share_success">Sent</string>
-  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
-  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="share_cancel">Partage annulé</string>
+  <string name="share_failed">"Impossible de partager"</string>
+  <string name="share_miliao_not_installed">MiTalk n\'est pas installé.</string>
+  <string name="share_success">Partage effectué</string>
+  <string name="share_weibo_not_installed">Weibo n\'est pas installé.</string>
+  <string name="share_weixin_not_installed">Wechat n\'est pas installé.</string>
+  <string name="sina_share_fail">Echec de l\'envoi</string>
+  <string name="sina_share_fail_content_repeat">"Impossible de partager, le contenu existe déjà…"</string>
+  <string name="sina_share_pendding">Envoi…</string>
+  <string name="sina_share_success">Envoyé</string>
+  <string name="sina_token_expired_warning">Le compte Weibo a expiré: veuillez vous reconnecter</string>
+  <string name="sina_token_invalid_warning">Le compte Weibo est invalide: veuillez vous reconnecter</string>
 </resources>

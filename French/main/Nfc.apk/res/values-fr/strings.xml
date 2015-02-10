@@ -47,12 +47,10 @@
   <string name="pair_yes">Oui</string>
   <string name="pair_no">Non</string>
   <string name="pay_with">Payer avec</string>
-
-<!-- à traduire -->
-  <string name="tap_again_to_pay">Tap again to pay with %1$s</string>
-  <string name="tap_again_to_complete">Tap again to complete with %1$s</string>
-  <string name="transaction_failure">"This transaction couldn't be completed with %1$s."</string>
-  <string name="could_not_use_app">"Couldn't use %1$s."</string>
-  <string name="complete_with">Complete with</string>
-  <string name="default_pay_app_removed">Your preferred service for tap &amp; pay was removed. Choose another?</string>
+  <string name="tap_again_to_pay">Posez à nouveau pour payer avec %1$s</string>
+  <string name="tap_again_to_complete">Posez à nouveau pour terminer avec %1$s</string>
+  <string name="transaction_failure">"La transaction avec %1$s n'a pu être effectuée.."</string>
+  <string name="could_not_use_app">"Echec d'utilisation de %1$s."</string>
+  <string name="complete_with">Terminer avec</string>
+  <string name="default_pay_app_removed">Votre service de paiement par contact a été supprimé. En choisir un autre?</string>
 </resources>

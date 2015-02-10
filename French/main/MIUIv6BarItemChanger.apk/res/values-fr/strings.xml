@@ -41,10 +41,8 @@
 3. Profitez !"</string>
   <string name="howtouse_text1">Utilisez \"Réinitialiser\" pour annuler les modifications.</string>
   <string name="about_name">MIUIv6 Gestionnaire de commutateurs 1.1</string>
-  
-<!-- à traduire --> 
-  <string name="err_get_data">Database reading error</string>
-  <string name="err_init_settings">Error while getting current setting</string>
-  <string name="err_reset">Error while reset settings</string>
-  <string name="err_saving">Error while saving settings</string>
+  <string name="err_get_data">Erreur de lecture de la base de données</string>
+  <string name="err_init_settings">Erreur de récupération des paramètres courants</string>
+  <string name="err_reset">Erreur lors de la réinitialisation des paramètres</string>
+  <string name="err_saving">Erreur lors de la sauvegarde des paramètres</string>
 </resources>

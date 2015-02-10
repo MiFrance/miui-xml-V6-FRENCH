@@ -950,32 +950,28 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="done">Retour</string>
   <string name="copy_email">Copier l\'adresse mail</string>
   <string name="copy_number">Copier le n° de téléphone</string>
-
-<!-- à traduire MEDIATEK --> 
-  <string name="volte_add_conference_member_title">Add to conference</string>
-  <string name="volte_call_waiting_indication_text">The other side is in call, please wait...</string>
-  <string name="network_type">Network type</string>
+  <string name="volte_add_conference_member_title">Ajouter à la conférence</string>
+  <string name="volte_call_waiting_indication_text">Le correspondant est en communication, veuillez patienter...</string>
+  <string name="network_type">Type du réseau</string>
   <string name="network_type_2g">2G</string>
   <string name="network_type_3g">3G</string>
   <string name="network_type_4g">4G</string>
-  <string name="memberStatus">Status</string>
-  <string name="end_call_because_can_not_hold">"End current call, because it can't be hold."</string>
-  <string name="confirm_save_info_saved_to">The recording has been saved to</string>
-  <string name="cipher_indication_notification_message">Voice encryption is switched off by network</string>
-  <string name="cipher_indication_notification_title">No voice encryption</string>
-  <string name="conference_member_add_fail">Failed to add %s .</string>
-  <string name="conference_member_adding">Adding %s ...</string>
-  <string name="conference_member_join">%s joined the conference.</string>
-  <string name="conference_member_leave">%s left the conference.</string>
-  <string name="callFailed_simError_cdma">No UIM/SIM, or UIM/SIM error</string>
-  <string name="card_title_incoming_conference">Conference invitation</string>
-  <string name="addConferenceMemeberText">Add member</string>
-  <string name="add_conference_member_limit">Can only add one number at a time.</string>
-  <string name="add_member_msg">Type number or name</string>
-  <string name="minutereminder_summary">Remind at 50s of every minute</string>
-
-<!-- à traduire --> 
-  <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
+  <string name="memberStatus">Etat</string>
+  <string name="end_call_because_can_not_hold">"Terminer l'appel courant, car il ne peut être mis en attente."</string>
+  <string name="confirm_save_info_saved_to">L\'enregistrement a été sauvegardé dans</string>
+  <string name="cipher_indication_notification_message">Le cryptage de voix est désactivé par ce réseau</string>
+  <string name="cipher_indication_notification_title">Pas de cryptage de voix</string>
+  <string name="conference_member_add_fail">Echec d\'ajout de %s .</string>
+  <string name="conference_member_adding">Ajout de %s ...</string>
+  <string name="conference_member_join">%s a rejoint la conférence.</string>
+  <string name="conference_member_leave">%s a quitté la conférence.</string>
+  <string name="callFailed_simError_cdma">Pas de UIM/SIM, ou erreur UIM/SIM</string>
+  <string name="card_title_incoming_conference">Invitation pour une conférence</string>
+  <string name="addConferenceMemeberText">Ajouter un participant</string>
+  <string name="add_conference_member_limit">Ajoutez un numéro à la fois.</string>
+  <string name="add_member_msg">Entrez un numéro ou un nom</string>
+  <string name="minutereminder_summary">Rappeler à 50s chaque minute</string>
+  <string name="fraud_call_waring">Attention: Vous devez toujours vérifier l\'identité du contact par téléphone ou vidéo, avant de répondre à des messages impliquant vos données personnelles.</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
+  <string name="online_check_warning_info_by_cmb">"Toujours vérifier l'identité de votre correspondant par téléphone ou vidéo, avant de répondre à des messages impliquant vos données financières."</string>
 </resources>

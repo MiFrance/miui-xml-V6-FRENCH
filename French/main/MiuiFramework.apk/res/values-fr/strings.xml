@@ -100,8 +100,7 @@
   <string name="softap_notifif_summary">Clients : %d</string>
   <string name="screen_paper_mode_enter_toast">Le mode lecture est actif. Vous pouvez paramétrer cette fonction à tout moment dans Paramètres additionnels &gt; Mode lecture.</string>
   <string name="status_bar_toggle_paper_mode">Mode lecture</string>
-<!-- à traduire --> 
-  <string name="first_back_long_press_message">"Long pressing Back will kill the current process and its background services. 
+  <string name="first_back_long_press_message">"L'appui long sur Retour tuera le processus courant et ses services en arrière-plan. 
 
-To enable this function, go to Settings > System > Buttons"</string>
+    Pour activer cette fonction, allez dans Paramètres > Système > Touches"</string>
 </resources>

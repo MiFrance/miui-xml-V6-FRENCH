@@ -586,15 +586,12 @@
   <string name="sdcard_root">Répertoire racine de la carte SD</string>
   <string name="select_auto_upload_albums">Sélectionnez les albums à transférer</string>
   <string name="sync_third_party_app_pic_summary">Transférer les photos d\'applications tierces sur votre Cloud automatiquement</string>
-  
- <!-- à traduire -->
-  <string name="internal_sdcard_root">Internal SD card root directory</string>
-  
+  <string name="internal_sdcard_root">Répertoire racine de la carte SD interne</string>  
   <string name="yunyi_pocket_camera">Pocket Camera</string>
   <string name="moman">Moman Camera</string>
-  <string name="moman_camera_drawing">Moman Camera drawing</string>
-  <string name="moman_camera_icon">Moman Camera emoticon</string>
-  <string name="moman_camera_picture">Moman Camera pictures</string>
+  <string name="moman_camera_drawing">Dessins Moman Camera</string>
+  <string name="moman_camera_icon">Emoticônes Moman Camera</string>
+  <string name="moman_camera_picture">Images Moman Camera</string>
   <string name="pocket_camera_picture">Images Pocket Camera</string>
   <string name="pocket_camera_video">Vidéos Pocket Camera</string>
   <string name="pocketcamera">PocketCamera</string>
