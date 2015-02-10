@@ -650,6 +650,8 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="jeejen_reject_call_text">Appel rejeté</string>
   <string name="jeejen_toggle_dialpad_text">Clavier</string>
   <string name="livetalk_waiting">En attente…</string>
+  
+<!-- spécial MTK -->
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
   <string name="airplane_mode_on">Le mode Avion est activé.</string>
   <string name="alert_device_error">Erreur inopinée sur le périphérique audio</string>

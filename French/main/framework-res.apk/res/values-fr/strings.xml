@@ -1457,25 +1457,30 @@ Tentatives restantes :"</string>
   <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
   
 <!-- Mitab : -->
-<string name="edp_brightness_limited">Luminosité limitée</string>
-<string name="edp_camera_flash_limited">Flash limité</string>
-<string name="edp_volume_limited">Volume limité</string>
-<string name="global_action_sleep">Veille</string>
-<string name="global_actions_miracast_connection_failed_status">Échec de la connexion.</string>
-<string name="global_actions_miracast_connection_progress_status">Connexion au dispositif…</string>
-<string name="global_actions_miracast_mode_airplane_on_status">Indisponible car le mode avion est actif.</string>
-<string name="global_actions_miracast_mode_cancel_connection_status">Annuler la connexion</string>
-<string name="global_actions_miracast_mode_off_status_many_paired">Connexion au dispositif précédent</string>
-<string name="global_actions_miracast_mode_off_status_no_paired">Connexion au dispositif</string>
-<string name="global_actions_miracast_mode_off_status_single_paired">"Connexion à "</string>
-<string name="global_actions_miracast_mode_on_status">Arrêter la diffusion</string>
-<string name="global_actions_miracast_mode_pc2thor_on_status">Indisponible car un ordinateur est déjà en train en diffuser sur ce dispositif.</string>
-<string name="global_actions_miracast_mode_wifi_off_status">Indisponible car le Wi-Fi est désactivé.</string>
-<string name="global_actions_miracast_sink_not_found_status">Impossible de trouver un dispositif d\'affichage.</string>
-<string name="global_actions_miracast_sink_search_status">Recherche de dispositif d\'affichage…</string>
-<string name="global_actions_toggle_miracast_mode">Affichage sans fil Miracast</string>
-<string name="p2p_wifi_frequency_conflict_message">La connexion Wi-Fi Direct va être interrompue. Voulez-vous continuer ?</string>
-<string name="permdesc_nvidiaCPUPower">Permet à l\'application d\'ajuster les paramètres du CPU NVIDA Tegra. Ceci peut avoir un impact négatif sur l\'autonomie.</string>
-<string name="permlab_nvidiaCPUPower">ajuster le CPU NVIDIA Tegra</string>
-<!-- /// -->
+  <string name="edp_brightness_limited">Luminosité limitée</string>
+  <string name="edp_camera_flash_limited">Flash limité</string>
+  <string name="edp_volume_limited">Volume limité</string>
+  <string name="global_action_sleep">Veille</string>
+  <string name="global_actions_miracast_connection_failed_status">Échec de la connexion.</string>
+  <string name="global_actions_miracast_connection_progress_status">Connexion au dispositif…</string>
+  <string name="global_actions_miracast_mode_airplane_on_status">Indisponible car le mode avion est actif.</string>
+  <string name="global_actions_miracast_mode_cancel_connection_status">Annuler la connexion</string>
+  <string name="global_actions_miracast_mode_off_status_many_paired">Connexion au dispositif précédent</string>
+  <string name="global_actions_miracast_mode_off_status_no_paired">Connexion au dispositif</string>
+  <string name="global_actions_miracast_mode_off_status_single_paired">"Connexion à "</string>
+  <string name="global_actions_miracast_mode_on_status">Arrêter la diffusion</string>
+  <string name="global_actions_miracast_mode_pc2thor_on_status">Indisponible car un ordinateur est déjà en train en diffuser sur ce dispositif.</string>
+  <string name="global_actions_miracast_mode_wifi_off_status">Indisponible car le Wi-Fi est désactivé.</string>
+  <string name="global_actions_miracast_sink_not_found_status">Impossible de trouver un dispositif d\'affichage.</string>
+  <string name="global_actions_miracast_sink_search_status">Recherche de dispositif d\'affichage…</string>
+  <string name="global_actions_toggle_miracast_mode">Affichage sans fil Miracast</string>
+  <string name="p2p_wifi_frequency_conflict_message">La connexion Wi-Fi Direct va être interrompue. Voulez-vous continuer ?</string>
+  <string name="permdesc_nvidiaCPUPower">Permet à l\'application d\'ajuster les paramètres du CPU NVIDA Tegra. Ceci peut avoir un impact négatif sur l\'autonomie.</string>
+  <string name="permlab_nvidiaCPUPower">ajuster le CPU NVIDIA Tegra</string>
+
+<!-- MTK ? -->
+  <string name="storage_external_usb">Stockage USB externe</string>
+  <string name="storage_ic_usb1">Stockage IC-USB externe 1</string>
+  <string name="storage_ic_usb2">Stockage IC-USB externe 2</string>
+  <string name="storage_phone">Stockage du téléphone</string>
 </resources>

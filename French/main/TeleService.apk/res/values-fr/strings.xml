@@ -830,6 +830,8 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="preferred_network_restrict_network_changed_incall">Impossible de changer de réseau mobile pendant un appel</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Préférer la 4G (CDMA)</string>
   <string name="retry_btn">Réessayer</string>
+  
+<!-- spécial MTK -->
   <string name="accessibility_call_muted">Son coupé</string>
   <string name="accessibility_speakerphone_enabled">Haut-parleur activé</string>
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
