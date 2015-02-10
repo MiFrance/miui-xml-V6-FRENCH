@@ -158,7 +158,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_recording_pause">Enregistrement mis en pause.</string>
   <string name="status_bar_settings_airplane">Mode avion</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion internet</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Aucune connexion</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
   <string name="status_bar_style_settings">Paramètres de la barre d\'état</string>
   <string name="title_usb_accessory">Accessoire USB</string>

@@ -650,7 +650,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="jeejen_reject_call_text">Appel rejeté</string>
   <string name="jeejen_toggle_dialpad_text">Clavier</string>
   <string name="livetalk_waiting">En attente…</string>
-
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
   <string name="airplane_mode_on">Le mode Avion est activé.</string>
   <string name="alert_device_error">Erreur inopinée sur le périphérique audio</string>
@@ -776,7 +775,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="lable_sim_not_ready">"La boite à outils SIM n'est pas prête ou n'est pas supportée"</string>
   <string name="manual_select_dialog_msg">En mode sélection manuelle, le téléphone ne sélectionnera pas d\'autres opérateurs pour vous. Il sera peut-être nécessaire de refaire une sélection manuelle ou de rétablir la sélection automatique si vous ne recevez plus le signal de l\'opérateur choisi. Nous recommandons l\'utilisation de la fonction "Sélection automatique Confirmer la sélection manuelle du réseau ?</string>
   <string name="manual_select_title">Sélection manuelle</string>
-  <string name="minutereminder_summary">Remind at 50s of every minute</string>
   <string name="minutereminder_title">Rappel des minutes</string>
   <string name="mismatch_password">Les mots de passe saisis ne correspondent pas. Veuillez essayer de nouveau.</string>
   <string name="mo_code_call_deflected">Appel transmis </string>
@@ -972,6 +970,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="addConferenceMemeberText">Add member</string>
   <string name="add_conference_member_limit">Can only add one number at a time.</string>
   <string name="add_member_msg">Type number or name</string>
+  <string name="minutereminder_summary">Remind at 50s of every minute</string>
 
 <!-- à traduire -->
   <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>

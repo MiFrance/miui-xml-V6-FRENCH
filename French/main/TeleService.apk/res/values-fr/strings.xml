@@ -984,7 +984,6 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="manual_select_title">Sélection manuelle</string>
   <string name="menu_delete">Supprimer le contact</string>
   <string name="menu_edit">Modifier le contact</string>
-  <string name="minutereminder_summary">Remind at 50s of every minute</string>
   <string name="minutereminder_title">Rappel des minutes</string>
   <string name="mismatchPin">Les codes PIN saisis ne correspondent pas. Veuillez réessayer.</string>
   <string name="mismatchPin2">Les codes PIN2 saisis ne correspondent pas. Veuillez réessayer.</string>
@@ -1241,6 +1240,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="cipher_indication_notification_message">Voice encryption is switched off by network</string>
   <string name="cipher_indication_notification_title">No voice encryption</string>
   <string name="callFailed_simError_cdma">No UIM/SIM, or UIM/SIM error</string>
+  <string name="minutereminder_summary">Remind at 50s of every minute</string>
 
 <!-- à traduire base cancro-->
   <string name="auth_username_title">Authentication username</string>

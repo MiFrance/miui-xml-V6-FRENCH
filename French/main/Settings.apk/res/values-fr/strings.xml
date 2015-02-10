@@ -2844,7 +2844,7 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
   <string name="location_agps_supl_server_addr">Adresse du serveur</string>
   <string name="location_agps_supl_server_port">Port du serveur</string>
   <string name="location_agps_supl_settings">Paramètres SUPL</string>
-  <string name="music_audio_effect_optimize">Paramètres Audio</string>
+  <string name="music_audio_effect_optimize">Paramètres audio</string>
   <string name="music_audio_effect_optimize_summary">Dirac, casques et autres paramètres audio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, casques et autres paramètres audio</string>
   <string name="music_dirac_control">Optimiser la qualité audio</string>

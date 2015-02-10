@@ -61,7 +61,7 @@
   <string name="notify_alarm_title">Rappel d\'alarme</string>
   <string name="pref_desc_alarm_when_silent">Les alarmes ne sonneront pas en mode silencieux</string>
   <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string>
-  <string name="pref_title_common">Paramètres communs</string>
+  <string name="pref_title_common">Paramètres généraux</string>
   <string name="pref_title_font_size">Taille de police</string>
   <string name="pref_title_note_style">Style de note</string>
   <string name="search">Notes</string>
