@@ -822,7 +822,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="msim_info_editor_number">Modifier le n° de la SIM</string>
   <string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
   <string name="cfnrc_title_cta">Transférer si injoignable</string>
-  <string name="incall_error_no_active_sim">Aucune carte SIM.</string>
+  <string name="incall_error_no_active_sim">Erreur, carte SIM inactive</string>
   <string name="international_roaming_setting">Itinérance depuis l\'étranger</string>
   <string name="msim_switch_data_conn_toast">Les paramètres réseau ont été préréglés sur la 4G LTE. Vous pouvez le modifier dans les paramètres de la carte SIM.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">L\'emplacement SIM 2 ne supporte que les réseaux GSM. Le mode 2G uniquement à été sélectionné.</string>

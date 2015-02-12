@@ -187,7 +187,7 @@
   <string name="press_to_match">Tester</string>
   <string name="privacy_content">"En utilisant ce produit, vous acceptez notre "<u>Politique de confidentialité</u> et <u>Conditions d\'utilisations</u>. Mi Remote requiert un accès à internet pour fonctionner normalement.</string>
   <string name="privacy_nohit">Ne plus afficher</string>
-  <string name="privacy_title">Terms and Conditions</string>
+  <string name="privacy_title">Conditions générales d\'utilisation</string>
   <string name="projection_failed_for_disconnect">Not paired</string>
   <string name="province">Province</string>
   <string name="rc">Remote</string>
@@ -288,7 +288,7 @@
   <string name="edit_controller">Édition de la télécommande</string>
   <string name="unkown_device_input_hint">Saisir le modèle de l\'appareil</string>
   <string name="unkown_device_main">Tentatives d\'identification échouées</string>
-  <string name="unkown_device_sub">Vous pouvez nous aider à compléter la liste en saisissant la référence</string>
+  <string name="unkown_device_sub">Aidez-nous en complétant le formulaire</string>
   <string name="unkown_device_title">Modèle inconnu</string>
   <string name="no_ir_other_support">Seul la Mi Box/TV est prise en charge</string>
   <string name="no_ir_support">Port IR non disponible sur cet appareil</string>

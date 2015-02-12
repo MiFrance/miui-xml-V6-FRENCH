@@ -6,7 +6,7 @@
   <string name="activate">Activer</string>
   <string name="error_device_id_message">Certaines fonctions du compte et du cloud ne seront pas disponibles</string>
   <string name="error_device_id_title">Impossible de récupérer le numéro IMEI"</string>
-  <string name="app_name">Xiaomi Framework</string>
+  <string name="app_name">Framework des services Xiaomi</string>
   <string name="activate_feature_call_log_sync">"Synchronisation du journal d\'appels"</string>
   <string name="activate_feature_find_device">Géolocalisation de votre appareil</string>
   <string name="activate_feature_mms_sync">Synchronisation des SMS</string>

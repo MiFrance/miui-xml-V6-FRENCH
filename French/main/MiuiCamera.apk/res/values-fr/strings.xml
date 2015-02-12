@@ -507,7 +507,7 @@
   <string name="pref_camera_asd_night_title">Amélioration auto des photos de nuit</string>
   <string name="pref_camera_asd_popup_title">Ouvrir un popup lorsque le flash est requis</string>
   <string name="pref_camera_delay_capture_title">Minuteur</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Appuyez longuement sur le bouton de l\'obturateur</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Appui long sur le bouton de l\'obturateur</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Prise en rafale</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
   <string name="pref_camera_long_pressing_shutter_title">Appuyez longuement sur le bouton l\'obturateur pour verrouiller AE/AF/AWB</string>

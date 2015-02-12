@@ -2,7 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="app_name">CloudAppBackup</string>
+  <string name="app_name">Sauvegarde dans le Mi cloud</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Retour</string>
@@ -13,7 +13,7 @@
   <string name="sdcard_unmounted">Aucune carte SD détectée</string>
   <string name="sdcard_no_enough_space">Espace insuffisant</string>
   <string name="retry">Réessayer</string>
-  <string name="cloud_app_backup_title">Sauvegarde sur Mi Cloud</string>
+  <string name="cloud_app_backup_title">Sauvegarde dans le Mi Cloud</string>
   <string name="cloud_app_just_show_in_current_device">Afficher uniq. les apps de cet appareil</string>
   <string name="cloud_app_mine">Apps téléchargées</string>
   <string name="cloud_app_backup_summary">Sauvegarder automatiquement les applis et les données utilisateur lorsque l\'appareil est en charge et connecté au Wi-Fi</string>

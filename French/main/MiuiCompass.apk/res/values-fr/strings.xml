@@ -35,7 +35,7 @@
   <string name="mobiledata_alert_dialog_title">Information</string>
   <string name="mobiledata_alert_dialog_message">Se connecter à internet pour calibrer l\'altitude ?</string>
   <string name="do_not_show_next_time">Ne plus afficher</string>
-  <string name="calibrate_altitude">Calibration…</string>
+  <string name="calibrate_altitude">Calibrer</string>
   <string name="location_enable">Activer</string>
   <string name="location_enable_later">Plus tard</string>
   <string name="location_enabled">Service de localisation activé, vous pouvez le désactiver via les paramètres</string>

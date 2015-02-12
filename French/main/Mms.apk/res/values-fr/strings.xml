@@ -298,21 +298,21 @@
   <string name="pref_other_title">Autre</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
-  <string name="pref_summary_delivery_reports">Demander un accusé de réception pour chaque message que vous envoyez</string>
+  <string name="pref_summary_delivery_reports">Demander un accusé de réception pour les messages envoyés</string>
   <string name="pref_summary_hide_festival">Masquer l\'onglet Recommandé pour les utilisateurs non-chinois</string>
   <string name="pref_summary_manage_sim_messages">Gérer les messages enregistrés sur votre carte SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Récupérer automatiquement les messages</string>
   <string name="pref_summary_mms_read_reports">Demander une confirmation de lecture pour chaque message envoyé</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Récupérer automatiquement les messages en itinérance</string>
-  <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et la barre d\'état</string>
+  <string name="pref_summary_notification_body_enabled">Prévisualiser les messages sur l\'écran de verrouillage et le menu déroulant</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Prévisualisation des messages désactivée quand le contrôle d\'accès est activé</string>
   <string name="pref_summary_on_system_mms_priority">L\'application recevra les MMS en premier</string>
   <string name="pref_summary_off_system_mms_priority">Utiliser des applications tierces pour envoyer et recevoir des MMS</string>
   <string name="pref_summary_show_recent_contacts">Afficher la liste des derniers contacts utilisés lors de la composition d\'un message</string>
   <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
   <string name="pref_system_title">Système</string>
-  <string name="pref_time_auto_group_summary">Grouper les messages par heure</string>
-  <string name="pref_time_auto_group_title">Grouper</string>
+  <string name="pref_time_auto_group_summary">Dans la fenêtre de discussion, grouper les messages par heure</string>
+  <string name="pref_time_auto_group_title">Grouper les messages</string>
   <string name="pref_title_allow_si_sl_push">Autoriser le WAP push</string>
   <string name="pref_title_card_format">Format de partage de carte</string>
   <string name="pref_title_delivery_reports">Accusé de réception</string>
@@ -480,7 +480,7 @@
   <string name="sp_mark_as_read_progress">En cours…</string>
   <string name="feedback_description_hint">Veuillez saisir votre rapport, en anglais, ici</string>
   <string name="feedback_submit">Envoyer</string>
-  <string name="pref_key_mx_feedback">Envoyer un rapport</string>
+  <string name="pref_key_mx_feedback">Retour d\'expérience</string>
   <string name="pref_summary_mx_feedback">Signalez les erreurs et les bugs directement à Xiaomi</string>
   <string name="toast_description_required">Veuillez saisir un message</string>
   <string name="toast_feedback_finish">Votre rapport sera envoyé lorsque vous vous connecterez à un réseau Wi-Fi</string>
@@ -558,5 +558,5 @@
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="warning_show">Envoyer dans %ds</string>
- <string name="pref_title_ringtone_repeat_summary">Nombre de notifications lorsque le SMS est reçu alors que l\'écran est éteint :</string>
+ <string name="pref_title_ringtone_repeat_summary">"Nombre de notifications lorsque le SMS est reçu alors que l\'écran est éteint : "</string>
 </resources>

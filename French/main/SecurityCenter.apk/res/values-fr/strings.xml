@@ -499,7 +499,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="uninstall_confirm_title">Désinstaller ces applications</string>
   <string name="button_text_uninstall">Désinstaller</string>
   <string name="hints_install_apps_today">utilisé aujourd\'hui</string>
-  <string name="hints_install_apps_interval">utilisé il y a %d jour</string>
+  <string name="hints_install_apps_interval">utilisé il y a %d jours</string>
   <string name="hints_install_apps_new">jamais utilisé</string>
   <string name="hints_install_apps_virus">virus détecté</string>
   <string name="hints_install_apps_risk">menace détectées</string>
