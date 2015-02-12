@@ -690,7 +690,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dirac_mode_general">Général</string>
   <string name="dirac_mode_in_ear">Intra-auriculaires</string>
   <string name="dirac_mode_off">Dirac désactivé</string>
-  <string name="dirac_mode_piston_100">Xiaomi Piston</string>
+  <string name="dirac_mode_piston_100">Mi Piston</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Désactiver la superpos. matérielle</string>
   <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition de l\'écran</string>
@@ -845,7 +845,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Petite</string>
-  <string name="font_size_summary">Modifier la taille du texte dans les applications suivantes :</string>
+  <string name="font_size_summary">Modifie la taille du texte affiché sur votre appareil</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">Forcer l\'utilisation du GPU pour le dessin 2D</string>
   <string name="force_msaa">Forcer MSAA 4x</string>
@@ -2349,7 +2349,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="manage_mobile_plan_title">Gérer le forfait mobile</string>
   <string name="mobile_unknown_sim_operator">Opérateur SIM inconnu</string>
   <string name="mobile_no_provisioning_url">Aucun site Web de configuration connu pour %1$s</string>
-  <string name="mobile_insert_sim_card">Insérez la carte SIM, puis redémarrez.</string>
+  <string name="mobile_insert_sim_card">Veuillez insérer une carte SIM, puis redémarrer.</string>
   <string name="mobile_connect_to_internet">Connectez-vous à internet.</string>
   <string name="enable_service_title">Utiliser %1$s ?</string>
   <string name="capabilities_list_title">%1$s doit pouvoir :</string>
@@ -2593,9 +2593,9 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="status_bar_settings_show_carrier_summary">Uniquement sur l\'écran de verrouillage</string>
   <string name="status_bar_settings_show_flow_info">Afficher infos. du trafic</string>
   <string name="status_bar_settings_show_network_speed">Afficher la vitesse de transfert</string>
-  <string name="status_bar_settings_show_notificationBar_notification">Afficher notif. du menu déroulant</string>
+  <string name="status_bar_settings_show_notificationBar_notification">Afficher les notifications</string>
   <string name="status_bar_settings_show_screenshot_notification">Afficher notif. de capture d\'écran</string>
-  <string name="status_bar_settings_show_statusBar_notification">Afficher sur l\'écran de verrouillage</string>
+  <string name="status_bar_settings_show_statusBar_notification">Activer les notifications flottantes</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Les notifications apparaîtront en haut de l\'écran puis disparaitront automatiquement</string>
   <string name="status_bar_settings_show_wifi_name">Afficher le nom du Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Notifications et barre d\'état</string>
@@ -2705,14 +2705,14 @@ et lancer le logiciel."</string>
   <string name="music_headset_mode_volume">Ajustement du volume - haut/bas</string>
   <string name="music_headset_no_contected">Casque non connecté</string>
   <string name="music_headset_settings">Écouteurs</string>
-  <string name="music_dirac_mode_in_ear">Intra-aur. Xiaomi</string>
-  <string name="music_dirac_mode_earbuds">Écouteurs Xiaomi</string>
-  <string name="music_dirac_mode_piston_100">Xiaomi Piston-1</string>
+  <string name="music_dirac_mode_in_ear">Intra-aur. Mi</string>
+  <string name="music_dirac_mode_earbuds">Écouteurs Mi</string>
+  <string name="music_dirac_mode_piston_100">Mi Piston-1</string>
   <string name="music_dirac_mode_general">Général</string>
   <string name="music_dirac_mode_general_earbuds">Écouteurs standards</string>
   <string name="music_dirac_mode_general_inear">Intra-aur. standards</string>
-  <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
-  <string name="music_dirac_mode_piston_youth">Xiaomi Piston-Youth</string>
+  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
+  <string name="music_dirac_mode_piston_youth">Mi Piston-Youth</string>
   <string name="music_audio_effect_settings">Paramètres audio</string>
   <string name="music_headphone_settings">Paramètres écouteurs</string>
   <string name="music_mi_effect_title">Améliorateur Mi Sound</string>
@@ -2724,12 +2724,12 @@ et lancer le logiciel."</string>
   <string name="high_performance_notif_summary">Appuyer pour configurer</string>
   <string name="dirac_mode_general_earbuds">Écouteurs standards</string>
   <string name="dirac_mode_general_inear">Intra-aur. standards</string>
-  <string name="dirac_mode_piston_1">Xiaomi Piston-1</string>
-  <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
-  <string name="dirac_mode_piston_youth">Xiaomi Piston-Youth</string>
+  <string name="dirac_mode_piston_1">Mi Piston-1</string>
+  <string name="dirac_mode_piston_2">Mi Piston-2</string>
+  <string name="dirac_mode_piston_youth">Mi Piston-Youth</string>
   <string name="music_dirac_mode_off">Dirac inactif</string>
-  <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
-  <string name="music_dirac_mode_piston_basic">Édition basique </string>
+  <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
+  <string name="music_dirac_mode_piston_basic">Mi Piston Basics</string>
   <string name="music_hifi_title">Audio Hi-Fi</string>
   <string name="bt_trace_log">Activer Trace log Bluetooth</string>
   <string name="bt_trace_log_summary">Active le journal de suivi Bluetooth</string>
@@ -2812,7 +2812,7 @@ et lancer le logiciel."</string>
   <string name="other_advanced_settings">Paramètres additionnels</string>
   <string name="other_personal_settings">Paramètres additionnels</string>
   <string name="font_size_summary1">"
-Si la police est encore trop petite, essayez d'utiliser "</string>
+Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="font_size_summary2">Mode allégé</string>
   <string name="handy_mode">Mode à une main</string>
   <string name="handy_mode_enable">Mode à une main</string>
