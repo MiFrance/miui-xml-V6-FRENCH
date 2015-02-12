@@ -2935,4 +2935,17 @@ Si la police est encore trop petite, essayez d'utiliser "</string>
   <string name="page_layout_7">Jeux</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Thèmes</string>
+  <string name="smartcover_sensitive_title">Mode Smartcover</string>
+  <string name="wifi_connect_cmcc_dialog_cancel">Annuler</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+  <string name="wifi_connect_cmcc_dialog_content">Connecté aux services de données du réseau CMCC.</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">"Ne plus afficher"</string>
+  <string name="wifi_connect_cmcc_dialog_title">Notification d\'utilisation de données</string>
+  <string name="wifi_notify_cmcc_connected_summary">Afficher une notification lors de la connexion au réseau CMCC</string>
+  <string name="wifi_notify_cmcc_connected_title">Notification de réseau CMCCC</string>
+  <string name="wifi_off_airplane_on_cancel">Annuler</string>
+  <string name="wifi_off_airplane_on_confirm">OK</string>
+  <string name="wifi_off_airplane_on_content">Vous pouvez activer le Wi-Fi manuellement lorsque vous êtes en mode Avion.</string>
+  <string name="wifi_off_airplane_on_not_remind">"Ne plus afficher"</string>
+  <string name="wifi_off_airplane_on_title">Wi-Fi en mode Avion</string>
 </resources>
