@@ -1483,4 +1483,12 @@ Tentatives restantes :"</string>
   <string name="storage_ic_usb1">Stockage IC-USB externe 1</string>
   <string name="storage_ic_usb2">Stockage IC-USB externe 2</string>
   <string name="storage_phone">Stockage du téléphone</string>
+  
+<!-- HM2014811 ? -->
+  <string name="global_action_reboot">Redémarrer</string>
+  <string name="reboot_title">Redémarrer</string>
+  <string name="tethered_notification_multi_device_message">%1$s appareils connectés</string>
+  <string name="tethered_notification_no_device_message">Aucun appareil connecté</string>
+  <string name="tethered_notification_one_device_message">%1$s appareil connecté</string>
+  <string name="usb_charging_notification_title">Connecté en mode charge</string>
 </resources>

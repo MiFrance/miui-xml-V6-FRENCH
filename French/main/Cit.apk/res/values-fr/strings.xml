@@ -332,4 +332,8 @@ Tenez le téléphone comme si vous passiez un appel, parlez au micro principal, 
 
   Tournez le téléphone, parlez au microphone du haut, vous devriez entendre votre voix dans le haut-parleur"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Test de réaction du microphone du haut</string>
+  
+  <string name="cit_external_sd_check_summary">Test de détection de la carte SD</string>
+  <string name="cit_external_sd_check_title">État de la carte SD</string>
+  <string name="cit_tool_modem_evdo_revb">Activer/Désactiver EVDO Rev.B</string>
 </resources>

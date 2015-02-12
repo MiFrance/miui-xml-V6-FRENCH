@@ -2,6 +2,9 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="accessibility_coloreffect_button">Bouton d\'effets de couleurs</string>
+  <string name="accessibility_scroll_button_slider">Interrupteur caméra vidéo</string>
+  <string name="accessibility_show_setting_panel_button">Bouton des paramètres</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Basculer entre la l\'appareil photo et la vidéo (actuellement sur %s)</string>
   <string name="accessibility_camera_auto_flashmode">Flash automatique</string>
   <string name="accessibility_camera_flash_closemode">Pas de Flash</string>
@@ -529,4 +532,5 @@
   <string name="confirm_location_message">"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue."\n\n"D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées."</string>
   <string name="pref_simple_hdr_entry_off">Inactif</string>
   <string name="pref_simple_hdr_entry_on">Actif</string>
+  <string name="pref_camera_asd_title">Détection auto de la scène</string>
 </resources>

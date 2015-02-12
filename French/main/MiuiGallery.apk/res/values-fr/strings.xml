@@ -595,4 +595,6 @@
   <string name="pocket_camera_picture">Images Pocket Camera</string>
   <string name="pocket_camera_video">Vidéos Pocket Camera</string>
   <string name="pocketcamera">PocketCamera</string>
+  <string name="do_not_save">Ne pas enregistrer</string>
+  
 </resources>

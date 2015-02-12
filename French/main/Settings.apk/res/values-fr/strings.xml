@@ -2909,7 +2909,7 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="local_auto_backup_off">Inactif</string>
   <string name="local_auto_backup_on">Actif</string>
   <string name="page_layout_1">Dim 28/12</string>
-  <string name="page_layout_10">Paramétres</string>
+  <string name="page_layout_10">Paramètres</string>
   <string name="page_layout_11">Météo</string>
   <string name="page_layout_12">Sécurité</string>
   <string name="page_layout_13">Outils</string>
@@ -2935,6 +2935,10 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="page_layout_7">Jeux</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Thèmes</string>
+  <string name="page_layout_14">Jeux</string>
+  <string name="page_layout_15">Applis</string>
+  <string name="page_layout_16">Thèmes</string>
+  <string name="page_layout_17">Mi Life</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Annuler</string>
   <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
