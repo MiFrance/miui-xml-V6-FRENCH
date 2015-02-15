@@ -71,7 +71,7 @@
       <item>"Toujours "</item>
   </string-array>
   <string-array name="pref_ua_choices">
-      <item>Android</item>
+      <item>Par défaut</item>
       <item>iPad</item>
       <item>Ordinateur de bureau</item>
   </string-array>
@@ -112,10 +112,5 @@
         <item>google</item>
         <item>yahoo</item>
         <item>bing</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Par défaut</item>
-        <item>iPad</item>
-        <item>Desktop</item>
     </string-array>
 </resources>
