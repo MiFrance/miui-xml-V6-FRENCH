@@ -113,4 +113,9 @@
         <item>yahoo</item>
         <item>bing</item>
     </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Par défaut</item>
+        <item>iPad</item>
+        <item>Desktop</item>
+    </string-array>
 </resources>

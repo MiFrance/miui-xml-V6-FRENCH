@@ -55,6 +55,8 @@
   <string name="miracast_wps_desc">WPS</string>
   <string name="miracast_wps_onstart_pbc">Appuyez sur le bouton WPS de votre dispositif. Il peut être identifié par ce symbole :</string>
   <string name="miracast_wps_setup_msg">Lancement du mode WPS…</string>
+  <string name="miracast_service_died">Connexion terminée</string>
+  <string name="miracast_service_restart">Connexion réinitialisée</string>
   <string name="move_app_app_label">App</string>
   <string name="move_app_data_label">Données</string>
   <string name="move_app_dlg_text">Cela peut prendre quelques minutes. Ne retirez pas la carte SD pendant cette opération.</string>

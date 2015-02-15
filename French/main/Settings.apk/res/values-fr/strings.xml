@@ -373,7 +373,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_name_not_set">Aucun nom n\'a été défini. Utilisation du nom du compte…</string>
   <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
   <string name="bluetooth_not_visible_to_other_devices">Non visible par d\'autres appareils Bluetooth</string>
-  <string name="bluetooth_notif_message">Appuyez pour associer l\'appareil à %1$s.</string>
+  <string name="bluetooth_notif_message">Appuyer pour associer l\'appareil à \"%1$s\"</string>
   <string name="bluetooth_notif_ticker">Demande d\'association Bluetooth</string>
   <string name="bluetooth_notif_title">Demande d\'association</string>
   <string name="bluetooth_on_time">Wi-Fi/temps</string>

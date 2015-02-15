@@ -295,6 +295,7 @@
   <string name="milink_nowifi">Aucune connexion Wi-Fi, impossible de se connecter</string>
   <string name="select_area">Sélectionner la région</string>
   <string name="connect_to_retry">Non connecté au réseau. Veuillez vérifier vos paramètres et réessayer</string>
+  <string name="ir_device_iptv">IPTV</string>
 
 
   <string name="passport_access_denied">Accès refusé</string>
@@ -429,6 +430,7 @@
   <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes et aux autres services Mi, d\'où que vous soyez.</string>
   
   <!--
+  <string name="submit_fail_retry">提交失败了，请您重新提交，谢谢</string>
   <string name="gesture_pad_orietaion_tips">滑动控制上下左右，点击确定</string>
   <string name="gesture_pad_vol_tips">按下手机音量键调节音量</string>
   <string name="match_stb_intro_left">发射机顶盒方向左键</string>
