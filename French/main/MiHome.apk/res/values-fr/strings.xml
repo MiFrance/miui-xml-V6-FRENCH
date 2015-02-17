@@ -413,7 +413,7 @@
     <string name="camera_settings_camera_light">Activer la LED de la caméra</string>
     <string name="camera_settings_camera_update">Mettre à jour</string>
     <string name="camera_settings_camera_cancel_update">Annuler</string>
-    <string name="camera_settings_camera_reboot">重启安装更新</string>
+    <string name="camera_settings_camera_reboot">Redémarrer et installer</string>
     <string name="camera_settings_camera_snap_share_info">来自小蚁智能摄像机分享摄像机画面</string>
     <string name="camera_settings_save_location">Chemin de sauvegarde</string>
     <string name="camera_settings_save_sd_card">Carte SD</string>
@@ -435,24 +435,24 @@
     <string name="camera_waiting">Traitement…</string>
     <string name="camera_snapshot_no_space">手机无外置存储空间</string>
     <string name="camera_settings_motion_detect_switch">Activer l\'enregistrement</string>
-    <string name="camera_settings_motion_detect_switch_des">Démarrer l\'enregistrement (vidéo uniq.) lorsqu\'un mouvement est détecté</string>
+    <string name="camera_settings_motion_detect_switch_des">Démarrer l\'enregistrement lorsqu\'un mouvement est détecté.</string>
     <string name="camera_settings_motion_alarm_switch">Activer les notifications</string>
-    <string name="camera_settings_motion_alarm_switch_desc">Recevoir une notification lorsqu\'un mouvement est détecté</string>
+    <string name="camera_settings_motion_alarm_switch_desc">Recevoir une notification lorsqu\'un mouvement est détecté.</string>
     <string name="camera_settings_motion_alarm_switch_setting">报警设置</string>
     <string name="camera_settings_set_alarm_user_define">Créneau horaire</string>
     <string name="camera_settings_alarm_all_day">Toute la journée</string>
-    <string name="camera_settings_alarm_user_define">Personalisé</string>
+    <string name="camera_settings_alarm_user_define">Personnalisé</string>
     <string name="camera_set_error">处理失败</string>
     <string name="camera_set_error_timeout">处理超时</string>
     <string name="camera_set_error_not_open">摄像机已经断开连接，请重新连接</string>
     <string name="camera_update_current_version">Version installée : %1$s</string>
     <string name="camera_update_new_version">Nouvelle version : %1$s</string>
-    <string name="camera_update_current_is_last_version">当前已是最新版本:%1$s</string>
+    <string name="camera_update_current_is_last_version">Votre firmware est à jour (%1$s)</string>
     <string name="camera_update_rom_download_progress">Téléchargement du firmware : %1$d%%</string>
-    <string name="camera_update_rom_download_completed">Téléchargement effectué, veuillez patienter pendant l\'installation</string>
+    <string name="camera_update_rom_download_completed">Téléchargement effectué, ne pas débrancher la caméra pendant la mise à jour.</string>
     <string name="camera_update_rom_download_failed">Le téléchargement du firmware a échoué</string>
     <string name="camera_update_rom_download_failed_no_tf">Aucune carte SD détectée dans la caméra, veuillez en insérer une.</string>
-    <string name="camera_need_update_rom">Veuillez mettre à jour le firmware avant d\'utiliser cette fonction, sinon son bon fonctionnement ne sera pas garantit</string>
+    <string name="camera_need_update_rom">Veuillez mettre à jour le firmware de la caméra afin de profiter des dernières améliorations.</string>
     <string name="camera_need_update_rom_for_use">Veuillez mettre à jour le firmware avant d\'utiliser cette fonction, sinon son bon fonctionnement ne sera pas garanti</string>
     <string name="camera_alarm_set_error">摄像机报警设置失败</string>
     <string name="camera_alarm_set_sucess">摄像机报警设置成功</string>
@@ -462,7 +462,7 @@
     <string name="camera_video_quality_auto">Auto</string>
     <string name="camera_video_quality_hd">HD</string>
     <string name="camera_video_quality_bq">SD</string>
-    <string name="camera_realtime">实时观看</string>
+    <string name="camera_realtime">Temps réel</string>
     <string name="camera_max_record_time">已到最大录制时间</string>
     <string name="camera_not_support_play_record">Aucun carte SD détectée, vous ne pouvez pas utiliser cette fonction</string>
     <string name="camera_set_video_quality">视频清晰度设置:</string>
@@ -470,7 +470,7 @@
     <string name="camera_get_device_error">获取摄像机设备信息失败</string>
     <string name="camera_get_device_info_error_retry">获取摄像机设备信息失败,请重新打开</string>
     <string name="camera_play_on_tv_title">确定投影摄像机画面到%1$s</string>
-    <string name="camera_play_no_record">该时刻摄像机没有录制视频</string>
+    <string name="camera_play_no_record">Aucun enregistrement</string>
     <string name="camera_audio_record_not_author">未授权录制语音，是否前往授权？</string>
     <string name="play_camera_on_tv">投影到</string>
     <string name="playVideo">播放</string>
@@ -882,7 +882,7 @@
     <string name="kick_device_error">"Can't block this device"</string>
     <string name="add_back_device_error">"Can't add device"</string>
     <string name="add_or_kick_device_failed">Something went wrong</string>
-    <string name="passport_manager">Mi Account</string>
+    <string name="passport_manager">Compte Mi</string>
     <string name="passport_binding_title">Add Mi Account</string>
     <string name="passport_binding_found_system_account">"Mi Account ID: "</string>
     <string name="passport_binding_bind_system_account">Add account</string>
@@ -943,7 +943,7 @@
     <string name="login_verify_code_fail">The verification code you entered is incorrect</string>
     <string name="login_passport_login_fail">"Can't sign in to Mi Account"</string>
     <string name="login_time_out">Connection timed out. Wait a minute or two and try again.</string>
-    <string name="login_account_login_title">Mi Account</string>
+    <string name="login_account_login_title">Compte Mi</string>
     <string name="login_dynamic_token_title">Mi Authenticator</string>
     <string name="login_dynamic_token_hint">Enter 6 digit code</string>
     <string name="login_dynamic_token_trust">"You won't be asked to verify again when signing in on this device"</string>
@@ -1238,7 +1238,7 @@
     <string name="next_button">Suivant</string>
     <string name="confirm_button">OK</string>
     <string name="previous_button">Retour</string>
-    <string name="common_hint">Attention</string>
+    <string name="common_hint">Avertissement</string>
     <string name="common_finish">OK</string>
     <string name="minute">"min "</string>
     <string name="hour">"h "</string>
@@ -1355,7 +1355,7 @@
     <string name="miio_setting_share">Partages</string>
     <string name="miio_setting_upgrade">Vérifier les mises jour</string>
     <string name="miio_setting_upgrade_checking">Vérification…</string>
-    <string name="miio_setting_logout">注销</string>
+    <string name="miio_setting_logout">Déconnexion</string>
     <string name="miio_setting_about">A propos</string>
     <string name="scene_enable">启动</string>
     <string name="miio_twingkle">闪烁</string>
@@ -1467,7 +1467,7 @@
     <string name="smarthome_unbinding">正在解除连接</string>
     <string name="smarthome_unbinding_title">说明</string>
     <string name="smarthome_unbinding_info">删除成功，重新使用必须先重置设备，点击这里查看重置方法</string>
-    <string name="smarthome_scene_camera_condition">Enregistrer si mouvements détectés</string>
+    <string name="smarthome_scene_camera_condition">Détection de mouvements</string>
     <string name="setting_total_device">Périphériques intelligents : %s</string>
     <string name="setting_detail_device">连接:%1$s    分享:%2$s    其他:%3$s</string>
     <string name="smarthome_has_shared_to_user">分享至%1$s</string>
@@ -1545,8 +1545,7 @@
     <string name="wifi_connection_correct">1，请检查WLAN网络（2.4G）是否通畅</string>
     <string name="wifi_connection_correct_1">2，请检查是否输错了WLAN密码</string>
     <string name="wifi_connection_correct_2">3，请尝试重置设备再连接。</string>
-    <string name="share_device_title">"快来分享设备，
-和家人一起享受智能生活吧！"</string>
+    <string name="share_device_title">"Partage de périphériques intelligents avec des membres de la famille"</string>
     <string name="network_disable">网络连接不可用</string>
     <string name="search_new_device">发现附近可以连接的设备</string>
     <string name="select_device_title">Veuillez sélectionner un périphérique</string>
