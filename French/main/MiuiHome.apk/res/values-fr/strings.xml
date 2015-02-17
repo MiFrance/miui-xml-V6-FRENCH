@@ -211,7 +211,6 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editing_mode_enter_tip_text">Pincez pour éditer l\'écran d\'accueil</string>
-  <string name="editing_mode_title">%1$d sélectionné</string>
   <string name="enable_wallpaper_scroll">Activer le défilement horizontal</string>
   <string name="gadget_calculator_label">Calculatrice</string>
   <string name="gadget_calendar_label">Calendrier</string>

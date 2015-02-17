@@ -2149,7 +2149,7 @@ vous pouvez utiliser les réseaux d\'autres utilisateurs"</string>
   <string name="wifi_share_login_summary">Les réseaux Wi-Fi publics peuvent être partagés avec d\'autres utilisateurs MIUI</string>
   <string name="wifi_share_notification_summary">MIUI vous a connecté à un réseau Wi-Fi public protégé par un mot de passe</string>
   <string name="wifi_share_other_network">Autres réseaux Wi-Fi</string>
-  <string name="wifi_share_qrcode_finish">terminer</string>
+  <string name="wifi_share_qrcode_finish">Terminer</string>
   <string name="wifi_share_qrcode_summary">Utilisez l\'appareil photo pour scanner un code QR</string>
   <string name="wifi_share_qrcode_title">Partager le code Wi-Fi via code QR</string>
   <string name="wifi_share_show_network">Afficher les réseaux</string>
@@ -2770,7 +2770,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_device_address">Adresse :</string>
   <string name="bluetooth_preference_connected_devices">Périphériques connectés</string>
   <string name="bluetooth_unlock_confirm_device_text">Veuillez mettre en contact les appareils pour confirmer.</string>
-  <string name="bluetooth_unlock_device_matched_text">Utiliser ce périphérique pour déverrouiller.</string>
+  <string name="bluetooth_unlock_device_matched_text">Utilisez ce périphérique pour déverrouiller.</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer ce périphérique ?</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique va être remplacé par le nouveau.</string>
   <string name="virus_scan">Anti-virus</string>
