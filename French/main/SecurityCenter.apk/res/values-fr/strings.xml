@@ -523,7 +523,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="activity_title_notification_bar_manager">Notifications</string>
   <string name="activity_title_default_apps_manager">Applications par défaut</string>
   <string name="activity_title_permission_manager">Permissions</string>
-  <string name="activity_title_root_manager">Droits root</string>
+  <string name="activity_title_root_manager">Permission root</string>
   <string name="empty_title_auto_start_list">Aucune application</string>
   <string name="dialog_title_load_cleanup_engine_error">Erreur</string>
   <string name="dialog_msg_load_cleanup_engine_error">Outil de nettoyage endommagé, il peut être nécessaire de réinstaller la ROM</string>
@@ -676,7 +676,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="pref_title_garbage_auto_clean_content">Choisir les éléments à nettoyer</string>
   <string name="pref_title_garbage_process_mode">Notifications</string>
   <string name="pref_title_lock_screen_memory_clean">Nettoyer sur l\'écran de verrouillage</string>
-  <string name="scanning_bar_cache_title">Analyse de la corbeille…</string>
+  <string name="scanning_bar_cache_title">Analyse des déchets…</string>
   <string name="scanning_bar_memory_title">Analyse du cache…</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="scanning_bar_system_text">Permissions des applications</string>
