@@ -333,7 +333,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_device_context_pair_connect">Associer et connecter</string>
   <string name="bluetooth_device_context_unpair">Dissocier</string>
   <string name="bluetooth_device_details">Paramètres de l\'appareil</string>
-  <string name="bluetooth_device_name">Nom de l\'appareil</string>
+  <string name="bluetooth_device_name">Nom :</string>
   <string name="bluetooth_device_searchable">Appareil visible</string>
   <string name="bluetooth_devices">Appareils Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Le profil :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;va être désactivé sur :&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -1040,7 +1040,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="lockpattern_retry_button_text">Réessayer</string>
   <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma de déverrouillage</string>
   <string name="lockpattern_settings_choose_lock_pattern">Créer un schéma</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Bouton Marche/Arrêt verr. auto</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Verrouiller via le bouton Marche/Arrêt</string>
   <string name="lockpattern_settings_enable_summary">Dessiner un schéma pour déverrouiller l\'écran</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrer au toucher</string>
   <string name="lockpattern_settings_enable_title">Schéma obligatoire</string>
@@ -2757,7 +2757,7 @@ et lancer le logiciel."</string>
   <string name="permission_manager">Permissions</string>
   <string name="security_keyguard_category_name">Écran de verrouillage</string>
   <string name="security_password_category_name">Mot de passe</string>
-  <string name="bluetooth_unlock_title">Déverrouiller via un perif. Bluetooth</string>
+  <string name="bluetooth_unlock_title">Déverrouiller via un périphérique Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Désactivé</string>
   <string name="bluetooth_unlock_turned_on">Activé</string>
   <string name="bluetooth_unlock_settings_toggle_title">Affecter à</string>
@@ -2772,7 +2772,7 @@ et lancer le logiciel."</string>
   <string name="bluetooth_unlock_confirm_device_text">Veuillez mettre en contact les appareils pour confirmer.</string>
   <string name="bluetooth_unlock_device_matched_text">Utilisez ce périphérique pour déverrouiller.</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer ce périphérique ?</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique va être remplacé par le nouveau.</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique sera remplacé par le nouveau.</string>
   <string name="virus_scan">Anti-virus</string>
   <string name="network_assistant">Moniteur de données</string>
   <string name="need_reboot_now">Un redémarrage est requis pour finaliser la mise à jour, veuillez redémarrer maintenant.</string>

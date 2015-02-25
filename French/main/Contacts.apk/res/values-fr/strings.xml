@@ -468,7 +468,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="keep_local_btn">Sauvegarder sur le téléphone uniquement</string>
   <string name="label_custom_type">Perso</string>
   <string name="label_duplicate_count">(%1$d)</string>
-  <string name="label_no_duplicate_contacts">Pas de contacts en double</string>
+  <string name="label_no_duplicate_contacts">Aucun contacts en double</string>
   <string name="label_notes">Notes</string>
   <string name="label_sip_address">Appel SIP</string>
   <string name="launcherDialer">Téléphone</string>
@@ -754,7 +754,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="profile_name">Mon profil</string>
   <string name="profile_name_photo">Moi</string>
   <string name="quickcontact_missing_app">Aucune application pouvant gérer cette action n\'a été trouvée.</string>
-  <string name="quit_dialog_confirm_title">Êtes-vous sûr de vouloir quitter la fusion des contacts ?</string>
+  <string name="quit_dialog_confirm_title">Quitter l\'opération de fusion des contacts ?</string>
   <string name="readOnlyContactDeleteConfirmation">Ce contact contient les informations de plusieurs comptes. Les informations de comptes en lecture seule seront masquées dans les listes des contacts et non supprimées</string>
   <string name="readOnlyContactDeleteConfirmationDetail">"%s" contient des informations provenant de plusieurs comptes. Les informations de comptes de lecture seule seront masquées dans votre liste de contacts mais ne seront pas supprimées.</string>
   <string name="readOnlyContactWarning">"Il est impossible de supprimer des contacts sur les comptes en lecture seule. Vous pouvez cependant les masquer dans vos contacts"</string>

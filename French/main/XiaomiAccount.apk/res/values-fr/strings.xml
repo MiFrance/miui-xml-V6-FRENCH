@@ -157,7 +157,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="mili_center">Mi Credit</string>
   <string name="mipay_center">Centre de paiement</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="bind_sina_weibo">Autoriser Sina Weibo</string>
+  <string name="bind_sina_weibo">Ajouter un compte Sina Weibo</string>
   <string name="bind_weibo_description">Trouver les contacts téléphoniques, amis et d\'autres informations directement à partir de votre compte.</string>
   <string name="binded">Associé</string>
   <string name="nobind">Non associé</string>
