@@ -248,11 +248,11 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_main_sync_exception">Erreur de synchro</string>
   <string name="micloud_setting_browser_summary">Marque-pages, historique et onglets</string>
-  <string name="micloud_setting_contact_summary">Infos de contacts et photos de profils</string>
+  <string name="micloud_setting_contact_summary">Infos et photos des contacts</string>
   <string name="micloud_setting_gallery_summary">Photos et vidéos</string>
   <string name="micloud_setting_music_summary">Playlists et favoris</string>
   <string name="micloud_setting_sms_summary">Messages SMS et MMS</string>
-  <string name="micloud_setting_wifi_summary">Réglages Wi-Fi</string>
+  <string name="micloud_setting_wifi_summary">Réglages et mots de passe Wi-Fi</string>
   <string name="micloud_web_discription_international">Allez sur www.mi.com/micloud</string>
   <string name="mx_dspt_provision_privacy">"Cette fonction nécessite votre numéro de téléphone. Votre opérateur peut potentiellement vous facturer un SMS pour son activation.
 
