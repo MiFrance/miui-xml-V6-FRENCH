@@ -468,7 +468,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="keep_local_btn">Sauvegarder sur le téléphone uniquement</string>
   <string name="label_custom_type">Perso</string>
   <string name="label_duplicate_count">(%1$d)</string>
-  <string name="label_no_duplicate_contacts">Aucun contacts en double</string>
+  <string name="label_no_duplicate_contacts">Aucun contact en double</string>
   <string name="label_notes">Notes</string>
   <string name="label_sip_address">Appel SIP</string>
   <string name="launcherDialer">Téléphone</string>
@@ -780,7 +780,9 @@ Pour ajouter un contact à la liste de favoris :
   <string name="relationLabelsGroup">Relation</string>
   <string name="removePhoto">Supprimer la photo</string>
   <string name="remove_blacklist">Retirer le la liste noire</string>
-  <string name="remove_duplicate">"MIUI vous aidera à trouver et fusionner les contacts en double, ils ne seront pas fusionnées automatiquement. Pour les fusionner vous devez le faire manuellement"</string>
+  <string name="remove_duplicate">"MIUI va vous aider à trouver et fusionner les contacts en double.
+
+Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Navigateur de ressources</string>
   <string name="resource_apply">Appliquer</string>
