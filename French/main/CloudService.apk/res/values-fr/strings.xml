@@ -271,7 +271,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="share_success">Partage effectué</string>
   <string name="share_weibo_not_installed">Weibo n\'est pas installé.</string>
   <string name="share_weixin_not_installed">Wechat n\'est pas installé.</string>
-  <string name="sina_share_fail">Echec de l\'envoi</string>
+  <string name="sina_share_fail">Échec de l\'envoi</string>
   <string name="sina_share_fail_content_repeat">"Impossible de partager, le contenu existe déjà…"</string>
   <string name="sina_share_pendding">Envoi…</string>
   <string name="sina_share_success">Envoyé</string>

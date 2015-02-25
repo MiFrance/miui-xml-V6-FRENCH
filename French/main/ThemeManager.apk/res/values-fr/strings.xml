@@ -301,7 +301,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
 	 <string name="gift_presented">Envoyé</string>
 	 <string name="gift_purchase_success_dlg_content">%1$s acheté comme cadeau. Pour l\'envoyer, aller à la page thème de votre compte.</string>
 	 <string name="gift_purchase_success_dlg_title">Cadeau acheté</string>
-	 <string name="gift_purchased_endnote">A : %1$s</string>
+	 <string name="gift_purchased_endnote">À : %1$s</string>
 	 <string name="gift_purchased_list_empty">"Aucun cadeau envoyé. :("</string>
 	 <string name="gift_purchased_list_empty_with_received_list_empty">Aucun cadeau.</string>
 	 <string name="gift_received_endnote">De : %1$s (reçu %2$s)</string>

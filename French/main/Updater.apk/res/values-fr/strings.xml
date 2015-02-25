@@ -191,7 +191,7 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="set_installfail_full_msg">"Impossible de mettre à jour actuellement. Touchez \"OK\" pour rapporter l'erreur à nos ingénieurs."</string>
   <string name="set_installfail_msg">Télécharger cette mise à jour via votre connexion mobile augmentera votre consommation de données.</string>
   <string name="set_installfail_title">Essayez de télécharger à nouveau ?</string>
-  <string name="set_installfail_title_full">Echec de la mise à jour</string>
+  <string name="set_installfail_title_full">Échec de la mise à jour</string>
   <string name="set_network_msg">Se connecter à un réseau Wi-Fi pour télécharger cette mise à jour.</string>
   <string name="set_network_title">Connexion au réseau</string>
   <string name="sina_share_fail_content_repeat">"Partage impossible, le contenu existe déjà…"</string>
@@ -201,6 +201,6 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="download_again">Retélécharger</string>
   <string name="download_diff">Télécharger le diff</string>
   <string name="download_error">Erreur de téléchargement. Attendez une minute ou deux et essayez à nouveau.</string>
-  <string name="download_failed">"Echec du téléchargement"</string>
+  <string name="download_failed">"Échec du téléchargement"</string>
   <string name="get_current">Récupérer la version actuelle</string>
 </resources>

@@ -314,10 +314,10 @@ Tournez le téléphone, parlez au micro du haut, vous devriez entendre votre voi
 
 Tenez le téléphone comme si vous passiez un appel, parlez au micro principal, vous devriez entendre votre voix dans le haut-parleur frontal. Faite le test dans un environnement calme"</string>
   <string name="cit_tool_bluetooth_dut">Activation du mode de test Bluetooth</string>
-  <string name="cit_tool_bluetooth_le_tx_h">Activation du mode bluetooth de dissipation à faible puissance (2.480GHz)</string>
-  <string name="cit_tool_bluetooth_le_tx_l">Activation du mode bluetooth de dissipation à faible puissance (2.402GHz)</string>
-  <string name="cit_tool_bluetooth_tx_h">Activation du mode de test bluetooth de simple son (2.480GHz)</string>
-  <string name="cit_tool_bluetooth_tx_l">Activation du mode de test bluetooth de simple son (2.402GHz)</string>
+  <string name="cit_tool_bluetooth_le_tx_h">Activation du mode Bluetooth de dissipation à faible puissance (2.480GHz)</string>
+  <string name="cit_tool_bluetooth_le_tx_l">Activation du mode Bluetooth de dissipation à faible puissance (2.402GHz)</string>
+  <string name="cit_tool_bluetooth_tx_h">Activation du mode de test Bluetooth de simple son (2.480GHz)</string>
+  <string name="cit_tool_bluetooth_tx_l">Activation du mode de test Bluetooth de simple son (2.402GHz)</string>
   <string name="cit_tool_cal_camera">Outil de calibration de l\'appareil photo</string>
   <string name="cit_camera_calibration_summary">"Instructions du test:
 

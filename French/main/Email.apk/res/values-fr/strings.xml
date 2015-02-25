@@ -276,7 +276,7 @@
   <string name="debug_clear_webview_cache">Vider le cache</string>
   <string name="debug_disable_graphics_acceleration_label">Désactiver l\'accélération graphique</string>
   <string name="debug_enable_debug_logging_label">Activer le mode débogage avancé ?</string>
-  <string name="debug_enable_file_logging_label">Activer la journalisation de carte sd ?</string>
+  <string name="debug_enable_file_logging_label">Activer la journalisation de carte SD ?</string>
   <string name="debug_enable_strict_mode_label">Activer le mode strict (avec journalisation)</string>
   <string name="debug_enable_verbose_logging_label">Activer la journalisation détaillée ?</string>
   <string name="debug_force_one_minute_refresh_label">Forcer l\'actualisation toutes les minutes pour les comptes POP/IMAP</string>
@@ -859,9 +859,6 @@ Taille du patch Delta : %2$s"</string>
   <string name="head_only_enable_dialog_positive">Accepter</string>
   <string name="head_only_enable_dialog_title">Économiseur de trafic</string>
   <string name="hide_atts_remaining">Masquer %1$d pièces-jointes</string>
-  <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
-  <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
-  <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="inline_picture_deleted">"Image non trouvée, téléchargement…"</string>
   <string name="inline_picture_download_complete">téléchargement de l\'image terminé</string>
   <string name="invalid_recipient_title">Destinataire invalide</string>
@@ -912,5 +909,5 @@ Taille du patch Delta : %2$s"</string>
   <string name="search_tabs_name_subject">Sujet</string>
   <string name="outbox_alert_rw_io_error">Erreur de lecture/écriture du message, essayez d\'écrire et d\'envoyer à nouveau</string>
   <string name="outbox_alert_certificate_error">Erreur de certificat du message, veuillez le mettre à jour</string>
-  <string name="save_draft_failed">Echec d\'enregistrement du brouillon</string>
+  <string name="save_draft_failed">Échec d\'enregistrement du brouillon</string>
 </resources>

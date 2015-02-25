@@ -956,12 +956,12 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="network_type_2g">2G</string>
   <string name="network_type_3g">3G</string>
   <string name="network_type_4g">4G</string>
-  <string name="memberStatus">Etat</string>
+  <string name="memberStatus">État</string>
   <string name="end_call_because_can_not_hold">"Terminer l'appel courant, car il ne peut être mis en attente."</string>
   <string name="confirm_save_info_saved_to">L\'enregistrement a été sauvegardé dans</string>
   <string name="cipher_indication_notification_message">Le cryptage de voix est désactivé par ce réseau</string>
   <string name="cipher_indication_notification_title">Pas de cryptage de voix</string>
-  <string name="conference_member_add_fail">Echec d\'ajout de %s .</string>
+  <string name="conference_member_add_fail">Échec d\'ajout de %s.</string>
   <string name="conference_member_adding">Ajout de %s ...</string>
   <string name="conference_member_join">%s a rejoint la conférence.</string>
   <string name="conference_member_leave">%s a quitté la conférence.</string>
