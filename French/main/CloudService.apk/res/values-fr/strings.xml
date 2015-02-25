@@ -250,7 +250,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_setting_browser_summary">Marque-pages, historique et onglets</string>
   <string name="micloud_setting_contact_summary">Infos de contacts et photos de profils</string>
   <string name="micloud_setting_gallery_summary">Photos et vidéos</string>
-  <string name="micloud_setting_music_summary">Listes de lecture et favoris</string>
+  <string name="micloud_setting_music_summary">Playlists et favoris</string>
   <string name="micloud_setting_sms_summary">Messages SMS et MMS</string>
   <string name="micloud_setting_wifi_summary">Réglages Wi-Fi</string>
   <string name="micloud_web_discription_international">Allez sur www.mi.com/micloud</string>
