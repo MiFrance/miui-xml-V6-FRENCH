@@ -49,7 +49,7 @@
   <string name="system_option">Paramètres système</string>
   <string name="incognito_mode">Mode incognito</string>
   <string name="loading">Chargement…</string>
-  <string name="more">More</string>
+  <string name="more">Plus</string>
   <string name="nav_screen_settings">Paramètres</string>
   <string name="night_mode">Mode nuit</string>
   <string name="find_in_page">Rechercher sur la page</string>
@@ -61,8 +61,8 @@
   <string name="contextmenu_popupwindow_copyLink">Copier l\'URL du lien</string>
   <string name="contextmenu_popupwindow_dial">Appeler</string>
   <string name="contextmenu_popupwindow_map">Positionner</string>
-  <string name="contextmenu_popupwindow_openLinkBackground">Ouvrir dans un onglet en arrière-plan</string>
-  <string name="contextmenu_popupwindow_openLinkNewTab">Ouvrir dans un onglet en premier plan</string>
+  <string name="contextmenu_popupwindow_openLinkBackground">Ouvrir dans un onglet en arr.-plan</string>
+  <string name="contextmenu_popupwindow_openLinkNewTab">Ouvrir dans un onglet</string>
   <string name="contextmenu_popupwindow_selectText">Sélectionner le texte</string>
   <string name="contextmenu_popupwindow_sendMail">Envoyer</string>
   <string name="contextmenu_popupwindow_viewImage">Afficher l\'image</string>
@@ -86,7 +86,7 @@
   <string name="browser_filechooser_title">Choisir un fichier à uploader</string>
   <string name="browser_no_more_tab">Plus d\'onglet</string>
   <string name="change_mode">Changer les modes</string>
-  <string name="download_fail">";Téléchargement échoué";</string>
+  <string name="download_fail">"Téléchargement échoué"</string>
   <string name="download_managent">Téléchargements</string>
   <string name="download_nosdcard">Insérez une carte SD pour télécharger %s.</string>
   <string name="download_nosdcard_title">Pas de carte SD</string>
@@ -98,12 +98,12 @@
   <string name="pulldownheaderlayout_canpulldown">Relâchez pour actualiser</string>
   <string name="pulldownheaderlayout_loading">Actualisation…</string>
   <string name="pulldownheaderlayout_nocanpulldown">Faites glisser vers le bas pour actualiser</string>
-  <string name="readmode_footer_error_message">";Impossible de charger la page";</string>
+  <string name="readmode_footer_error_message">"Impossible de charger la page"</string>
   <string name="readmode_footer_last_page">Ceci est la dernière page</string>
   <string name="readmode_footer_refresh_message">Actualiser</string>
   <string name="readmode_settings_fonttitle">Tailler du texte</string>
   <string name="readmode_settings_themetitle">Arrière-plan</string>
-  <string name="unsecurity_url_toast">";Ce site n'est pas fiable";</string>
+  <string name="unsecurity_url_toast">"Ce site n'est pas fiable"</string>
   <string name="video_history">Vidéos</string>
   
   

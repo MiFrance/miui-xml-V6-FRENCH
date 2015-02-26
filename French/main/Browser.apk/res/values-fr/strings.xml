@@ -80,10 +80,10 @@
   <string name="bookmark_not_saved">"Impossible d'enregistrer le favori."</string>
   <string name="bookmark_page">Ajouter la dernière page consultée</string>
   <string name="bookmark_saved">Enregistré dans les favoris</string>
-  <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture des favoris</string>
+  <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture</string>
   <string name="bookmark_title">Nom du favori</string>
-  <string name="bookmark_to_readmodelist_not_saved">Impossible d\'enregistrer la liste de lecture des favoris.</string>
-  <string name="bookmark_to_readmodelist_saved">Enregistré dans liste de lecture des favoris.</string>
+  <string name="bookmark_to_readmodelist_not_saved">Impossible d\'ajouter à la liste de lecture</string>
+  <string name="bookmark_to_readmodelist_saved">Enregistré dans liste de lecture</string>
   <string name="bookmark_url">URL</string>
   <string name="bookmark_url_not_valid">"Cette URL n'est pas valide."</string>
   <string name="bookmarks">Favoris</string>
@@ -212,7 +212,7 @@
   <string name="is_page_bottom">Vous êtes en bas de la page</string>
   <string name="is_page_top">Vous êtes en haut de la page</string>
   <string name="js_engine_flags">Définir des indicateurs du moteur JS</string>
-  <string name="local_bookmarks">Favoris locaux</string>
+  <string name="local_bookmarks">Mi</string>
   <string name="location">Adresse</string>
   <string name="max_tabs_warning">Plus aucun onglet n\'est disponible.</string>
   <string name="menu_addtodesk">Ajouter au bureau</string>
@@ -280,7 +280,7 @@
   <string name="pref_content_open_in_background">Ouvrir en arrière-plan</string>
   <string name="pref_content_open_in_background_summary">Ouvrir le nouvel onglet derrière l\'onglet actuel</string>
   <string name="pref_content_plugins">Activer les plugins</string>
-  <string name="pref_content_search_engine">Définir le moteur de recherche</string>
+  <string name="pref_content_search_engine">Moteur de recherche dans la barre d\'adresse</string>
   <string name="pref_content_search_engine_summary">Sélectionner un moteur de recherche</string>
   <string name="pref_content_title">Contenu de la page</string>
   <string name="pref_data_preload_dialogtitle">Préchargement des résultats de recherche</string>
@@ -316,8 +316,8 @@
   <string name="pref_file_downlaod_save_reset_default_settings">Valeur par défaut</string>
   <string name="pref_file_download_save_modify_default_path">Modifier le chemin par défaut</string>
   <string name="pref_file_download_save_title">Télécharger et sauvegarder des fichiers</string>
-  <string name="pref_fling_on_border_enabled">Glisser sur le bord</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Glisser sur le bord de l\'écran pour changer d\'onglet</string>
+  <string name="pref_fling_on_border_enabled">Glisser pour changer d\'onglet</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Glisser depuis le coin droit ou gauche de l\'écran pour changer d\'onglet</string>
   <string name="pref_font_size_category">Taille de la police</string>
   <string name="pref_force_userscalable">Forcer activation du zoom</string>
   <string name="pref_force_userscalable_summary">"Ignorer la demande du site Web de contrôler le zoom"</string>
@@ -493,7 +493,7 @@
   <string name="webstorage_origin_summary_mb_stored">Mo stockés sur votre appareil</string>
   <string name="webstorage_outofspace_notification_text">Appuyer pour libérer de l\'espace.</string>
   <string name="webstorage_outofspace_notification_title">Espace de stockage du navigateur saturé</string>
-  <string name="miui_quicksearch_enable_pref_summary">Toujours afficher la Recherche rapide dans le menu déroulant</string>
+  <string name="miui_quicksearch_enable_pref_summary">Afficher la Recherche rapide dans le menu déroulant</string>
   <string name="miui_quicksearch_enable_pref_title">Recherche rapide dans le menu déroulant</string>
   <string name="miui_search_notification_message">Ouvrir la Recherche rapide</string>
   <string name="miui_search_notification_title">Recherche</string>
@@ -629,7 +629,7 @@
   <string name="account_prifix">"Compte : "</string>
   <string name="miui_autologin_bar_error">Impossible de se connecter, veuillez réessayer.</string>
   <string name="pref_adblock_title">Bloqueur de publicités</string>
-  <string name="pref_enable_adblock_notification">Notification</string>
+  <string name="pref_enable_adblock_notification">Aficher les notification</string>
   <string name="pref_clear_adblock_statistics">Effacer les statistiques</string>
   <string name="pref_adblock_counts">Total : %d publicités bloquées</string>
   <string name="pref_clear_adblock_statistics_dlg">Réinitialiser le compteur ?</string>
@@ -651,13 +651,13 @@
   <string name="miui_bookmark_action_bar_add_group_title">Ajouter un groupe</string>
   <string name="miui_bookmark_action_bar_new_group_title">Nouveau groupe</string>
   <string name="miui_bookmark_menu_moveout_group_txt">Retirer du groupe</string>
-  <string name="add_to_quicklink">Ajouter à la page d\'accueil</string>
-  <string name="add_to_bookmark">Ajouter aux favoris</string>
+  <string name="add_to_quicklink">Page d\'accueil</string>
+  <string name="add_to_bookmark">Favoris</string>
   <string name="edit_quicklink">Modifier</string>
   <string name="quicklink_saved">Ajouté à la page d\'accueil</string>
   <string name="quicklink_not_saved">Impossible d\'ajouter sur la page d\'accueil</string>
   <string name="add_quicklinks">Ajouter</string>
-  <string name="add_ql_bm_title">Enregistrer</string>
+  <string name="add_ql_bm_title">Ajouter</string>
   <string name="add_to_desk">Ajouter sur l\'écran d\'accueil</string>
   <string name="add_to_desk_success">Ajouté sur l\'écran d\'accueil</string>
   <string name="action_menu_text_bookmark">Ajouter favori</string>
@@ -678,7 +678,7 @@
   <string name="sub_sync_item_browser_title_bookmark">Synchroniser les favoris</string>
   <string name="sub_sync_item_browser_title_bookmark_summary">Synchronise les favoris du navigateur</string>
   <string name="enter_incongnito_mode">Mode incognito</string>
-  <string name="pref_volume_key_action">Boutons de volume : page précédente/suivante</string>
+  <string name="pref_volume_key_action">Défiler avec le boutons volume</string>
   <string name="pref_other_title">Autres</string>
   <string name="pref_clear_data_title">Effacer les données</string>
   <string name="pref_clear_all_data_title">Tout effacer</string>

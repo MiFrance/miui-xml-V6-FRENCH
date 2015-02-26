@@ -45,7 +45,7 @@
   <string name="camera_settings_label">Appareil photo</string>
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
-  <string name="cannot_connect_camera_once">"Impossible de se connecter à l\'appareil photo, veuillez le redémarrer"</string>
+  <string name="cannot_connect_camera_once">"Impossible de se connecter à l\'appareil photo"</string>
   <string name="cannot_connect_camera_twice">"Impossible de se connecter à l\'appareil photo, veuillez redémarrer votre appareil"</string>
   <string name="clear_effects">Effacer les effets</string>
   <string name="close">Fermer</string>
@@ -388,7 +388,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 secondes (90 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 secondes (900 fois)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalle de temps</string>
-  <string name="preparing_sd">Préparation du stockage…</string>
+  <string name="preparing_sd">Vérification du stockage…</string>
   <string name="qq_details">Détails QQ :</string>
   <string name="qr_code_details">"Détails code QR : "</string>
   <string name="raw_data_exit_button_text">Quitter le mode RAW</string>
@@ -445,7 +445,7 @@
   <string name="times">Heures</string>
   <string name="title">Titre</string>
   <string name="toast_burst_snap_finished_end">Photos prises</string>
-  <string name="toast_burst_snap_finished_start">Rafale finie</string>
+  <string name="toast_burst_snap_finished_start">Mode rafale</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Le mode rafale n\'est pas supporté lorsque le déclenchement audio est activée.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">"La prise de photos en rafale n'est pas supportée quand le mode beauté du visage est actif."</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Le mode rafale n\'est pas supporté lorsque le HDR est activé.</string>

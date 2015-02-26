@@ -218,7 +218,7 @@
   <string name="tab_local_folder_list">Dossiers</string>
   <string name="empty_page_no_album">Aucun album</string>
   <string name="empty_page_no_artist">Aucun artiste</string>
-  <string name="empty_page_no_document">Aucun fichier</string>
+  <string name="empty_page_no_document">Aucun fichier audio</string>
   <string name="empty_page_no_track">Aucune piste</string>
   <string name="add_music">Ajouter des pistes</string>
   <string name="set_as_ring">Définir comme sonnerie</string>

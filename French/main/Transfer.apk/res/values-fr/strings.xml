@@ -4,7 +4,7 @@
 <resources>
   <string name="device_edit_title">Renommer l\'appareil</string>
   <string name="about_to_receive">Réception</string>
-  <string name="about_to_send">Envoyer un fichier</string>
+  <string name="about_to_send">Envoyer</string>
   <string name="app_name">Transfert</string>
   <string name="button_last">Commencer</string>
   <string name="button_next">Suivant</string>
@@ -50,11 +50,11 @@
   <string name="no_content">Aucun contenu</string>
   <string name="no_selected">Aucun fichier sélectionné</string>
   <string name="no_transfer_history">Aucun historique de transfert</string>
-  <string name="noti_completed">Terminé, %1$d/%2$d fichier(s) transféré(s)</string>
-  <string name="noti_receiving">%1$s : Réception de %2$d/%3$d fichier(s)</string>
-  <string name="noti_sending">%1$s : Envoi de %2$d/%3$d fichier(s)</string>
-  <string name="noti_wait_receive">En attente de réception de fichier(s)</string>
-  <string name="noti_wait_send">"Attente de réception de fichier(s), veuillez vous assurer que l\'envoyeur a activé la connexion et peut envoyer des fichiers "</string>
+  <string name="noti_completed">Terminé. Fichiers transférés : %1$d/%2$d</string>
+  <string name="noti_receiving">%1$s : Réception de fichiers %2$d/%3$d</string>
+  <string name="noti_sending">%1$s : Envoi de fichiers %2$d/%3$d</string>
+  <string name="noti_wait_receive">En attente de réception</string>
+  <string name="noti_wait_send">"Attente de réception, veuillez vous assurer que l\'envoyeur a activé la connexion et peut envoyer des fichiers "</string>
   <string name="ok">OK</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_goto_folder">Aller au dossier</string>
@@ -63,12 +63,12 @@
   <string name="picker_title">Choisir l\'app</string>
   <string name="receive">Recevoir</string>
   <string name="receive_cancel_tip">Réception inachevée. Êtes-vous sûr de vouloir arrêter le transfert et quitter ?</string>
-  <string name="receive_cancel_tip2">Annulation de la réception. %1$d/%2$d fichier(s) reçu(s)</string>
+  <string name="receive_cancel_tip2">Annulation de la réception. Fichiers reçus : %1$d/%2$d </string>
   <string name="receive_canceled">Annulé</string>
   <string name="receive_cannot_created_file">Échec de la création de fichier</string>
-  <string name="receive_files">Réception de fichier(s)</string>
+  <string name="receive_files">Réception</string>
   <string name="receive_finish">Réception terminée</string>
-  <string name="receive_finish_tip">$1%d fichiers(s) reçus :</string>
+  <string name="receive_finish_tip">$1%d fichiers(s) reçus de :</string>
   <string name="receive_from">Réception de :</string>
   <string name="receive_store">Sauver le fichier vers :</string>
   <string name="receive_tip">Pour un appareillage rapide et une file d\'attente de transmission efficace.</string>
@@ -86,8 +86,8 @@ et peut recevoir des fichiers"</string>
   <string name="send">Envoyer</string>
   <string name="send_2d_code">Envoyer un code 2D</string>
   <string name="send_cancel_tip">Transfert inachevé. Êtes-vous sûr de vouloir arrêter le transfert et quitter ?</string>
-  <string name="send_cancel_tip2">Annulation de l\'envoi. %1$d/%2$d fichier(s) envoyés</string>
-  <string name="send_files">Envoi de %1$d fichier(s)</string>
+  <string name="send_cancel_tip2">Annulation de l\'envoi. Fichiers envoyés : %1$d/%2$d</string>
+  <string name="send_files">Envoi de fichiers : %1$d</string>
   <string name="send_finish">Fichier envoyé !</string>
   <string name="send_finish_tip">%1$d fichier(s) envoyé(s) à :</string>
   <string name="send_nfc">Envoyer via NFC</string>
@@ -120,7 +120,7 @@ et peut recevoir des fichiers"</string>
   <string name="use_start">Commencer maintenant</string>
   <string name="voice_assist_match">Couplage automatique rapide</string>
   <string name="voice_match">Couplage automatique…</string>
-  <string name="waiting_receive">En attente de réception…</string>
+  <string name="waiting_receive">En attente…</string>
   <string name="wanna_receive">Recevoir</string>
   <string name="welcome_tip1">Transférez des fichiers rapidement sans utilisation de données mobiles</string>
   <string name="welcome_tip2">Partagez des images, des musiques, des contacts et bien plus encore !</string>

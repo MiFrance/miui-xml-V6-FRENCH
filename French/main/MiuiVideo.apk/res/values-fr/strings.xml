@@ -129,7 +129,7 @@
   <string name="dlna_name">Appareil partagé</string>
   <string name="dlna_list_name">Appareil DLNA</string>
   <string name="download_is_success">Téléchargement terminé</string>
-  <string name="receive_mipush">Notifications Mi push</string>
+  <string name="receive_mipush">Notifications de nouvelles vidéos</string>
   <string name="receive_mipush_summary">Afficher des notifications en cas de disponibilité de nouveaux contenus</string>
   <string name="mipush_setting">Notifications Mi</string>
   <string name="defaults">Par défaut</string>
