@@ -12,7 +12,7 @@
   <string name="group_name_family">Famille</string>
   <string name="group_name_friends">Amis</string>
   <string name="yellowpage_navigation_search_hint">Rechercher</string>
-  <string name="progress_notifier_message" formatted="false">Importation  %s/%s : %s</string>
+  <string name="progress_notifier_message" formatted="false">Importation %s/%s : %s</string>
   <string name="pick_favorites_contacts_list_title">%1$d favoris</string>
   <string name="pick_favorites_list_title">%1$d favoris</string>
   <string name="pick_recent_contacts_list_title">%1$d contacts récents</string>
