@@ -314,8 +314,7 @@
   <string name="vp_support_by">Support effectué par %1$s</string>
   <string name="vp_toast_downloadapk">Téléchargement en tâche de fond…</string>
   <string name="cnlive">cnlive</string>
-  <string name="declaration_content_td_custom">Acceptez-vous la connexion à internet en utilisant la vidéo ?</string>
-  <string name="about_version">1.0.1</string>
+  <string name="declaration_content_td_custom">Cette application requiert l\'accès à internet afin de vous permettre de visionner des vidéos, acceptez-vous ?</string>
   <string name="bestv">Bestv</string>
   <string name="datastream_alert_download">Utiliser votre connexion mobile pour télécharger des vidéos augmentera votre consommation de données. En cas de dépassement, votre opérateur peut vous facturer des frais supplémentaires.</string>
   <string name="datastream_alert_hint">Vous pouvez désactiver les notifications d\'utilisation de données à tout moment dans les Paramètres.</string>

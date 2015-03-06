@@ -912,7 +912,7 @@
     <string name="remind">Reminder</string>
     <string name="quit_hint">Quitter Mi Home?</string>
     <string name="splash_loading">Connexion…</string>
-    <string name="splash_promotion_jump">Ignorer</string>
+    <string name="splash_promotion_jump">Passer</string>
     <string name="login_xiaomi_account_login">Sign in to your Mi Account</string>
     <string name="login_xiaomi_account_login_link"><u>Sign in to your Mi Account</u></string>
     <string name="login_local_admin_account_login">Sign in to admin account</string>
@@ -1076,7 +1076,7 @@
     <string name="smarthome_scene_detail">Détails</string>
     <string name="smarthome_aircon_temperature">%d°</string>
     <string name="smarthome_aircon_temperature_default">--</string>
-    <string name="complete">Finished</string>
+    <string name="complete">OK</string>
     <string name="edit">Modifier</string>
     <string name="delete">Vider l\'historique</string>
     <string name="smarthome_scene_execute">Run</string>
@@ -1356,7 +1356,7 @@
     <string name="miio_setting_upgrade">Vérifier les mises jour</string>
     <string name="miio_setting_upgrade_checking">Vérification…</string>
     <string name="miio_setting_logout">Déconnexion</string>
-    <string name="miio_setting_about">A propos</string>
+    <string name="miio_setting_about">À propos</string>
     <string name="scene_enable">启动</string>
     <string name="miio_twingkle">闪烁</string>
     <string name="miio_unknown">暂不支持该设备类型</string>

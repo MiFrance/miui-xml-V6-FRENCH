@@ -167,8 +167,8 @@ Vous pourrez le faire mardi prochain"</string>
   <string name="clean_up_button">Nettoyer</string>
   <string name="important_suggestion">Politique de confidentialité modifiée</string>
   <string name="not_open">Plus tard</string>
-  <string name="notification_load_body_alpha">Télécharger les dernières mises à jour.</string>
-  <string name="notification_load_body_dev">Télécharger les dernières mises à jour.</string>
+  <string name="notification_load_body_alpha">Pour recevoir les dernières mises à jour</string>
+  <string name="notification_load_body_dev">Pour recevoir les dernières mises à jour</string>
   <string name="notification_load_title_alpha">Connexion à votre compte Mi</string>
   <string name="notification_load_title_dev">Connexion à votre compte Mi</string>
   <string name="notification_reboot_summary_hm">Toucher pour redémarrer.</string>

@@ -12,7 +12,7 @@
   <string name="other_settings_user_experience">Programme d\'expérience utilisateur</string>
   <string name="other_settings_user_experience_summary">"Envoyer des statistiques anonymes à Xiaomi (%s)"</string>
   <string name="welcome">Bienvenue</string>
-  <string name="other_settings_user_experience_summary1">(politique de confidentialité)</string>
+  <string name="other_settings_user_experience_summary1">politique de confidentialité</string>
   <string name="sim_card_detection">Carte SIM non détectée</string>
   <string name="sim_card_detection_info">Une carte SIM est requise pour créer un compte Mi.</string>
   <string name="sim_card_detecting">Détection de la carte SIM…</string>
@@ -51,5 +51,5 @@
   <string name="page_layout_title">Mise en place système</string>
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Redémarrer</string>
-  <string name="title_congratulation">"Tout est fin prêt ;-)!"</string>
+  <string name="title_congratulation">"Tout est fin prêt !"</string>
 </resources>
