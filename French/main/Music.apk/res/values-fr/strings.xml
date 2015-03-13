@@ -292,8 +292,21 @@
   <string name="song_name">Chanson</string>
   <string name="start_to_play">Lecture</string>
   <string name="stream_quality">Qualité du flux</string>
-	<string name="no_album_info">Aucune information sur l\'album</string>
-	<string name="no_artist_info">Aucune information sur l\'artiste</string>
-	<string name="search_for_artist">Artiste</string>
-	<string name="support_online_only">Support uniquement en ligne</string>
+  <string name="no_album_info">Aucune information sur l\'album</string>
+  <string name="no_artist_info">Aucune information sur l\'artiste</string>
+  <string name="search_for_artist">Artiste</string>
+  <string name="support_online_only">Support uniquement en ligne</string>
+  <string name="search_for_album">Album</string>
+  <string name="fragment_title_personal">Personnel</string>
+  <string name="impunity_declaration_negative_text">Quitter</string>
+  <string name="impunity_declaration_positive_text">OK</string>
+
+<!-- à traduire 
+  <string name="click_to_view_new_local_audios">Tap to view details.</string>
+  <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
+  <string name="no_enough_info">Not enough song info</string>
+  <string name="server_error">Server error. Please try again later</string>
+  <string name="suggest_text">People who liked this also liked</string>
+  <string name="today_update">Music updated</string>
+ -->
 </resources>

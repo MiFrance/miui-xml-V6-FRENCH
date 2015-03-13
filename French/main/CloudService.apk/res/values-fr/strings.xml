@@ -240,7 +240,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="free_space_has_received">Vous avez déjà obtenu l`espace gratuit ce mois-ci</string>
   <string name="free_space_receive_fail">"Impossible de mettre à jour, ou déjà effectué"</string>
   <string name="cloud_space_upgrade_title">Obtenez de l\'espace Cloud gratuit !</string>
-  <string name="find_device_status_ok">Trouvez votre appareil où que vous soyez sur i.mi.com</string>
+  <string name="find_device_status_ok">Trouvez votre appareil où que vous soyez sur i.mi.com/micloud</string>
   <string name="micloud_check_sim_notify_text">"Il semble que vous ayez changé de carte(s) SIM. Identifiez-vous
   sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Réactiver Mi Cloud</string>
@@ -277,4 +277,17 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="sina_share_success">Envoyé</string>
   <string name="sina_token_expired_warning">Le compte Weibo a expiré: veuillez vous reconnecter</string>
   <string name="sina_token_invalid_warning">Le compte Weibo est invalide: veuillez vous reconnecter</string>
+  <string name="calendar_sync">Calendrier</string>
+  <string name="click_to_enabled">Appuyer pour synchroniser</string>
+  <string name="find_device_status_ok_international">Trouvez votre appareil où que vous soyez sur i.mi.com/micloud</string>
+  <string name="cloudservice_new_sync">Synchroniser %s avec Mi Cloud</string>
+  <string name="antispam_sync">Paramètres mode NPD</string>
+  <string name="micloud_main_sync_init">Réception de données</string>
+
+<!-- à traduire 
+  <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
+  <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
+-->
 </resources>

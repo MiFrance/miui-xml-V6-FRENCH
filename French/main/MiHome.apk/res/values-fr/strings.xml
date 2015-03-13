@@ -500,9 +500,7 @@
     <string name="format_year">yyyy年</string>
     <string name="closed">已关闭</string>
     <string name="yunyi_camera">Yi SmallAnts Camera</string>
-    <string name="play_in_mitv">
-<u>投影到电视</u>
-</string>
+    <string name="play_in_mitv"><u>投影到电视</u></string>
     <string name="no_install_ants_app">SmallAnts app is not installed</string>
     <string name="select_mitvs">选择投影设备</string>
     <string name="network_erro">网络连接失败</string>
@@ -596,7 +594,7 @@
     <string name="camera_video_quality_hd">HD</string>
     <string name="camera_video_quality_bq">SD</string>
     <string name="camera_realtime">Temps réel</string>
-    <string name="camera_max_record_time">已到最大录制时间</string>
+    <string name="camera_max_record_time">Maximum recording time has been reached</string>
     <string name="camera_not_support_play_record">Aucun carte SD détectée, vous ne pouvez pas utiliser cette fonction</string>
     <string name="camera_set_video_quality">Video resolution:</string>
     <string name="camera_set_video_save_time">Video saved time:</string>
@@ -609,8 +607,8 @@
     <string name="playVideo">Play video</string>
     <string name="pauseVideo">Pause video</string>
     <string name="stopVideo">Stop video</string>
-    <string name="prevVideo">前一部</string>
-    <string name="nextVideo">后一部</string>
+    <string name="prevVideo">Prev</string>
+    <string name="nextVideo">Next</string>
     <string name="connected">Connexion réussie !</string>
     <string name="connectFailed">Connection failed!</string>
     <string name="paused">Paused</string>
@@ -1006,7 +1004,7 @@
     <string name="plug_timer_del">Delete timer</string>
     <string name="plug_timer_delete">Delete</string>
     <string name="plug_timer_repeat">Repeat</string>
-    <string name="plug_timer_onetime">a</string>
+    <string name="plug_timer_onetime">Only once</string>
     <string name="plug_timer_today">Aujourd\'hui</string>
     <string name="plug_timer_tomorrow">Demain</string>
     <string name="plug_timer_everyday">Tous les jours</string>
@@ -1075,9 +1073,7 @@
     <string name="passport_binding_no_empty_tip">"This field can't be empty"</string>
     <string name="passport_prompt_login_fail">"Can't sign in to your Mi Account"</string>
     <string name="passport_login_retry_prompt">Try adding this Mi Account again?</string>
-    <string name="passport_login_retry_other_passport">
-<u>Use another Mi Account</u>
-</string>
+    <string name="passport_login_retry_other_passport"><u>Use another Mi Account</u></string>
     <string name="check_upgrading_error">"Couldn't check for updates"</string>
     <string name="app_latest_version_installed">Mi Home est à jour.</string>
     <string name="upgrade_pkg_downloading_title_smarthome">Téléchargement…</string>
@@ -1093,13 +1089,9 @@
     <string name="splash_loading">Connexion…</string>
     <string name="splash_promotion_jump">Passer</string>
     <string name="login_xiaomi_account_login">Sign in to your Mi Account</string>
-    <string name="login_xiaomi_account_login_link">
-<u>Sign in to your Mi Account</u>
-</string>
+    <string name="login_xiaomi_account_login_link"><u>Sign in to your Mi Account</u></string>
     <string name="login_local_admin_account_login">Sign in to admin account</string>
-    <string name="login_system_account_admin_password">
-<u>Sign in to admin account</u>
-</string>
+    <string name="login_system_account_admin_password"><u>Sign in to admin account</u></string>
     <string name="disclaim_title">Conditions d\'utilisation</string>
     <string name="disclaim_content">"By using this product, you are agreeing to our Terms of Service. Mi Home needs to connect to the internet, manage your device's Bluetooth settings, read your contacts' info, and access your location to work normally."</string>
     <string name="disclaim_remember">Ne plus afficher</string>
@@ -1113,9 +1105,7 @@
     <string name="m_s">Mo/s</string>
     <string name="k_s">Ko/s</string>
     <string name="login_system_login">Connexion</string>
-    <string name="login_change_account">
-<u>Changer de compte</u>
-</string>
+    <string name="login_change_account"><u>Changer de compte</u></string>
     <string name="login_account_hint">Email/Phone/Identifiant Mi</string>
     <string name="login_password_hint">Mot de passe</string>
     <string name="login_verify_code_hint">Code de vérification</string>
@@ -1607,7 +1597,7 @@
     <string name="button_bind_tips">Please %d click to open the key to complete the connection</string>
     <string name="bind_info">Please reset device and try again</string>
     <string name="bind_error_info">"1. Please check your network connection
- 2. Please click on the power button again to complete the connection"</string>
+2. Please click on the power button again to complete the connection"</string>
     <string name="bing_tips">View reset help</string>
     <string name="continue_nextstep">Suivant</string>
     <string name="refresh_list">Refresh list</string>
@@ -1731,7 +1721,7 @@
     <string name="wifi_connection_correct_1">2. Check if the WiFi password is correct</string>
     <string name="wifi_connection_correct_2">3. Try resetting device before connecting again</string>
     <string name="share_device_title">"Partage de périphériques intelligents avec des membres de la famille"</string>
-    <string name="network_disable">Network connection unavailable</string>
+    <string name="network_disable">Connexion réseau indisponible</string>
     <string name="search_new_device">发现附近可以连接的设备</string>
     <string name="select_device_title">Veuillez sélectionner un périphérique</string>
     <string name="intru_btn_text">了解详情</string>
@@ -1808,7 +1798,7 @@
     <string name="passcode_set_success">Password set successfully</string>
     <string name="passcode_disable_verify_msg">Veuillez saisir votre mot de passe</string>
     <string name="air_reset_title_text">空气净化器重置</string>
-    <string name="not_found_bracelet_app">未安装手环应用</string>
+    <string name="not_found_bracelet_app">L\'application Mi Fit n\'est pas installée</string>
     <string name="current_all_step">"Nombre de pas "</string>
     <string name="my_ble">Mi Band</string>
     <string name="mile">里</string>

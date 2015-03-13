@@ -11,7 +11,7 @@
   <string name="photo_size">"Taille "</string>
   <string name="bigscreen_video_quit">Appuyer pour quitter</string>
   <string name="home_page_tab_photo">Photos</string>
-  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_cloud">Mi Cloud</string>
   <string name="home_page_tab_local">Local</string>
   <string name="error_title">Erreur de synchronisation</string>
   <string name="error_unauthorized">Trop de tentatives de connexion : synchronisation désactivée.</string>
@@ -86,7 +86,7 @@
   <string name="camera_view_none_message">Les photos et vidéos prises s\'afficheront ici.</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_hint">L\'opération a été annulée</string>
-  <string name="cannot_delete_sharer_photo">Impossible de supprimer %s élément(s) envoyé(s) par d\'autres utilisateurs.</string>
+  <string name="cannot_delete_sharer_photo">Impossible de supprimer %s élément(s) ajouté(s) par d\'autres utilisateurs.</string>
   <string name="cannot_remove_creator">Impossible de supprimer le propriétaire</string>
   <string name="cannot_send_message">"Impossible d'envoyer le message"</string>
   <string name="cannot_send_message_reason">Votre message n\'a pas de destinataire valide</string>
@@ -161,7 +161,7 @@
   <string name="documentary">Documentaire</string>
   <string name="done">OK</string>
   <string name="doodle">Dessin</string>
-  <string name="doodle_tooltip">Dessiner sur la photo pour gribouiller</string>
+  <string name="doodle_tooltip">Toucher pour gribouiller</string>
   <string name="duotone">Deux tons</string>
   <string name="duration">"Durée "</string>
   <string name="edit">Modifier</string>
@@ -208,12 +208,12 @@
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Demi-cercle</string>
   <string name="frame_white">Blanc</string>
-  <string name="gallery_cloud_provider_name">Galerie</string>
+  <string name="gallery_cloud_provider_name">Photos Mi Cloud</string>
   <string name="gallery_setting">Galerie</string>
   <string name="get_album_info_in_process">"Demande d'informations de l'album partagé, veuillez patienter…"</string>
   <string name="global_setting">Paramètres</string>
   <string name="grain">Grain</string>
-  <string name="grayscale">N&amp;B</string>
+  <string name="grayscale">Niveaux de gris</string>
   <string name="group_by">Regrouper par</string>
   <string name="group_by_album">Par album</string>
   <string name="group_by_faces">Par personnes</string>
@@ -298,7 +298,7 @@
   <string name="open_public_message">Générer une URL et l\'envoyer à des amis</string>
   <string name="open_public_title">Partager publiquement</string>
   <string name="open_single_image_failure">Impossible d\'ouvrir le fichier image !</string>
-  <string name="open_sync_title">Synchronisation inactive</string>
+  <string name="open_sync_title">Synchronisation Mi Cloud</string>
   <string name="operation_delete_confirm_message_folder">"Les dossiers et fichiers seront supprimés en même temps. "</string>
   <string name="operation_failed">L\'opération a échoué !</string>
   <string name="operation_in_process">Traitement en cours…</string>
@@ -319,7 +319,7 @@
   <string name="photo_page_save_uri_image_fail">Impossible d\'enregistrer la photo.</string>
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
   <string name="photo_saved">Photo retouchée enregistrée dans %s.</string>
-  <string name="photoeditor_name">Mi Photo Studio</string>
+  <string name="photoeditor_name">Studio photo</string>
   <string name="photos">Photos</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="posterize">Postérisation</string>
@@ -426,7 +426,7 @@
   <string name="sync_album_error">Impossible de télécharger les photos de cet album. Veuillez réessayer plus tard.</string>
   <string name="sync_album_in_proecess">L\'album est actuellement en cours de synchronisation, veuillez patienter…</string>
   <string name="sync_album_set_error">Impossible de télécharger la liste des albums. Veuillez réessayer plus tard.</string>
-  <string name="sync_album_summary">Envoyer vos photos et captures d\'écran sur Mi Cloud.</string>
+  <string name="sync_album_summary">Synchronise vos photos et captures d\'écran avec Mi Cloud.</string>
   <string name="sync_history_power_on">Synchroniser lors de la charge</string>
   <string name="sync_only_in_wifi">Wi-Fi uniquement</string>
   <string name="sync_only_in_wifi_alert">Désactiver la synchronisation via Wi-Fi uniquement peut engendrer une consommation élevée de données mobiles.</string>
@@ -584,8 +584,8 @@
   <string name="paint_crop_tips">Pour obtenir une meilleure image, essayez d\'ajuster les points des zones d\'intérêt sur la grille.</string>
   <string name="same_name_album_exists_alert">Les photos seront transférées sur un album existant avec le même nom.</string>
   <string name="sdcard_root">Répertoire racine de la carte SD</string>
-  <string name="select_auto_upload_albums">Sélectionnez les albums à transférer</string>
-  <string name="sync_third_party_app_pic_summary">Transférer les photos d\'applications tierces sur votre Cloud automatiquement</string>
+  <string name="select_auto_upload_albums">Sélectionnez les albums à synchroniser</string>
+  <string name="sync_third_party_app_pic_summary">Transférer les photos d\'appslications tierces sur votre Cloud automatiquement</string>
   <string name="internal_sdcard_root">Répertoire racine de la carte SD interne</string>
   <string name="yunyi_pocket_camera">Pocket Camera</string>
   <string name="moman">Moman Camera</string>
@@ -596,5 +596,46 @@
   <string name="pocket_camera_video">Vidéos Pocket Camera</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="do_not_save">Ne pas enregistrer</string>
-  
+  <string name="adjust">Ajuster</string>
+  <string name="black_white">Noir &amp; blanc</string>
+  <string name="brannan">Matin</string>
+  <string name="camera_black_white">Noir &amp; blanc</string>
+  <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec l\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
+  <string name="cool">Froid</string>
+  <string name="cool_portrait">Portrait</string>
+  <string name="create_new_face">Nouveau visage</string>
+  <string name="early_bird">Brannan</string>
+  <string name="effect">Effet</string>
+  <string name="face_album">Personnes</string>
+  <string name="face_album_not_named">Sans titre</string>
+  <string name="face_album_rename_hint">Saisir le nom</string>
+  <string name="face_albumset_detecting_tip">Chargement…</string>
+  <string name="face_albumset_empty">Vide.</string>
+  <string name="face_albumset_use_tip">Utilisez la détection de visages pour trier les photos en fonction des personnes présentes</string>
+  <string name="face_move_dialog_title">Sélectionnez un album</string>
+  <string name="home_page_tab_face">Visage</string>
+  <string name="ignore_face">Ignorer cette personne</string>
+  <string name="impunity_declaration_positive_text">OK</string>
+  <string name="merge_album_positive_button_text">Fusionner</string>
+  <string name="name_wrong">"Ce n'est pas %s"</string>
+  <string name="old">Ancien</string>
+  <string name="operation_remove_from_face_album">Supprimer de cet album</string>
+  <string name="photo_save_succeed">Image enregistrée</string>
+  <string name="preparing_data">Chargement…</string>
+  <string name="qq">QQ</string>
+  <string name="qzone">QZone</string>
+  <string name="rename_face_album">Modifier le nom</string>
+  <string name="rename_fail_msg">Impossible de modifier le nom</string>
+  <string name="rise">Levant</string>
+  <string name="sina_weibo">Weibo</string>
+  <string name="square">Carré</string>
+  <string name="uc">UC</string>
+  <string name="view_face_album">Afficher l\'album</string>
+  <string name="wandoujia">SnapPea</string>
+  <string name="wechat">WeChat</string>
+  <string name="weibo">Weibo</string>
+  <string name="weixin">WeChat</string>
+  <string name="who_is_this">Qui est-ce ?</string>
+  <string name="wps">WPS</string>
+  <string name="start_to_use_face_albumset">Trier par personne</string>
 </resources>

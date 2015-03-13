@@ -45,4 +45,8 @@
     <item quantity="other">%d chansons similaires</item>
     <item quantity="one">%d chanson similaire</item>
   </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">%d pistes ajoutées</item>
+        <item quantity="one">%d piste ajoutée</item>
+     </plurals>
 </resources>

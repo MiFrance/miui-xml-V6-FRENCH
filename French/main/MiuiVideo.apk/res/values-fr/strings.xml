@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="app_recommend">Sélection</string>
   <string name="priority_storage">Utiliser la carte SD externe</string>
   <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>
   <string name="vp_unknown_source">Source inconnue</string>

@@ -1175,7 +1175,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="resource_has_been_downloaded">"Vous avez déjà téléchargé ce thème."</string>
   <string name="resource_no_match_app">Aucune application trouvée pour cette action.</string>
   <string name="resource_no_network_text">"Impossible de se connecter au réseau."</string>
-  <string name="resource_pack_get_auth_has_been_undercarriaged">Ce sujet n\'est plus disponible.</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Ce thème n\'est plus disponible.</string>
   <string name="resource_search_list_empty">Aucun résultat</string>
   <string name="resource_select_ringtone_confirm">Choisir cette sonnerie ?</string>
   <string name="resource_tip_select_none">Aucune sélection</string>
@@ -1195,4 +1195,6 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="yellowpage_navigation_search_result_average_price">Environ %d RMB </string>
   <string name="yellowpage_search_the_yellowpage">Chercher dans cet annuaire</string>
   <string name="yellowpage_navigation_clear_search_history">Effacer l\'historique</string>
+  <string name="yellowpage_navigation_search_history">Historique</string>
+  <string name="resource_tab_to_view">Appuyer pour afficher</string>
 </resources>

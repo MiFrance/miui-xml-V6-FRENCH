@@ -326,7 +326,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
 	 <string name="resource_has_been_downloaded">Thème déjà téléchargé.</string>
 	 <string name="resource_no_match_app">Aucune application pour gérer cette action.</string>
 	 <string name="resource_no_network_text">Impossible de se connecter au réseau.</string>
-	 <string name="resource_pack_get_auth_has_been_undercarriaged">Cet objet n\'est plus disponible.</string>
+	 <string name="resource_pack_get_auth_has_been_undercarriaged">Ce thème n\'est plus disponible.</string>
 	 <string name="resource_search_list_empty">Liste vide</string>
 	 <string name="resource_select_ringtone_confirm">Choisir ce son ?</string>
 	 <string name="resource_tip_select_none">Sélection vide</string>
@@ -340,4 +340,6 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
 	 <string name="theme_favorite_waiting">Un moment…</string>
 	 <string name="theme_purchased_list_empty">Vous n\'avez pas acheté de thèmes.</string>
 	 <string name="theme_purchased_non_local">En ligne</string>
+     <string name="gift_received_notification_title">%s vous a offert un thème</string>
+     <string name="resource_tab_to_view">Appuyer pour afficher</string>
 </resources>

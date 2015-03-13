@@ -533,4 +533,7 @@
   <string name="pref_simple_hdr_entry_off">Inactif</string>
   <string name="pref_simple_hdr_entry_on">Actif</string>
   <string name="pref_camera_asd_title">Détection auto de la scène</string>
+  <string name="pref_camera_peak_title">Intensification du focus</string>
+  <string name="pref_camera_peak_entry_off">Désactivé</string>
+  <string name="pref_camera_peak_entry_on">Activé</string>
 </resources>

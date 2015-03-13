@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="editing_mode_title">Sélectionnés : %1$d</string>
   <string name="group_folder">Nouveau dossier</string>
   <string name="group_live_folders">Dossiers</string>
   <string name="group_shortcuts">Raccourcis</string>

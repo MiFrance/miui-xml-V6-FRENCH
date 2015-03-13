@@ -818,4 +818,11 @@ Voulez-vous vraiment quitter cette page ?"</string>
      <string name="video_push_multi_title">Mises à jour disponibles</string>
      <string name="video_push_single_message">Mettre à jour vers %1$d</string>
      <string name="webviewchromium_private_browsing_warning">Cette fonctionnalité n\'est pas supportée par cette version d\'Android.</string>
+     <string name="action_menu_text_fullscreen">Plein écran</string>
+
+<!-- à traduire, affiché ou à vérifier ?
+     <string name="action_menu_text_bandwidth">Bandwidth</string>
+     <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
+     <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
+-->
 </resources>

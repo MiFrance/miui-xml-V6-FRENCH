@@ -7,7 +7,7 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "title": "Google",
+                    "title": "TEST",
                     "url": "http://www.google.com/"
                 }
             },
@@ -16,7 +16,7 @@
                 "deletable": true,
                 "recommend": false,
                 "site": {
-                    "title": "Picasa",
+                    "title": "O_o",
                     "url": "http://picasaweb.google.com/"
                 }
             },
