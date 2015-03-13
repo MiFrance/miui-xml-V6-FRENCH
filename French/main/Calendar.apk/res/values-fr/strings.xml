@@ -270,7 +270,7 @@
   <string name="can_not_modify_allday_event">"Impossible de modifier l'événement sur tous les jours"</string>
   <string name="can_not_modify_event">"Impossible de modifier l'événement"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Impossible de modifier l'événement multi-jours"</string>
-  <string name="xiaomi_calendar_display_name">Calendrier</string>
+  <string name="xiaomi_calendar_display_name">Compte Mi calendrier</string>
   <string name="edit_event_reminder_off_toast">Les rappels sont désactivés</string>
   <string name="from_google_group_calendar">Calendrier Google</string>
   <string name="repeat_activity_label">Répéter</string>

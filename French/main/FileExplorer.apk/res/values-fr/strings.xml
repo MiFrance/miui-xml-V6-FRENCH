@@ -319,7 +319,7 @@
   <string name="category_recent">Récent</string>
   <string name="mi_router_label">Mi Routeur</string>
   <string name="usb_label">USB</string>
-  <string name="no_display_file">"Impossible d'afficher%1$s"</string>
+  <string name="no_display_file">"Impossible d'afficher %1$s"</string>
   <string name="action_mode_deselect_all">Tout désélectionner</string>
   <string name="action_mode_select_all">Tout sélectionner</string>
   <string name="delete_selected_tasks">Supprimer la sélection ?</string>
