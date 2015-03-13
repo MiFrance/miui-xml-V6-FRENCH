@@ -26,25 +26,24 @@
   <string name="pref_traffic_saving_notify_switch_hint">Affiche les informations relatives à l\'économie de données dans le menu déroulant.</string>
   <string name="pref_traffic_saving_issue">F.A.Q.</string>
   <string name="pref_traffic_saving_issue_content">"Cette application permet d'économiser de données mobiles 2G et 3G en compressant les textes et les photos sur quasiment toute application de votre téléphone.
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;1. Cette application fouille-t-elle dans mes données privées ?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
+&lt;br />&lt;br />
+&lt;b>1. Cette application fouille-t-elle dans mes données privées ?&lt;/b>
+&lt;br />&lt;br />
 Non ! Les données privées sont envoyées en utilisant des connexions cryptées ne peuvent être pas optimisées. Donc, toutes vos données privées sont acheminées directement vers la destination souhaitée au lieu de transiter par les serveurs de compression. Nous n'analysons ni stockons aucune de vos données privées !
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;2. Quel est l'effet sur la consommation de la batterie ?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
+&lt;br />&lt;br />
+&lt;b>2. Quel est l'effet sur la consommation de la batterie ?&lt;/b>
+&lt;br />&lt;br />
 L'efficacité énergétique est un aspect dont nous nous soucions, et nous prévoyons d'autres optimisations dans ce domaine.
-&lt;br /&gt;&lt;br /&gt;
+&lt;br />&lt;br />
 Nos tests montrent que la consommation de la batterie avec la compression activée est quasiment identique par rapport à la même configuration sans.
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;3. Je ne vois aucune économie. Est-ce normal ?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
+&lt;br />&lt;br />
+&lt;b>3. Je ne vois aucune économie. Est-ce normal ?&lt;/b>
+&lt;br />&lt;br />
 La compression réalise des économies de données sur le texte et les images transférées via des connexions normales non cryptées.L\'application ne peut pas compresser le trafic binaire ou crypté (par exemple, les installations ou mises à jour d'applications de Google Play).
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;4. Pourrais-je optimiser le trafic Wi-Fi à l'avenir ?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
+&lt;br />&lt;br />
+&lt;b>4. Pourrais-je optimiser le trafic Wi-Fi à l'avenir ?&lt;/b>
+&lt;br />&lt;br />
 C'est une option que nous envisageons, en raison du nombre de demandes à ce sujet. Restez à l'écoute pour les mises à jour."</string>
-
   <string name="app_name">Moniteur</string>
   <string name="list_empty_text">Vide</string>
   <string name="firewall_activity_lable">Limiter l\'utilisation des données par application</string>
@@ -236,8 +235,8 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">Économisé ce mois-ci :</string>
   <string name="traffic_saving_history_total_month_default">Moyenne des économies mensuelles :</string>
-  <string name="traffic_saving_history_total_month_value">"Écoute de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; chansons / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; heures de chat / Lecture de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
-  <string name="traffic_saving_history_total_month_value_default">"Écoute de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; chansons / &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h de chat / Lecture de &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+  <string name="traffic_saving_history_total_month_value">"Écoute de &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> chansons / &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> heures de chat / Lecture de &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> articles"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Écoute de &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> chansons / &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font>h de chat / Lecture de &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> articles"</string>
   <string name="traffic_saving_history_total_rate">Taux</string>
   <string name="traffic_saving_whitelist_btn_add">Ajouter</string>
   <string name="traffic_saving_whitelist_btn_add_app">Ajouter</string>
@@ -429,7 +428,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="traffic_limit_error_alert_reset">Remettre à zéro</string>
   <string name="traffic_limit_error_alert_title">Rappel de limite conso %s</string>
   <string name="traffic_over_purchase_body">Touchez pour voir les détails.</string>
-  <string name="traffic_over_purchase_link">"Vous avez atteint votre limite conso mobile planifiée.&lt;br/&gt;Si vous dépassez cette limite, vous risquez des frais d'opérateur supplémentaires.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Augmenter maintenant et économiser 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Vous avez atteint votre limite conso mobile planifiée.&lt;br/>Si vous dépassez cette limite, vous risquez des frais d'opérateur supplémentaires.&lt;br/>&lt;br/>&lt;font color='#0000ff'>&lt;U>Augmenter maintenant et économiser 50%.&lt;/U>&lt;/font>"</string>
   <string name="traffic_over_purchase_title">Limite conso dépassée</string>
   <string name="traffic_purchase_body">Économiser 50% en augmentant maintenant.</string>
   <string name="traffic_purchse_suggestion">Il est temps d\'augmenter les données</string>
@@ -443,7 +442,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="traffic_setting_open">Actif</string>
   <string name="traffic_setting_step_num">Réglage de la planification de données</string>
   <string name="traffic_setting_update_template_falure">"Échec de connexion au réseau"</string>
-  <string name="traffic_warning_purchase_title">Le solde restant est inférieur à %d%%</string>
+  <string name="traffic_warning_purchase_title">Avertissement d\'usage des données mobiles</string>
   <string name="notify_weekly_pkg_body">%s utilisés cette semaine. Appuyer pour définir la limite.</string>
-  <string name="tc_sms_report_receive_content_null">"Aidez-nous à améliorer cette fonction!&lt;br/&gt;Voici comment:&lt;br/&gt;1. Allez dans \"Vérifier le SMS de commande\" et \"Numéro du destinataire\"&lt;br/&gt;2. Tapez \"Récupérer le modèle SMS\"&lt;br/&gt;3. Attendez la réception du SMS par votre opérateur &lt;br/&gt;4. Tapez \"Envoyer à MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"Aidez-nous à améliorer cette fonction!&lt;br/>Voici comment:&lt;br/>1. Allez dans \"Vérifier le SMS de commande\" et \"Numéro du destinataire\"&lt;br/>2. Tapez \"Récupérer le modèle SMS\"&lt;br/>3. Attendez la réception du SMS par votre opérateur &lt;br/>4. Tapez \"Envoyer à MIUI\"​"</string>
 </resources>
