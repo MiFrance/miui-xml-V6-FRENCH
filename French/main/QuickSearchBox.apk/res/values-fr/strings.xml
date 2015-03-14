@@ -44,8 +44,7 @@
   <string name="google_settings_category_title">Recherche Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="menu_help">Aide</string>
-  <!-- menu_settings affiché a la place de search_settings ? -->
-  <string name="menu_settings">Rechercher dans les paramètres</string>
+  <string name="menu_settings">Paramètres de recherche</string>
   <string name="remove_from_history">Supprimer de l\'historique des recherches ?</string>
   <string name="remove_from_history_failed">Impossible de supprimer l\'élément de l\'historique.</string>
   <string name="search_in_app_store">Rechercher sur le market</string>

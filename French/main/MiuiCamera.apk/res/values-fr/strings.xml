@@ -250,7 +250,7 @@
   <string name="pref_camera_histogram_entry_disable">Désactiver</string>
   <string name="pref_camera_histogram_entry_enable">Activer</string>
   <string name="pref_camera_histogram_title">Histogramme</string>
-  <string name="pref_camera_iso_entry_auto">Automatique</string>
+  <string name="pref_camera_iso_entry_auto">Auto</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>
   <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
   <string name="pref_camera_iso_entry_iso200">ISO200</string>

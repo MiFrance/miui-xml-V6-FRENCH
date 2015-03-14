@@ -1460,7 +1460,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="search_bluetooth">Bluetooth</string>
   <string name="search_brightness">Luminosité</string>
   <string name="search_date_time">Date/heure</string>
-  <string name="search_description">Paramètres de recherche</string>
+  <string name="search_description">Rechercher dans les paramètres</string>
   <string name="search_gps">GPS</string>
   <string name="search_hint">Paramètres de recherche</string>
   <string name="search_key">Clé</string>
@@ -2953,8 +2953,8 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="wifi_off_airplane_on_not_remind">"Ne plus afficher"</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi en mode Avion</string>
   <string name="wifi_datanetwork_switch_not_remind">Ne plus afficher</string>
-  <string name="privacy_mode_summary">Les données utilisateur seront cachées à l\'utilisateur</string>
-  <string name="privacy_mode_title">Permissions</string>
+  <string name="privacy_mode_summary">Permet de protéger l\'accès à vos données personnelles</string>
+  <string name="privacy_mode_title">Mode invité et contrôle d\'accès</string>
   <string name="device_security_settings_title">Sécurité</string>
   <string name="enable_crypt_keeper_encrypt">Activer le chiffrage</string>
   <string name="bluetooth_unlock_state_disconnected">Déconnecté</string>
@@ -2962,4 +2962,6 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="bluetooth_unlock_state_label">État :</string>
   <string name="bluetooth_unlock_state_ok">OK</string>
   <string name="bluetooth_unlock_state_too_far">Trop éloigné</string>
+  <string name="location_access_off">Désactivé</string>
+  <string name="location_access_on">Activé</string>
 </resources>
