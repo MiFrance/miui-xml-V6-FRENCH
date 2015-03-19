@@ -326,5 +326,5 @@
   <string name="files">Fichiers</string>
   <string name="get_cloud_space">Ajouter 500Go</string>
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
-  <string name="kuaipan_delete_guide_des">Supprimer le guide？</string>
+  <string name="kuaipan_delete_guide_des">Supprimer le guide ?</string>
 </resources>
