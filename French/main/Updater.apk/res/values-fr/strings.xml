@@ -207,4 +207,5 @@ Vous pourrez le faire mardi prochain"</string>
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">Impossible de d\'accéder au mode Recovery</string>
   <string name="recovery_failed_title">Impossible de d\'accéder au mode Recovery</string>
+  <string name="recovery_failed_button">OK</string
 </resources>

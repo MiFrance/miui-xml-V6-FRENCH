@@ -548,7 +548,7 @@
   <string name="add_to_secret_successfully_message">Ajoutée à l\'album secret</string>
   <string name="add_to_cloud_unfinished_message_with_count">%1$s éléments non ajoutés au cloud</string>
   <string name="cloudfolder_fail_to_load_data">Échec du chargement des données, veuillez ressayer</string>
-  <string name="impunity_declaration">Certaines fonctions de la Galerie requierts l\'accès à internet</string>
+  <string name="impunity_declaration">Certaines fonctions de la Galerie requièrent l\'accès à internet</string>
   <string name="impunity_declaration_ignore">Ne pas redemander</string>
   <string name="impunity_declaration_settings">Afficher l\'avertissement de trafic</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Galerie</string>
@@ -559,7 +559,7 @@
   <string name="remove_from_secret_failed_message_with_count">"%2$s éléments n'ont pu être enlevés du dossier secret: %1$s."</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s éléments non ajoutés au dossier secret</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s items non enlevés du dossier secret</string>
-  <string name="abandon">Abandon</string>
+  <string name="abandon">Annuler</string>
   <string name="alert_secret_album_message">Glisser vers le bas au bout de vos albums dans Mi Cloud pour voir les albums cachés.</string>
   <string name="alert_secret_album_set_pattern">Définir un schéma de verrouillage</string>
   <string name="alert_secret_album_title">Ajouté à l\'album caché</string>
@@ -585,7 +585,7 @@
   <string name="same_name_album_exists_alert">Les photos seront transférées sur un album existant avec le même nom.</string>
   <string name="sdcard_root">Répertoire racine de la carte SD</string>
   <string name="select_auto_upload_albums">Sélectionnez les albums à synchroniser</string>
-  <string name="sync_third_party_app_pic_summary">Transférer les photos d\'appslications tierces sur votre Cloud automatiquement</string>
+  <string name="sync_third_party_app_pic_summary">Transférer les photos d\'applications tierces sur votre Cloud automatiquement</string>
   <string name="internal_sdcard_root">Répertoire racine de la carte SD interne</string>
   <string name="yunyi_pocket_camera">Pocket Camera</string>
   <string name="moman">Moman Camera</string>
