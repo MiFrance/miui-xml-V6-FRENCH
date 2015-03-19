@@ -710,6 +710,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="summary_show_notification">"Placer les contrôles du Centre de Sécurité sur le menu de notification"</string>
   <string name="summary_telecom_operator">Récupérer les données conso mensuelles provenant de votre opérateur</string>
   <string name="summary_virus_cloudscan">Transférer les noms et détails des applications et analyser en utilisant les définitions de virus en ligne</string>
+  <string name="summary_default_app">"%s n'est pas définie comme application par défaut"</string>
   <string name="text_antivirus_oversea">Mettre à jour les définitions de virus</string>
   <string name="title_app_update">Mises à jour disponibles</string>
   <string name="title_auto_cleaner">Nettoyer automatiquement ?</string>
@@ -731,10 +732,12 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="title_show_notification">Contrôles sur menu de notifications</string>
   <string name="title_telecom_operator">"Utiliser les données de l\'opérateur"</string>
   <string name="title_virus_cloudscan">Utiliser les définitions de virus en ligne</string>
+  <string name="title_default_app">"MIUI %s n'est pas défini comme application par défaut"</string>
   <string name="toast_cleaner_cloudscan">L\'outil utiliser les définitions en ligne</string>
   <string name="toast_flow_notification">Notifications d\'utilisation de données activées</string>
   <string name="toast_garbage_lib">Mise à jour automatique de l\'outil Nettoyage</string>
   <string name="toast_network_switch">Cette application peut se connecter à internet</string>
   <string name="toast_show_notification">Placé sur le menu des notifications</string>
   <string name="toast_virus_cloudscan">L\'analyse des virus utilisera les définitions en ligne</string>
+  <string name="toast_default_app">"%1$s définie comme application par défaut %2$s"</string>
 </resources>
