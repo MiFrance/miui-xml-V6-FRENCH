@@ -78,4 +78,14 @@
         <item>Nettoyer en arrière-plan</item>
         <item>Afficher une notification après le nettoyage</item>
      </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Lanceur</item>
+        <item>Numéroteur</item>
+        <item>Message</item>
+        <item>Navigateur</item>
+        <item>Appareil-photo</item>
+        <item>Galerie</item>
+        <item>Musique</item>
+        <item>E-mail</item>
+     </string-array>
 </resources>

@@ -264,7 +264,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="activity_title_antispam">Liste noire</string>
   <string name="activity_title_license_manager">Permissions</string>
   <string name="activity_title_garbage_cleanup">Nettoyage</string>
-  <string name="activity_title_power_manager">Énergie</string>
+  <string name="activity_title_power_manager">Batterie</string>
   <string name="activity_title_system">Système</string>
   <string name="activity_title_memory">Mémoire vive</string>
   <string name="activity_title_trash">Cache</string>
@@ -363,7 +363,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="Settings_title_garbage_cleanup">Paramètres de nettoyage</string>
   <string name="Settings_title_network_assistants">Paramètres du moniteur réseaux</string>
   <string name="Settings_title_anti_spam">Paramètres anti-spam</string>
-  <string name="Settings_title_power_center">Paramètres d\'énergie</string>
+  <string name="Settings_title_power_center">Paramètres batterie</string>
   <string name="Settings_title_anti_virus">Paramètres anti-virus</string>
   <string name="pref_category_title_virus_lib_auto_update">Base de définitions virales</string>
   <string name="menu_item_virus_lib_auto_update_title">Mettre à jour automatiquement</string>

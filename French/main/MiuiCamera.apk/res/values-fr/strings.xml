@@ -338,7 +338,7 @@
   <string name="pref_camera_watermark_title">Horodatage en filigrane</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuageux</string>
-  <string name="pref_camera_whitebalance_entry_daylight">Lumière du jour</string>
+  <string name="pref_camera_whitebalance_entry_daylight">Plein jour</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
   <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
   <string name="pref_camera_whitebalance_entry_manual">Manuel</string>
