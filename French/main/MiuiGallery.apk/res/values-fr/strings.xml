@@ -324,7 +324,7 @@
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="posterize">Postérisation</string>
   <string name="ppmm_gallery">PPMM</string>
-  <string name="projection">Projection</string>
+  <string name="projection">Caster</string>
   <string name="public_url_descript">N\'importe qui peut accéder à votre album à l\'aide de l\'URL :</string>
   <string name="publish_failed">Impossible de publier.</string>
   <string name="publish_succeeded">Album publié</string>
@@ -598,13 +598,13 @@
   <string name="do_not_save">Ne pas enregistrer</string>
   <string name="adjust">Ajuster</string>
   <string name="black_white">Noir &amp; blanc</string>
-  <string name="brannan">Matin</string>
+  <string name="brannan">Aube</string>
   <string name="camera_black_white">Noir &amp; blanc</string>
   <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec l\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
   <string name="cool">Froid</string>
   <string name="cool_portrait">Portrait</string>
   <string name="create_new_face">Nouveau visage</string>
-  <string name="early_bird">Brannan</string>
+  <string name="early_bird">Automne</string>
   <string name="effect">Filtres</string>
   <string name="face_album">Personnes</string>
   <string name="face_album_not_named">Sans titre</string>
@@ -618,7 +618,7 @@
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="merge_album_positive_button_text">Fusionner</string>
   <string name="name_wrong">"Ce n'est pas %s"</string>
-  <string name="old">Ancien</string>
+  <string name="old">Vintage</string>
   <string name="operation_remove_from_face_album">Supprimer de cet album</string>
   <string name="photo_save_succeed">Image enregistrée</string>
   <string name="preparing_data">Chargement…</string>
@@ -626,7 +626,7 @@
   <string name="qzone">QZone</string>
   <string name="rename_face_album">Modifier le nom</string>
   <string name="rename_fail_msg">Impossible de modifier le nom</string>
-  <string name="rise">Levant</string>
+  <string name="rise">Chaud</string>
   <string name="sina_weibo">Weibo</string>
   <string name="square">Carré</string>
   <string name="uc">UC</string>

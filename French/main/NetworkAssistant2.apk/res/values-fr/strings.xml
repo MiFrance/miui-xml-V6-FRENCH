@@ -344,8 +344,8 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="five_percent_total_pkg">%s (5%% de vos données mobiles mensuelles)</string>
   <string name="international_roaming_setting">Itinérance</string>
   <string name="international_roaming_whitelist_count">%d applis peuvent utiliser les données en itinérance</string>
-  <string name="lock_screen_setting_summary">Afficher une notification après consommation de 100KB</string>
-  <string name="lock_screen_traffic_notify_body">Verrouillé pour %1$s | %2$s de données mobile utilisées</string>
+  <string name="lock_screen_setting_summary">Afficher une notification si plus de 100Ko ont été utilisés en moins de 2 jours.</string>
+  <string name="lock_screen_traffic_notify_body">Verrouillé de %2$s à %1$s, %3$s de données utilisées</string>
   <string name="main_alert_message_month_limit_error">La limite de données saisie est incorrecte</string>
   <string name="notify_daily_data_usage_body">%s utilisés aujourd\'hui. Tapez pour saisir la limite.</string>
   <string name="notify_daily_limit_body">%s utilisés cette semaine. Tapez pour saisir la limite.</string>
@@ -415,7 +415,10 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="tc_sms_report_upload_when_net">Merci pour votre retour !</string>
   <string name="ten_percent_total_pkg">%s (10%% de vos données mobiles mensuelles)</string>
   <string name="three_percent_total_pkg">%s (3%% de vos données mobiles mensuelles)</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h_int">%dh</string>
   <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m">%dm</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="title_limit_traffic_per_day">Limite d\'utilisation quotidienne</string>
@@ -445,4 +448,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="traffic_warning_purchase_title">Avertissement d\'usage des données mobiles</string>
   <string name="notify_weekly_pkg_body">%s utilisés cette semaine. Appuyer pour définir la limite.</string>
   <string name="tc_sms_report_receive_content_null">"Aidez-nous à améliorer cette fonction!&lt;br/>Voici comment:&lt;br/>1. Allez dans \"Vérifier le SMS de commande\" et \"Numéro du destinataire\"&lt;br/>2. Tapez \"Récupérer le modèle SMS\"&lt;br/>3. Attendez la réception du SMS par votre opérateur &lt;br/>4. Tapez \"Envoyer à MIUI\"​"</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Données mobiles utilisées lorsque l\'écran était verrouillé.</string>
+  <string name="lock_screen_traffic_guide_notification_title">%s de données mobiles utilisées</string>
+  <string name="lock_screen_traffic_purchase_textview">Acheter des données mobiles</string>
 </resources>
