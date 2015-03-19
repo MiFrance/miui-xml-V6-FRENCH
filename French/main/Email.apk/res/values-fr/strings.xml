@@ -21,6 +21,10 @@
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
 
+  <string name="save_power_summary">Economie de batterie dans le temps spécifié</string>
+  <string name="save_power_title">Economie de batterie</string>
+  <string name="reduce_the_receiving_frequencye_summary">Diminuer la fréquence de consultation dans le temps spécifié</string>
+  <string name="reduce_the_receiving_frequencye_title">Diminuer la fréquence de consultation</string>
   <string name="loading_from_remote">Recherche…</string>
   <string name="local_search_result">%s emails trouvés sur votre appareil.</string>
   <string name="merged_mailbox_compose_select_account">Sélectionner le compte</string>
@@ -42,7 +46,7 @@
   <string name="account_settings_background_attachments_summary">Téléch. auto des pièces jointes aux messages récents via Wi-Fi</string>
   <string name="account_settings_data_usage">Consommation des données</string>
   <string name="account_settings_description_label">Nom du compte</string>
-  <string name="account_settings_edit_quick_responses_label">Réponses rapides</string>
+  <string name="account_settings_edit_quick_responses_label">Réponse rapide</string>
   <string name="account_settings_edit_quick_responses_summary">Modifier les réponses rapides</string>
   <string name="account_settings_enforced_label">Règles appliquées</string>
   <string name="account_settings_enforced_summary">Aucun</string>
@@ -63,7 +67,7 @@
   <string name="account_settings_policies">Règles de sécurité</string>
   <string name="account_settings_retry_label">Synchroniser (tentative)</string>
   <string name="account_settings_retry_summary">Appuyer ici pour synchroniser ce compte</string>
-  <string name="account_settings_ringtone">Sélectionner une sonnerie</string>
+  <string name="account_settings_ringtone">Son de notification</string>
   <string name="account_settings_servers">Paramètres du serveur</string>
   <string name="account_settings_summary">Fréquence de synchronisation, notifications, etc.</string>
   <string name="account_settings_sync_calendar_enable">Synchroniser l\'agenda</string>
@@ -78,6 +82,8 @@
   <string name="account_setup_account_type_headline">Type de compte</string>
   <string name="account_setup_account_type_instructions">De quel type de compte s\'agit-il ?</string>
   <string name="account_setup_account_type_title">Configuration du compte</string>
+  <string name="account_setup_address_label">Adresse e-mail</string>
+  <string name="account_setup_correct_address_tips">Entrez une adresse e-mail</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Veuillez confirmer que le nom d\'utilisateur, le mot de passe et les paramètres du compte sont corrects.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Problème de configuration du compte</string>
   <string name="account_setup_basics_email_label">Adresse e-mail</string>
@@ -106,7 +112,7 @@
   <string name="account_setup_failed_dlg_certificate_message_fmt">Impossible d\'établir une connexion sécurisée avec le serveur.\"\n\"(%s)</string>
   <string name="account_setup_failed_dlg_edit_details_action">Modifier les infos</string>
   <string name="account_setup_failed_dlg_server_message">"Impossible de se connecter au serveur."</string>
-  <string name="account_setup_failed_dlg_title">"Impossible de terminer"</string>
+  <string name="account_setup_failed_dlg_title">"Impossible de configurer le compte"</string>
   <string name="account_setup_failed_ioerror">"Impossible d'établir la connexion avec le serveur."</string>
   <string name="account_setup_failed_protocol_unsupported">"L'adresse de serveur saisie est incorrecte ou le serveur exige une version du protocole non compatible avec E-mail."</string>
   <string name="account_setup_failed_security">"Impossible d'établir la connexion avec le serveur en raison d'une erreur de sécurité."</string>
@@ -152,7 +158,7 @@
   <string name="account_setup_options_mail_window_1week">La semaine dernière</string>
   <string name="account_setup_options_mail_window_2weeks">Les 2 dernières semaines</string>
   <string name="account_setup_options_mail_window_3days">Les trois derniers jours</string>
-  <string name="account_setup_options_mail_window_all">Toujours</string>
+  <string name="account_setup_options_mail_window_all">Tout</string>
   <string name="account_setup_options_mail_window_auto">Automatique</string>
   <string name="account_setup_options_mail_window_default">Utiliser paramètres défaut</string>
   <string name="account_setup_options_mail_window_label">Synchroniser depuis</string>
@@ -209,10 +215,9 @@
   <string name="attachment_unknown">Fichier %s</string>
   <string name="attachment_video">Vidéo</string>
   <string name="attachments_header">Pièces jointes</string>
-  <string name="auto_advance_help_title">"Définir les préférences d\'avance automatique
-(après suppression, etc.)"</string>
-  <string name="auto_advance_label">Avance automatique</string>
-  <string name="auto_advance_summary">Choisissez l\'écran à afficher après la suppression d\'un message.</string>
+  <string name="auto_advance_help_title">"Après suppression d\'un message, voir..."</string>
+  <string name="auto_advance_label">Supprimer le fil de messages</string>
+  <string name="auto_advance_summary">Choisissez quel message à afficher après la suppression d\'un message.</string>
   <string name="auto_sync_off">La synchronisation automatique est désactivée.</string>
   <string name="bcc">Cci</string>
   <string name="bcc_heading">"Cci : "</string>
@@ -615,7 +620,7 @@
   <string name="auth_error_notification_title">"Erreur d'authentification"</string>
   <string name="auth_error_notification_text">Appuyez pour modifier les paramètres du compte %s.</string>
   <string name="menu_att_mgr">Pièces jointes</string>
-  <string name="menu_att_mgr_order_default">Par défaut</string>
+  <string name="menu_att_mgr_order_default">Récemment reçus</string>
   <string name="menu_att_mgr_order_mime">Trier par format</string>
   <string name="menu_att_mgr_order_name">Trier par nom</string>
   <string name="menu_att_mgr_order_sender">Trier par expéditeur</string>
@@ -761,6 +766,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="ser_resp_err_map_nouser">Utilisateur inconnu</string>
   <string name="ser_resp_err_map_or">Ou</string>
   <string name="ser_resp_err_map_serclosed">Service désactivé</string>
+  <string name="ser_resp_err_map_pserr">Nom d\'utilisateur ou mot de passe incorrect</string>
 <!-- à reformuler no_wifi_promot ? -->
   <string name="no_wifi_promot">Wi-Fi non utilisé actuellement, cela risque d\'engendrer du trafic de données mobiles</string>
   <string name="conversation_list_net_check">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
@@ -784,11 +790,11 @@ Taille du patch Delta : %2$s"</string>
   <string name="check_setup_data">Vérification des paramètres serveur…</string>
   <string name="preference_head_load_title">Diminuer l\'usage des données</string>
   <string name="account_options_acc_title">Compte</string>
-  <string name="account_options_common_title">Paramètres communs</string>
-  <string name="account_options_only_title">Télécharger uniquement l\'en-tête quand réseau mobile</string>
-  <string name="account_options_sync_title">Paramètres de synchronisation</string>
-  <string name="account_settings_chat_mode_enable">Mode conversation</string>
-  <string name="account_settings_chat_mode_summary">Appuyer pour fusionner le groupe de message et entrer dans le monde conversation</string>
+  <string name="account_options_common_title">Général</string>
+  <string name="account_options_only_title">Télécharger uniquement les en-têtes sur réseau mobile</string>
+  <string name="account_options_sync_title">Synchronisation</string>
+  <string name="account_settings_chat_mode_enable">Voir les conversations</string>
+  <string name="account_settings_chat_mode_summary">Voir les fils de messages sous forme de conversations</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Connexion impossible au serveur :
 (%s)"</string>
   <string name="account_setup_server_acc_manager_title">Gestion des comptes</string>
@@ -808,10 +814,10 @@ Taille du patch Delta : %2$s"</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="chat_item_msg_user_saying">dit :</string>
   <string name="chat_type_name">conversations</string>
-  <string name="chat_view_description">Fusionner la liste des messages pour afficher une conversation</string>
+  <string name="chat_view_description">Voir les fils de messages sous forme de conversations</string>
   <string name="chat_view_quote_text">-----Citation-----</string>
   <string name="chat_view_retract_quote_text">---Cacher la citation---</string>
-  <string name="chat_view_title">Afficher la conversation</string>
+  <string name="chat_view_title">Voir comme une conversation</string>
   <string name="click_download_all_content">[ Appuyer pour télécharger le contenu ]</string>
   <string name="download_before_view">"Ce message n'a pas été téléchargé."</string>
   <string name="download_show_image">Télécharge et affiche l\'image</string>
@@ -833,7 +839,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="account_cache_provider">Cache fournisseur du compte</string>
   <string name="account_setup_not_disturb_title">Ne pas déranger</string>
   <string name="add_pre_message_attachments">Ajouter les pièces-jointes du pré-message ?</string>
-  <string name="add_pre_message_attachments_no">Non</string>
+  <string name="add_pre_message_attachments_no">Ne pas ajouter</string>
   <string name="add_pre_message_attachments_yes">Ajouter</string>
   <string name="attachment_stop_all">Stop</string>
   <string name="bottom_bar_no_quickreply_toast">Aucune réponse rapide</string>
@@ -844,7 +850,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="donot_disturb_endtime_title">Jusqu\'à</string>
   <string name="donot_disturb_starttime_title">De</string>
   <string name="donot_disturb_summary">Votre appareil ne recevra pas de nouveaux messages durant la période spécifiée</string>
-  <string name="donot_disturb_title">Ne pas déranger durant la nuit</string>
+  <string name="donot_disturb_title">Ne pas déranger</string>
   <string name="downlaod_nonWifi_confirm_title">Télécharger cette pièce-jointe ?</string>
   <string name="download_cancel_confirm_message">Le téléchargement sera interrompu</string>
   <string name="enumeration_delimiter">" | "</string>
@@ -862,7 +868,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="inline_picture_deleted">"Image non trouvée, téléchargement…"</string>
   <string name="inline_picture_download_complete">téléchargement de l\'image terminé</string>
   <string name="invalid_recipient_title">Destinataire invalide</string>
-  <string name="load_from_remote">Continuer à chercher sur le serveur</string>
+  <string name="load_from_remote">Rechercher sur le serveur</string>
   <string name="mail_header_downloading_message_body">Téléchargement…</string>
   <string name="mail_header_message_body_auto_download_complete">Contenu du message téléchargé via Wi-Fi.</string>
   <string name="mail_header_message_body_auto_download_tip">Le contenu du message sera téléchargé via Wi-Fi.</string>
