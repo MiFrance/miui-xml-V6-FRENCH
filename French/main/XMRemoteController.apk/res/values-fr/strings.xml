@@ -428,19 +428,30 @@
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>
   <string name="passport_wrong_vcode">Le code saisi est incorrect</string>
   <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes et aux autres services Mi, d\'où que vous soyez.</string>
-  
-  <!--
-  <string name="submit_fail_retry">提交失败了，请您重新提交，谢谢</string>
-  <string name="gesture_pad_orietaion_tips">滑动控制上下左右，点击确定</string>
-  <string name="gesture_pad_vol_tips">按下手机音量键调节音量</string>
-  <string name="match_stb_intro_left">发射机顶盒方向左键</string>
-  <string name="match_stb_intro_ok">发射机顶盒确定键</string>
-  <string name="match_stb_intro_up">发射机顶盒方向上键</string>
-  <string name="match_ac_intro_mode">发射空调模式键</string>
-  <string name="match_ac_intro_power">发射空调开关键</string>
-  <string name="match_is_respond">是否有相应？</string>
-  <string name="passport_remove_account_notice">帐号退出后，您要如何处理手机上的联系人和便签？</string>
-  <string name="passport_data_keep_in_device">保留在我的手机上</string>
-  <string name="passport_data_wipe_from_device">从手机上删除</string>
-  -->
+  <string name="upgrade_already_latest">Aucune mise à jour disponible</string>
+  <string name="upgrade_current_version">Version actuelle : %1s</string>
+  <string name="upgrade_download">Télécharger</string>
+  <string name="upgrade_found_new_version">Mise à jour %1s disponible</string>
+  <string name="upgrade_later">Plus tard</string>
+  <string name="upgrade_loading">Chargement</string>
+  <string name="upgrade_log">Connexion</string>
+  <string name="upgrade_now">Mettre à jour</string>
+  <string name="upgrade_title_frame">Mettre à jour vers %1s</string>
+  <string name="external_app">Application externe</string>
+  <string name="external_photo">Photo</string>
+  <string name="external_video">Vidéo</string>
+  <string name="downloading">Téléchargement</string>
+  <string name="download_path_fail">Échec du téléchargement</string>
+  <string name="submit_fail_retry">Failed to submit, please try again</string>
+  <string name="gesture_pad_orietaion_tips">Slide the control up and down, then click OK</string>
+  <string name="gesture_pad_vol_tips">Press volume keys on device to adjust output volume</string>
+  <string name="match_stb_intro_left">Set-top box Left key</string>
+  <string name="match_stb_intro_ok">Set-top box OK key</string>
+  <string name="match_stb_intro_up">Set-top box Up key</string>
+  <string name="match_ac_intro_mode">Open Air conditioner</string>
+  <string name="match_ac_intro_power">Open Air conditioner</string>
+  <string name="match_is_respond">Did the remote respond?</string>
+  <string name="passport_remove_account_notice">After exiting, how do you want to handle contacts and notes on your phone?</string>
+  <string name="passport_data_keep_in_device">Remember password</string>
+  <string name="passport_data_wipe_from_device">"Don't remember password"</string>
 </resources>

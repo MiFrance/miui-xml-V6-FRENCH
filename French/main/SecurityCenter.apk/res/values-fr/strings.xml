@@ -739,5 +739,5 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="toast_network_switch">Cette application peut se connecter à internet</string>
   <string name="toast_show_notification">Placé sur le menu des notifications</string>
   <string name="toast_virus_cloudscan">L\'analyse des virus utilisera les définitions en ligne</string>
-  <string name="toast_default_app">"%1$s définie comme application par défaut %2$s"</string>
+  <string name="toast_default_app">"%1$s définie comme application %2$s par défaut"</string>
 </resources>
