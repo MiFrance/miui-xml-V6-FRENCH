@@ -115,7 +115,6 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="sync_setting">Économie des données</string>
   <string name="sync_standard">Normal</string>
   <string name="only_in_wlan">Uniquement via Wi-Fi</string>
-  <string name="less_flow_mode">Mode de synchronisation</string>
   <string name="photo">Photos</string>
   <string name="contact">Contacts</string>
   <string name="sms">SMS</string>
@@ -214,7 +213,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_main_synced_data_count">%d éléments ont été synchronisés</string>
   <string name="micloud_main_syncing">Synchronisation...</string>
   <string name="micloud_main_update_space">Ajuster l\'espace de stockage</string>
-  <string name="micloud_main_wlan_sync_data_count">%d de données seront synchronisées via Wi-Fi</string>
+  <string name="micloud_main_wlan_sync_data_count">%d de données en attente de synchronisation</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Vous devez renouveler votre abonnement.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Vous devez renouveler votre abonnement.</string>
   <string name="micloud_storage_expires_soon_title">Le stockage Mi Cloud expire bientôt</string>
@@ -284,10 +283,8 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="antispam_sync">Paramètres mode NPD</string>
   <string name="micloud_main_sync_init">Réception de données</string>
 
-<!-- à traduire 
-  <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
-  <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
+  <string name="micloud_setting_antispam_summary">Exceptions pour le mode NPD et les numéros bloqués.</string>
+  <string name="micloud_single_dspt">Utilisez Mi Clound pour synchroniser vos données, localiser votre appareil, ou partager avec vos amis.</string>
+  <string name="micloud_space_duokan_detail">Gérez votre contenu Duokan en utilisant l\'application Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
--->
 </resources>

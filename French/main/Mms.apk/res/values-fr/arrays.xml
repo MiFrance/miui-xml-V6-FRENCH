@@ -67,6 +67,10 @@
       <item>Heure de réception</item>
       <item>Heure d\'envoi</item>
   </string-array>
+  <string-array name="entries_mms_validity_period">
+      <item>Maximum</item>
+      <item>2 jours</item>
+  </string-array>
   <string-array name="select_dialog_items">
       <item>1 seconde</item>
       <item>2 secondes</item>

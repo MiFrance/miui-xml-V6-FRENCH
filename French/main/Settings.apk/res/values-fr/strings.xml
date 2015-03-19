@@ -2879,6 +2879,7 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="wifi_display_operating_channel">Canal actif</string>
   <string name="wifi_display_session_info">Info session</string>
   <string name="wifi_subnet_mask">Masque de sous-réseau</string>
+  <string name="wifi_type_approval_dialog_title">NO. NTC</string>
   <string name="wifi_type_approval_title">Certification</string>
   <string name="miracast_menu_teardown">Développer</string>
   <string name="bugreport_tool_log">Capture d\'un rapport de bug</string>
@@ -2964,4 +2965,8 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="bluetooth_unlock_state_too_far">Trop éloigné</string>
   <string name="location_access_off">Désactivé</string>
   <string name="location_access_on">Activé</string>
+  <string name="agps_roaming">A-GPS en itinérance</string>
+  <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données. Si vous dépassez votre quota de données opérateur, vous risquez des frais supplémentaires."</string>
+  <string name="agps_roaming_dia_title">Utiliser l'A-GPS en itinérance</string>
+  <string name="agps_roaming_summary">Utiliser l'A-GPS en itinérance, peut entrainer des frais.</string>
 </resources>

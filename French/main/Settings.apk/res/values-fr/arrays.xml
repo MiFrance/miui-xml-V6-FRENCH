@@ -662,4 +662,14 @@
         <item>Réseau domestique</item>
         <item>Tous les réseaux</item>
      </string-array>
+	<string-array name="pink_panel_led_color_entries">
+		<item>Lilas</item>
+		<item>Rubis</item>
+		<item>Orange</item>
+		<item>Verte</item>
+		<item>Cyan</item>
+		<item>Blanche</item>
+		<item>Violette</item>
+		<item>Magenta</item>
+     </string-array>
 </resources>

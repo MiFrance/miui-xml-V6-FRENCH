@@ -40,7 +40,7 @@
   <string name="shutdown_progress">Extinction…</string>
   <string name="reboot_confirm_title">Votre appareil va redémarrer.</string>
   <string name="reboot_progress">Redémarrage…</string>
-  <string name="memory_clear_result">%1$s libérés | %2$s disponibles</string>
+  <string name="memory_clear_result">%1$so libérés | %2$so disponibles</string>
   <string name="memory_clear_nothing_result">Pas de mémoire à libérer</string>
   <string name="app_no_notification">Aucune notification</string>
   <string name="app_notificaiton_on_notificationBar">Menu déroulant</string>

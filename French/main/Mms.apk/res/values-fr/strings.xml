@@ -563,9 +563,10 @@
   <string name="open_url_with_web">Ouvrir le lien dans le navigateur ?</string>
   <string name="pref_title_mms_validity_period">Durée de validité des MMS</string>
   <string name="pref_title_sms_validity_period">Durée de validité des SMS</string>
-
-<!-- à traduire 
-  <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
-  <string name="title_show_sms_template">Check SMS for verification codes</string>
--->
+  <string name="pref_show_sms_template_summary">Copier automatiquement et remplir les codes de vérification</string>
+  <string name="title_show_sms_template">Consultez vos SMS pour les codes de vérification</string>
+  <string name="message_contact">Contact:</string>
+  <string name="message_expired">Expiré</string>
+  <string name="message_number">Téléphone:</string>
+  <string name="select_copy_text">choisir et copier le texte du message</string>
 </resources>

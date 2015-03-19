@@ -45,6 +45,7 @@
   <string name="preference_record_type_title">Type d\'enregistrement</string>
   <string name="preference_scenes">Mode d\'enregistrement</string>
   <string name="preference_silent_mode">Enregistrement en silencieux</string>
+  <string name="preference_tip_rename">Afficher le dialogue de renommage après l\'arrêt d\'un enregistrement</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading">Chargement de l\'enregistrement…</string>
   <string name="record_name_hour">h</string>
@@ -55,6 +56,7 @@
   <string name="rename">Renommer</string>
   <string name="rename_dialog_title">Renommer cet enregistrement</string>
   <string name="rename_duplicate">Nom d\'enregistrement saisi déjà existant, veuillez le renommer.</string>
+  <string name="rename_no_more_tip">plus de suggestion.</string>
   <string name="search_for_recordings_in_folders">Rechercher les dossiers pour les enregistrements</string>
   <string name="second">%d seconde(s)</string>
   <string name="send_to">Envoyer à</string>
