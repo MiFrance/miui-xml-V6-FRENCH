@@ -317,7 +317,6 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
 	 <string name="my_gifts_purchased">Achetés</string>
 	 <string name="my_gifts_received">Reçus</string>
 	 <string name="purchased_list_format">%1$s achetés</string>
-	 <string name="resource_download_notification_content">Appuyez pour afficher.</string>
 	 <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
 	 <string name="resource_download_notification_title_one">Thème téléchargé</string>
 	 <string name="resource_failed_to_load_list">"Impossible d'accéder à la liste"</string>

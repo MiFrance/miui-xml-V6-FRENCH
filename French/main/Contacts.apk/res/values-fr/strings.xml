@@ -1166,7 +1166,6 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="pull_to_refresh_refreshing_label">Chargement…</string>
   <string name="pull_to_refresh_release_label">Relâcher pour actualiser…</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_download_notification_content">Toucher pour voir.</string>
   <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
   <string name="resource_download_notification_title_one">Thème téléchargé</string>
   <string name="resource_failed_to_load_list">"Impossible de charger la liste"</string>
@@ -1190,7 +1189,6 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="scan_qrcode_card_hint2">Ajouter aux contacts</string>
   <string name="share_over_limit">"Au-delà de la limite, ne peut être partagé"</string>
   <string name="sim_account_name">SIM</string>
-  <string name="starred_yellowpage">Annuaires favoris</string>
   <string name="yellowpage_navigation_more_items_title">Plus de services</string>
   <string name="yellowpage_navigation_search_result_average_price">Environ %d RMB </string>
   <string name="yellowpage_search_the_yellowpage">Chercher dans cet annuaire</string>
