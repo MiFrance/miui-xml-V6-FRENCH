@@ -2965,4 +2965,8 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="bluetooth_unlock_state_too_far">Trop éloigné</string>
   <string name="location_access_off">Désactivé</string>
   <string name="location_access_on">Activé</string>
+  <string name="agps_roaming">A-GPS en itinérance</string>
+  <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données. Si vous dépassez votre quota de données opérateur, vous risquez des frais supplémentaires."</string>
+  <string name="agps_roaming_dia_title">Utiliser l'A-GPS en itinérance</string>
+  <string name="agps_roaming_summary">Utiliser l'A-GPS en itinérance, peut entrainer des frais.</string>
 </resources>

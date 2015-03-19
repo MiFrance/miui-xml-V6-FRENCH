@@ -325,4 +325,5 @@
   <string name="delete_selected_tasks">Supprimer la sélection ?</string>
   <string name="files">Fichiers</string>
   <string name="get_cloud_space">Ajouter 500Go</string>
+  <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
 </resources>

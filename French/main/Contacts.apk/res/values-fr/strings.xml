@@ -1195,4 +1195,5 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="yellowpage_navigation_clear_search_history">Effacer l\'historique</string>
   <string name="yellowpage_navigation_search_history">Historique</string>
   <string name="resource_tab_to_view">Appuyer pour afficher</string>
+  <string name="followed_yellowpage">Dossiers suivis</string>
 </resources>
