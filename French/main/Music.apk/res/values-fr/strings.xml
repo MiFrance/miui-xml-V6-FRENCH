@@ -138,7 +138,7 @@
   <string name="account">Compte</string>
   <string name="my_account">Mon compte</string>
   <string name="choose_stream_quality">Sélectionnez la qualité du flux audio</string>
-  <string name="choose_download_quality">Sélectionnez la qualité du téléchargement</string>
+  <string name="choose_download_quality">Sélectionnez la qualité de téléchargement</string>
   <string name="ultra_high_quality">Qualité maximum</string>
   <string name="high_quality">Haute qualité</string>
   <string name="normal_quality">Standard</string>
@@ -247,8 +247,8 @@
   <string name="device_connected">Connecté</string>
   <string name="device_not_connected">Déconnecté</string>
   <string name="download_auto_when_free_network_summary">Réglages additionnels pour vos chansons favorites</string>
-  <string name="download_quality">Qualité du téléchargement</string>
-  <string name="download_quality_summary">Réglages additionels pour vos chansons téléchargées</string>
+  <string name="download_quality">Qualité de téléchargement</string>
+  <string name="download_quality_summary">Réglages additionnels pour vos chansons téléchargées</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
