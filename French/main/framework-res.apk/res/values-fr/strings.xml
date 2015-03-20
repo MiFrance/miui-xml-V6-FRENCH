@@ -849,7 +849,7 @@ Voulez-vous la fermer ?</string>
   <string name="wifi_p2p_turnon_message">Lancer le Wi-Fi Direct. Cela désactive le fonctionnement du Wi-Fi client ou via un point d\'accès.</string>
   <string name="wifi_p2p_failed_message">Impossible d\'activer le Wi-Fi Direct.</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct activé</string>
-  <string name="wifi_p2p_enabled_notification_message">Appuyez pour accéder aux paramètres.</string>
+  <string name="wifi_p2p_enabled_notification_message">Appuyer pour accéder aux paramètres</string>
   <string name="accept">Accepter</string>
   <string name="decline">Refuser</string>
   <string name="wifi_p2p_invitation_sent_title">Invitation envoyée</string>

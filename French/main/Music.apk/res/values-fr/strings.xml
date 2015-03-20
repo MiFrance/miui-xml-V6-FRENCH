@@ -17,7 +17,7 @@
   <string name="cancel">Annuler</string>
   <string name="click_to_shuffle">Lecture aléatoire</string>
   <string name="file_not_found">Le fichier n\'existe pas</string>
-  <string name="impunity_declaration">En utilisant le service de musique en ligne Baidu vous acceptez les <a href="http://music.baidu.com/doc/agreement">conditions d\'utilisation</a>.</string>
+  <string name="impunity_declaration">Pour utiliser le service de musique en ligne Baidu, veuillez accepter les <a href="http://music.baidu.com/doc/agreement">conditions d\'utilisation</a>.</string>
   <string name="impunity_declaration_title">Conditions d\'utilisation</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
   <string name="lrc_searching">Recherche de paroles…</string>
@@ -106,7 +106,7 @@
   <string name="error_not_acceptable">Une erreur de serveur s\'est produite. Synchronisation désactivée.</string>
   <string name="error_title">Avertissement</string>
   <string name="error_unauthorized">Trop d\'échecs d\'authentification de compte. Synchronisation désactivée.</string>
-  <string name="impunity_declaration_ignore">Ne pas redemander</string>
+  <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_settings">Afficher les conditions d\'utilisation</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Musique</string>
   <string name="take_effect_afater_restart">L\'application doit être redémarrée pour que les nouveaux paramètres prennent effet</string>
@@ -299,7 +299,7 @@
   <string name="search_for_album">Album</string>
   <string name="fragment_title_personal">Personnel</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
-  <string name="impunity_declaration_positive_text">OK</string>
+  <string name="impunity_declaration_positive_text">Accepter</string>
 
 <!-- à traduire 
   <string name="click_to_view_new_local_audios">Tap to view details.</string>

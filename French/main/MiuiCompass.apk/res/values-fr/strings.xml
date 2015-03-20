@@ -43,8 +43,8 @@
   <string name="location_not_enabled_title">Service de localisation</string>
   <string name="calibrate_failed">Échec de calibrage de l\'altitude</string>
   <string name="using_camera_confirm_cancel">Quitter</string>
-  <string name="using_camera_confirm_message">"La boussole a besoin d'utiliser la connexion réseau et l'appareil photo pour fonctionner correctement."</string>
-  <string name="using_camera_confirm_ok">Accorder</string>
-  <string name="using_camera_confirm_title">"Droits d'accès"</string>
+  <string name="using_camera_confirm_message">Cette application requiert l\'accès à internet et l\'appareil photo pour fonctionner correctement.</string>
+  <string name="using_camera_confirm_ok">Accepter</string>
+  <string name="using_camera_confirm_title">Information</string>
   <string name="shake_enter_tip">Secouez pour calibrer</string>
 </resources>

@@ -14,9 +14,9 @@
   <string name="manual_item_white_list_title">Exceptions</string>
   <string name="manual_white_list_header">%d exceptions</string>
   <string name="cta_dialog_title">Information</string>
-  <string name="cta_dialog_msg">Le centre de sécurité requiert l\'accès à internet pour recevoir des mises à jour.</string>
-  <string name="cta_checkbox_title">"Ne pas rappeler"</string>
-  <string name="cta_button_text_cancel">Annuler</string>
+  <string name="cta_dialog_msg">Certaines fonctions cette application requièrent l\'accès à internet pour fonctionner correctement.</string>
+  <string name="cta_checkbox_title">"Ne plus afficher"</string>
+  <string name="cta_button_text_cancel">Plus tard</string>
   <string name="cta_button_text_agree">Accepter</string>
   <string name="cta_settings">Autoriser l\'accès à internet</string>
   <string name="power_center_title">Batterie</string>

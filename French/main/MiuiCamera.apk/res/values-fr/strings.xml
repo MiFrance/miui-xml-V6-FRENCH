@@ -527,7 +527,7 @@
   <string name="pref_audio_indicator_entry_off">Déclench. audio</string>
   <string name="pref_audio_indicator_entry_on">Déclench. audio</string>
   <string name="start_capture">OK</string>
-  <string name="confirm_location_alert">Enregistrement des coordonnées de localisation</string>
+  <string name="confirm_location_alert">Enregistrer les coordonnées de localisation</string>
   <string name="confirm_location_title">Se souvenir du lieu des photos ?</string>
   <string name="confirm_location_message">"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue."\n\n"D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées."</string>
   <string name="pref_simple_hdr_entry_off">Inactif</string>

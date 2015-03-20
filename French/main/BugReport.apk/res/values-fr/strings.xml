@@ -64,11 +64,11 @@ I hope you'll add X feature, because…"</string>
   <string name="non_system_app_select">Applis téléchargées</string>
   <string name="system_app_select">Applis système</string>
   <string name="toast_feedbackservice_in_submit">Envoi du rapport de bug…</string>
-  <string name="cta_cancel">Annuler</string>
-  <string name="cta_confirm">OK</string>
+  <string name="cta_cancel">Quitter</string>
+  <string name="cta_confirm">Accepter</string>
   <string name="cta_dialog_content">Cette application requiert l\'accès à internet pour fonctionner correctement.</string>
   <string name="cta_dialog_title">Information</string>
-  <string name="cta_not_show_again">Ne pas rappeler</string>
+  <string name="cta_not_show_again">Ne plus afficher</string>
   <string name="hot_problem_empty">Vide</string>
   <string name="announcement">Avertissement</string>
   <string name="bluetooth_problem1">"Ne peut pas s'apparier avec des appareils tiers"</string>

@@ -548,11 +548,11 @@
   <string name="add_to_secret_successfully_message">Ajoutée à l\'album secret</string>
   <string name="add_to_cloud_unfinished_message_with_count">%1$s éléments non ajoutés au cloud</string>
   <string name="cloudfolder_fail_to_load_data">Échec du chargement des données, veuillez ressayer</string>
-  <string name="impunity_declaration">Certaines fonctions de la Galerie requièrent l\'accès à internet</string>
-  <string name="impunity_declaration_ignore">Ne pas redemander</string>
+  <string name="impunity_declaration">Certaines fonctions de cette application requièrent l\'accès à internet pour fonctionner correctement.</string>
+  <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_settings">Afficher l\'avertissement de trafic</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Galerie</string>
-  <string name="impunity_declaration_title">Avertissement</string>
+  <string name="impunity_declaration_title">Information</string>
   <string name="operation_add_secret">Ajouter au dossier secret</string>
   <string name="operation_remove_secret">Enlever du dossier secret</string>
   <string name="add_to_secret_failed_message_with_count">"%2$s éléments n'ont pu être ajoutés au dossier secret: %1$s."</string>
