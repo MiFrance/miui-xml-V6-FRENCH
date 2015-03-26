@@ -78,7 +78,7 @@
   <string name="activate_status_desc_wait_for_sms_success">"SMS d\'activation reçu"</string>
   <string name="activate_status_title_activating">Activation du compte</string>
   <string name="activate_status_title_activating_msim">Activation de votre carte SIM %s</string>
-  <string name="sim_unactivated_title">"Votre carte SIM n'est pas activée"</string>
+  <string name="sim_unactivated_title">Carte SIM non activée</string>
   <string name="activate_popup_confirm_upload_diagnosis_info">Rapport</string>
   <string name="activate_popup_desc_upload_diagnosis_info">Signalez ce problème à Mi ? (ID du rapport : %s)</string>
   <string name="activate_popup_link_diagnosis_detail">Quelles informations seront incluses ?</string>

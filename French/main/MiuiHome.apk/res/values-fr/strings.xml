@@ -219,7 +219,7 @@
   <string name="is_setting_wallpaper_toast">Application du fond d\'écran…</string>
   <string name="is_system_wallpaper_message">"Impossible de supprimer des ressources système"</string>
   <string name="local_wallpaper">Téléchargé</string>
-  <string name="mi_wallpaper">MIUI Theme Store</string>
+  <string name="mi_wallpaper">Boutique de thèmes MIUI</string>
   <string name="setting_wallpaper_tip">Pincez ou glissez pour ajuster</string>
   <string name="show_all">Afficher tous</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Désinstaller %s et %d autres applis ?</string>

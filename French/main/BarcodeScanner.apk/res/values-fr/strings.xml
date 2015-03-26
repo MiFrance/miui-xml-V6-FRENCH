@@ -70,7 +70,7 @@
   <string name="recognize_fail">Détection impossible</string>
   <string name="app_name">Scanner</string>
   <string name="continue_access_web_url">Accéder au site</string>
-  <string name="continue_to_website">Continuer sur le site</string>
+  <string name="continue_to_website">Accéder au site</string>
   <string name="not_recommend_access_web_url">Accéder au site (non recommandé)</string>
   <string name="url_is_phish">Ce site est soupçonné de phishing.</string>
   <string name="url_is_safety">Ce site web est sûr.</string>

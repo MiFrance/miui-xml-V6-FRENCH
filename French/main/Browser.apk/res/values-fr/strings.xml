@@ -183,7 +183,7 @@
   <string name="general_set_default_browser_dialog_summary">Utilisez les applications intégrées à MIUI pour de meilleures performances</string>
   <string name="general_set_default_browser_title">Définir comme navigateur par défaut</string>
   <string name="geolocation_permissions_prompt_dont_share">Refuser</string>
-  <string name="geolocation_permissions_prompt_message">%s souhaite connaître votre position géographique.</string>
+  <string name="geolocation_permissions_prompt_message">%s souhaite vous géolocaliser.</string>
   <string name="geolocation_permissions_prompt_remember">Mémoriser les préférences</string>
   <string name="geolocation_permissions_prompt_share">Autoriser</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Ce site peut accéder à vos données de localisation. Modifiez ceci dans Paramètres &gt; Avancés &gt; Paramètres du site Web.</string>

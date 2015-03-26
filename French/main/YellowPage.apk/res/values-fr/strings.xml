@@ -277,6 +277,12 @@
   <string name="user_agreement4">Politique de confidentialité</string>
   <string name="app_recommendation_install">Installer</string>
   <string name="menu_save_contact">Créer un nouveau contact</string>
+  <string name="yellowpage_navigation_network_location_enable">Autoriser</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Plus tard</string>
+  <string name="yellowpage_navigation_network_location_enabled">Le service est actif, vous pouvez le désactiver dans les réglages de localisation</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Améliorer les résultats de recherche en autorisant l\'application à accéder aux informations de localisation.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Accès à la localisation</string>
+  
 <!-- à traduire ? non affichées hors de la chine ? -->
   <string name="express_inquiry_edit_logistics">Courier</string>
   <string name="express_inquiry_logistics">Select a courier service</string>

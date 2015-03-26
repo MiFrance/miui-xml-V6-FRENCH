@@ -218,8 +218,8 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_storage_expires_manually_renewal_sum">Vous devez renouveler votre abonnement.</string>
   <string name="micloud_storage_expires_soon_title">Le stockage Mi Cloud expire bientôt</string>
   <string name="micloud_storage_expires_very_soon_title">Le stockage Mi Cloud expire très bientôt</string>
-  <string name="micloud_web_discription">Connectez-vous sur i.mi.com pour stocker et accéder à vos fichier depuis n\'importe où</string>
-  <string name="app_sync_off">Synchro appli désactivée</string>
+  <string name="micloud_web_discription">Connectez-vous sur i.mi.com pour stocker et accéder à vos fichiers depuis n\'importe où</string>
+  <string name="app_sync_off">Synch. des applis désactivée</string>
   <string name="internet">Internet</string>
   <string name="internet_disconnected">Pas de connexion de données</string>
   <string name="license_host_unreachable">"Échec de connexion au réseau. Pour voir cette information maintenant, aller à %s."</string>

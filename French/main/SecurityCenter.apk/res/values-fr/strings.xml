@@ -744,7 +744,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="cmcc_app_check_dialog_negative">Plus tard</string>
   <string name="cmcc_app_check_dialog_positive">Redémarrer maintenant</string>
   <string name="cmcc_app_check_dialog_title">Système réparé</string>
-  <string name="notification_summary_cmcc_app_check">Touchez pour voir les détails.</string>
+  <string name="notification_summary_cmcc_app_check">Appuyer pour afficher les détails</string>
   <string name="notification_title_cmcc_app_check">%d jours depuis la dernière vérification</string>
   <string name="summary_cmcc_app_check">"Certaines applis n'ont pu être vérifiées"</string>
   <string name="title_cmcc_app_check">"La vérification n'est pas complète"</string>

@@ -185,7 +185,7 @@
   <string name="please_enter">"Input field can't be empty"</string>
   <string name="power">Power</string>
   <string name="press_to_match">Tester</string>
-  <string name="privacy_content">"En utilisant ce produit, vous acceptez notre "<u>Politique de confidentialité</u> et <u>Conditions d\'utilisations</u>. Mi Remote requiert un accès à internet pour fonctionner normalement.</string>
+  <string name="privacy_content">"Pour utiliser cette application, veuillez accepter notre "<u>Politique de confidentialité</u> et <u>Conditions d\'utilisations</u>. Cette application requiert un accès à internet pour fonctionner correctement.</string>
   <string name="privacy_nohit">Ne plus afficher</string>
   <string name="privacy_title">Conditions générales d\'utilisation</string>
   <string name="projection_failed_for_disconnect">Not paired</string>

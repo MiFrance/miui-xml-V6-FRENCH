@@ -1120,7 +1120,7 @@ Pour supprimer la musique, les photos et les autres données utilisateur, vous d
   <string name="memory_size">Espace total</string>
   <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
   <string name="menu_cancel">Annuler</string>
-  <string name="menu_delete">Supprimer l\'APN</string>
+  <string name="menu_delete">Supprimer</string>
   <string name="menu_new">Ajouter</string>
   <string name="menu_restore">Réinitialiser</string>
   <string name="menu_save">Enregistrer</string>
