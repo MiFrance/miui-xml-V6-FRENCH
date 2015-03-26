@@ -1180,7 +1180,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="resource_tip_select_none">Aucune sélection</string>
   <string name="resource_title_category">Catégories</string>
   <string name="resource_title_hot_subject">Populaire</string>
-  <string name="resource_title_local">Local</string>
+  <string name="resource_title_local">Hors-ligne</string>
   <string name="resource_title_rank">Les mieux classés</string>
   <string name="resource_title_subject">À l\'affiche</string>
   <string name="ret_sign">"
@@ -1195,5 +1195,10 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="yellowpage_navigation_clear_search_history">Effacer l\'historique</string>
   <string name="yellowpage_navigation_search_history">Historique</string>
   <string name="resource_tab_to_view">Appuyer pour afficher</string>
-  <string name="followed_yellowpage">Dossiers suivis</string>
+  <string name="followed_yellowpage">Comptes vérifiés</string>
+  <string name="yellowpage_navigation_network_location_enable">Autoriser</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Pas maintenant</string>
+  <string name="yellowpage_navigation_network_location_enabled">Le service est actif, vous pouvez le désactiver dans les réglages de localisation</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Améliorer les résultats de recherche en autorisant l\'application à accéder aux informations de localisation.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Accès à la localisation</string>
 </resources>

@@ -216,9 +216,12 @@ d MMMM yyyy"</string>
   <string name="status_bar_network_flow_exceed">Aujourd\'hui: %1$s | Dépassement: &lt;font color=%2$s>%3$s&lt;/font> | Limite mensuelle: %4$s</string>
   <string name="status_bar_network_flow_today">Aujourd\'hui: %1$s</string>
   <string name="status_bar_network_flow_exceed_to_purchase">Aujourd\'hui: %1$s | Dépassement: &lt;font color=%2$s>%3$s&lt;/font> | Achat &gt;</string>
- <string name="status_bar_network_flow_warning_to_purchase">"Aujourd\'hui: %1$s | Restant: %2$s | Achat &gt;"</string>
+  <string name="status_bar_network_flow_warning_to_purchase">"Aujourd\'hui: %1$s | Restant: %2$s | Achat &gt;"</string>
   <string name="status_bar_network_flow_purchase">" | Achat &gt;"</string>
   <string name="status_bar_network_flow_limit">" | Limite mensuelle: %1$s"</string>
   <string name="status_bar_network_flow_exceed_content">Aujourd\'hui: %1$s | Dépassement: &lt;font color=%2$s>%3$s&lt;/font></string>
   <string name="status_bar_network_flow_content">"Aujourd\'hui: %1$s | Restant: %2$s"</string>
+  <string name="media_projection_action_text">Démarrer maintenant</string>
+  <string name="media_projection_dialog_text">"%s va capturer tout ce qui est affiché sur votre écran."</string>
+  <string name="media_projection_remember_text">"Ne plus afficher"</string>
 </resources>

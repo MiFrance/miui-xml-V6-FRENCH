@@ -916,4 +916,11 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_rw_io_error">Erreur de lecture/écriture du message, essayez d\'écrire et d\'envoyer à nouveau</string>
   <string name="outbox_alert_certificate_error">Erreur de certificat du message, veuillez le mettre à jour</string>
   <string name="save_draft_failed">Échec d\'enregistrement du brouillon</string>
+  <string name="sdcard_cannot_use">La carte SD ne peut être utilisée</string>
+  <string name="upload_log">Envoyer les logs de diagnostic</string>
+  <string name="upload_log_failed">Echec à l\'envoi des logs</string>
+  <string name="upload_log_success">Logs envoyés avec succès</string>
+  <string name="upload_log_title">Envoyer les logs de diagnostic?</string>
+  <string name="uploading_logs">Envoi des logs</string>
+  <string name="you_are_in_mobile_network">Vous êtes actuellement sur un réseau mobile, soyez vigilant sur votre trafic de données!</string>
 </resources>

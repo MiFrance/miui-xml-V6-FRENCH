@@ -167,7 +167,7 @@
   <string name="search_title_song">Pistes</string>
   <string name="presonal_center">Paramètres</string>
   <string name="my_playlist">Mes playlists</string>
-  <string name="all_tracks_short">Tous</string>
+  <string name="all_tracks_short">Toutes les pistes</string>
   <string name="create_playlist">Créer une playlist</string>
   <string name="tab_track_list">Pistes</string>
   <string name="tab_artist_list">Artistes</string>
@@ -300,13 +300,14 @@
   <string name="fragment_title_personal">Personnel</string>
   <string name="impunity_declaration_negative_text">Quitter</string>
   <string name="impunity_declaration_positive_text">Accepter</string>
-
-<!-- à traduire 
-  <string name="click_to_view_new_local_audios">Tap to view details.</string>
-  <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
-  <string name="no_enough_info">Not enough song info</string>
-  <string name="server_error">Server error. Please try again later</string>
-  <string name="suggest_text">People who liked this also liked</string>
-  <string name="today_update">Music updated</string>
- -->
+  <string name="click_to_view_new_local_audios">Touchez pour voir les détails.</string>
+  <string name="disallow_add_to_personal_radio">La radio personnelle est en lecture seule</string>
+  <string name="no_enough_info">Informations insuffisantes</string>
+  <string name="server_error">Erreur du serveur. Veuillez réessayer plus tard</string>
+  <string name="suggest_text">Les personnes qui ont aimé ceci ont également aimé</string>
+  <string name="today_update">Musique mise à jour</string>
+  <string name="action_item_favorite">Favoris</string>
+  <string name="download_all_song">Tout télécharger</string>
+  <string name="more_about_artist">En savoir plus sur %s</string>
+  <string name="play_all_song">Tout lire</string>
 </resources>

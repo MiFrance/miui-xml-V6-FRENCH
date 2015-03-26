@@ -638,4 +638,7 @@
   <string name="who_is_this">Qui est-ce ?</string>
   <string name="wps">WPS</string>
   <string name="start_to_use_face_albumset">Trier par personne</string>
+  <string name="always_rotate_alert_msg">Vous pouvez désactiver cette fonction à tout moment dans les réglages de la galerie</string>
+  <string name="always_rotate_alert_positive_button_text">Activer</string>
+  <string name="always_rotate_alert_title">Rotation automatique des images</string>
 </resources>

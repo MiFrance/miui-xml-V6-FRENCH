@@ -278,6 +278,12 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="mark_number_info">"
 +Veuillez noter que ces numéros peuvent parfois être utiles (par ex. lorsque vous cherchez un appartement). Ne bloquez que les numéros pour lesquels vous ne souhaiterez jamais d\'appels."</string>
   <string name="mark_sell">Télévendeur</string>
+  <string name="mark_number_sell">Télévendeur</string>
+  <string name="mark_number_setting_guide_content1">Bloquer les appels des numéros signalés?</string>
+  <string name="mark_number_setting_guide_content2">Bloquer automatiquement les appels de numéros signalés par d\'autres utilisateurs</string>
+  <string name="mark_number_setting_guide_content3">Vous avez signalé un numéro comme %1$s. Voulez-vous bloquer les appels des numéros signalés comme %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Paramètres de la liste noire</string>
+  <string name="mark_number_setting_guide_title">Bloquer les numéros signalés</string>
   <string name="mark_sell_block">Marqué comme télévendeur</string>
   <string name="st_title_markednumber_group">Liste noire de numéros marqués</string>
   <string name="dlg_antispam_mode_delete_message">"Vous ne pouvez récupérer les règles personnalisées après leur suppression."</string>
