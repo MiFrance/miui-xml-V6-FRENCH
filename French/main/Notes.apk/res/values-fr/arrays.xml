@@ -22,13 +22,13 @@
       <item>Maximale</item>
   </string-array>
   <string-array name="welcome_notes_content">
-      <item>"Notez simplement et rapidement des idées, des pensées ou des mémos.
+      <item>"Touchez pour créer une note
 "</item>
-      <item>"Ajoutez-y des photos ou des contacts
+      <item>"Pour ajouter une photo ou afficher des cases à cocher, touchez le bouton ci-dessous
 "</item>
-      <item>"Validez vos tâches avec un glissement de doigt
+      <item>"Pressez puis maintenez une note pour la verrouiller, la déplacer ou encore la supprimer
 "</item>
-      <item>"Et d'autres fonctionnalités tel que :
+      <item>"Et d'autres fonctionnalités telles que :
   - Synchronisation avec Mi Cloud
   - Définir des rappels
 
