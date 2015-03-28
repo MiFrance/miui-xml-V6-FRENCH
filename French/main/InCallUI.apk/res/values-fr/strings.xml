@@ -653,7 +653,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   
 <!-- spécial MTK -->
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
-  <string name="airplane_mode_on">Le mode Avion est activé.</string>
+  <string name="airplane_mode_on">Le mode avion est activé.</string>
   <string name="alert_device_error">Erreur inopinée sur le périphérique audio</string>
   <string name="associate_sim_missing_message">La SIM %1$s est indisponible. Souhaitez-vous appeler à l\'aide de %2$s</string>
   <string name="associate_sim_missing_other">Autre</string>
@@ -948,7 +948,7 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="wrong_password">Erreur de mot de passe</string>
   <string name="removeMember">Retirer</string>
   <string name="done">Retour</string>
-  <string name="copy_email">Copier l\'adresse mail</string>
+  <string name="copy_email">Copier l\'adresse e-mail</string>
   <string name="copy_number">Copier le n° de téléphone</string>
   <string name="volte_add_conference_member_title">Ajouter à la conférence</string>
   <string name="volte_call_waiting_indication_text">Le correspondant est en communication, veuillez patienter...</string>
