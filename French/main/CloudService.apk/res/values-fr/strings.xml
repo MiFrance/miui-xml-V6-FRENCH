@@ -255,7 +255,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="micloud_web_discription_international">Allez sur www.mi.com/micloud</string>
   <string name="mx_dspt_provision_privacy">"Cette fonction nécessite votre numéro de téléphone. Votre opérateur peut potentiellement vous facturer un SMS pour son activation.
 
-  Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi."</string>
+Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi."</string>
   <string name="phone_number_may_required_dspt_provision">"Ce service peut nécessiter votre numéro de téléphone. "</string>
   <string name="phone_number_required_dspt_provision">"Ce service nécessite votre numéro de téléphone. "</string>
   <string name="sync_dspt_entrance_provision">"Synchroniser vos photos, contacts, messages, ou localiser votre appareil. "</string>
@@ -263,7 +263,7 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">" Si vous changez vos cartes SIM, votre opérateur peut potentiellement vous facturer un SMS pour la réactivation du service."</string>
   <string name="user_agreement_title">"Conditions d\'utilisation Mi Cloud"</string>
- <string name="find_device_dspt_provision_4">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver cette fonctionnalité.</string>
+  <string name="find_device_dspt_provision_4">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver cette fonctionnalité.</string>
   <string name="share_cancel">Partage annulé</string>
   <string name="share_failed">"Impossible de partager"</string>
   <string name="share_miliao_not_installed">MiTalk n\'est pas installé.</string>
