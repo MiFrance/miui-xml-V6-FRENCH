@@ -124,7 +124,7 @@
   <string name="contextmenu_openlink_newwindow">Ouvrir dans un nouvel onglet</string>
   <string name="contextmenu_openlink_newwindow_background">Ouvrir dans un nouvel onglet d\'arrière-plan</string>
   <string name="contextmenu_savelink">Enregistrer le lien</string>
-  <string name="contextmenu_send_mail">Envoyer un mail</string>
+  <string name="contextmenu_send_mail">Envoyer un e-mail</string>
   <string name="contextmenu_set_wallpaper">Définir comme fond d\'écran</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_view_image">Afficher l\'image</string>

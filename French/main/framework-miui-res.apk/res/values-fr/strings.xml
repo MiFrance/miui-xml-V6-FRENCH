@@ -212,7 +212,7 @@
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">La carte SIM actuelle n\'est pas activée. Un SMS international est requis pour activer ce service. Désirez-vous l\'activer maintenant ?</string>
   <string name="sim_changed_reactivate_notice">La carte SIM actuelle n\'est pas activée. Un SMS est nécessaire pour activer le service de Synchronisation Xiaomi. Le réactiver maintenant ?</string>
-  <string name="sim_in_airplane_mode">Désactiver le mode Avion</string>
+  <string name="sim_in_airplane_mode">Désactiver le mode avion</string>
   <string name="sim_locked">Carte SIM verrouillée</string>
   <string name="sim_not_ready">Carte SIM en cours d\'utilisation, veuillez réessayer plus tard.</string>
   <string name="sim_unavailable">Carte SIM indisponible</string>
@@ -240,7 +240,7 @@
   <string name="find_device_sim_change_instructions">Votre appareil a été verrouillé. Veuillez insérer la carte SIM ou saisir votre mot de passe Xiaomi</string>
   <string name="find_device_sim_change_instructions_no_network">Votre appareil a été verrouillé, veuillez insérer la carte SIM d\'origine</string>
   <string name="find_device_turn_off_flight_mode">Désactiver le mode avion</string>
-  <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode Avion</string>
+  <string name="find_device_turn_off_flight_mode_instructions">Votre appareil a été verrouillé, veuillez désactiver le mode avion</string>
   <string name="every_day">Quotidien</string>
   <string name="sd_not_available">Carte SD non montée ou indisponible</string>
   <string name="sd_not_available_low_internal_storage">Carte SD non montée ou indisponible, espace disque faible sur le stockage interne</string>

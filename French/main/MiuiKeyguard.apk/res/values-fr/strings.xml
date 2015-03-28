@@ -31,7 +31,7 @@
   <string name="experimental_validate_thanks">Merci !</string>
   <string name="experimental_validate_username">Identifiant Mi</string>
   <string name="experimental_validate_warning">Votre exploration aidera MIUI à devenir meilleure !</string>
-  <string name="find_device_turn_off_flight_mode">Désactiver le Mode Avion</string>
+  <string name="find_device_turn_off_flight_mode">Désactiver le Mode avion</string>
   <string name="forget_password_string">MDP oublié ?</string>
   <string name="incorrect_pincode">Code PIN incorrect</string>
   <string name="incorrect_pincode_remaining_attempts">Code PIN incorrect, %d tentatives restantes</string>
@@ -73,6 +73,6 @@ Réessayer dans %d secondes.""</string>
   <string name="confirm_pin_msg">Entrez à nouveau le code PIN</string>
   <string name="invalid_confirm_pin_hint">"Les codes PIN ne correspondent pas"</string>
   <string name="open_camera_hint_text">Glisser à gauche pour ouvrir l\'appareil photo</string>
-  <string name="open_remote_center_hint_text">Glisser à droite pour ouvrir Mi Remote</string>
+  <string name="open_remote_center_hint_text">Glisser à droite pour ouvrir le numéroteur</string>
   <string name="unlock_string">Déverrouiller</string>
 </resources>

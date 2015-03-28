@@ -181,7 +181,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="url_dialog_choice_title">Messages</string>
   <string name="url_dialog_choice_message">Ceci va ouvrir le navigateur, continuer ?</string>
   <string name="deleteApp">Désinstaller des applications</string>
-  <string name="deleteMail">Sauvegarde des mails et libérer l\'espace</string>
+  <string name="deleteMail">Sauvegarde des e-mails et libérer l\'espace</string>
   <string name="storage_withsd">Le téléphone n\'a pas assez d\'espace de stockage. Veuillez en libérer ou changez le disque d\'écriture par défaut dans les paramètres.</string>
   <string name="storage_withoutsd">Le téléphone n\'a pas assez d\'espace de stockage. Veuillez en libérer ou insérez une carte SD.</string>
   <string name="storage_sd">La carte SD n\'a pas assez d\'espace de stockage. Veuillez en libérer ou changez le disque d\'écriture par défaut dans les paramètres.</string>
@@ -273,7 +273,7 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="aerr_application_lowstorage">Le stockage interne est saturé, l\'application a été arrêtée. Veuillez libérer de l\'espace et essayez à nouveau.</string>
   <string name="aerr_process_lowstorage">Le stockage interne est saturé, le processus a été arrêté. Veuillez libérer de l\'espace et essayez à nouveau.</string>
   <string name="close">fermer l\'application</string>
-  <string name="deleteMails">Supprimer les mails</string>
+  <string name="deleteMails">Supprimer les e-mails</string>
   <string name="data_conn_only">Données uniquement</string>
   <string name="drag">glisser taille fenêtre de l\'application</string>
   <string name="gallery_camera_mutex">Impossible d\'utiliser Galerie, Appareil Photo et Lecteur Vidéo simultanément</string>

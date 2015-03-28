@@ -269,7 +269,7 @@
   <string name="contextmenu_sms_dot">Envoyer un SMS…</string>
   <string name="conversation_folder_moved">Déplacée vers %1$s</string>
   <string name="conversation_photo_welcome_text">Appuyez sur l\'image d\'un expéditeur pour sélectionner la conversation.</string>
-  <string name="copy_email">Copier l\'adresse mail</string>
+  <string name="copy_email">Copier l\'adresse e-mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
   <string name="custom_from_account_label">Envoyer depuis :</string>
@@ -657,7 +657,7 @@
   <string name="Folders">Dossiers</string>
   <string name="search_txt_size_limit_prompt">La recherche doit être supérieur à 3 caractères.</string>
   <string name="login">Connexion</string>
-  <string name="other_mail">Autre mail</string>
+  <string name="other_mail">Autre e-mail</string>
   <string name="confirm">OK</string>
   <string name="annex_size">Pièces jointes</string>
   <string name="change_account_type">Changer de type de compte</string>
@@ -668,7 +668,7 @@
   <string name="not_subject">(Aucun sujet)</string>
   <string name="refreshing">Actualisation…</string>
   <string name="file_rar_not_support">Fichiers RAR encryptés non supportés</string>
-  <string name="file_not_found">Fichier introuvable sur le serveur mail</string>
+  <string name="file_not_found">Fichier introuvable sur le serveur e-mail</string>
   <string name="file_not_found_reDownload">Fichier introuvable, veuillez réessayer</string>
   <string name="file_deleted_success">Fichier supprimé</string>
   <string name="password_changed_prompt">Impossible de se connecter.</string>
@@ -707,8 +707,8 @@
   <string name="blank_feedback_toast">Le rapport est vide, veuillez en écrire un !</string>
   <string name="ApplicationIconMore99">99+</string>
   <string name="please_fill_in_your_mailbox_information">Veuillez saisir les informations liées au compte e-mail %s :</string>
-  <string name="actionbar_title_mail_aggregation">Regroupement de mail :</string>
-  <string name="empty_email_tip">Vous pouvez envoyer un mail vide</string>
+  <string name="actionbar_title_mail_aggregation">Regroupement de e-mail :</string>
+  <string name="empty_email_tip">Vous pouvez envoyer un e-mail vide</string>
   <string name="empty_account_tip">Impossible de trouver de compte</string>
   <string name="account_setup_service_not_set">Vos paramètres de services e-mail doivent être configurés</string>
   <string name="account_setup_need_password_verification">Votre compte a ouvert une seconde identification, un mot de passe est requis</string>
@@ -786,7 +786,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="refreshing_done">Synchronisation effectuée</string>
   <string name="quick_reply_dialog_title">Veuillez sélectionner</string>
   <string name="send_att_title">Alerte</string>
-  <string name="downloading_message_body">Chargement du mail, veuillez patienter…</string>
+  <string name="downloading_message_body">Chargement du e-mail, veuillez patienter…</string>
   <string name="check_setup_data">Vérification des paramètres serveur…</string>
   <string name="preference_head_load_title">Diminuer l\'usage des données</string>
   <string name="account_options_acc_title">Compte</string>

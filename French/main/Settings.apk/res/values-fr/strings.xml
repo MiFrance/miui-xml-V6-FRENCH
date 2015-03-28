@@ -2950,9 +2950,9 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="wifi_notify_cmcc_connected_title">Notification de réseau CMCCC</string>
   <string name="wifi_off_airplane_on_cancel">Annuler</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">Vous pouvez activer le Wi-Fi manuellement lorsque vous êtes en mode Avion.</string>
+  <string name="wifi_off_airplane_on_content">Vous pouvez activer le Wi-Fi manuellement lorsque vous êtes en mode avion.</string>
   <string name="wifi_off_airplane_on_not_remind">"Ne plus afficher"</string>
-  <string name="wifi_off_airplane_on_title">Wi-Fi en mode Avion</string>
+  <string name="wifi_off_airplane_on_title">Wi-Fi en mode avion</string>
   <string name="wifi_datanetwork_switch_not_remind">Ne plus afficher</string>
   <string name="privacy_mode_summary">Permet de protéger l\'accès à vos données personnelles</string>
   <string name="privacy_mode_title">Mode invité et contrôle d\'accès</string>

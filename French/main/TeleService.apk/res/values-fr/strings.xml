@@ -285,7 +285,7 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="simContacts_emptyLoading">Lecture de la carte SIM…</string>
   <string name="exportContacts">Exportation des contacts vers la carte SIM…</string>
   <string name="simContacts_title">Sélection des contacts à importer</string>
-  <string name="simContacts_airplaneMode">Pour importer des contacts depuis la carte SIM, désactivez tout d\'abord le mode Avion.</string>
+  <string name="simContacts_airplaneMode">Pour importer des contacts depuis la carte SIM, désactivez tout d\'abord le mode avion.</string>
   <string name="tty_mode_option_title">Mode TTY</string>
   <string name="tty_mode_option_summary">Définir le mode TTY</string>
   <string name="enable_pin">Activer/désactiver le code PIN de la carte SIM</string>
@@ -837,7 +837,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="accessibility_call_muted">Son coupé</string>
   <string name="accessibility_speakerphone_enabled">Haut-parleur activé</string>
   <string name="activity_not_found">Application non installée sur votre téléphone.</string>
-  <string name="airplane_mode_on">Le mode Avion est activé.</string>
+  <string name="airplane_mode_on">Le mode avion est activé.</string>
   <string name="alert_device_error">Erreur inopinée sur le périphérique audio</string>
   <string name="associate_sim_missing_message">La SIM %1$s est indisponible. Souhaitez-vous appeler à l\'aide de %2$s</string>
   <string name="associate_sim_missing_other">Autre</string>

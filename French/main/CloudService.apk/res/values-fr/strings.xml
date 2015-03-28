@@ -35,7 +35,7 @@
   <string name="sync_dspt">Synchroniser</string>
   <string name="sync_sub_dspt">Un SMS sera envoyé pour activer le service</string>
   <string name="sync_sub_int_dspt">Un SMS international pourra être envoyé pour activer le service</string>
-  <string name="access_denied">Impossible d\'accéder à votre application mail</string>
+  <string name="access_denied">Impossible d\'accéder à votre application e-mail</string>
   <string name="activating">Activation…</string>
   <string name="other_settings">Autres paramètres</string>
   <string name="find_device_enabling">Activation…</string>

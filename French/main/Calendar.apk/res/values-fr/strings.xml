@@ -58,7 +58,7 @@
   <string name="calendar_refresh">Actualiser</string>
   <string name="change_response_title">Modifier la réponse</string>
   <string name="copy_db">Envoyer la base de données</string>
-  <string name="copy_email">Copier l\'adresse mail</string>
+  <string name="copy_email">Copier l\'adresse e-mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_an_account_desc">"Tirez le meilleur parti de l\'agenda en utilisant un compte Mi ou Google.
 
@@ -88,8 +88,8 @@
   <string name="edit_event_show_all">Tout afficher</string>
   <string name="edit_event_to_label">Jusqu\'à</string>
   <string name="edit_label">Modifier</string>
-  <string name="email_guests_label">Envoyer un mail aux invités</string>
-  <string name="email_picker_label">Envoyer un mail via</string>
+  <string name="email_guests_label">Envoyer un e-mail aux invités</string>
+  <string name="email_picker_label">Envoyer un e-mail via</string>
   <string name="email_subject_prefix">"Re : "</string>
   <string name="empty_event">Aucun événement créé</string>
   <string name="event_create">Nouvel événement</string>
@@ -176,7 +176,7 @@
   <string name="quick_response_email_failed">Impossible de trouver un programme de messagerie électronique.</string>
   <string name="quick_response_settings">Réponses rapides</string>
   <string name="quick_response_settings_edit_title">Réponse rapide</string>
-  <string name="quick_response_settings_summary">Modifier les réponses par défaut lors d\'envoi de mails aux invités</string>
+  <string name="quick_response_settings_summary">Modifier les réponses par défaut lors d\'envoi de e-mails aux invités</string>
   <string name="quick_response_settings_title">Modifier réponses rapides</string>
   <string name="reminders_label">Ajouter un rappel</string>
   <string name="repeats_label">Fréquence</string>
