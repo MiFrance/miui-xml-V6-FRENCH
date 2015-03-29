@@ -459,9 +459,9 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="btn_stop_diagnostic">Arrêter</string>
   <string name="check_network_state">Vérification de l\'état du réseau</string>
   <string name="choose">Sélectionner</string>
-  <string name="connect_internet_by_mobiledata">Connexion à Internet via réseau mobile</string>
-  <string name="connect_internet_by_usbshare">Connexion à Internet par USB</string>
-  <string name="connect_internet_by_wifi">Connexion à Internet via Wi-Fi</string>
+  <string name="connect_internet_by_mobiledata">Connexion à internet via réseau mobile</string>
+  <string name="connect_internet_by_usbshare">Connexion à internet par USB</string>
+  <string name="connect_internet_by_wifi">Connexion à internet via Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
   <string name="disable_air_mode">Désactiver le mode avion</string>
   <string name="dns_exception_summary">"Les réglages DNS du routeur ne sont pas disponibles."</string>
@@ -470,9 +470,9 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="gateway_exception_summary">Vérifiez votre routeur et essayer à nouveau.</string>
   <string name="gateway_exception_title">Test du routeur</string>
   <string name="load_fail">"Chargement impossible"</string>
-  <string name="main_toolbar_internet_by_mobiledata">Connexion à Internet via un réseau mobile</string>
-  <string name="main_toolbar_internet_by_pc_brige">Connexion à Internet par USB</string>
-  <string name="main_toolbar_internet_by_wifi">Connexion à Internet via Wi-Fi</string>
+  <string name="main_toolbar_internet_by_mobiledata">Connexion à internet via un réseau mobile</string>
+  <string name="main_toolbar_internet_by_pc_brige">Connexion à internet par USB</string>
+  <string name="main_toolbar_internet_by_wifi">Connexion à internet via Wi-Fi</string>
   <string name="network_diagnostics">Test réseau</string>
   <string name="pay_charge">Acheter des données supplémentaires</string>
   <string name="repair">Réparer</string>
