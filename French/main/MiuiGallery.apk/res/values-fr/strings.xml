@@ -8,7 +8,7 @@
   <string name="device_model">"Modèle "</string>
   <string name="taken_time">"Date de prise "</string>
   <string name="modified_time">"Date de modif. "</string>
-  <string name="photo_size">"Taille "</string>
+  <string name="photo_size">"Dimensions "</string>
   <string name="bigscreen_video_quit">Appuyer pour quitter</string>
   <string name="home_page_tab_photo">Photos</string>
   <string name="home_page_tab_cloud">Mi Cloud</string>
@@ -184,7 +184,7 @@
   <string name="exit_share_failed">La sortie de l\'album %1$s a échoué</string>
   <string name="exit_share_in_process">Tentative de sortie de l\'album, veuillez patienter…</string>
   <string name="exit_share_successfully">Album %1$s quitté avec succès</string>
-  <string name="exposure_time">"Durée d\'exposition "</string>
+  <string name="exposure_time">"Exposition "</string>
   <string name="external_sd_card">Carte SD</string>
   <string name="external_usb_device">Périphérique USB</string>
   <string name="facelift">Halo visage</string>
@@ -197,8 +197,8 @@
   <string name="filllight">Éclairage d\'appoint</string>
   <string name="fisheye">Fisheye</string>
   <string name="flash">"Flash "</string>
-  <string name="flash_off">Flash désactivé</string>
-  <string name="flash_on">Flash déclenché</string>
+  <string name="flash_off">non</string>
+  <string name="flash_on">oui</string>
   <string name="flip">Retourner</string>
   <string name="flip_tooltip">Faire glisser la photo pour la retourner</string>
   <string name="focal_length">"Longueur focale "</string>
@@ -240,7 +240,7 @@
   <string name="internal_sd_card">Stockage interne</string>
   <string name="invalid_invition_url">URL d\'invitation non valide.</string>
   <string name="invalid_recipient_message">Corrigez les erreurs de destinataires ou ils ne recevront pas le message</string>
-  <string name="iso">"ISO "</string>
+  <string name="iso">"Sensibilité ISO "</string>
   <string name="kick_owner_user_positive_button_text">Supprimer</string>
   <string name="kick_owner_user_title">Supprimer ce membre ?</string>
   <string name="kick_sharer">Retirer le partageur</string>
@@ -253,7 +253,7 @@
   <string name="location">Emplacement</string>
   <string name="locations">Lieux</string>
   <string name="lomoish">Lomographie</string>
-  <string name="maker">"Auteur "</string>
+  <string name="maker">"Fabriquant "</string>
   <string name="manual">Manuel</string>
   <string name="me">moi</string>
   <string name="menu_item_sort">Trier</string>
@@ -534,7 +534,7 @@
   <string name="menu_item_sort_name">Nom</string>
   <string name="cloudfolder_loading_data">(Chargement…)</string>
   <string name="photo_paint_crop">Recadrer</string>
-  <string name="photo_paint_rotate">Rotation</string>
+  <string name="photo_paint_rotate">Pivoter</string>
   <string name="only_show_camera_in_first_page">Afficher uniquement l\'album photo</string>
   <string name="only_show_camera_in_first_page_summary">Quand désactivé, toutes les photos des albums cloud seront affichées sur la première page.</string>
   <string name="photo_paint_adjust">Ajuster</string>
@@ -598,9 +598,9 @@
   <string name="pocketcamera">PocketCamera</string>
   <string name="do_not_save">Ne pas enregistrer</string>
   <string name="adjust">Ajuster</string>
-  <string name="black_white">Noir &amp; blanc</string>
+  <string name="black_white">Noir &amp; blanc #1</string>
   <string name="brannan">Aube</string>
-  <string name="camera_black_white">Noir &amp; blanc</string>
+  <string name="camera_black_white">Noir &amp; blanc #2</string>
   <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec l\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
   <string name="cool">Froid</string>
   <string name="cool_portrait">Portrait</string>
