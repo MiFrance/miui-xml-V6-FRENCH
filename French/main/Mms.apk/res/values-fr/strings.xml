@@ -247,7 +247,7 @@
   <string name="move_up">Déplacer vers le haut</string>
   <string name="msg_type_hint_mms">Message multimédia</string>
   <string name="msg_type_hint_mx">Message Cloud</string>
-  <string name="msg_type_hint_sms">SMS</string>
+  <string name="msg_type_hint_sms">Message texte</string>
   <string name="multimedia_message">Message multimédia</string>
   <string name="multimedia_notification">Notification de messages MMS</string>
   <string name="mx_auto_resend_mms">Renvoyer le MMS</string>

@@ -2769,8 +2769,8 @@ et lancer le logiciel."</string>
   <string name="bluetooth_unlock_delete_device">Supprimer ce périphérique</string>
   <string name="bluetooth_device_address">Adresse MAC :</string>
   <string name="bluetooth_preference_connected_devices">Périphériques connectés</string>
-  <string name="bluetooth_unlock_confirm_device_text">Veuillez mettre en contact les appareils pour confirmer.</string>
-  <string name="bluetooth_unlock_device_matched_text">Utilisez ce périphérique pour déverrouiller.</string>
+  <string name="bluetooth_unlock_confirm_device_text">Tapotez 2 fois sur le périphérique pour l\'associer.</string>
+  <string name="bluetooth_unlock_device_matched_text">Dorénavant, vous pouvez utiliser ce périphérique pour déverrouiller.</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Supprimer ce périphérique ?</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">L\'ancien périphérique sera remplacé par le nouveau.</string>
   <string name="virus_scan">Anti-virus</string>
