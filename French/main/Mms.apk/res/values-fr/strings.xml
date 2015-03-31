@@ -117,8 +117,10 @@
   <string name="confirm_no_block_positive">"Ne pas bloquer et restaurer"</string>
   <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?"</string>
   <string name="confirm_rate_limit">Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?</string>
+  <string name="confirm_restore_checkbox">Débloquer les messages reçus de ce numéro</string>
+  <string name="confirm_restore_message">Restaurer les messages sélectionnés ?</string>
   <string name="confirm_restore_positive">Restaurer</string>
-  <string name="confirm_restore_title">Restaurer tous les messages sélectionnés ?</string>
+  <string name="confirm_restore_title">Restauration des messages</string>
   <string name="context_menu_add_contact">Ajouter aux contacts</string>
   <string name="context_menu_add_to_browser_favorite">Ajouter aux favoris du navigateur</string>
   <string name="context_menu_browse_web">Parcourir</string>

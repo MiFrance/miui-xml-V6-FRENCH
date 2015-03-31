@@ -186,7 +186,6 @@ Vous pouvez désactiver cette fonction à tout moment via les paramètres.
   <string name="mx_dspt_provision">"Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI sans utiliser de SMS.
 
 Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
-
   <string name="sync_dspt_provision">"Mi Cloud synchronise vos photos, SMS, notes, et plus entre tous vos appareils Mi. Vous pouvez aussi y accéder depuis un navigateur via "</string>
   <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service.</string>
   <string name="cloud_space_upgrade_message">Appuyer pour obtenir %s Go d\'espace gratuit mensuel</string>
@@ -241,10 +240,10 @@ Vous pouvez activer/désactiver cette fonction à tout moment via les paramètre
   <string name="cloud_space_upgrade_title">Obtenez de l\'espace Cloud gratuit !</string>
   <string name="find_device_status_ok">Trouvez votre appareil où que vous soyez sur i.mi.com/micloud</string>
   <string name="micloud_check_sim_notify_text">"Il semble que vous ayez changé de carte(s) SIM. Identifiez-vous
-  sur votre compte Mi pour réactiver Mi Cloud."</string>
+sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Réactiver Mi Cloud</string>
   <string name="micloud_check_sim_title">"Il semble que vous ayez changé de carte(s) SIM. Identifiez-vous
-  sur votre compte Mi pour réactiver Mi Cloud."</string>
+sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_main_sync_exception">Erreur de synchro</string>
   <string name="micloud_setting_browser_summary">Marque-pages, historique et onglets</string>
   <string name="micloud_setting_contact_summary">Infos et photos des contacts</string>
@@ -274,17 +273,32 @@ Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi.
   <string name="sina_share_fail_content_repeat">"Impossible de partager, le contenu existe déjà…"</string>
   <string name="sina_share_pendding">Envoi…</string>
   <string name="sina_share_success">Envoyé</string>
-  <string name="sina_token_expired_warning">Le compte Weibo a expiré: veuillez vous reconnecter</string>
-  <string name="sina_token_invalid_warning">Le compte Weibo est invalide: veuillez vous reconnecter</string>
+  <string name="sina_token_expired_warning">Le compte Weibo a expiré : veuillez vous reconnecter</string>
+  <string name="sina_token_invalid_warning">Le compte Weibo est invalide : veuillez vous reconnecter</string>
   <string name="calendar_sync">Calendrier</string>
   <string name="click_to_enabled">Appuyer pour synchroniser</string>
   <string name="find_device_status_ok_international">Trouvez votre appareil où que vous soyez sur i.mi.com/micloud</string>
   <string name="cloudservice_new_sync">Synchroniser %s avec Mi Cloud</string>
   <string name="antispam_sync">Paramètres mode NPD</string>
   <string name="micloud_main_sync_init">Réception de données</string>
-
   <string name="micloud_setting_antispam_summary">Exceptions pour le mode NPD et les numéros bloqués.</string>
   <string name="micloud_single_dspt">Utilisez Mi Clound pour synchroniser vos données, localiser votre appareil, ou partager avec vos amis.</string>
   <string name="micloud_space_duokan_detail">Gérez votre contenu Duokan en utilisant l\'application Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
+  <string name="buy_more_space_b_class">"Connectez-vous sur mi.com/micloud pour obtenir plus d'espace de stockage.
+Une carte bancaire chinoise est requise pour acheter de l'espace de stockage supplémentaire."</string>
+  <string name="buy_more_space_c_class">"Cette fonction requiert une carte bancaire chinoise.
+Pour obtenir plus d'espace de stockage, visitez mi.com/micloud."</string>
+  <string name="cloud_back_up_button_ok">Forcer l\'arrêt</string>
+  <string name="cloud_back_up_close_info">Appuyer pour sauvegarder.</string>
+  <string name="cloud_back_up_dialog_content">"Stopper la sauvegarde en cours ? Si vous l'arrêtez maintenant, vous ne pourrais pas l'utiliser pour restaurer des applications."</string>
+  <string name="cloud_back_up_interval_long">7 jours</string>
+  <string name="cloud_back_up_interval_short">1 heure</string>
+  <string name="cloud_back_up_network_unavailable">"Suppression impossible, connectez-vous à un réseau Wi-Fi et réessayez."</string>
+  <string name="cloud_back_up_open_info">"Sauvegarde la disposition du votre écran d\'accueil et applications tous les %1$s, lorsque connecté en Wi-Fi
+Dernière sauvegarde : %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Sauvegarde la disposition du votre écran d\'accueil et applications tous les %1$s, lorsque connecté en Wi-Fi</string>
+  <string name="cloud_back_up_remove_success">Sauvegarde supprimée</string>
+  <string name="cloud_back_up_title">Sauvegarder l\'écran d\'accueil</string>
+  <string name="cloud_backup_dialog_title">Sauvegarder avec Mi Cloud</string>
 </resources>
