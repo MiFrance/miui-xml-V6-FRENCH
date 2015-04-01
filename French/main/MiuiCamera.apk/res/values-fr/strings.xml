@@ -103,7 +103,7 @@
   <string name="error_app_unsupported_raw_wavelet">Les ondelettes de bruit ne prendront pas effet lors de la capture des images brutes</string>
   <string name="error_fail_to_start_audio_capture">Impossible de démarrer le mode de déclenchement audio, le micro est peut-être utilisé par une autre application.</string>
   <string name="exposure_time">Durée d\'expo</string>
-  <string name="face_analyze_info">%1$s %2$s années</string>
+  <string name="face_analyze_info">%1$s %2$s ans</string>
   <string name="face_analyze_info_female">Femme</string>
   <string name="face_analyze_info_male">Homme</string>
   <string name="face_beauty_age_alias_female_0_7">Femme 0-7</string>
