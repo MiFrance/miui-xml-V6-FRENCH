@@ -1267,4 +1267,5 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="msim_info_editor_set_name_error">Erreur survenue, veuillez essayer plus tard</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Lors d\'un appel, vous ne pouvez appliquer</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erreur SIM, veuillez essayer plus tard</string>
+  <string name="voip_setting">Paramètres VOIP</string>
 </resources>

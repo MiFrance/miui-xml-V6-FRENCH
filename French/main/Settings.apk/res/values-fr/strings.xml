@@ -1545,7 +1545,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="show_touches_summary">Afficher un repère visuel pour les interactions tactiles</string>
   <string name="show_user_info_on_lockscreen_label">Afficher infos utilisateur sur écran verrouillage</string>
   <string name="silent_mode_title">Silencieux</string>
-  <string name="sim_bad_pin">Code PIN incorrect.</string>
+  <string name="sim_bad_pin">Veuillez saisir un code avec 4 à 8 numéros</string>
   <string name="sim_change_failed">"Impossible de modifier le code PIN.
 Le code PIN est peut-être incorrect."</string>
   <string name="sim_change_failed_enable_sim_lock">Impossible de modifier SIM/RUIM PIN. Veuillez activer le verrou SIM/RUIM.</string>
@@ -2973,4 +2973,10 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="music_dolby_mode_movie">Film</string>
   <string name="music_dolby_mode_music">Musique</string>
   <string name="music_dolby_mode_off">Inactif</string>
+  <string name="status_bar_settings_enable_notification">Activer les notifications</string>
+  <string name="status_bar_settings_notification_led">Led de notification</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Sons &amp; vibrations</string>
+  <string name="status_bar_settings_show_home_message">Badge sur l\'icône de l\'app</string>
+  <string name="status_bar_settings_show_keyguard_notification">Notifications flottantes</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Les notifications apparaîtront en haut de l\'écran puis disparaitront automatiquement</string>
 </resources>

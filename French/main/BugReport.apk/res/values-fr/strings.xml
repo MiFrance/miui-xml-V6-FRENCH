@@ -106,7 +106,8 @@ I hope you'll add X feature, because…"</string>
   <string name="screen_orientation_type">1</string>
   <string name="submit_dialog_cancel">Annuler</string>
   <string name="submit_dialog_confirm">Soumettre</string>
-  <string name="submit_dialog_content">"Votre rapport, ainsi que vos logs et images joints, vont être transmis aux serveurs Xiaomi."</string>
+  <string name="submit_dialog_content">"Votre rapport, ainsi que vos journaux et images joints, seront transmis aux serveurs Xiaomi lorsceque vous serrez connecté à un réseau Wi-Fi."</string>
+  <string name="submit_dialog_not_wifi_content">"Votre rapport, ainsi que vos journaux et images joints, seront transmis aux serveurs Xiaomi lorsceque vous serrez connecté à un réseau Wi-Fi."</string>
   <string name="submit_dialog_title">Envoyer le rapport à Xiaomi</string>
   <string name="suggestion_problem1">"Dites-nous quelles fonctionnalités souhaiteriez vous voir apparaître à l'avenir"</string>
   <string name="title_common_problem">Bogues courants</string>
@@ -124,4 +125,5 @@ I hope you'll add X feature, because…"</string>
   <string name="toast_feedback_submitting">Envoi en cours…</string>
   <string name="bugreport_tool_log_toast">Rapport enregistré dans %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Création du rapport de bogue (dure moins d\'une minute)</string>
+  <string name="toast_feedback_collect_store">Collecte des journaux…</string>
 </resources>

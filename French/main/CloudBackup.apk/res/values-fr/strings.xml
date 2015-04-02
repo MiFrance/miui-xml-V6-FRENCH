@@ -31,7 +31,7 @@
   <string name="cloud_restore_task">Restaurer</string>
   <string name="cloud_task_in_process">There is a %s task in process! Deleting backup of current device will cancel the task,sure to delete?</string>
   <string name="customization"><u>Personnaliser</u></string>
-  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="desktop_downloading">Téléchargement</string>
   <string name="desktop_installing">Installation</string>
   <string name="desktop_recovering">Restauration</string>
