@@ -244,7 +244,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="license_host_unreachable">Impossible d\'accéder à internet. Pour afficher ces informations, accédez à %s</string>
   <string name="mibi_balance">%s MiCredits</string>
   <string name="sim_index_info">Carte SIM %1$d - %2$s</string>
-  <string name="facebook">facebook</string>
+  <string name="facebook">Facebook</string>
   <string name="error_ssl_hand_shake">Erreur de connexion au serveur. Veuillez vérifier que l\'horloge de votre appareil soit correctement configurée.</string>
   <string name="bind_sns_description">Complétez votre profil en utilisant les infos personnelles via %s.</string>
   <string name="binded_description" formatted="false">"%s rattaché avec succès 

@@ -126,6 +126,8 @@
   <string name="delete_timer_item_title">Supprimer la minuterie</string>
   <string name="delete_selected_timer_item">Supprimer la minuterie sélectionnée ?</string>
   <string name="vibrate_when_ringing">Activer le vibreur</string>
+ <!-- à vérifier timer_item_picker_hour -->
+  <string name="timer_item_picker_hour">h</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">sec</string>
   <string name="timer_item_duration_display">%1$d min %2$d sec</string>

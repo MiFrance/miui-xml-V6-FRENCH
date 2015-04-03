@@ -299,8 +299,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="biometric_weak_liveliness_summary">Exiger un clin d\'œil lors du déverrouillage</string>
   <string name="biometric_weak_liveliness_title">Détection des mouvements</string>
   <string name="bluetooth">Bluetooth</string>
-  <string name="bluetooth_a2dp_profile_summary_connected">Connecté aux paramètres audio du média</string>
-  <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour les paramètres audio du média</string>
+  <string name="bluetooth_a2dp_profile_summary_connected">Connecté à l\'audio du multimédia</string>
+  <string name="bluetooth_a2dp_profile_summary_use_for">Utiliser pour l\'audio du multimédia</string>
   <string name="bluetooth_advanced_titlebar">Paramètres Bluetooth avancés</string>
   <string name="bluetooth_ask_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement">Une application requiert l\'activation du Bluetooth.</string>
@@ -360,8 +360,8 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_enter_passkey_other_device">Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil.</string>
   <string name="bluetooth_enter_pin_msg">"Pour l'association à :{&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisir le code PIN requis de l'appareil : "</string>
   <string name="bluetooth_enter_pin_other_device">Vous devrez peut-être également saisir ce code PIN sur l\'autre appareil.</string>
-  <string name="bluetooth_headset_profile_summary_connected">Connecté aux paramètres audio de l\'appareil</string>
-  <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour les paramètres audio de l\'appareil</string>
+  <string name="bluetooth_headset_profile_summary_connected">Connecté à l\'audio de l\'appareil</string>
+  <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour l\'audio de l\'appareil</string>
   <string name="bluetooth_hid_profile_summary_connected">Connecté au périphérique d\'entrée</string>
   <string name="bluetooth_hid_profile_summary_use_for">Utiliser comme entrée</string>
   <string name="bluetooth_incoming_pairing_msg">De :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Associer à cet appareil ?</string>
@@ -401,9 +401,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_preference_found_devices">Appareils</string>
   <string name="bluetooth_preference_paired_devices">Périphériques associés</string>
   <string name="bluetooth_preference_scan_title">Rechercher des appareils</string>
-  <string name="bluetooth_profile_a2dp">Paramètres audio du support</string>
+  <string name="bluetooth_profile_a2dp">Audio multimédia</string>
   <string name="bluetooth_profile_details">Paramètres du profil</string>
-  <string name="bluetooth_profile_headset">Paramètres audio de l\'appareil</string>
+  <string name="bluetooth_profile_headset">Audio de l\'appareil</string>
   <string name="bluetooth_profile_hid">Périphérique d\'entrée</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_pan">Accès internet</string>

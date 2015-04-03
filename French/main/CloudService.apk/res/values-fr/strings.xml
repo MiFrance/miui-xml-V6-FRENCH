@@ -290,7 +290,7 @@ Une carte bancaire chinoise est requise pour acheter de l'espace de stockage sup
   <string name="buy_more_space_c_class">"Cette fonction requiert une carte bancaire chinoise.
 Pour obtenir plus d'espace de stockage, visitez mi.com/micloud."</string>
   <string name="cloud_back_up_button_ok">Forcer l\'arrêt</string>
-  <string name="cloud_back_up_close_info">Appuyer pour sauvegarder.</string>
+  <string name="cloud_back_up_close_info">Appuyer pour sauvegarder</string>
   <string name="cloud_back_up_dialog_content">"Stopper la sauvegarde en cours ? Si vous l'arrêtez maintenant, vous ne pourrais pas l'utiliser pour restaurer des applications."</string>
   <string name="cloud_back_up_interval_long">7 jours</string>
   <string name="cloud_back_up_interval_short">1 heure</string>

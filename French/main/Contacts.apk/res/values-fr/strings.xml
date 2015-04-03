@@ -929,7 +929,7 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="simContacts_emptyLoading">Chargement depuis la carte SIM…</string>
   <string name="simContacts_title">Sélectionner les contacts à importer</string>
   <string name="sim_capacity">Capacité de la carte SIM</string>
-  <string name="sim_capacity_content" formatted="false">Capacité totale %d, utilisé %d</string>
+  <string name="sim_capacity_content" formatted="false">Capacité totale : %d, utilisé : %d</string>
   <string name="sim_card_no_free_space_message">La carte SIM est pleine, impossible d\'importer de nouveaux contacts. Veuillez libérer de l\'espace et essayer à nouveau</string>
   <string name="sim_card_no_free_space_title">Carte SIM saturée</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string>
@@ -1106,8 +1106,8 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="refresh">Actualiser</string>
   <string name="t9_search_guide_pinyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
   <string name="t9_search_guide_zhuyin">Saisir un numéro ou rechercher des contacts avec le T9.</string>
-  <string name="yellowPageNavigationIconLabel">Annuaire</string>
-  <string name="yellowPageNavigationLabel">Annuaire</string>
+  <string name="yellowPageNavigationIconLabel">Pages jaunes</string>
+  <string name="yellowPageNavigationLabel">Pages jaunes</string>
   <string name="yellowpage_navigation_no_content">Aucun résultat</string>
   <string name="yellowpage_navigation_search_city_name_hint">Recherche par ville</string>
   <string name="yellowpage_navigation_search_offline_hint">Réseau indisponible</string>

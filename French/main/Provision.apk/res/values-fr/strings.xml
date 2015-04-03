@@ -25,7 +25,7 @@
   <string name="congratulation_next">Commencer à utiliser MIUI</string>
   <string name="summary_not_set">Non défini</string>
   <string name="summary_sim_card">SIM %1$d</string>
-  <string name="summary_sim_card_with_operator">SIM %1$d, %2$s</string>
+  <string name="summary_sim_card_with_operator">SIM %1$d : %2$s</string>
   <string name="multisim_settings_title">2 cartes SIM détectées</string>
   <string name="multisim_settings_category">Paramètres cartes SIM</string>
   <string name="pref_title_data_slot">Carte SIM pour les données</string>

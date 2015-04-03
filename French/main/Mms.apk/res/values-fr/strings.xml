@@ -579,4 +579,9 @@
   <string name="storage_dialog_mms">MMS : %d</string>
   <string name="storage_dialog_mms_size">Taille MMS :</string>
   <string name="storage_dialog_sms">SMS : %d</string>
+  <string name="over_max_mms_size">Le MMS est trop volumineux.</string>
+  
+  <!-- à voir -->
+  <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
+  <string name="pref_title_send_delivery_reports">Send delivery report</string>
 </resources>
