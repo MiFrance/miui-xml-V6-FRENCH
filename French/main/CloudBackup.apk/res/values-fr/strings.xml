@@ -2,14 +2,14 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="app_name">Home screen apps backup​</string>
+  <string name="app_name">Sauvegarde des applis et du bureau</string>
   <string name="back_up_task_in_process">Sauvegarde en cours</string>
-  <string name="back_up_task_unfinished">back up unfinished</string>
+  <string name="back_up_task_unfinished">Sauvegarde interrompue</string>
   <string name="backing_up_to_micloud">Sauvegarde…</string>
-  <string name="backup_fail">Home screen apps​ backup fail</string>
+  <string name="backup_fail">Echec de la sauvegarde</string>
   <string name="backup_size">Taille : %s</string>
-  <string name="backup_success">Home screen apps​ backup success</string>
-  <string name="backup_to_cloud">Back up app</string>
+  <string name="backup_success">Sauvegarde des applis réussie</string>
+  <string name="backup_to_cloud">Appli de sauvegarde</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_delete">Supprimer</string>
   <string name="button_next">Suivant</string>
@@ -18,18 +18,18 @@
   <string name="cloud_app_check_data">Vérification des données Mi Cloud…</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_dont_restore">Ne pas restaurer</string>
-  <string name="cloud_app_no_data">No home screen and apps</string>
+  <string name="cloud_app_no_data">Pas de données</string>
   <string name="cloud_app_no_network">Impossible d\'accéder au réseau</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
   <string name="cloud_app_restore_app_and_data">Restaurer la disposition du bureau et les applications</string>
   <string name="cloud_app_restore_data">Restaurer les applications précédemment installées</string>
   <string name="cloud_app_restore_error">Restauration impossible</string>
   <string name="cloud_app_restore_success">Applications restaurées</string>
-  <string name="cloud_app_restore_wifi_prompt">To restore your app, connect to a WLAN network.</string>
+  <string name="cloud_app_restore_wifi_prompt">Pour la restauration, veuillez vous connecter à un réseau Wi-Fi.</string>
   <string name="cloud_back_up_task">Sauvegarder</string>
-  <string name="cloud_restore_from_other_device">restoring from %s is in process, deleting the back up of it will cancel the task, sure to delete?</string>
+  <string name="cloud_restore_from_other_device">Une restauration est en cours à partir de %s, la suppression de la sauvegarde annulera cette tâche, êtes-vous sûr?</string>
   <string name="cloud_restore_task">Restaurer</string>
-  <string name="cloud_task_in_process">There is a %s task in process! Deleting backup of current device will cancel the task,sure to delete?</string>
+  <string name="cloud_task_in_process">Il y a une tâche %s en cours! La suppression de la sauvegarde sur cet appareil annulera la tâche, êtes-vous sûr?</string>
   <string name="customization"><u>Personnaliser</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="desktop_downloading">Téléchargement</string>
@@ -39,8 +39,8 @@
   <string name="desktop_waiting">En attente</string>
   <string name="device_delete_prompt">Supprimer la sauvegarde de %s?</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">Download Home screen settings: %s%%</string>
-  <string name="download_settings_fail">Download Home screen settings fail</string>
+  <string name="download_settings">Télécharger la disposition du bureau: %s%%</string>
+  <string name="download_settings_fail">Echec du téléchargement de la disposition du bureau</string>
   <string name="error_unknown">Une erreur inconnue s\'est produite</string>
   <string name="latest_backup_time_loading">Chargement…</string>
   <string name="managespace_delete_backup">Supprimer la sauvegarde</string>
@@ -51,20 +51,20 @@
   <string name="menu_item_sort_size">Taille</string>
   <string name="name_model">"%1$s's %2$s"</string>
   <string name="open_wifi">Activer le Wi-Fi</string>
-  <string name="open_wifi_description">Connect to a WLAN network to restore app</string>
+  <string name="open_wifi_description">Connectez-vous à un réseau Wi-Fi pour restaurer l\'appli</string>
   <string name="open_wifi_setting">Paramètres Wi-Fi</string>
-  <string name="process_whole_recovery">Restoring \"%s\"</string>
-  <string name="recover_from_micloud">Recover using Mi Cloud</string>
-  <string name="recover_settings">Restore Home screen settings</string>
-  <string name="recover_settings_description">Keep your device powered on</string>
-  <string name="recovering">Recovering %s</string>
+  <string name="process_whole_recovery">Restauration de \"%s\"</string>
+  <string name="recover_from_micloud">Restaurer avec Mi Cloud</string>
+  <string name="recover_settings">Restaurer la disposition du bureau</string>
+  <string name="recover_settings_description">Veuillez ne pas éteindre votre appareil</string>
+  <string name="recovering">Restauration de %s</string>
   <string name="remove_task_in_process">Suppression en cours</string>
-  <string name="remove_task_unfinished">remove unfinished</string>
-  <string name="restore_from_cloud">Restore from Mi Cloud</string>
-  <string name="restoreing_file_tile">Restoring %d files</string>
+  <string name="remove_task_unfinished">Supprimer les tâches non terminées</string>
+  <string name="restore_from_cloud">Restaurer à partir de Mi Cloud</string>
+  <string name="restoreing_file_tile">Restauration de %d fichiers</string>
   <string name="retry">Réessayer</string>
   <string name="self_phone">Cet appareil</string>
-  <string name="start_backup_to_micloud">Back up apps to Mi Cloud</string>
-  <string name="start_recover">Recover %s</string>
-  <string name="wait_icon_download">Downloading application icon</string>
+  <string name="start_backup_to_micloud">Sauvegarder les applis sur Mi Cloud</string>
+  <string name="start_recover">Restauration de %s</string>
+  <string name="wait_icon_download">Téléchargement de l\'icône d\'application</string>
 </resources>
