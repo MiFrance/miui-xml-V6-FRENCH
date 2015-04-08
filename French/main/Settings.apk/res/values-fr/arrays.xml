@@ -667,9 +667,67 @@
 		<item>Rubis</item>
 		<item>Orange</item>
 		<item>Verte</item>
-		<item>Cyan</item>
-		<item>Blanche</item>
-		<item>Violette</item>
 		<item>Magenta</item>
      </string-array>
+     <string-array name="app_ops_permissions">
+        <item>Autoriser</item>
+        <item>Ignorer</item>
+        <item>Toujours demander</item>
+     </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Désactivé</item>
+        <item>Sonneries limitées</item>
+        <item>Aucune sonnerie</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Aucun</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normale</item>
+        <item>Moyenne</item>
+        <item>Faible</item>
+        <item>Critique</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Permanent</item>
+        <item>Activité principale</item>
+        <item>Important (premier plan)</item>
+        <item>Important (arrière-plan)</item>
+        <item>Sauvegarde</item>
+        <item>Haute densité</item>
+        <item>Service (en cours)</item>
+        <item>Service (redémarrage)</item>
+        <item>Récepteur</item>
+        <item>Accueil</item>
+        <item>Dernière activité</item>
+        <item>Mise en cache (activité)</item>
+        <item>"Mise en cache (client d'activité)"</item>
+        <item>Mise en cache (vide)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64 Ko</item>
+        <item>256 Ko</item>
+        <item>1 Mo</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 Ko/tampon journal</item>
+        <item>256 Ko/tampon journal</item>
+        <item>1 Mo/tampon journal</item>
+        <item>4 Mo/tampon journal</item>
+        <item>16 Mo/tampon journal</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64 Ko</item>
+        <item>256 Ko</item>
+        <item>1 Mo</item>
+        <item>4 Mo</item>
+        <item>16 Mo</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>4 derniers chiffres</item>
+        <item>4 premiers chiffres</item>
+    </string-array>
 </resources>

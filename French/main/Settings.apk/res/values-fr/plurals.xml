@@ -52,4 +52,8 @@
       <item quantity="other">Plus que %1$d étapes avant d\'accéder aux informations de l\'appareil.</item>
       <item quantity="one">Plus que %1$d étape avant d\'accéder aux informations de l\'appareil.</item>
   </plurals>
+  <plurals name="manage_condition_providers_summary_nonzero">
+      <item quantity="other">%d applications fournissent des conditions.</item>
+      <item quantity="one">%d application fournit des conditions.</item>
+  </plurals>
 </resources>

@@ -1268,4 +1268,35 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Lors d\'un appel, vous ne pouvez appliquer</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Erreur SIM, veuillez essayer plus tard</string>
   <string name="voip_setting">Paramètres VOIP</string>
+  <string name="callFailed_cb_enabled">"Vous ne pouvez pas passer d'appels tant que l'interdiction d'appel est activée."</string>
+  <string name="callFailed_congestion">Réseau occupé.</string>
+  <string name="callFailed_dsac_restricted">"Tous les appels sont restreints par un contrôle d'accès."</string>
+  <string name="callFailed_dsac_restricted_emergency">"Les appels d'urgence sont restreints par un contrôle d'accès."</string>
+  <string name="callFailed_dsac_restricted_normal">"Les appels ordinaires sont restreints par un contrôle d'accès."</string>
+  <string name="callFailed_fdn_only">Les appels sortants sont restreints par la liste de numéros autorisés.</string>
+  <string name="callFailed_invalid_credentials">"Nom d'utilisateur ou mot de passe incorrect."</string>
+  <string name="callFailed_limitExceeded">Limite ACM dépassée.</string>
+  <string name="callFailed_noSignal">Aucun signal.</string>
+  <string name="callFailed_number_unreachable">Numéro injoignable.</string>
+  <string name="callFailed_outOfService">Réseau mobile non disponible.</string>
+  <string name="callFailed_out_of_network">Appel effectué hors réseau.</string>
+  <string name="callFailed_powerOff">Signal radio désactivé.</string>
+  <string name="callFailed_server_error">Erreur serveur : réessayez plus tard.</string>
+  <string name="callFailed_server_unreachable">Serveur injoignable.</string>
+  <string name="callFailed_timedOut">Aucune réponse, délai expiré.</string>
+  <string name="callFailed_unobtainable_number">Numéro incorrect.</string>
+  <string name="callFailed_userBusy">Ligne occupée.</string>
+  <string name="connection_service_default_label">Service de connexion intégré</string>
+  <string name="description_dialpad_overflow">"Plus d'options"</string>
+  <string name="description_image_button_plus">plus</string>
+  <string name="description_voicemail_button">messagerie vocale</string>
+  <string name="enable_video_calling_dialog_close">Fermer</string>
+  <string name="enable_video_calling_dialog_msg">Pour pouvoir passer des appels vidéo, vous devez activer le mode LTE 4G avancé dans les paramètres système.</string>
+  <string name="enable_video_calling_dialog_settings">Paramètres du réseau</string>
+  <string name="enable_video_calling_title">Activer les appels vidéo</string>
+  <string name="incall_error_missing_voicemail_number">Numéro de messagerie vocale inconnu.</string>
+  <string name="mobile_network_settings_not_available">Les paramètres des réseaux mobiles ne sont pas disponibles pour cet utilisateur.</string>
+  <string name="phone_accounts">Paramètres de compte du téléphone</string>
+  <string name="pstn_connection_service_label">Cartes SIM intégrées</string>
+  
 </resources>

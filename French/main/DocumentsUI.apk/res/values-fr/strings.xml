@@ -52,4 +52,9 @@
   <string name="toast_no_application">Impossible d\'ouvrir le fichier.</string>
   <string name="toast_failed_delete">Impossible de supprimer certains documents.</string>
   <string name="share_via">Partager via</string>
+  <string name="menu_advanced_hide">Masquer mém. stock. int.</string>
+  <string name="menu_advanced_show">Aff. mém. stock. interne</string>
+  <string name="menu_file_size_hide">Masquer taille fichier</string>
+  <string name="menu_file_size_show">Afficher taille fichier</string>
+  <string name="menu_select">Sélectionner \"^1\"</string>
 </resources>

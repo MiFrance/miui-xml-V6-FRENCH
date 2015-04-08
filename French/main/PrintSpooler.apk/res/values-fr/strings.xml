@@ -61,4 +61,21 @@
   <string name="permdesc_accessAllPrintJobs">Autorise le propriétaire à accéder aux travaux créés par une autre appli. Ne devrait jamais être demandé par les applis classiques.</string>
   <string name="permlab_startPrintServiceConfigActivity">démarrer les activités de configuration du service d\'impression</string>
   <string name="permdesc_startPrintServiceConfigActivity">Autorise le propriétaire à démarrer les activités de configuration. Ne devrait jamais être demandé par les applis classiques.</string>
+  <string name="collapse_handle">Poignée de réduction</string>
+  <string name="current_page_template">%1$d/%2$d</string>
+  <string name="expand_handle">Poignée de développement</string>
+  <string name="label_copies_summary">Copies :</string>
+  <string name="label_paper_size_summary">Taille du papier :</string>
+  <string name="more_options_button">"Plus d'options"</string>
+  <string name="page_description_template">Page %1$d sur %2$d</string>
+  <string name="print_error_printer_unavailable">"Cette imprimante n'est pas disponible actuellement."</string>
+  <string name="print_error_retry">Réessayer</string>
+  <string name="print_options_collapsed">"Les options d'impression ont été réduites."</string>
+  <string name="print_options_expanded">"Les options d'impression ont été développées."</string>
+  <string name="print_preparing_preview">"Préparation de l'aperçu en cours…"</string>
+  <string name="print_write_error_message">"Impossible d'écrire dans le fichier."</string>
+  <string name="savetopdf_button">Enregistrer au format PDF</string>
+  <string name="summary_template">Résumé, copies (%1$s), taille du papier (%2$s)</string>
+  <string name="template_all_pages">Toutes (%1$s)</string>
+  <string name="template_page_range">Plage de %1$s</string>
 </resources>

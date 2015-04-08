@@ -169,4 +169,7 @@
   <string name="suggested">Suggéré(s)</string>
   <string name="too_much_file_sent">%1$s fichiers max à la fois</string>
   <string name="upload_fail_waiting">L\'envoi de fichier(s) est en préparation, la transmission sera effectuée automatiquement par la suite</string>
+  <string name="incoming_line1">Expéditeur</string>
+  <string name="incoming_line2">Nom de fichier</string>
+  <string name="incoming_line3">Taille</string>
 </resources>
