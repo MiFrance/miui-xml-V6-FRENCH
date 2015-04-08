@@ -91,7 +91,7 @@
   <string name="sns_action_send">Partager</string>
   <string name="sns_title_edit">Modifier le titre</string>
   <string name="sns_content_default">Partager la photo</string>
-  <string name="sns_hint_title">Sujet (optionnel)</string>
+  <string name="sns_hint_title">Objet (optionnel)</string>
   <string name="sina_share_pendding">Envoi…</string>
   <string name="sina_share_success">Message envoyé</string>
   <string name="sina_share_fail">Échec de l\'envoi</string>

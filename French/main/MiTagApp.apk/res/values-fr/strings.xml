@@ -65,7 +65,7 @@ mettez en contact le tag avec le dos de votre téléphone"</string>
   <string name="edit_tag">Modifier</string>
   <string name="edit_tag_content">mettez-le en contact avec le dos de votre téléphone</string>
   <string name="email_body">Message</string>
-  <string name="email_subject">Sujet</string>
+  <string name="email_subject">Objet</string>
   <string name="email_to">À</string>
   <string name="empty_tag">Ce tag est vierge</string>
   <string name="enable_wifi">Wi-Fi</string>
@@ -87,7 +87,7 @@ Paramètres &gt; Sans fil &amp; réseaux &gt; Plus… &gt; NFC"</string>
   <string name="hint_input_message">Message</string>
   <string name="hint_input_phone">Numéro de téléphone</string>
   <string name="hint_input_sms">Enter message</string>
-  <string name="hint_input_subject">Sujet</string>
+  <string name="hint_input_subject">Objet</string>
   <string name="hint_input_web_label">Nom du site</string>
   <string name="hint_input_web_url">URL</string>
   <string name="hint_wifi_password">Mot de passe Wi-Fi</string>

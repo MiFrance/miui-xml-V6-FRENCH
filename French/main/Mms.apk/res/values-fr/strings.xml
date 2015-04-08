@@ -75,10 +75,10 @@
   <string name="attach_record_sound">Enregistrer un son</string>
   <string name="attach_record_video">Prendre une vidéo</string>
   <string name="attach_slideshow">Diaporama</string>
-  <string name="attach_sound">Fichier audio</string>
-  <string name="attach_subject">Sujet</string>
+  <string name="attach_sound">Audio</string>
+  <string name="attach_subject">Objet</string>
   <string name="attach_take_photo">Prendre une photo</string>
-  <string name="attach_video">Vidéos</string>
+  <string name="attach_video">Vidéo</string>
   <string name="back_to_message_list">retour à la liste des messages</string>
   <string name="batch_adding_progress_message">Ajout en cours…</string>
   <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
@@ -252,10 +252,10 @@
   <string name="msg_type_hint_sms">Message texte</string>
   <string name="multimedia_message">Message multimédia</string>
   <string name="multimedia_notification">Notification de messages MMS</string>
-  <string name="mx_auto_resend_mms">Renvoyer le MMS</string>
-  <string name="mx_auto_resend_mms_summary">Envoyer automatiquement comme MMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
+  <string name="mx_auto_resend_mms">Envoyer en tant que MMS</string>
+  <string name="mx_auto_resend_mms_summary">Envoyer comme MMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer.</string>
   <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
-  <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer</string>
+  <string name="mx_auto_resend_sms_summary">Envoyer comme SMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s\'appliquer.</string>
   <string name="mx_btn_enable_now">Activer</string>
   <string name="mx_count_dspt">Vous avez envoyé %1$d SMS et %2$d MMS</string>
   <string name="mx_current_status">En ligne</string>
@@ -386,8 +386,7 @@
   <string name="select_bottom_text">Texte en bas de l\'écran</string>
   <string name="select_different_media">Sélectionnez autre %1$s.</string>
   <string name="select_link_title">Sélectionner une action</string>
-  <string name="select_local_audio">Sélectionner un enregistrement audio local</string>
-  <string name="select_local_video">Sélectionner une vidéo locale</string>
+  <string name="select_local_audio">Sélectionner un fichier audio</string>
   <string name="select_recipient">Sélectionner le destinataire</string>
   <string name="add_attachment">Ajouter des pièces jointes</string>
   <string name="select_top_text">Texte en haut de l\'écran</string>

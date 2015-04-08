@@ -665,7 +665,7 @@
   <string name="protocol">Protocole</string>
   <string name="no_mails">Aucun e-mail</string>
   <string name="contact_list_add_btn">Ajouter</string>
-  <string name="not_subject">(Aucun sujet)</string>
+  <string name="not_subject">(Aucun objet)</string>
   <string name="refreshing">Actualisation…</string>
   <string name="file_rar_not_support">Fichiers RAR encryptés non supportés</string>
   <string name="file_not_found">Fichier introuvable sur le serveur e-mail</string>
@@ -912,7 +912,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="search_tabs_name_all">Tous</string>
   <string name="search_tabs_name_recipient">Destinataire</string>
   <string name="search_tabs_name_sender">Expéditeur</string>
-  <string name="search_tabs_name_subject">Sujet</string>
+  <string name="search_tabs_name_subject">Objet</string>
   <string name="outbox_alert_rw_io_error">Erreur de lecture/écriture du message, essayez d\'écrire et d\'envoyer à nouveau</string>
   <string name="outbox_alert_certificate_error">Erreur de certificat du message, veuillez le mettre à jour</string>
   <string name="save_draft_failed">Échec d\'enregistrement du brouillon</string>
