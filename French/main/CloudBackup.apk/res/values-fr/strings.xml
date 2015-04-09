@@ -6,10 +6,10 @@
   <string name="back_up_task_in_process">Sauvegarde en cours</string>
   <string name="back_up_task_unfinished">Sauvegarde interrompue</string>
   <string name="backing_up_to_micloud">Sauvegarde…</string>
-  <string name="backup_fail">Echec de la sauvegarde</string>
+  <string name="backup_fail">Échec de la sauvegarde</string>
   <string name="backup_size">Taille : %s</string>
   <string name="backup_success">Sauvegarde des applis réussie</string>
-  <string name="backup_to_cloud">Appli de sauvegarde</string>
+  <string name="backup_to_cloud">Sauvegarder vers le cloud</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_delete">Supprimer</string>
   <string name="button_next">Suivant</string>
@@ -18,7 +18,7 @@
   <string name="cloud_app_check_data">Vérification des données Mi Cloud…</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_dont_restore">Ne pas restaurer</string>
-  <string name="cloud_app_no_data">Pas de données</string>
+  <string name="cloud_app_no_data">Aucune donnée</string>
   <string name="cloud_app_no_network">Impossible d\'accéder au réseau</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
   <string name="cloud_app_restore_app_and_data">Restaurer la disposition du bureau et les applications</string>
@@ -27,9 +27,9 @@
   <string name="cloud_app_restore_success">Applications restaurées</string>
   <string name="cloud_app_restore_wifi_prompt">Pour la restauration, veuillez vous connecter à un réseau Wi-Fi.</string>
   <string name="cloud_back_up_task">Sauvegarder</string>
-  <string name="cloud_restore_from_other_device">Une restauration est en cours à partir de %s, la suppression de la sauvegarde annulera cette tâche, êtes-vous sûr?</string>
+  <string name="cloud_restore_from_other_device">Une restauration est en cours à partir de %s, la suppression de la sauvegarde annulera cette tâche, êtes-vous sûr ?</string>
   <string name="cloud_restore_task">Restaurer</string>
-  <string name="cloud_task_in_process">Il y a une tâche %s en cours! La suppression de la sauvegarde sur cet appareil annulera la tâche, êtes-vous sûr?</string>
+  <string name="cloud_task_in_process">Il y a une tâche %s en cours ! La suppression de la sauvegarde sur cet appareil annulera la tâche, êtes-vous sûr ?</string>
   <string name="customization"><u>Personnaliser</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="desktop_downloading">Téléchargement</string>
@@ -37,10 +37,10 @@
   <string name="desktop_recovering">Restauration</string>
   <string name="desktop_wait_wifi">En attente du Wi-Fi</string>
   <string name="desktop_waiting">En attente</string>
-  <string name="device_delete_prompt">Supprimer la sauvegarde de %s?</string>
+  <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">Télécharger la disposition du bureau: %s%%</string>
-  <string name="download_settings_fail">Echec du téléchargement de la disposition du bureau</string>
+  <string name="download_settings">Téléchargement la disposition du bureau : %s%%</string>
+  <string name="download_settings_fail">Échec du téléchargement de la disposition du bureau</string>
   <string name="error_unknown">Une erreur inconnue s\'est produite</string>
   <string name="latest_backup_time_loading">Chargement…</string>
   <string name="managespace_delete_backup">Supprimer la sauvegarde</string>
@@ -49,7 +49,7 @@
   <string name="menu_item_sort">Trier par</string>
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Taille</string>
-  <string name="name_model">"%1$s's %2$s"</string>
+  <string name="name_model">"%1$s %2$s"</string>
   <string name="open_wifi">Activer le Wi-Fi</string>
   <string name="open_wifi_description">Connectez-vous à un réseau Wi-Fi pour restaurer l\'appli</string>
   <string name="open_wifi_setting">Paramètres Wi-Fi</string>

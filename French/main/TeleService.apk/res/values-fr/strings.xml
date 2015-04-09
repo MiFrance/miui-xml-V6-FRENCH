@@ -1362,4 +1362,13 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="sim_info">Informations sur la carte SIM</string>
   <string name="sim_unknown">Inconnu</string>
   <string name="tty_mode_not_allowed_vt_call">Le changement en mode TTY n\'est pas autorisé pendant un appel vidéo</string>
+  <string name="callFailed_dialToUssd">Requête d\'appel modifiée pour USSD.</string>
+  <string name="callFailed_dialToSs">Requête d\'appel modifiée pour SS.</string>
+  <string name="callFailed_dialToDial">Requête d\'appel modifiée pour appeler avec un numéro différent.</string>
+  <string name="call_ind_services">"Services indépendant de l'appel"</string>
+  <string name="callind">"Paramètres des fonctions d'appel"</string>
+  <string name="managed_roaming_title_sub1">Itinérance gérée (ABON.%d)</string>
+  <string name="Result_title">Contact carte SIM</string>
+  <string name="carrier_name">(nom opérateur)</string>
+  <string name="sip_connection_service_label">"Fonctionnalité d\'appel Internet intégrée"</string>
 </resources>

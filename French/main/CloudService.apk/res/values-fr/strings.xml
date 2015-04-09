@@ -295,9 +295,9 @@ Pour obtenir plus d'espace de stockage, visitez mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 jours</string>
   <string name="cloud_back_up_interval_short">1 heure</string>
   <string name="cloud_back_up_network_unavailable">"Suppression impossible, connectez-vous à un réseau Wi-Fi et réessayez."</string>
-  <string name="cloud_back_up_open_info">"Sauvegarde la disposition du votre écran d\'accueil et applications tous les %1$s, lorsque connecté en Wi-Fi
+  <string name="cloud_back_up_open_info">"Sauvegarde la disposition du bureau et applications tous les %1$s, lorsque connecté en Wi-Fi
 Dernière sauvegarde : %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Sauvegarde la disposition du votre écran d\'accueil et applications tous les %1$s, lorsque connecté en Wi-Fi</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Sauvegarde la disposition du bureau et applications tous les %1$s, lorsque connecté en Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Sauvegarde supprimée</string>
   <string name="cloud_back_up_title">Sauvegarder l\'écran d\'accueil</string>
   <string name="cloud_backup_dialog_title">Sauvegarder avec Mi Cloud</string>
@@ -305,7 +305,7 @@ Dernière sauvegarde : %2$s"</string>
   <string name="close_cloud_app_backup_close">Fermer</string>
   <string name="close_cloud_app_backup_local_backup">Sauvegarder</string>
   <string name="close_cloud_app_backup_message">Le service de sauvegarde de Mi Cloud sera définitivement stoppé le 1er mai 2015. Les données seront toutes supprimées, veuillez donc les sauvegarder ailleurs dès que possible.</string>
-  <string name="close_cloud_app_backup_notification_message">Cliquez pour voir les détails</string>
+  <string name="close_cloud_app_backup_notification_message">Appuyer pour voir les détails</string>
   <string name="close_cloud_app_backup_notification_title">Information sur les changements du service Mi Cloud</string>
   <string name="close_cloud_app_backup_title">Fermer l\'information</string>
   <string name="cloud_app_back_up_quit_notification_content1">"Le service de sauvegarde sera stoppé pour les applis non-MIUI. Les données de ces applis tierces seront supprimées le 1er mai 2015. Afin d\'éviter la perte de données importantes, veuillez les données localement dès maintenant."</string>

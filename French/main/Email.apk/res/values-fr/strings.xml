@@ -521,7 +521,7 @@
   <string name="sending">Envoi en cours…</string>
   <string name="sending_message">Envoi du message en cours…</string>
   <string name="sent_folder_selection_title">Sélect. dossier d\'éléments envoyés du serveur pour %s.</string>
-  <string name="settings_activity_title">E-Mail</string>
+  <string name="settings_activity_title">E-mail</string>
   <string name="shortcut_name_title">Nom du raccourci du dossier</string>
   <string name="show_elided">▶ Afficher le texte des messages précédents</string>
   <string name="show_images">Afficher les images</string>
@@ -742,7 +742,7 @@ Taille : %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Version %1$s
 Taille du patch Delta : %2$s"</string>
   <string name="xiaomi_external_storage_unavailable">Espace de stockage non disponible, veuillez vérifier votre carte SD.</string>
-  <string name="mail">Mail</string>
+  <string name="mail">E-mail</string>
   <string name="dialog_insufficient_space_on_internal">Le téléchargement a échoué. L\'espace disponible sur la mémoire interne est insuffisant.</string>
   <string name="dialog_insufficient_space_on_external">Le téléchargement a échoué. L\'espace disponible sur la carte SD est insuffisant.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Espace de stockage insuffisant pour %s.</string>

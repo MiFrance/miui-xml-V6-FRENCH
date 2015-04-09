@@ -348,7 +348,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="edit_contact">Modifier contact</string>
   <string name="edit_contact_card_title">Modifier la fiche du contact</string>
   <string name="email">Envoyer un e-mail</string>
-  <string name="emailLabelsGroup">Mail</string>
+  <string name="emailLabelsGroup">E-mail</string>
   <string name="email_custom">Envoyer un e-mail à %s</string>
   <string name="email_home">Envoyer un e-mail à une adresse perso</string>
   <string name="email_mobile">Envoyer un e-mail à un mobile</string>

@@ -53,7 +53,7 @@
   <string name="dialog_button_login">Connectez-vous et synchronisez votre musique</string>
   <string name="dialog_button_scan_tracks">Rechercher des chansons sur cet appareil</string>
   <string name="dialog_hint_music_error">Liste vide. Vous pouvez…</string>
-  <string name="dialog_delete_descript">Supprimer %s ?</string>
+  <string name="dialog_delete_descript">Supprimer les pistes (%s) ?</string>
   <string name="dialog_hint_network_error">Connexion de données indisponible.</string>
   <string name="dialog_title_add_playlist">Ajouter une playlist</string>
   <string name="dialog_title_name_playlist">Nom de la playlist</string>
@@ -178,7 +178,7 @@
   <string name="no_favorites_songs">Aucun favori</string>
   <string name="no_local_songs">Aucun morceau de musique</string>
   <string name="dialog_button_editor_choice">Recommandations</string>
-  <string name="dialog_remove_descript">Supprimer %s ?</string>
+  <string name="dialog_remove_descript">Retirer des favoris (%s) ?</string>
   <string name="action_item_download">Télécharger</string>
   <string name="action_item_add_to_favorite_playlist">Playlist favorite</string>
   <string name="format_unsupported">Format non supporté</string>

@@ -314,7 +314,7 @@
   <string name="owner_album_subtitle">Partagé avec %1$s membres</string>
   <string name="path">"Répertoire "</string>
   <string name="people">Contacts</string>
-  <string name="photo_page_always_rotate">Pivoter autom. les images</string>
+  <string name="photo_page_always_rotate">Pivoter automatiquement les images</string>
   <string name="photo_page_save_image">Enregistrer</string>
   <string name="photo_page_save_uri_image_fail">Impossible d\'enregistrer la photo.</string>
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
