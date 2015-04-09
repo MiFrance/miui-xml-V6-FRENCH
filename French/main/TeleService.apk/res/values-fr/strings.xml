@@ -1367,7 +1367,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="callFailed_dialToDial">Requête d\'appel modifiée pour appeler avec un numéro différent.</string>
   <string name="call_ind_services">"Services indépendant de l'appel"</string>
   <string name="callind">"Paramètres des fonctions d'appel"</string>
-  <string name="managed_roaming_title_sub1">Itinérance gérée (ABON.%d)</string>
+  <string name="managed_roaming_title_sub">Itinérance gérée (ABON.%d)</string>
   <string name="Result_title">Contact carte SIM</string>
   <string name="carrier_name">(nom opérateur)</string>
   <string name="sip_connection_service_label">"Fonctionnalité d\'appel Internet intégrée"</string>
