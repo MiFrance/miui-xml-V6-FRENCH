@@ -41,12 +41,12 @@
   <string-array name="prefEntries_autoAdvance">
       <item>Conversation précédente</item>
       <item>Conversation suivante</item>
-      <item>Liste des conversations</item>
+      <item>Boîte de réception</item>
   </string-array>
   <string-array name="prefSummaries_autoAdvance">
       <item>Afficher les conversations plus récentes après suppression</item>
       <item>Afficher les conversations plus anciennes après suppression</item>
-      <item>Afficher la liste des conversations après suppression</item>
+      <item>Afficher la boîte de réception après suppression</item>
   </string-array>
   <string-array name="prefEntries_removal_action">
       <item>"N'afficher que le bouton \"Archiver\""</item>
