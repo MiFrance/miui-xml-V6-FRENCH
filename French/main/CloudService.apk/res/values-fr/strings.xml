@@ -187,7 +187,9 @@ Vous pouvez désactiver cette fonction à tout moment via les paramètres.
 
 Vous pouvez activer/désactiver cette fonction à tout moment via les paramètres."</string>
   <string name="sync_dspt_provision">"Mi Cloud synchronise vos photos, SMS, notes, et plus entre tous vos appareils Mi. Vous pouvez aussi y accéder depuis un navigateur via "</string>
-  <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service.</string>
+  <string name="find_device_send_sms_alert">"
+  
+Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de réactiver ce service."</string>
   <string name="cloud_space_upgrade_message">Appuyer pour obtenir %s Go d\'espace gratuit mensuel</string>
   <string name="cloud_space_upgrade_no_quota_info">Données non valides, veuillez réessayer plus tard</string>
   <string name="loading_hint">Chargement</string>
@@ -262,12 +264,13 @@ Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi.
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne pas utiliser"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"Les applis MIUI nécessitent Mi Cloud pour sauvegarder vos photos, contacts, notes, et plus encore. Mi Cloud est gratuit et directement prêt à l'emploi."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Utiliser Mi Cloud</string>
-  <string name="sync_dspt_entrance_provision_confirm_title">"Ne pas utiliser Mi Cloud?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Ignorer cette étape&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">"Ne pas utiliser Mi Cloud ?"</string>
+  <string name="sync_dspt_entrance_provision_skip"><u>Ignorer cette étape</u></string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">" Si vous changez vos cartes SIM, votre opérateur peut potentiellement vous facturer un SMS pour la réactivation du service."</string>
   <string name="user_agreement_title">"Conditions d\'utilisation Mi Cloud"</string>
-  <string name="find_device_dspt_provision_4">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver cette fonctionnalité.</string>
+  <string name="find_device_dspt_provision_4">"Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver cette fonctionnalité.
+"</string>
   <string name="share_cancel">Partage annulé</string>
   <string name="share_failed">"Impossible de partager"</string>
   <string name="share_miliao_not_installed">MiTalk n\'est pas installé.</string>
@@ -311,8 +314,8 @@ Dernière sauvegarde : %2$s"</string>
   <string name="close_cloud_app_backup_local_backup">Sauvegarder</string>
   <string name="close_cloud_app_backup_message">Le service de sauvegarde de Mi Cloud sera définitivement stoppé le 1er mai 2015. Les données seront toutes supprimées, veuillez donc les sauvegarder ailleurs dès que possible.</string>
   <string name="close_cloud_app_backup_notification_message">Appuyer pour voir les détails</string>
-  <string name="close_cloud_app_backup_notification_title">Information sur les changements du service Mi Cloud</string>
-  <string name="close_cloud_app_backup_title">Fermer l\'information</string>
+  <string name="close_cloud_app_backup_notification_title">Information sur les modifications d\'utilisation</string>
+  <string name="close_cloud_app_backup_title">Information</string>
   <string name="cloud_app_back_up_quit_notification_content1">"Le service de sauvegarde sera stoppé pour les applis non-MIUI. Les données de ces applis tierces seront supprimées le 1er mai 2015. Afin d\'éviter la perte de données importantes, veuillez les données localement dès maintenant."</string>
   <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messages, Galerie, et les autres applis système MIUI ne seront pas affectées.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Sauvegarder les données des applis</string>

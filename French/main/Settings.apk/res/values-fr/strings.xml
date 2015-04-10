@@ -1574,7 +1574,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">Confirmez le nouveau code PIN</string>
   <string name="skip_label">Ignorer</string>
-  <string name="skip_lock_screen_confirm_msg">Les fonctions suivantes seront désactivées pour l\'écran de verrouillage: notifications, contrôles du lecteur audio, glisser à gauche pour ouvrir l\'appareil photo, glisser à droite pour accéder à Mi Home.</string>
+  <string name="skip_lock_screen_confirm_msg">Les fonctions suivantes seront désactivées pour l\'écran de verrouillage : notifications, contrôles du lecteur audio, glisser à gauche pour ouvrir l\'appareil photo, glisser à droite pour accéder à Mi Home.</string>
   <string name="skip_step">Ignorer</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
@@ -2878,8 +2878,8 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="screen_paper_mode_set_apps_title">Mode Lecture personnalisé</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pas demander</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Accepter et continuer</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications pouvant utiliser le mode Lecture, une connexion réseau est nécessaire. Etes-vous d\'accord?</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes et Conditions</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications pouvant utiliser le mode Lecture, une connexion réseau est nécessaire. Êtes-vous d\'accord ?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes et conditions</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Mettre à jour la liste des applications utilisant le mode Lecture par le réseau</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Mise à jour par le réseau</string>
   <string name="status_bar_settings_long_click_sort">Appui long pour déplacer</string>

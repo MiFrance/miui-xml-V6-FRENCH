@@ -139,19 +139,19 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="always_enable_mms">Toujours recevoir les MMS</string>
   <string name="always_enable_mms_summary">Toujours recevoir les MMS même lorsque les données sont désactivées</string>
   <string name="networks_title">Opérateurs réseau</string>
-  <string name="network_settings_warn_message">"Only use the network you've selected manually."</string>
-  <string name="network_settings_auto_select_title">"Don't select networks automatically"</string>
+  <string name="network_settings_warn_message">Utiliser uniquement le réseau que vous avez sélectionné manuellement</string>
+  <string name="network_settings_auto_select_title">Connexion réseau</string>
   <string name="network_settings_next">Suivant</string>
-  <string name="network_settings_confirm_message">Network maybe unavailable.</string>
-  <string name="network_settings_query_failed_message">Network query failed. Touch Cancel to use your preferred network or touch OK to retry.</string>
+  <string name="network_settings_confirm_message">Réseau indisponible, êtes-vous sur ?</string>
+  <string name="network_settings_query_failed_message">Requête réseau échouée. Appuyer sur Annuler pour utiliser votre réseau préféré ou OK pour réessayer.</string>
   <string name="network_settings_information">Information</string>
-  <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
-  <string name="network_settings_data_connected_change">Unable to change networks while data connection is in use. Stop using current data connection and switch to another network?</string>
-  <string name="network_settings_automatically_option">Sélectionne automatiquement l\'opérateur préféré (%s)</string>
-  <string name="network_settings_turn_off">Turn off</string>
-  <string name="network_settings_select_automatic_hint">"Can\'t register to the network you selected.
-Will use preferred network instead."</string>
-  <string name="network_settings_forbidden">%s (forbidden)</string>
+  <string name="network_settings_duringcall">Opération non autorisée pendant un appel</string>
+  <string name="network_settings_data_connected_change">"Impossible de basculer de réseau lorsqu'une connexion de donnée est en utilisation. Stopper son usage et basculer sur un autre réseau ?"</string>
+  <string name="network_settings_automatically_option">Sélectionner automatiquement l\'opérateur préféré (%s)</string>
+  <string name="network_settings_turn_off">Désactiver</string>
+  <string name="network_settings_select_automatic_hint">"Impossible de s'enregistrer sur le réseau sélectionné.
+Le réseau préféré sera utilisé à la place."</string>
+  <string name="network_settings_forbidden">%s (interdit)</string>
   <string name="preferred_network_type_title">Sélection du type de réseau</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_cdma">CDMA</string>

@@ -935,7 +935,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="mibill_privacy_policy_button1">Pas maintenant</string>
   <string name="mibill_privacy_policy_button2">J\'accepte</string>
   <string name="mibill_privacy_policy_description">Mi Wallet va analyser toutes les factures présentes dans vos messages, et les gérer pour vous. Ce service est désactivé par défaut pour les adresses professionnelles.</string>
-  <string name="mibill_privacy_policy_link">Accepter &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;les conditions d\'utilisation du service de facturation bancaire&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_link">Accepter <a href="https://www.mipay.com/res/doc/eula/email.html">les conditions d\'utilisation du service de facturation bancaire</a></string>
   <string name="mibill_privacy_policy_title">Mi Wallet analyse vos factures électroniques</string>
   <string name="toast_bar_fail_synchronization">Connexion réseau anormale. Veuillez essayer plus tard</string>
   <string name="toast_bar_insufficient_memory_space">Espace disque insuffisant sur le téléphone, échec de la synchronisation des messages</string>
