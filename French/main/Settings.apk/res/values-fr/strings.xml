@@ -502,6 +502,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="controls_label">Commandes</string>
   <string name="controls_subtitle">Ajuster la consommation</string>
   <string name="copyright_title">Droits d\'auteur</string>
+  <string name="country_name">%s (système)</string>
   <string name="create">Créer</string>
   <string name="credentials_configure_lock_screen_hint">Avant d\'utiliser le stockage d\'identifiants, vous devez définir un code PIN ou un mot de passe pour le verrouillage d\'écran.</string>
   <string name="credentials_enabled">Stockage des identifiants activé</string>
@@ -917,6 +918,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="input_settings">Paramètres d\'entrée</string>
   <string name="install_all_warning">Votre appareil et vos données personnelles sont plus vulnérables face aux attaques d\'applications provenant de sources inconnues. Vous reconnaissez être seul responsable de tout dommage subi par votre appareil ou de toute perte de données pouvant découler de l\'utilisation de ces applications.</string>
   <string name="install_applications">Sources inconnues</string>
+  <string name="install_preinstall_app">Chargement des applis…</string>
   <string name="install_text">Installer</string>
   <string name="install_unknown_applications">Autoriser l\'installation d\'applications issues de sources inconnues</string>
   <string name="insufficient_storage">Espace de stockage insuffisant.</string>
@@ -1572,6 +1574,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">Confirmez le nouveau code PIN</string>
   <string name="skip_label">Ignorer</string>
+  <string name="skip_lock_screen_confirm_msg">Les fonctions suivantes seront désactivées pour l\'écran de verrouillage: notifications, contrôles du lecteur audio, glisser à gauche pour ouvrir l\'appareil photo, glisser à droite pour accéder à Mi Home.</string>
   <string name="skip_step">Ignorer</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
@@ -2431,6 +2434,7 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="home_app_uninstall_button">Désinstaller cette application</string>
   <string name="home_settings">Accueil</string>
   <string name="locale_default">Par défaut</string>
+  <string name="locale_settings">Locale</string>
   <string name="location_category_location_services">Services de localisation</string>
   <string name="location_category_recent_location_requests">Demandes localisation récentes</string>
   <string name="location_high_battery_use">Forte utilisation de la batterie</string>
@@ -2864,6 +2868,20 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="screen_paper_mode_title">Mode Lecture</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
+  <string name="screen_paper_mode_adjust_level">Ajuster le niveau du mode Lecture</string>
+  <string name="screen_paper_mode_apps_loading">Chargement…</string>
+  <string name="screen_paper_mode_global_summary">Utiliser le mode Lecture globalement, sans personnalisation</string>
+  <string name="screen_paper_mode_global_title">Global</string>
+  <string name="screen_paper_mode_local_summary">Utiliser le mode Lecture localement, cliquez sur la flèche droite pour personnaliser</string>
+  <string name="screen_paper_mode_local_title">Local</string>
+  <string name="screen_paper_mode_range_title">Sélection</string>
+  <string name="screen_paper_mode_set_apps_title">Mode Lecture personnalisé</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pas demander</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Accepter et continuer</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications pouvant utiliser le mode Lecture, une connexion réseau est nécessaire. Etes-vous d\'accord?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes et Conditions</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Mettre à jour la liste des applications utilisant le mode Lecture par le réseau</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Mise à jour par le réseau</string>
   <string name="status_bar_settings_long_click_sort">Appui long pour déplacer</string>
   <string name="status_bar_settings_toggle_position">Disposition des commutateurs</string>
   <string name="supl_not_set">&lt;Non défini&gt;</string>

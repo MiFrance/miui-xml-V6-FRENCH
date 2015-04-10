@@ -224,4 +224,8 @@ d MMMM yyyy"</string>
   <string name="media_projection_action_text">Démarrer maintenant</string>
   <string name="media_projection_dialog_text">"%s va capturer tout ce qui est affiché sur votre écran."</string>
   <string name="media_projection_remember_text">"Ne plus afficher"</string>
+  <string name="vpn_text">Touchez pour voir les paramètres.</string>
+  <string name="vpn_text_long">Connecté à %s. Touchez pour voir les détails.</string>
+  <string name="vpn_title">VPN activé</string>
+  <string name="vpn_title_long">Connexion au VPN via %s</string>
 </resources>

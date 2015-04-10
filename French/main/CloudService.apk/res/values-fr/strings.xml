@@ -127,7 +127,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_unlogin_for_time_title">Activer Mi Cloud</string>
   <string name="remind_later">Me rappeler plus tard</string>
   <string name="user_agreement">Conditions d\'utilisation</string>
-  <string name="user_agreement_p6">En activant la synchronisation, vous acceptez les </string>
+  <string name="user_agreement_p6">En utilisant ce service, vous acceptez les </string>
   <string name="user_agreement_p7">"Conditions d\'utilisation de Mi Cloud"</string>
   <string name="user_agreement_p8">.</string>
   <string name="loading">Chargement…</string>
@@ -175,7 +175,7 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="sync">Synchroniser</string>
   <string name="more_activity_in_upgrade_space">Plus d\'infos sur <a href="http://i.mi.com">i.mi.com</a></string>
   <string name="data_syncing">Toujours synchroniser</string>
-  <string name="find_device_dspt_provision">"Si vous perdez votre appareil, rendez vous sur "</string>
+  <string name="find_device_dspt_provision">"Si vous perdez votre appareil, rendez vous sur %s pour le localiser, le verrouiller ou le réinitialiser. Vous pouvez (dés)activer cette fonction à tout moment dans les paramètres</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">" pour le localiser, verrouiller ou réinitialiser.
@@ -257,8 +257,13 @@ sur votre compte Mi pour réactiver Mi Cloud."</string>
 Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi."</string>
   <string name="phone_number_may_required_dspt_provision">"Ce service peut nécessiter votre numéro de téléphone. "</string>
   <string name="phone_number_required_dspt_provision">"Ce service nécessite votre numéro de téléphone. "</string>
-  <string name="sync_dspt_entrance_provision">"Synchroniser vos photos, contacts, messages, ou localiser votre appareil. "</string>
+  <string name="sync_dspt_entrance_provision">"Synchronisez vos photos, contacts, journal d'appels, messages sur tous vos appareils. Accédez aux données synchronisées via un navigateur sur %s."</string>
   <string name="sync_dspt_entrance_provision_2">En savoir plus</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">"Ne pas utiliser"</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"Les applis MIUI nécessitent Mi Cloud pour sauvegarder vos photos, contacts, notes, et plus encore. Mi Cloud est gratuit et directement prêt à l'emploi."</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Utiliser Mi Cloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">"Ne pas utiliser Mi Cloud?"</string>
+  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Ignorer cette étape&lt;/u&gt;</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_resend_sms_dspt_provision">" Si vous changez vos cartes SIM, votre opérateur peut potentiellement vous facturer un SMS pour la réactivation du service."</string>
   <string name="user_agreement_title">"Conditions d\'utilisation Mi Cloud"</string>
@@ -311,4 +316,5 @@ Dernière sauvegarde : %2$s"</string>
   <string name="cloud_app_back_up_quit_notification_content1">"Le service de sauvegarde sera stoppé pour les applis non-MIUI. Les données de ces applis tierces seront supprimées le 1er mai 2015. Afin d\'éviter la perte de données importantes, veuillez les données localement dès maintenant."</string>
   <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messages, Galerie, et les autres applis système MIUI ne seront pas affectées.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Sauvegarder les données des applis</string>
+
 </resources>
