@@ -358,7 +358,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_enable_alphanumeric_pin">Le code PIN contient des lettres ou des symboles.</string>
   <string name="bluetooth_enter_passkey_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisir la clé d'accès requise de l'appareil : "</string>
   <string name="bluetooth_enter_passkey_other_device">Vous devrez peut-être également saisir ce mot de passe sur l\'autre appareil.</string>
-  <string name="bluetooth_enter_pin_msg">"Pour l'association à :{&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisir le code PIN requis de l'appareil : "</string>
+  <string name="bluetooth_enter_pin_msg">"Pour l'association à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Saisir le code PIN requis de l'appareil : "</string>
   <string name="bluetooth_enter_pin_other_device">Vous devrez peut-être également saisir ce code PIN sur l\'autre appareil.</string>
   <string name="bluetooth_headset_profile_summary_connected">Connecté à l\'audio de l\'appareil</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utiliser pour l\'audio de l\'appareil</string>
@@ -401,9 +401,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_preference_found_devices">Appareils</string>
   <string name="bluetooth_preference_paired_devices">Périphériques associés</string>
   <string name="bluetooth_preference_scan_title">Rechercher des appareils</string>
-  <string name="bluetooth_profile_a2dp">Audio multimédia</string>
+  <string name="bluetooth_profile_a2dp">Multimédia</string>
   <string name="bluetooth_profile_details">Paramètres du profil</string>
-  <string name="bluetooth_profile_headset">Audio de l\'appareil</string>
+  <string name="bluetooth_profile_headset">Appels et notifications</string>
   <string name="bluetooth_profile_hid">Périphérique d\'entrée</string>
   <string name="bluetooth_profile_opp">Transfert de fichier</string>
   <string name="bluetooth_profile_pan">Accès internet</string>
@@ -413,7 +413,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_rename_button">Renommer</string>
   <string name="bluetooth_rename_device">Renommer l\'appareil</string>
   <string name="bluetooth_scan_for_devices">Recherche d\'appareils</string>
-  <string name="bluetooth_search_for_devices">Rechercher des appareils</string>
+  <string name="bluetooth_search_for_devices">Actualiser</string>
   <string name="bluetooth_searching_for_devices">Recherche…</string>
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Gérer les connexions, configurer le nom et l\'identification de l\'appareil</string>
@@ -548,7 +548,7 @@ Pour continuer d\'utiliser votre appareil, vous devez rétablir la configuration
   <string name="cryptkeeper_emergency_call">Appel d\'urgence</string>
   <string name="cryptkeeper_return_to_call">Retour à l\'appel</string>
   <string name="current_backup_pw_prompt">Saisissez le mot de passe actuel utilisé pour les sauvegardes complètes.</string>
-  <string name="current_input_method">Par défaut</string>
+  <string name="current_input_method">Clavier actuel</string>
   <string name="data_size_label">"Données "</string>
   <string name="data_usage_app_restrict_background">Limiter données en arrière-plan</string>
   <string name="data_usage_app_restrict_background_summary">Désactiver données arrière-plan sur réseaux mobiles. Utiliser autres réseaux si dispos.</string>
@@ -680,7 +680,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="device_name_input_error">Impossible d\'enregistrer le nom de l\'appareil, veuillez le saisir à nouveau</string>
   <string name="device_name_input_hint">Entrez le nom du périphérique</string>
   <string name="device_name_usage_point">Autoriser l\'appareil à être découvert par d\'autres périphériques Bluetooth afin de permettre le transfert de fichiers et autres.</string>
-  <string name="device_picker">Sélecteur d\'appareil Bluetooth</string>
+  <string name="device_picker">Sélectionner un appareil Bluetooth</string>
   <string name="device_sd_memory">Carte SD</string>
   <string name="device_status">État</string>
   <string name="device_status_activity_title">État</string>
@@ -981,7 +981,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="location_access_title">Accès à ma position</string>
   <string name="location_neighborhood_level">Autoriser l\'envoi anonyme d\'informations de localisation à Google. Permet aussi aux applications autorisées d\'utiliser les données du Wi-Fi ou des réseaux mobiles afin de déterminer votre position approximative.</string>
   <string name="location_neighborhood_level_wifi">Position déterminée par le Wi-Fi</string>
-  <string name="location_network_based">Localis. via Wi-Fi et réseaux mobiles</string>
+  <string name="location_network_based">Localisation via Wi-Fi et réseau mob.</string>
   <string name="location_settings_title">Localisation</string>
   <string name="location_sources_heading">Sources de localisation</string>
   <string name="location_street_level">Autoriser les applications à utiliser le GPS pour vous localiser</string>
@@ -1538,7 +1538,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="show_hw_screen_updates_summary">Faire clignoter les éléments dessinés avec le GPU</string>
   <string name="show_magnifier_when_input">Afficher la loupe</string>
   <string name="show_owner_info_on_lockscreen_label">Coordonnées du propriétaire sur l\'écran de verrouillage</string>
-  <string name="show_password">Afficher le mot de passe</string>
+  <string name="show_password">Afficher les mots de passe</string>
   <string name="show_rounded_corners">Afficher les coins arrondis</string>
   <string name="show_running_services">Afficher les services</string>
   <string name="show_screen_updates">Afficher mises à jour de l\'écran</string>
@@ -1997,7 +1997,7 @@ N\'importe quel utilisateur peut accepter des autorisations mises à jour pour l
   <string name="wifi_context_menu_forget">Retirer le réseau</string>
   <string name="wifi_disabled_generic">Désactivé</string>
   <string name="wifi_disabled_help">Réseau évité en raison d\'une mauvaise connexion. Désactivez ce paramètre en sélectionnant Paramètres &gt; Écran Wi-Fi &gt; Éléments du menu Avancé</string>
-  <string name="wifi_disabled_network_failure">Mauvaise connexion internet évitée</string>
+  <string name="wifi_disabled_network_failure">Échec de configuration de l\'adresse IP</string>
   <string name="wifi_disabled_password_failure">Problème d\'authentification.</string>
   <string name="wifi_display_details">Paramètres d\'affichage</string>
   <string name="wifi_display_no_devices_found">Aucun appareil détecté à proximité.</string>
@@ -2440,9 +2440,9 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="location_high_battery_use">Forte utilisation de la batterie</string>
   <string name="location_loading_injected_setting">Récupération des données en cours…</string>
   <string name="location_low_battery_use">Faible utilisation de batterie</string>
-  <string name="location_mode_battery_saving_description">Utiliser les réseaux mobiles et Wi-Fi pour déterminer la position</string>
+  <string name="location_mode_battery_saving_description">Utiliser le Wi-Fi et les réseaux mobiles pour déterminer la position</string>
   <string name="location_mode_battery_saving_title">Économie de batterie</string>
-  <string name="location_mode_high_accuracy_description">Utiliser le GPS, ainsi que les réseaux mobiles et Wi-Fi pour déterminer la position</string>
+  <string name="location_mode_high_accuracy_description">Utiliser le GPS, le Wi‑Fi et les réseaux mobiles pour déterminer la position</string>
   <string name="location_mode_high_accuracy_title">Haute précision</string>
   <string name="location_mode_location_off_title">Localisation désactivée</string>
   <string name="location_mode_screen_title">Mode de localisation</string>

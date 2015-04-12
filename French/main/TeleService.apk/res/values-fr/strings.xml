@@ -12,7 +12,7 @@
   <string name="mmiStarted">Le code IHM a été lancé.</string>
   <string name="ussdRunning">Exécution du code USSD…</string>
   <string name="cancel">Annuler</string>
-  <string name="enter_input" formatted="false">Le message USSD doit contenir entre %d et %d caratères. Veuillez réessayer</string>
+  <string name="enter_input" formatted="false">Le message USSD doit contenir entre %d et %d caractères. Veuillez réessayer</string>
   <string name="ok">OK</string>
   <string name="send_button">Envoyer</string>
   <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
@@ -873,7 +873,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="card_title_incoming_vt_call">Appel vidéo entrant</string>
   <string name="card_title_my_phone_number">Mon numéro est le %s</string>
   <string name="card_title_on_hold">En attente</string>
-  <string name="card_title_redialing">Nouvelle tentative</string>
+  <string name="card_title_redialing">Rappel en cours…</string>
   <string name="cb_all_languages">Toutes les langues </string>
   <string name="cb_channel_dialog_channel_name">Nom de la chaîne (1-10 caractères)</string>
   <string name="cb_channel_dialog_channel_number">Numéro de la chaîne (0-65534) </string>
@@ -903,7 +903,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="contactPhoto">photo du contact</string>
   <string name="default_notification_description">Sonnerie par défaut (%1$s)</string>
   <string name="description_search_button">rechercher</string>
-  <string name="description_target_answer">Réponse</string>
+  <string name="description_target_answer">Répondre</string>
   <string name="description_target_decline">Refuser</string>
   <string name="description_target_send_sms">Envoyer un SMS</string>
   <string name="dialerKeyboardHintText">Utilisez le clavier pour composer un numéro.</string>

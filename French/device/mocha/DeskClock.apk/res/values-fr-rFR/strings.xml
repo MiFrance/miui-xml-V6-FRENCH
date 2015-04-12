@@ -43,7 +43,7 @@
   <string name="cities_activity_title">Villes</string>
   <string name="city_delete_confirmation">Supprimer cette ville ?</string>
   <string name="clock_instructions">Sélectionner une horloge</string>
-  <string name="clock_settings">HORLOGE</string>
+  <string name="clock_settings">Horloge</string>
   <string name="clock_style">Style</string>
   <string name="collapse_alarm">"Réduire l'alarme"</string>
   <string name="current_zone">Fuseau horaire actuel</string>

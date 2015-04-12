@@ -60,7 +60,7 @@
   <string name="callFailed_dsac_restricted_normal">Les appels ordinaires sont restreints par un contrôle d\'accès</string>
   <string name="callFailed_unobtainable_number">Numéro incorrect</string>
   <string name="confCall">Conférence tél.</string>
-  <string name="call_lost">L\'appel a été perdu.</string>
+  <string name="call_lost">Appel interrompu.</string>
   <string name="ok">OK</string>
   <string name="audio_mode_speaker">Haut-parleur</string>
   <string name="audio_mode_earpiece">Écouteur du combiné</string>
@@ -376,7 +376,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="fake_phone_activity_placeCall_text">Faux numéro de téléphone entrant</string>
   <string name="voicemail_settings_number_label">N° messagerie vocale</string>
   <string name="card_title_dialing">Appel en cours…</string>
-  <string name="card_title_redialing">Nouvelle tentative</string>
+  <string name="card_title_redialing">Rappel en cours…</string>
   <string name="card_title_conf_call">Conférence téléphonique</string>
   <string name="card_title_threeway_call">Appel à trois</string>
   <string name="card_title_incoming_call">Appel entrant</string>
@@ -586,7 +586,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="description_delete_button">retour arrière</string>
   <string name="accessibility_speakerphone_enabled">Haut-parleur activé</string>
   <string name="accessibility_call_muted">Son coupé</string>
-  <string name="description_target_answer">Réponse</string>
+  <string name="description_target_answer">Répondre</string>
   <string name="description_target_answer_video">Répondre avec Vidéo</string>
   <string name="description_target_answer_tx_video">Répondre avec TX Vidéo</string>
   <string name="description_target_answer_rx_video">Répondre avec RX Vidéo</string>

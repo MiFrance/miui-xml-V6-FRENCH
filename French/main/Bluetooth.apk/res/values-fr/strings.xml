@@ -142,9 +142,9 @@
   <string name="ble_device_profile_title">Appareil BLE connecté</string>
   <string name="bluetooth_preference_connected_devices">Appareils connectés</string>
   <string name="bluetooth_preference_found_devices">Appareils détectés</string>
-  <string name="bluetooth_preference_scan_title">Scanner les appareils</string>
-  <string name="bluetooth_search_for_devices">Rechercher des appareils</string>
-  <string name="device_picker">Sélection d\'appareil Bluetooth</string>
+  <string name="bluetooth_preference_scan_title">Recherche d\'appareils</string>
+  <string name="bluetooth_search_for_devices">Actualiser</string>
+  <string name="device_picker">Sélectionner un appareil Bluetooth</string>
   <string name="disconnect">Déconnecter</string>
   <string name="mi_band_vibrate_alarm">Vibrer lors de l\'alarme</string>
   <string name="mi_band_vibrate_incall">Vibrer en sonnant</string>
