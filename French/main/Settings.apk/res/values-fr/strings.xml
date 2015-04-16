@@ -3583,9 +3583,7 @@ l'assistant  e-mail"</string>
   <string name="music_dolby_preset_select">Veuillez sélectionner un mode d\'égalisation intelligente</string>
   <string name="music_dolby_surround_virtualizer">Virtualisation Surround</string>
   <string name="music_dolby_volume_leveler">Normalisation du volume</string>
+  <string name="music_dolby_dialogue_enhancer">Amélioration des voix</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
 
-<!-- à traduire 
-  <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
--->
 </resources>
