@@ -2864,7 +2864,6 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_apps_title">Utiliser le mode Lecture pour ces apps</string>
   <string name="screen_paper_mode_off_apps_title">Ne pas utiliser le mode Lecture pour ces apps</string>
-  <string name="screen_paper_mode_summary">Réduire l\'éclat du fond d\'écran</string>
   <string name="screen_paper_mode_title">Mode Lecture</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
@@ -2988,10 +2987,9 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données. Si vous dépassez votre quota de données opérateur, vous risquez des frais supplémentaires."</string>
   <string name="agps_roaming_dia_title">"Utiliser l'A-GPS en itinérance"</string>
   <string name="agps_roaming_summary">"Utiliser l'A-GPS en itinérance, peut entrainer des frais."</string>
-  <string name="music_title_dolby_control">DOLBY</string>
   <string name="music_dolby_mode_movie">Film</string>
   <string name="music_dolby_mode_music">Musique</string>
-  <string name="music_dolby_mode_off">Inactif</string>
+  <string name="music_dolby_mode_off">Désactivé</string>
   <string name="status_bar_settings_enable_notification">Activer les notifications</string>
   <string name="status_bar_settings_notification_led">Led de notification</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sons &amp; vibrations</string>
@@ -3557,30 +3555,24 @@ l'assistant  e-mail"</string>
   <string name="usb_media_format_title">Effacer la mémoire USB</string>
   <string name="uicc_media_format_summary">Efface toutes les données de la mémoire UICC</string>
   <string name="uicc_media_format_title">Effacer la mémoire UICC</string>
-
   <string name="wifi_rssi_threshold_check">Activer le seuil RSSI</string>
   <string name="wifi_rssi_threshold_check_summary">Ne pas se connecter à un AP si le RSSI est faible</string>
-	 
-  <string name="sub_activate_failed">Echec de l\'activation.</string>
+  <string name="sub_activate_failed">Échec de l\'activation.</string>
   <string name="sub_activate_not_supported">Activation non supportée</string>
   <string name="sub_activate_success">Activé.</string>
-  <string name="sub_deactivate_failed">Echec de la désactivation.</string>
+  <string name="sub_deactivate_failed">Échec de la désactivation.</string>
   <string name="sub_deactivate_not_supported">Désactivation non supportée</string>
   <string name="sub_deactivate_success">Désactivé.</string>
-	 
   <string name="miui_allow_alarm">autoriser l\'alarme</string>
   <string name="miui_allow_light">autoriser la torche</string>
   <string name="miui_allow_music">autoriser la musique</string>
   <string name="miui_allow_vibrate">autoriser le vibreur</string>
   <string name="miui_disturb_title">activer le mode NPD</string>
   <string name="miui_silent_title">activer le mode silencieux</string>
-	
   <string name="zen_mode_miui_disturb_category">Mode NPD</string>
   <string name="zen_mode_miui_silent_category">Mode silencieux</string>
   <string name="zen_mode_option_miui_silent">Autoriser la suppression du vibreur</string>
   <string name="zen_mode_option_miui_vibrate">Ne Pas Déranger</string>
-	
-  <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Effets Dolby</string>
   <string name="music_dolby_eq_enter_alert_msg">Vous pouvez uniquement utiliser l'égaliseur en mode Dolby Musique. L\'activer maintenant ?</string>
   <string name="music_dolby_eq_enter_alert_title">Activer Dolby Musique</string>
@@ -3589,11 +3581,11 @@ l'assistant  e-mail"</string>
   <string name="music_dolby_ieq_open">Ouvert</string>
   <string name="music_dolby_ieq_rich">Riche</string>
   <string name="music_dolby_preset_select">Veuillez sélectionner un mode d'\égalisation intelligente</string>
-  <string name="music_dolby_surround_virtualizer">Virtualiseur Surround</string>
-  <string name="music_dolby_volume_leveler">Réhausseur de volume</string>
+  <string name="music_dolby_surround_virtualizer">Virtualisation Surround</string>
+  <string name="music_dolby_volume_leveler">Normalisation du volume</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
 
-  <string name="music_dolby_mode_movie">Vidéo</string>
-  <string name="music_dolby_mode_music">Musique</string>
-  <string name="music_dolby_mode_off">Désactivé</string>
-  <string name="music_title_dolby_control">Dolby Digital Plus</string>	
+<!-- à traduire 
+  <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
+-->
 </resources>
