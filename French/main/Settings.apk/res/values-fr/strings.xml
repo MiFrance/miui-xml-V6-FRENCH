@@ -2868,15 +2868,16 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="screen_paper_mode_title">Mode Lecture</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
-  <string name="screen_paper_mode_adjust_level">Ajuster le niveau du mode Lecture</string>
+  <string name="screen_paper_mode_adjust_level">Ajuster le niveau</string>
   <string name="screen_paper_mode_apps_loading">Chargement…</string>
-  <string name="screen_paper_mode_global_summary">Utiliser le mode Lecture globalement, sans personnalisation</string>
-  <string name="screen_paper_mode_global_title">Global</string>
-  <string name="screen_paper_mode_local_summary">Utiliser le mode Lecture localement, cliquez sur la flèche droite pour personnaliser</string>
-  <string name="screen_paper_mode_local_title">Local</string>
-  <string name="screen_paper_mode_range_title">Sélection</string>
-  <string name="screen_paper_mode_set_apps_title">Mode Lecture personnalisé</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne pas demander</string>
+  <string name="screen_paper_mode_global_summary">Utiliser le mode Lecture pour toutes les applications</string>
+  <string name="screen_paper_mode_global_title">Toutes les applis</string>
+  <string name="screen_paper_mode_local_summary">Utiliser le mode Lecture pour les applications sélectionnées</string>
+  <string name="screen_paper_mode_local_title">Applis sélectionnées</string>
+  <string name="screen_paper_mode_range_title">Paramètres</string>
+  <string name="screen_paper_mode_set_apps_title">Applications en mode Lecture</string>
+  <string name="screen_paper_mode_summary">"Réduire la luminosité de l'arrière-plan"</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne plus afficher</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Accepter et continuer</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications pouvant utiliser le mode Lecture, une connexion réseau est nécessaire. Êtes-vous d\'accord ?</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes et conditions</string>
@@ -3557,39 +3558,42 @@ l'assistant  e-mail"</string>
   <string name="uicc_media_format_summary">Efface toutes les données de la mémoire UICC</string>
   <string name="uicc_media_format_title">Effacer la mémoire UICC</string>
 
-<!-- à traduire lolilop :
-     <string name="wifi_rssi_threshold_check">Enable RSSI threshold</string>
-     <string name="wifi_rssi_threshold_check_summary">Do not connect to an AP if RSSI is poor</string>
+  <string name="wifi_rssi_threshold_check">Activer le seuil RSSI</string>
+  <string name="wifi_rssi_threshold_check_summary">Ne pas se connecter à un AP si le RSSI est faible</string>
 	 
-     <string name="sub_activate_failed">Activation failed.</string>
-     <string name="sub_activate_not_supported">Activation not supported</string>
-     <string name="sub_activate_success">Successfully Activated.</string>
-     <string name="sub_deactivate_failed">Deactivation failed.</string>
-     <string name="sub_deactivate_not_supported">Deactivation not supported</string>
-     <string name="sub_deactivate_success">Successfully Deactivated.</string>
+  <string name="sub_activate_failed">Echec de l\'activation.</string>
+  <string name="sub_activate_not_supported">Activation non supportée</string>
+  <string name="sub_activate_success">Activé.</string>
+  <string name="sub_deactivate_failed">Echec de la désactivation.</string>
+  <string name="sub_deactivate_not_supported">Désactivation non supportée</string>
+  <string name="sub_deactivate_success">Désactivé.</string>
 	 
-     <string name="miui_allow_alarm">allow alarm</string>
-     <string name="miui_allow_light">allow light</string>
-     <string name="miui_allow_music">allow music</string>
-     <string name="miui_allow_vibrate">allow vibrate</string>
-     <string name="miui_disturb_title">enable disturb mode</string>
-     <string name="miui_silent_title">enable silent mode</string>
+  <string name="miui_allow_alarm">autoriser l\'alarme</string>
+  <string name="miui_allow_light">autoriser la torche</string>
+  <string name="miui_allow_music">autoriser la musique</string>
+  <string name="miui_allow_vibrate">autoriser le vibreur</string>
+  <string name="miui_disturb_title">activer le mode NPD</string>
+  <string name="miui_silent_title">activer le mode silencieux</string>
 	
-     <string name="zen_mode_miui_disturb_category">disturb mode</string>
-     <string name="zen_mode_miui_silent_category">silent mode</string>
-     <string name="zen_mode_option_miui_silent">Allow miui vibrate interrupt</string>
-     <string name="zen_mode_option_miui_vibrate">Do Not Disturb</string>
+  <string name="zen_mode_miui_disturb_category">Mode NPD</string>
+  <string name="zen_mode_miui_silent_category">Mode silencieux</string>
+  <string name="zen_mode_option_miui_silent">Autoriser la suppression du vibreur</string>
+  <string name="zen_mode_option_miui_vibrate">Ne Pas Déranger</string>
 	
-     <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
-     <string name="music_dolby_effects">Dolby effects</string>
-     <string name="music_dolby_eq_enter_alert_msg">You can only use the equalizer in Dolby music mode. Enable it now?</string>
-     <string name="music_dolby_eq_enter_alert_title">Turn on Dolby music</string>
-     <string name="music_dolby_ieq_flat">Off</string>
-     <string name="music_dolby_ieq_focused">Focused</string>
-     <string name="music_dolby_ieq_open">Open</string>
-     <string name="music_dolby_ieq_rich">Rich</string>
-     <string name="music_dolby_preset_select">Please select an Intelligent Equalizer mode</string>
-     <string name="music_dolby_surround_virtualizer">Surround Virtualizer</string>
-     <string name="music_dolby_volume_leveler">Volume Leveler</string>
--->
+  <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
+  <string name="music_dolby_effects">Effets Dolby</string>
+  <string name="music_dolby_eq_enter_alert_msg">Vous pouvez uniquement utiliser l'égaliseur en mode Dolby Musique. L\'activer maintenant ?</string>
+  <string name="music_dolby_eq_enter_alert_title">Activer Dolby Musique</string>
+  <string name="music_dolby_ieq_flat">Désactivé</string>
+  <string name="music_dolby_ieq_focused">Précis</string>
+  <string name="music_dolby_ieq_open">Ouvert</string>
+  <string name="music_dolby_ieq_rich">Riche</string>
+  <string name="music_dolby_preset_select">Veuillez sélectionner un mode d'\égalisation intelligente</string>
+  <string name="music_dolby_surround_virtualizer">Virtualiseur Surround</string>
+  <string name="music_dolby_volume_leveler">Réhausseur de volume</string>
+
+  <string name="music_dolby_mode_movie">Vidéo</string>
+  <string name="music_dolby_mode_music">Musique</string>
+  <string name="music_dolby_mode_off">Désactivé</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>	
 </resources>

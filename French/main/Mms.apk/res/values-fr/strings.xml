@@ -582,6 +582,7 @@
   <string name="over_max_mms_size">Le MMS est trop volumineux.</string>
   
   <!-- à voir -->
-  <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
-  <string name="pref_title_send_delivery_reports">Send delivery report</string>
+  <string name="pref_summary_send_delivery_reports">Envoyer un accusé de réception à l\'expéditeur après réception d\'un MMS</string>
+  <string name="pref_title_send_delivery_reports">Envoyer des accusés de réception</string>
+  <string name="storage_unavailable">Pas d\'espace disponible</string>
 </resources>

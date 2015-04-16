@@ -744,7 +744,7 @@ Taille : %2$s"</string>
 Taille du patch Delta : %2$s"</string>
   <string name="xiaomi_external_storage_unavailable">Espace de stockage non disponible, veuillez vérifier votre carte SD.</string>
   <string name="mail">E-mail</string>
-  <string name="dialog_insufficient_space_on_internal">Le téléchargement a échoué. L\'espace disponible sur la mémoire interne est insuffisant.</string>
+  <string name="dialog_insufficient_space_on_internal">L\'espace disponible sur la mémoire interne est insuffisant pour télécharger automatiquement les pièces jointes.</string>
   <string name="dialog_insufficient_space_on_external">Le téléchargement a échoué. L\'espace disponible sur la carte SD est insuffisant.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Espace de stockage insuffisant pour %s.</string>
   <string name="dialog_auto_download_failed">Le téléchargement automatique a échoué, veuillez essayer manuellement.</string>
@@ -873,7 +873,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="mail_header_downloading_message_body">Téléchargement…</string>
   <string name="mail_header_message_body_auto_download_complete">Contenu du message téléchargé via Wi-Fi.</string>
   <string name="mail_header_message_body_auto_download_tip">Le contenu du message sera téléchargé via Wi-Fi.</string>
-  <string name="mail_header_message_body_download_failed">Expiration de la connexion.</string>
+  <string name="mail_header_message_body_download_failed">Echec au téléchargement du contenu du message.</string>
   <string name="mail_header_network_not_available">"Vous n\'avez pas de connexion réseau."</string>
   <string name="mock_content_provider">Copie du fournisseur de contenu</string>
   <string name="more_atts_remaining">%1$d restants</string>
@@ -937,10 +937,14 @@ Taille du patch Delta : %2$s"</string>
   <string name="mibill_privacy_policy_description">Mi Wallet va analyser toutes les factures présentes dans vos messages, et les gérer pour vous. Ce service est désactivé par défaut pour les adresses professionnelles.</string>
   <string name="mibill_privacy_policy_link">Accepter <a href="https://www.mipay.com/res/doc/eula/email.html">les conditions d\'utilisation du service de facturation bancaire</a></string>
   <string name="mibill_privacy_policy_title">Mi Wallet analyse vos factures électroniques</string>
-  <string name="toast_bar_fail_synchronization">Connexion réseau anormale. Veuillez essayer plus tard</string>
-  <string name="toast_bar_insufficient_memory_space">Espace disque insuffisant sur le téléphone, échec de la synchronisation des messages</string>
-  <string name="toast_bar_invalid_account">Compte expiré, veuillez vous reconnecter</string>
-  <string name="toast_bar_no_connection_network">Pas de connexion réseau, cliquez pour la configurer</string>
-  <string name="toast_bar_open_gmail_synchronization">Désactive la restriction d\'utilisation de Gmail, cliquez pour utiliser</string>
+  <string name="toast_bar_fail_synchronization">Pas de connexion réseau</string>
+  <string name="toast_bar_insufficient_memory_space">Espace disque insuffisant sur le téléphone</string>
+  <string name="toast_bar_invalid_account">Veuillez vous reconnecter</string>
+  <string name="toast_bar_no_connection_network">Pas de connexion réseau</string>
+  <string name="toast_bar_open_gmail_synchronization">Tapez pour utiliser Gmail à travers un proxy</string>
+  <string name="SMTP_independent_verification_text">Authentification SMTP spécifique</string>
+  <string name="SMTP_password_text">Mot de passe</string>
+  <string name="SMTP_username_text">Nom d\'utilisateur</string>
+  <string name="folder_synchronization_mail_settings">Dossier de synchronisation des paramètres de messagerie</string>
 
 </resources>
