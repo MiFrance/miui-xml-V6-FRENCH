@@ -288,7 +288,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="device_brand_title">Sélectionnez la marque du mobile</string>
   <string name="device_import_account_dialog_title">Sélectionnez le compte à importer</string>
   <string name="device_import_account_dialog_title_suffix">"
- (%1$s contacts trouvés)"</string>
+(%1$s contacts trouvés)"</string>
   <string name="device_import_failed_message">Échec de l\'importation !</string>
   <string name="device_import_local_account">Compte local</string>
   <string name="device_import_message">Importation en cours…</string>
@@ -1185,7 +1185,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="resource_title_rank">Les mieux classés</string>
   <string name="resource_title_subject">À l\'affiche</string>
   <string name="ret_sign">"
-  "</string>
+"</string>
   <string name="scan_qrcode_card_hint1">Scanner le code QR</string>
   <string name="scan_qrcode_card_hint2">Ajouter aux contacts</string>
   <string name="share_over_limit">"Au-delà de la limite, ne peut être partagé"</string>

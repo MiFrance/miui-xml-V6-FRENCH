@@ -303,7 +303,8 @@ Heures creuses: %1$s | %2$s utilisés"</string>
 Mettre à jour vos informations de consommation ?"</string>
   <string name="traffic_config_alert_body_normal">"
 Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
-  <string name="traffic_config_alert_body_leisure">"Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
+  <string name="traffic_config_alert_body_leisure">"
+Votre opérateur indique que vous avez consommé %1$s de vos données en heures creuses sur ce mois, ce qui diffère des %2$s que vous avez indiqué manuellement."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Votre opérateur indique qu'il vous reste %s de données en heures creuses. Vous n'avez pas défini de limite pour les heures creuses."</string>
   <string name="datausage_purchase_title_pkglist">Acheter des données supplémentaires</string>
@@ -422,9 +423,9 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="timeshow_s">%ds</string>
   <string name="title_limit_traffic_per_day">Limite d\'utilisation quotidienne</string>
   <string name="traffic_config_alert_body_extra">"
-  Vous avez acheté %1$s de données supplémentaires ce mois-ci. Cela diffère avec les %2$s que vous avez ajouté manuellement."</string>
+Vous avez acheté %1$s de données supplémentaires ce mois-ci. Cela diffère avec les %2$s que vous avez ajouté manuellement."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-  Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec la limite mensuelle que vous avez saisie manuellement."</string>
+Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec la limite mensuelle que vous avez saisie manuellement."</string>
   <string name="traffic_limit_error_alert_body">"Votre opérateur indique qu'il vous reste %1$s ce mois-ci. C'est plus que la limite de %2$s que vous avez saisie manuellement."</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Remettre à zéro</string>

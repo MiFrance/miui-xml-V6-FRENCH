@@ -299,8 +299,8 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_choose_which_one_sim">Choisissez un n° de téléphone</string>
   <string name="passport_click_email_to_valid">"
 
-  Pour activer votre compte, suivez le
-  lien dans le message que nous vous avons envoyé."</string>
+ Pour activer votre compte, suivez le
+ lien dans le message que nous vous avons envoyé."</string>
   <string name="passport_completed">Terminer</string>
   <string name="passport_confirm">Confirmer</string>
   <string name="passport_delete_account">Déconnecter</string>

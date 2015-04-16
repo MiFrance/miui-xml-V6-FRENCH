@@ -275,8 +275,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="mark_fraud_block">Marqué comme arnaque</string>
   <string name="mark_meal">Livraison de nourriture</string>
   <string name="mark_meal_block">Marqué comme livraison de nourriture</string>
-  <string name="mark_number_info">"
-+Veuillez noter que ces numéros peuvent parfois être utiles (par ex. lorsque vous cherchez un appartement). Ne bloquez que les numéros pour lesquels vous ne souhaiterez jamais d\'appels."</string>
+  <string name="mark_number_info">"Veuillez noter que ces numéros peuvent parfois être utiles (par ex. lorsque vous cherchez un appartement). Ne bloquez que les numéros pour lesquels vous ne souhaiterez jamais d\'appels."</string>
   <string name="mark_sell">Télévendeur</string>
   <string name="mark_number_sell">Télévendeur</string>
   <string name="mark_number_setting_guide_content1">Bloquer les appels des numéros signalés ?</string>
