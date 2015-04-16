@@ -927,7 +927,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="upload_log_yes">Envoyer</string>
   <string name="you_are_in_mobile_network">Vous êtes actuellement connecté à un réseau mobile</string>
   <string name="gmail_acceleration">Utiliser un serveur proxy pour le compte Gmail</string>
-  <string name="gmail_login_confirm_to_use_proxy">Utiliser un serveur proxy pour accéder à votre compte Gmail?</string>
+  <string name="gmail_login_confirm_to_use_proxy">Utiliser un serveur proxy pour accéder à votre compte Gmail ?</string>
   <string name="gmail_login_verify">Ajouter un compte Gmail</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Se connecter à Gmail</string>

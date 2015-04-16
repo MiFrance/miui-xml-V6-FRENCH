@@ -300,7 +300,7 @@
   <string name="event_info_end">"Fin : "</string>
   <string name="sync_notice_ok">Autoriser</string>
   <string name="sync_notice_cancel_toast_message">"Le calendrier local ne sera pas synchronisé avec Mi Cloud"</string>
-  <string name="sync_notice_message">Vous n\'avez pas encore synchronisé le calendrier Mi, le faire maintenant?</string>
+  <string name="sync_notice_message">Vous n\'avez pas encore synchronisé le calendrier Mi, le faire maintenant ?</string>
   <string name="sync_notice_ok_toast_message">Le calendrier local va être synchronisé avec Mi Clound</string>
   <string name="sync_notice_title">Requête de synchro</string>
   <string name="action_label">Entrée</string>
