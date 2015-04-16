@@ -108,7 +108,7 @@ I hope you'll add X feature, because…"</string>
   <string name="submit_dialog_confirm">Soumettre</string>
   <string name="submit_dialog_content">"Votre rapport, ainsi que vos journaux et images joints, seront transmis aux serveurs Xiaomi lorsceque vous serrez connecté à un réseau Wi-Fi."</string>
   <string name="submit_dialog_not_wifi_content">"Votre rapport, ainsi que vos journaux et images joints, seront transmis aux serveurs Xiaomi lorsceque vous serrez connecté à un réseau Wi-Fi."</string>
-  <string name="submit_dialog_title">Envoyer le rapport à Xiaomi</string>
+  <string name="submit_dialog_title">Envoyer le rapport de bogue</string>
   <string name="suggestion_problem1">"Dites-nous quelles fonctionnalités souhaiteriez vous voir apparaître à l'avenir"</string>
   <string name="title_common_problem">Bogues courants</string>
   <string name="title_nonsystem_app">Autres applis</string>
@@ -127,5 +127,5 @@ I hope you'll add X feature, because…"</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Création du rapport de bogue (dure moins d\'une minute)</string>
   <string name="toast_feedback_collect_store">Collecte des journaux…</string>
   <string name="network_disconnected">Pas de connexion réseau</string>
-  <string name="toast_fill_brackets">Veuillez saisir un texte entre les parenthèse</string>
+  <string name="toast_fill_brackets">Il manque des informations dans votre rapport</string>
 </resources>

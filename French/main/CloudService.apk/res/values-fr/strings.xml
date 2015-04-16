@@ -312,12 +312,16 @@ Dernière sauvegarde : %2$s"</string>
   <string name="close_cloud_app_backup_cancel">Annuler</string>
   <string name="close_cloud_app_backup_close">Fermer</string>
   <string name="close_cloud_app_backup_local_backup">Sauvegarder</string>
-  <string name="close_cloud_app_backup_message">Le service de sauvegarde de Mi Cloud sera définitivement stoppé le 1er mai 2015. Les données seront toutes supprimées, veuillez donc les sauvegarder ailleurs dès que possible.</string>
+  <string name="close_cloud_app_backup_message">Le service de sauvegarde de Mi Cloud sera définitivement stoppé pour les applis non-MIUI le 1er mai 2015. Les données seront toutes supprimées, veuillez donc les sauvegarder ailleurs dès que possible.</string>
   <string name="close_cloud_app_backup_notification_message">Appuyer pour voir les détails</string>
-  <string name="close_cloud_app_backup_notification_title">Information sur les modifications d\'utilisation</string>
+  <string name="close_cloud_app_backup_notification_title">Notification du service de sauvegarde Mi Cloud</string>
   <string name="close_cloud_app_backup_title">Information</string>
   <string name="cloud_app_back_up_quit_notification_content1">"Le service de sauvegarde sera stoppé pour les applis non-MIUI. Les données de ces applis tierces seront supprimées le 1er mai 2015. Afin d\'éviter la perte de données importantes, veuillez les données localement dès maintenant."</string>
   <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messages, Galerie, et les autres applis système MIUI ne seront pas affectées.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Sauvegarder les données des applis</string>
-
+  <string name="activate_number_change_dialog_message">Choisissez un nombre nécessaire pour l\'activation : lors d\'un appel en VoIP, le correspondant verra ce nombre</string>
+  <string name="mx_dspt_provision_with_voip">Appelez les autres utilisateurs de MIUI gratuitement via votre connexion Internet. Vous pouvez activer/désactiver cette fonction à tout moment dans les Paramètres.</string>
+  <string name="mx_sub_dspt_provision_with_voip">Appels Internet</string>
+  <string name="voip_choose_sim">Choisissez un numéro de téléphone pour activer Mi Voice</string>
+  <string name="voip_dspt">Mi Voice</string>  
 </resources>
