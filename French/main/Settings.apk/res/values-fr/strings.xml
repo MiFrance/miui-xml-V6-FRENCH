@@ -3574,13 +3574,13 @@ l'assistant  e-mail"</string>
   <string name="zen_mode_option_miui_silent">Autoriser la suppression du vibreur</string>
   <string name="zen_mode_option_miui_vibrate">Ne Pas Déranger</string>
   <string name="music_dolby_effects">Effets Dolby</string>
-  <string name="music_dolby_eq_enter_alert_msg">Vous pouvez uniquement utiliser l'égaliseur en mode Dolby Musique. L\'activer maintenant ?</string>
+  <string name="music_dolby_eq_enter_alert_msg">Vous pouvez uniquement utiliser l\'égaliseur en mode Dolby Musique. L\'activer maintenant ?</string>
   <string name="music_dolby_eq_enter_alert_title">Activer Dolby Musique</string>
   <string name="music_dolby_ieq_flat">Désactivé</string>
   <string name="music_dolby_ieq_focused">Précis</string>
   <string name="music_dolby_ieq_open">Ouvert</string>
   <string name="music_dolby_ieq_rich">Riche</string>
-  <string name="music_dolby_preset_select">Veuillez sélectionner un mode d'\égalisation intelligente</string>
+  <string name="music_dolby_preset_select">Veuillez sélectionner un mode d\'égalisation intelligente</string>
   <string name="music_dolby_surround_virtualizer">Virtualisation Surround</string>
   <string name="music_dolby_volume_leveler">Normalisation du volume</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
