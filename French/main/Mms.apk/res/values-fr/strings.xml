@@ -114,7 +114,7 @@
   <string name="confirm_dialog_title">Supprimer ?</string>
   <string name="confirm_export_dialog_description">Supprimer la sélection de contact privé, la conversation sera déplacé vers avec les SMS normaux. Voulez-vous continuer ?</string>
   <string name="confirm_export_dialog_title">Supprimer les contacts privés</string>
-  <string name="confirm_no_block_positive">"Ne pas bloquer et restaurer"</string>
+  <string name="confirm_no_block_positive">Débloquer</string>
   <string name="confirm_no_block_title">"Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?"</string>
   <string name="confirm_rate_limit">Un grand nombre de messages multimédias sont en cours d\'envoi. Voulez-vous continuer ?</string>
   <string name="confirm_restore_checkbox">Débloquer les messages reçus de ce numéro</string>
