@@ -112,5 +112,5 @@
  Touchez %s pour lancer ce téléchargement lors de votre prochaine connexion à un réseau Wi-Fi."</string>
   <string name="data_connection_title">Avertissement</string>
   <string name="data_connection_body">"Sur un réseau mobile, le téléchargement peut entrainer une consommation excessive de données mobiles."</string>
-  <string name="record_mark_point">Marques : %</string>
+  <string name="record_mark_point">Marques : %s</string>
 </resources>
