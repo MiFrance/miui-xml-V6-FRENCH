@@ -3477,7 +3477,7 @@ l'assistant  e-mail"</string>
   <string name="zen_mode_when_every_night">Tous les soirs</string>
   <string name="zen_mode_when_never">Jamais</string>
   <string name="zen_mode_when_weeknights">Les soirs de semaine</string>
-  <string name="bluetooth_enter_pin_msg_hs">L\'appareil requiert un code à 16 caractères ou plus :</string>
+  <string name="bluetooth_enter_pin_msg_hs">L\'appareil requiert un code à 16 caractères ou plus</string>
   <string name="bluetooth_profile_sap">Accès à la SIM</string>
   <string name="bluetooth_profile_dun">Accès au réseau à distance</string>
   <string name="bluetooth_sap_profile_summary_connected">Connecté au serveur d\'accès SIM</string>

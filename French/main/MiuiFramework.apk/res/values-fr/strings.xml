@@ -30,9 +30,9 @@
   <string name="status_bar_toggle_sync_auto">Synchro automatique</string>
   <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
-  <string name="screen_rotation_freeze_message">Rotation de l\'écran verrouillée en mode paysage</string>
-  <string name="screen_button_disabled_message">Les boutons du bas de l\'écran ont été désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt</string>
-  <string name="screen_button_enabled_message">Les boutons du bas de l\'écran sont activés</string>
+  <string name="screen_rotation_freeze_message">Rotation automatique désactivée</string>
+  <string name="screen_button_disabled_message">Boutons de navigation désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt simultanément</string>
+  <string name="screen_button_enabled_message">Boutons de navigation activés</string>
   <string name="resource_select">Sélectionner</string>
   <string name="default_name">Par défaut</string>
   <string name="maml_component_customization_title">Paramètres</string>
@@ -102,5 +102,5 @@
   <string name="status_bar_toggle_paper_mode">Mode lecture</string>
   <string name="first_back_long_press_message">"L'appui long sur Retour tuera le processus courant et ses services en arrière-plan. 
 
-    Pour activer cette fonction, allez dans Paramètres > Système > Touches"</string>
+Pour activer cette fonction, allez dans Paramètres > Système > Touches"</string>
 </resources>

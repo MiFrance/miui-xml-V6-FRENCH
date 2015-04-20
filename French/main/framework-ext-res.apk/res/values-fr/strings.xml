@@ -30,10 +30,8 @@
   <string name="status_bar_toggle_sync_auto">Synchro automatique</string>
   <string name="status_bar_toggle_sync_manual">Synchro manuelle</string>
   <string name="status_bar_toggle_syncing">Synchroniser</string>
-   <string name="status_bar_toggle_paper_mode">Mode lecture</string>
- 
- 
-     <string name="screen_button_disabled_message">Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.</string>
-     <string name="screen_button_enabled_message">Navigation buttons enabled.</string>
-     <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
+  <string name="status_bar_toggle_paper_mode">Mode lecture</string>
+  <string name="screen_rotation_freeze_message">Rotation automatique désactivée</string>
+  <string name="screen_button_disabled_message">Boutons de navigation désactivés. Vous pouvez les réactiver en appuyant sur les touches Accueil et Marche/Arrêt simultanément</string>
+  <string name="screen_button_enabled_message">Boutons de navigation activés</string>
 </resources>
