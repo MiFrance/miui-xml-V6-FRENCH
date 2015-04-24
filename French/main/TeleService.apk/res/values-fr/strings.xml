@@ -1371,4 +1371,12 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="Result_title">Contact carte SIM</string>
   <string name="carrier_name">(nom opérateur)</string>
   <string name="sip_connection_service_label">"Fonctionnalité d\'appel Internet intégrée"</string>
+  <string name="remind_another_time">Ne plus afficher</string> 
+  <string name="not_change_default_data">Ne pas modifier</string>
+  <string name="flash_when_ring_summary">Faire clignoter la led de notification pour les appels entrants</string>
+  <string name="flash_when_ring_title">Clignoter lors d\'appels</string> 
+  <string name="confirm_change_default_data">Modifier</string>  
+  <string name="change_default_data">Modifier</string>
+  
+  
 </resources>

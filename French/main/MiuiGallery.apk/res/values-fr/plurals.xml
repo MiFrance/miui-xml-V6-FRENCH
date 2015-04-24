@@ -66,4 +66,8 @@
     <item quantity="other">Vous pouvez sélectionner %d éléments</item>
     <item quantity="one">Vous pouvez sélectionner %d élément</item>
   </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s nouveaux visages peuvent aussi correspondre à %2$s >></item>
+        <item quantity="one">Un nouveau visage peut aussi correspondre à %2$s >></item>
+    </plurals>
 </resources>

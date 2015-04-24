@@ -133,4 +133,12 @@
         <item quantity="other">La carte SIM peut stocker %d contacts.</item>
         <item quantity="one">La carte SIM peut stocker %d contact.</item>
      </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Bloquer ces %1$d numéros ?</item>
+        <item quantity="one">Bloquer ce numéro ?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Débloquer ces %1$d numéros ?</item>
+        <item quantity="one">Débloquer ce numéro ?</item>
+    </plurals>
 </resources>

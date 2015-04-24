@@ -82,4 +82,14 @@
   <string name="viewsun_time_format">HH:mm</string>
   <string name="weatherchina_default_url">http://fr.weather.com</string>
   <string name="weatherchina_tag">fr.weather.com</string>
+  <string name="share_btn_cancel">Annuler</string>
+  <string name="share_btn_confirm">Partager</string>
+  <string name="share_button">Partager</string>
+  <string name="share_menu_title">Partager</string>
+  <string name="share_subject">Partager</string>
+  <string name="share_title">Partager la météo </string>
+  <string name="share_weather_desc">\#MIUI Météo#Aujourd\'hui %1$s %2$s</string>
+  <string name="share_weather_desc_alert">%1$s%2$s</string>
+  <string name="share_weather_desc_split">,</string>
+  <string name="share_weather_save_pic_fail">Impossible d\'effectué une capture d\'écran</string>
 </resources>

@@ -53,4 +53,6 @@
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Redémarrer</string>
   <string name="title_congratulation">"Tout est fin prêt !"</string>
+  <string name="sim_card_detecting_title">Détection de la carte SIM</string>
+  <string name="skip_underline"><u>Passer cette étape</u></string> 
 </resources>

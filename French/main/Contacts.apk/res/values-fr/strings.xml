@@ -1197,4 +1197,8 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="yellowpage_navigation_search_history">Historique</string>
   <string name="resource_tab_to_view">Appuyer pour afficher</string>
   <string name="followed_yellowpage">Comptes vérifiés</string>
+  <string name="add_blacklist_dialog_title">Ajouter à la liste noire</string>
+  <string name="blacklist">Bloquer</string>
+  <string name="resource_select_ringtone_confirm_picker">Sélectionner ce son ?</string>
+  <string name="remove_blacklist_dialog_title">Retirer de la liste noire</string>
 </resources>

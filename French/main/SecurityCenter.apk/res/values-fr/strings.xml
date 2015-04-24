@@ -472,7 +472,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="hints_loading_text">Chargement…</string>
   <string name="dialog_msg_check_all">%1$s contient %2$d éléments</string>
   <string name="dialog_title_check_all">Tout sélectionner</string>
-  <string name="button_text_add_to_white_list">Ajouter à la liste blanche</string>
+  <string name="button_text_add_to_white_list">Exception</string>
   <string name="button_text_cleanup">Nettoyer</string>
   <string name="button_text_install">Installer</string>
   <string name="hints_apk_version">Version : %s</string>

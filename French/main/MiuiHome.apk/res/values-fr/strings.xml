@@ -236,5 +236,5 @@
   <string name="cloud_app_restore_title">En attente</string>
   <string name="configure_wallpaper">Paramètres</string>
   <string name="failed_to_load_image">"Impossible de charger l'image"</string>
-  <string name="mtzgadget_missing_text">"N'est plus supporté, veuillez l'ajouter à nouveau"</string>
+  <string name="mtzgadget_missing_text">Widget non disponible</string>
 </resources>

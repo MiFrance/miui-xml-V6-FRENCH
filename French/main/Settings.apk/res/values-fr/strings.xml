@@ -1574,7 +1574,6 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">Confirmez le nouveau code PIN</string>
   <string name="skip_label">Ignorer</string>
-  <string name="skip_lock_screen_confirm_msg">Les fonctions suivantes seront désactivées pour l\'écran de verrouillage : notifications, contrôles du lecteur audio, glisser à gauche pour ouvrir l\'appareil photo, glisser à droite pour accéder à Mi Home.</string>
   <string name="skip_step">Ignorer</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
@@ -2878,7 +2877,7 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="screen_paper_mode_summary">"Réduire la luminosité de l'arrière-plan"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Ne plus afficher</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Accepter et continuer</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications pouvant utiliser le mode Lecture, une connexion réseau est nécessaire. Êtes-vous d\'accord ?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pour mettre à jour la liste des applications pouvant utiliser le mode Lecture, une connexion réseau est nécessaire.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termes et conditions</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Mettre à jour la liste des applications utilisant le mode Lecture par le réseau</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Mise à jour par le réseau</string>
@@ -2986,7 +2985,7 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="agps_roaming">A-GPS en itinérance</string>
   <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données. Si vous dépassez votre quota de données opérateur, vous risquez des frais supplémentaires."</string>
   <string name="agps_roaming_dia_title">"Utiliser l'A-GPS en itinérance"</string>
-  <string name="agps_roaming_summary">"Utiliser l'A-GPS en itinérance, peut entrainer des frais."</string>
+  <string name="agps_roaming_summary">"Utilise le réseau mobile pour assister le GPS."</string>
   <string name="music_dolby_mode_movie">Film</string>
   <string name="music_dolby_mode_music">Musique</string>
   <string name="music_dolby_mode_off">Désactivé</string>
@@ -3585,5 +3584,10 @@ l'assistant  e-mail"</string>
   <string name="music_dolby_volume_leveler">Normalisation du volume</string>
   <string name="music_dolby_dialogue_enhancer">Amélioration des voix</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
-
+  <string name="status_bar_app_disable_notification">Vide</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Cran de verrouillage, menu déroulant</string>
+  <string name="status_bar_app_enable_on_notificationBar">Menu déroulant</string>
+  <string name="title_font2">Police</string>
+  <string name="title_layout_current2">Taille de la police</string>
+  <string name="title_font_current2">Police du système</string>
 </resources>
