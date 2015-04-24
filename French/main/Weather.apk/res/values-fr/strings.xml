@@ -91,5 +91,5 @@
   <string name="share_weather_desc">\#MIUI Météo#Aujourd\'hui %1$s %2$s</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
-  <string name="share_weather_save_pic_fail">Impossible d\'effectué une capture d\'écran</string>
+  <string name="share_weather_save_pic_fail">Impossible d\'effectuer une capture d\'écran</string>
 </resources>
