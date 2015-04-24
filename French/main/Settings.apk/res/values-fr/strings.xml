@@ -1574,6 +1574,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="sim_pins_dont_match">"Les codes PIN ne correspondent pas."</string>
   <string name="sim_reenter_new">Confirmez le nouveau code PIN</string>
   <string name="skip_label">Ignorer</string>
+  <string name="skip_lock_screen_confirm_msg">Les notifications, les contrôles du lecteur audio, l\'appareil photo, et le numéroteur seront désactivés sur l\'écran de verrouillage.</string>
   <string name="skip_step">Ignorer</string>
   <string name="small_font">Petite</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
