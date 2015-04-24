@@ -513,6 +513,5 @@
 	 <string name="vp_video_bad_network_condition">Mauvaise connexion réseau, essayez plus tard</string>
 	 <string name="vp_video_plugin_installation">Installation du plug-in %1$s pour une qualité d\'image optimale...</string>
 	 <string name="empty_keyword_hint">Le mot-clé ne peut être vide</string>
-	 <string name="all">tous</string>
 	 <string name="install_apk">Installer</string>
 </resources>
