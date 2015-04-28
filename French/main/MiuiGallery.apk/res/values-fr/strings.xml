@@ -132,13 +132,13 @@
   <string name="context_menu_copy_notice">Sélection copiée dans le presse-papiers</string>
   <string name="contrast">Contraste</string>
   <string name="create_new_cloud_folder">Créer un nouveau dossier Mi Cloud</string>
-  <string name="crop">Rogner</string>
-  <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la rogner.</string>
-  <string name="crop_label">Rogner l\'image</string>
-  <string name="crop_save_text">Rogner</string>
-  <string name="crop_tooltip">Faire glisser les marqueurs pour rogner la photo</string>
+  <string name="crop">Recadrer</string>
+  <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la recadrer.</string>
+  <string name="crop_label">Recadrer l\'image</string>
+  <string name="crop_save_text">Recadrer</string>
+  <string name="crop_tooltip">Faire glisser les marqueurs pour recadrer la photo</string>
   <string name="crossprocess">Traitement croisé</string>
-  <string name="cut">Rogner</string>
+  <string name="cut">Recadrer</string>
   <string name="damaged_file">Le fichier est endommagé</string>
   <string name="dcim_100media">Taobao TMall</string>
   <string name="dcim_opaipic">Opaipic</string>
@@ -222,7 +222,7 @@
   <string name="group_by_time">Par date</string>
   <string name="has_invalid_recipient">Destinataire(s) non valide(s) : %1$s</string>
   <string name="height">Hauteur</string>
-  <string name="highlight">Reflets</string>
+  <string name="highlight">Luminosité</string>
   <string name="home_my_captured_items">" photos capturées"</string>
   <string name="how_many_pics">%d photo(s)</string>
   <string name="how_many_sub_folders">%d dossier(s)</string>
@@ -349,7 +349,7 @@
   <string name="rotate_tooltip">Faire glisser la photo pour la faire pivoter</string>
   <string name="saturation">Saturation</string>
   <string name="save">Enregistrer</string>
-  <string name="save_error">"Impossible d'enregistrer l'image rognée."</string>
+  <string name="save_error">"Impossible d'enregistrer l'image recadrée."</string>
   <string name="save_photo">Enregistrer la photo retouchée ?</string>
   <string name="saving_failure">Impossible d\'enregistrer la photo</string>
   <string name="saving_image">Enregistrement de l\'image…</string>
@@ -540,7 +540,7 @@
   <string name="photo_paint_adjust">Ajuster</string>
   <string name="photo_paint_effect">Effets</string>
   <string name="confirm_delete_has_cloud_image_video">Supprimer %s éléments du <b>cloud</b> ?</string>
-  <string name="paint_cancel_context">Annuler les modification et quitter ?</string>
+  <string name="paint_cancel_context">Annuler les modifications et quitter ?</string>
   <string name="paint_cancel_title">Annulation des modifications</string>
   <string name="cloud_folder_chooser_move">Supprimer de l\'album original</string>
   <string name="secret_album_display_name">Album secret</string>
@@ -579,7 +579,7 @@
   <string name="not_now">Pas maintenant</string>
   <string name="original">Original</string>
   <string name="original_scale">Échelle d\'origine</string>
-  <string name="paint_crop_cancel_context">Enregistrer l\'image rognée ?</string>
+  <string name="paint_crop_cancel_context">Enregistrer l\'image recadrée ?</string>
   <string name="paint_crop_cancel_title">Annuler les modifications</string>
   <string name="paint_crop_tips">Pour obtenir une meilleure image, essayez d\'ajuster les points des zones d\'intérêt sur la grille.</string>
   <string name="same_name_album_exists_alert">Les photos seront transférées sur un album existant avec le même nom.</string>

@@ -191,7 +191,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="third_party_pickers_activity_title">Définir %1$s</string>
   <string name="title_component">Personnalisation du thème</string>
   <string name="title_system_resource">Ressources locales</string>
-  <string name="wallpaper_crop">Rogner</string>
+  <string name="wallpaper_crop">Recadrer</string>
   <string name="wallpaper_decoded_error">Impossible de décoder</string>
   <string name="wallpaper_loading_text">Chargement…</string>
   <string name="wallpaper_set_as_both">Définir pour les deux</string>
