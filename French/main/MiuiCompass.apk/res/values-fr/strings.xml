@@ -47,7 +47,7 @@
   <string name="using_camera_confirm_ok">Accepter</string>
   <string name="using_camera_confirm_title">Information</string>
   <string name="shake_enter_tip">Secouez pour calibrer</string>
-  <string name="calibrate_rotate_again">Ressayer</string>
+  <string name="calibrate_rotate_again">Réessayer</string>
   <string name="calibrate_title">Calibrage de la boussole</string>
   <string name="calibrate_tip">Inclinez votre appareil pour faire rouler la boule autour du cercle</string>  
 </resources>
