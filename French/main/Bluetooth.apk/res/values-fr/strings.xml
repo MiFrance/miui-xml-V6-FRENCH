@@ -172,4 +172,8 @@
   <string name="incoming_line1">Expéditeur</string>
   <string name="incoming_line2">Nom de fichier</string>
   <string name="incoming_line3">Taille</string>
+  <string name="bluetooth_connected">Connecté</string>
+  <string name="bluetooth_connecting">Connexion…</string>
+  <string name="bluetooth_disconnected">Déconnecté</string>
+  <string name="bluetooth_disconnecting">Déconnexion…</string>
 </resources>

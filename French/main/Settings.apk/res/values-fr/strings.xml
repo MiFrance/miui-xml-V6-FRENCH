@@ -3586,9 +3586,18 @@ l'assistant  e-mail"</string>
   <string name="music_dolby_dialogue_enhancer">Amélioration des voix</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="status_bar_app_disable_notification">Vide</string>
-  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Cran de verrouillage, menu déroulant</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Écran de verrouillage, menu déroulant</string>
   <string name="status_bar_app_enable_on_notificationBar">Menu déroulant</string>
   <string name="title_font2">Police</string>
   <string name="title_layout_current2">Taille de la police</string>
   <string name="title_font_current2">Police du système</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s : "</string>
+  <string name="fluency_mode">Optimiser les performances système</string>
+  <string name="fluency_mode_confirm_title">Redémarrer ?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Votre appareil requiert un redémarrage pour appliquer ces paramètres.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">L\'activation des animations et l\'usage de mémoire additionnelle peut causer des ralentissement sur certains appareils.</string>
+  <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
+  <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
+  <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
+  <string name="search_fluency_mode">mode fluidité</string>
 </resources>

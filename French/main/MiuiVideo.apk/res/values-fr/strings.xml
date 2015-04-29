@@ -113,7 +113,7 @@
   <string name="setting">Paramètres</string>
   <string name="offline_setting">Lecture hors-ligne</string>
   <string name="other_setting">Autres</string>
-  <string name="use_cellular_network">Utiliser le réseau cellulaire</string>
+  <string name="use_cellular_network">Connexion de données mobiles</string>
   <string name="use_cellular_network_summary">Autorise l\'utilisation des réseaux mobiles pour télécharger les vidéos</string>
   <string name="reloading_tip">Impossible de se connecter au réseau</string>
   <string name="retry">Réessayer</string>
@@ -247,8 +247,8 @@
   <string name="suffix_countdown">sec</string>
   <string name="ad_moredetail">plus d\'infos</string>
   <string name="cancel_button">Annuler</string>
-  <string name="use_cellular_play_title">Notification de consommation de données</string>
-  <string name="use_cellular_play_summary">Affiche une notification lors de l\'utilisation du réseau mobile pour regarder ou télécharger une vidéo</string>
+  <string name="use_cellular_play_title">Utiliser le réseau mobile</string>
+  <string name="use_cellular_play_summary">Utilise le réseau mobile pour regarder des vidéos, désactivez pour économiser des données.</string>
   <string name="vp_newest_ep">Les plus récents maintenant</string>
   <string name="vp_content_description">Description du contenu</string>
   <string name="vp_get_url_error">"Impossible de trouver l'URL de cette vidéo."</string>
@@ -456,7 +456,7 @@
 	 <string name="alert_dialog_download_dup_task">Téléchargement en cours, veuillez patienter...</string>
 	 <string name="alert_dialog_download_error">Erreur de téléchargement</string>
 	 <string name="all_episode">Tous les épisodes</string>
-	 <string name="check_app_version">Recherche de nouvelles versions...</string>
+	 <string name="check_app_version">Recherche de mise à jour...</string>
 	 <string name="app_latest_version">Cette application est à jour</string>
 	 <string name="app_upgrade_version">Nouvelle version</string>
 	 <string name="app_version">Version de l\'application</string>
@@ -474,8 +474,8 @@
 	 <string name="empty_data">Erreur de chargement</string>
 	 <string name="hint_apk_download">Installer cette application</string>
 	 <string name="hint_apk_install">Téléchargement d\'application</string>
-	 <string name="hint_apk_text_update">Une nouvelle version est disponible, voulez-vous la télécharger et l\'installer ?</string>
-	 <string name="hint_apk_title_update">Nouvelle version</string>
+	 <string name="hint_apk_text_update">La nouvelle version %1$s est disponible, voulez-vous mettre à jour ?</string>
+	 <string name="hint_apk_title_update">Nouvelle version %1$s</string>
 	 <string name="install_plugin">Installer le plug-in</string>
 	 <string name="lastrefresh">Dernière mise à jour :</string>
 	 <string name="menu_name">Menu</string>
@@ -503,8 +503,8 @@
 	 <string name="ui_style">Style de l\'interface</string>
 	 <string name="ui_style_summary">Vue en liste par défaut</string>
 	 <string name="user_tab">Mon appli</string>
-	 <string name="version_select">Choisir une version</string>
-	 <string name="version_select_summary">Choisissez la version alpha, développeur ou stable</string>
+	 <string name="version_select">"Sélectionner une version "</string>
+	 <string name="version_select_summary">Sélectionnez la version alpha, développeur ou stable</string>
 	 <string name="video_bbs">Nous rejoindre</string>
 	 <string name="video_bbs_url">Rejoignez-nous et aidez-nous à développer cette application</string>
 	 <string name="video_plugin">Plug-in vidéo</string>
@@ -514,4 +514,11 @@
 	 <string name="vp_video_plugin_installation">Installation du plug-in %1$s pour une qualité d\'image optimale...</string>
 	 <string name="empty_keyword_hint">Le mot-clé ne peut être vide</string>
 	 <string name="install_apk">Installer</string>
+     <string name="performance_mode">Mode performance</string>
+     <string name="performance_mode_desc">Augmente la priorité de l\'application afin d\'en améliorer les performances</string>
+     <string name="video_app_update">Mettre à jour</string>
+     <string name="join_alert_title">Rejoindre le test interne</string>
+     <string name="join_hint">Saisissez le code d\'invitation</string>
+     <string name="memory_mode_desc">Économiser l\'utilisation de la mémoire</string>
+     <string name="my_local_favorite">Favoris locaux</string>
 </resources>

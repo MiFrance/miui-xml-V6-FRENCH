@@ -226,4 +226,7 @@ Impossible de soumettre le rapport"</string>
   <string name="vote_not_recommend">"Ne pas recommander"</string>
   <string name="vote_recommend">Recommander cette mise à jour</string>
   <string name="vote_submit">Envoyer</string>
+  <string name="welcom_button">OK</string>
+  <string name="welcom_message">Terminé !</string>
+  <string name="welcom_title">Bienvenue sur MIUI 6</string>
 </resources>

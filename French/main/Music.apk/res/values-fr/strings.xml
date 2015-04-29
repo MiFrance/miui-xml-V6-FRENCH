@@ -316,4 +316,12 @@
   <string name="sort_by_language">Langue</string>
   <string name="sort_by_name">Nom</string>
   <string name="sort_by_time">Date</string>
+  <string name="i_know_it">OK</string>
+  <string name="service_stop">Service interrompu</string>
+  <string name="upgrade_force">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
+  <string name="upgrade_immediate">Mettre à jour</string>
+  <string name="upgrade_nobeta">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Désolé pour le désagrément :("</string>
+  <string name="upgrade_remind">Mise à jour disponible</string>
+  <string name="upgrade_suggest">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
+  <string name="upgrade_waringing">"Vous serez uniquement en mesure d'écouter de la musique stockée hors ligne."</string>
 </resources>

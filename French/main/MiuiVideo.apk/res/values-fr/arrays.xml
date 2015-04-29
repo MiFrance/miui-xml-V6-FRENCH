@@ -17,4 +17,13 @@
         <item>Classement</item>
         <item>Nouveautés</item>
     </string-array>
+    <string-array name="version_list_entries">
+        <item>Stable</item>
+        <item>Dev</item>
+        <item>Alpha</item>
+    </string-array>
+    <string-array name="server_list_entries">
+        <item>Serveur de test</item>
+        <item>Serveur en ligne</item>
+    </string-array>
 </resources>

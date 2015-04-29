@@ -92,4 +92,6 @@
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Impossible d\'effectuer une capture d\'écran</string>
+  <string name="activity_main_refresh_fail">Impossible de se connecter au réseau</string>
+  <string name="activate_sms_postfix">[Ce SMS est utilisé pour activer votre appareil Mi.]</string>
 </resources>
