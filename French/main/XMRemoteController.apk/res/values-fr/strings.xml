@@ -299,7 +299,7 @@
 
 
   <string name="passport_access_denied">Accès refusé</string>
-  <string name="passport_account_hint_text">Email ou n° de téléphone</string>
+  <string name="passport_account_hint_text">E-mail ou n° de téléphone</string>
   <string name="passport_account_name">Compte : %1$s</string>
   <string name="passport_account_not_activated">"Le compte n'a pas été activé"</string>
   <string name="passport_account_not_actived">"Votre compte n'a pas été activé"</string>

@@ -76,7 +76,7 @@
   <string name="bigscreen_slide_exit">Quitter le diaporama</string>
   <string name="bigscreen_slide_fail_cause_loading">"Veuillez afficher le diaporama une fois que l'image ai été chargée."</string>
   <string name="browse_category">Parcourir les photos</string>
-  <string name="by_email">Mail</string>
+  <string name="by_email">E-mail</string>
   <string name="by_sms">SMS</string>
   <string name="by_others">Autres</string>
   <string name="camera_connected">Appareil photo connecté.</string>
@@ -166,9 +166,9 @@
   <string name="duration">"Durée "</string>
   <string name="edit">Modifier</string>
   <string name="edited_photo_bucket_name">Édité</string>
-  <string name="email_picker_title">Ajouter un Mail partagé</string>
+  <string name="email_picker_title">Ajouter un e-mail partagé</string>
   <string name="enable_cloud_for_sharing">Activez l\'album Mi Cloud pour voir les photos partagées.</string>
-  <string name="enter_email_hint">"Saisir une adresse Mail "</string>
+  <string name="enter_email_hint">"Saisir un e-mail "</string>
   <string name="error_album_not_exist">"L'album n'existe pas."</string>
   <string name="error_cloud_not_active">L\'album Mi Cloud n\'est pas en service</string>
   <string name="error_invalid_link">Le lien est non valide ou a expiré, veuillez demander au propriétaire de l\'album de créer un nouveau lien de partage.</string>
@@ -191,7 +191,7 @@
   <string name="facetan">Bronzage visage</string>
   <string name="fail_hint">L\'opération a échoué.</string>
   <string name="fail_init_gallery_db_helper">Application fermée, impossible d\'ouvrir la base de données de la galerie, le disque est plein.</string>
-  <string name="fail_to_pick_email">Aucun Mail valide sélectionné</string>
+  <string name="fail_to_pick_email">Aucun e-mail valide sélectionné</string>
   <string name="fail_to_sync_album">Impossible de synchroniser l\'album au serveur. Veuillez vérifier votre connexion réseau !</string>
   <string name="file_size">"Taille "</string>
   <string name="filllight">Éclairage d\'appoint</string>
@@ -394,7 +394,7 @@
   <string name="share_album_owner">Propriétaire</string>
   <string name="share_album_space_full">Cet album partagé est plein. Veuillez supprimer certaines images non désirées.</string>
   <string name="share_by_email_start">Tentative de partage de %1$s en arrière-plan</string>
-  <string name="share_by_email_successfully">Partage de %1$s via Mail réussi</string>
+  <string name="share_by_email_successfully">Partage de %1$s via e-mail réussi</string>
   <string name="share_current_album">Partager l\'album actuel</string>
   <string name="share_public_url_text">J\'ai partagé l\'album %1$s. Lien : %2$s</string>
   <string name="sharer_quota_fulfiled">"Impossible d'ajouter un utilisateur, le quota a atteint sa limite."</string>
@@ -658,7 +658,7 @@
   <string name="last_valentine_day">Dernier jour de la St Valentin</string>
   <string name="last_year_today">Il y a 1 an</string>
   <string name="mosaic">Mosaïque</string>
-  <string name="network_connected_rescan">Connectez vous à internet et réessayez</string>
+  <string name="network_connected_rescan">Connectez-vous à internet et réessayez</string>
   <string name="no_secret_photo">Aucune photo masquée</string>
   <string name="paint_brush">Dessiner</string>
   <string name="paint_highlight">Surligner</string>

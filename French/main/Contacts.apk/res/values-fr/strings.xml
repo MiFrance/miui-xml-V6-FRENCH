@@ -682,7 +682,7 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pickerNewContactText">Créer un contact</string>
   <string name="picker_all_list_empty">Aucun contact</string>
   <string name="picker_contact_title">Veuillez choisir un contact</string>
-  <string name="picker_email_title">Veuillez choisir un email</string>
+  <string name="picker_email_title">Veuillez choisir un e-mail</string>
   <string name="picker_favorites_list_empty">Aucun favori</string>
   <string name="picker_groups_list_empty">Aucun groupe</string>
   <string name="picker_join_title">Choisissez un contact à fusionner avec %s</string>
@@ -1156,7 +1156,7 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="lunar_calendar">Calendrier lunaire</string>
   <string name="resource_clear_search_history_dialog">Effacer tout l\'historique des recherches ?</string>
   <string name="resource_clear_search_history">Effacer l\'historique de recherche</string>
-  <string name="resource_trial_fail_message">Assurez vous que l\'heure de votre appareil est correctement paramétrée.</string>
+  <string name="resource_trial_fail_message">Assurez-vous que l\'heure de votre appareil est correctement paramétrée.</string>
   <string name="resource_trial_fail_title">Impossible de démarrer la session d\'essai</string>
   <string name="call_sim1_menu_title">Composer sur la SIM 1</string>
   <string name="call_sim2_menu_title">Composer sur la SIM 2</string>

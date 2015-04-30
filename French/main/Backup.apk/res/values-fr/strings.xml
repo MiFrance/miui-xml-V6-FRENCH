@@ -191,7 +191,7 @@
   <string name="unknown_hint">Inconnu</string>
   <string name="wifi_title">Paramètres Wi-Fi</string>
   <string name="button_continue">Continuer</string>
-  <string name="cloud_app_name">Mi Cloud backup</string>
+  <string name="cloud_app_name">Sauvegarde Mi Cloud</string>
   <string name="deselect_all">Tout désélectionner</string>
   <string name="sd_not_available">Aucune carte SD détectée</string>
   <string name="never">Jamais</string>

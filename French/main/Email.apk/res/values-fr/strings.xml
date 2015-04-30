@@ -26,7 +26,7 @@
   <string name="reduce_the_receiving_frequencye_summary">Diminuer la fréquence de consultation en mode NPD</string>
   <string name="reduce_the_receiving_frequencye_title">Diminuer la fréquence de consultation</string>
   <string name="loading_from_remote">Recherche…</string>
-  <string name="local_search_result">%s emails trouvés sur votre appareil.</string>
+  <string name="local_search_result">%s e-mails trouvés sur votre appareil.</string>
   <string name="merged_mailbox_compose_select_account">Sélectionner le compte</string>
   <string name="message_body_loading">[ Chargement… ]</string>
   <string name="no_contacts">Vide</string>
@@ -713,7 +713,7 @@
   <string name="empty_account_tip">Impossible de trouver de compte</string>
   <string name="account_setup_service_not_set">Vos paramètres de services e-mail doivent être configurés</string>
   <string name="account_setup_need_password_verification">Votre compte a ouvert une seconde identification, un mot de passe est requis</string>
-  <string name="account_set_up_notice">Plus que quelques étapes, vous pouvez mettre en place votre compte email</string>
+  <string name="account_set_up_notice">Plus que quelques étapes, vous pouvez mettre en place votre compte e-mail</string>
   <string name="account_settings_list_title">Veuillez sélectionner les services de messagerie que vous souhaitez ajouter :</string>
   <string name="wait_for_sync_body_2">Une demande du serveur exchange vous sera faite dans moins de 30 secondes. Veuillez confirmer puis activer les paramètres de sécurité et faire attention aux alertes système.</string>
   <string name="prompt_title">Invite</string>
@@ -733,7 +733,7 @@
   <string name="parase_setup_data">Obtention des données de configuration…</string>
   <string name="allread">Tous lus</string>
   <string name="menu_resend_all">Tout renvoyer</string>
-  <string name="outbox_no_mails">Aucun email dans la boite d\'envoi</string>
+  <string name="outbox_no_mails">Aucun e-mail dans la boite d\'envoi</string>
   <string name="xiaomi_bytes_unit">%1$s o</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_megabytes_unit">%1$s Mo</string>
@@ -752,8 +752,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="att_download_failed_content">Le téléchargement de la pièce jointe a échoué</string>
   <string name="outbox_alert_button_resend">Renvoyer</string>
   <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
-  <string name="outbox_alert_mailbox_not_found">Adresse email introuvable</string>
-  <string name="account_setup_incoming_mail_adress_label">Adresse email</string>
+  <string name="outbox_alert_mailbox_not_found">Adresse e-mail introuvable</string>
+  <string name="account_setup_incoming_mail_adress_label">Adresse e-mail</string>
   <string name="account_setup_incoming_mail_domain_label">Domaine</string>
   <string name="account_setup_incoming_mail_domain_hint">Ne peut être vide</string>
   <string name="folder_drafts_name_en0">Brouillons</string>
@@ -771,7 +771,7 @@ Taille du patch Delta : %2$s"</string>
 <!-- à reformuler no_wifi_promot ? -->
   <string name="no_wifi_promot">Wi-Fi non utilisé actuellement, cela risque d\'engendrer du trafic de données mobiles</string>
   <string name="conversation_list_net_check">Erreur réseau, veuillez réessayer plus tard ou depuis un autre réseau</string>
-  <string name="mail_body_turncated">Cet email est trop lourd pour être chargé, seulement une partie sera affiché</string>
+  <string name="mail_body_turncated">Cet e-mail est trop lourd pour être chargé, seulement une partie sera affiché</string>
   <string name="ser_resp_err_map_ssl">"Erreur. Essayez l\'option 'SSL/TLS (accepter tous les certificats)' dans 'Type de sécurité'"</string>
   <string name="device_activity_btn_str">Retour pour activer</string>
   <string name="device_not_activiey_lint1">Gestionnaire de périphériques inactif</string>
@@ -946,5 +946,4 @@ Taille du patch Delta : %2$s"</string>
   <string name="SMTP_password_text">Mot de passe</string>
   <string name="SMTP_username_text">Nom d\'utilisateur</string>
   <string name="folder_synchronization_mail_settings">Dossier de synchronisation des paramètres de messagerie</string>
-
 </resources>

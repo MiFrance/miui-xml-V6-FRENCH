@@ -33,7 +33,7 @@
   <string name="record_file_location_format">Enregistrer vers %s</string>
   <string name="record_completed">Enregistrement terminé</string>
   <string name="turn_off_fm">Éteindre la radio</string>
-  <string name="turn_on_speaker_phone">Activer le haut parleur</string>
+  <string name="turn_on_speaker_phone">Activer le haut-parleur</string>
   <string name="view_stations_list">Afficher la liste des stations</string>
   <string name="pre_station">Station précédente</string>
   <string name="next_station">Station suivante</string>

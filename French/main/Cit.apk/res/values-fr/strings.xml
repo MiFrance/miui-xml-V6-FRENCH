@@ -306,10 +306,10 @@
 Tenez le téléphone comme si vous passiez un appel, parlez au micro principal, vous devriez entendre votre voix dans le haut-parleur frontal."</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Test de réaction du micro arrière au haut-parleur. 
 
-Tournez le téléphone, parlez au micro arrière, vous devriez entendre votre voix dans le haut parleur."</string>
+Tournez le téléphone, parlez au micro arrière, vous devriez entendre votre voix dans le haut-parleur."</string>
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Test de réaction du micro du haut au haut-parleur.
 
-Tournez le téléphone, parlez au micro du haut, vous devriez entendre votre voix dans le haut parleur."</string>
+Tournez le téléphone, parlez au micro du haut, vous devriez entendre votre voix dans le haut-parleur."</string>
   <string name="cit_audio_lb_summary_phonecall">"Test de simulation d'appel.
 
 Tenez le téléphone comme si vous passiez un appel, parlez au micro principal, vous devriez entendre votre voix dans le haut-parleur frontal. Faite le test dans un environnement calme"</string>

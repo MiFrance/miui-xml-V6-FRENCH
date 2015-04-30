@@ -456,7 +456,7 @@ Après avoir appuyé sur \"Activer\", écoutez les instructions qui vous permett
   <string name="ota_title_activate_success">Votre téléphone est activé</string>
   <string name="ota_title_problem_with_activation">Problème lors de l\'activation</string>
   <string name="ota_listen">Suivez les instructions orales jusqu\'au bout de la procédure d\'activation.</string>
-  <string name="ota_speaker">Haut parleur</string>
+  <string name="ota_speaker">Haut-parleur</string>
   <string name="ota_progress">Veuillez patienter pendant la programmation de votre téléphone.</string>
   <string name="ota_failure">Échec de la programmation.</string>
   <string name="ota_successful">Votre téléphone est désormais activé. Un délai de 15 minutes peut être nécessaire avant de démarrer le service.</string>

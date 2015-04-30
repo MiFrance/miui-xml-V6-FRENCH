@@ -25,7 +25,7 @@
   <string name="remind_btn_ignore">Ignorer</string>
   <string name="dirty_contacts_notification_title">Synchroniser les contacts ?</string>
   <string name="hint_search_contacts">%d contacts</string>
-  <string name="hint_search_emails">%d contacts (emails)</string>
+  <string name="hint_search_emails">%d contacts (e-mails)</string>
   <string name="hint_search_phone_numbers">%d contacts (numéros)</string>
   <string name="contact_detail_picture_description">Image : sélectionner pour modifier"</string>
   <string name="dirty_contacts_notification_description">%d modifications n\'ont pas été synchronisées avec votre compte Mi.</string>

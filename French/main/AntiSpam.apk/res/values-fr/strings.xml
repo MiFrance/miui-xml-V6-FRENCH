@@ -247,7 +247,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="AD_Info_Hint">Les adwares sont utilisés par des entreprises pour afficher des publicités sur votre appareil.</string>
   <string name="ad_relative_setting">Paramètres en relation</string>
   <string name="ad_install_monitor">Moniteur d\'installations</string>
-  <string name="ad_install_monitor_hint">Vérifie la présence de adwares. Peut réduire les performance de l\'application ou l\'empêcher de fonctionner correctement.</string>
+  <string name="ad_install_monitor_hint">Vérifie la présence de adwares. Peut réduire les performances de l\'application ou l\'empêcher de fonctionner correctement.</string>
   <string name="ad_update_setting">Mettre à jour</string>
   <string name="menu_wh_remove">Supprimer de la liste blanche</string>
   <string name="NACaddnumcontent">Saisir le numéro</string>

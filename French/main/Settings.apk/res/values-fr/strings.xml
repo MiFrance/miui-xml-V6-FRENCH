@@ -3595,7 +3595,7 @@ l'assistant  e-mail"</string>
   <string name="fluency_mode">Optimiser les performances système</string>
   <string name="fluency_mode_confirm_title">Redémarrer ?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Votre appareil requiert un redémarrage pour appliquer ces paramètres.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">L\'activation des animations et l\'usage de mémoire additionnelle peut causer des ralentissement sur certains appareils.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">L\'activation des animations et l\'usage de mémoire additionnelle peut causer des ralentissements sur certains appareils.</string>
   <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
   <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>

@@ -7,7 +7,7 @@
   <string name="altitude_unit">m</string>
   <string name="app_label">Boussole</string>
   <string name="calibrate_failed_no_location">Échec du calibrage : impossible d\'obtenir la latitude et longitude actuelles</string>
-  <string name="calibrate_failed_timeout">Échec du calibrage: délai d\'attente du serveur écoulé</string>
+  <string name="calibrate_failed_timeout">Échec du calibrage : délai d\'attente du serveur écoulé</string>
   <string name="calibrate_success">Calibrage complet</string>
   <string name="cannot_get_location">Inconnue</string>
   <string name="dialog_calibrat_altitude">Calibrage de l\'altitude via la connexion internet…</string>

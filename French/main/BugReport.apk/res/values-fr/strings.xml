@@ -109,7 +109,7 @@ I hope you'll add X feature, because…"</string>
   <string name="submit_dialog_content">"Votre rapport, ainsi que vos journaux et images joints, seront transmis aux serveurs Xiaomi lorsceque vous serrez connecté à un réseau Wi-Fi."</string>
   <string name="submit_dialog_not_wifi_content">"Votre rapport, ainsi que vos journaux et images joints, seront transmis aux serveurs Xiaomi lorsceque vous serrez connecté à un réseau Wi-Fi."</string>
   <string name="submit_dialog_title">Envoyer le rapport de bogue</string>
-  <string name="suggestion_problem1">"Dites-nous quelles fonctionnalités souhaiteriez vous voir apparaître à l'avenir"</string>
+  <string name="suggestion_problem1">"Dites-nous quelles fonctionnalités souhaiteriez-vous voir apparaître à l'avenir"</string>
   <string name="title_common_problem">Bogues courants</string>
   <string name="title_nonsystem_app">Autres applis</string>
   <string name="title_system_app">Applis MIUI</string>
