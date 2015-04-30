@@ -3592,7 +3592,7 @@ l'assistant  e-mail"</string>
   <string name="title_layout_current2">Taille de la police</string>
   <string name="title_font_current2">Police du système</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s : "</string>
-  <string name="fluency_mode">Optimiser les performances système</string>
+  <string name="fluency_mode">Optimisation des performances</string>
   <string name="fluency_mode_confirm_title">Redémarrer ?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Votre appareil requiert un redémarrage pour appliquer ces paramètres.</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">L\'activation des animations et l\'usage de mémoire additionnelle peut causer des ralentissements sur certains appareils.</string>
