@@ -364,7 +364,7 @@
   <string name="pref_video_quality_entry_4kuhd">4K (Ultra HD)</string>
   <string name="pref_video_quality_entry_1080p">1080p (Full HD)</string>
   <string name="pref_video_quality_entry_480p">480p (SD)</string>
-  <string name="pref_video_quality_entry_720p">720p (HD ready)</string>
+  <string name="pref_video_quality_entry_720p">720p (HD)</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
@@ -492,7 +492,7 @@
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
   <string name="setting_top_text">Options</string>
-  <string name="simple_mode_button_text_ubifocus">Quitter le mode Refocus</string>
+  <string name="simple_mode_button_text_ubifocus">Quitter le mode refocus</string>
   <string name="ubi_focus_capture_fail">Échec de la capture</string>
   <string name="ubifocus_capture_warning_message">"Il est préférable que l'écran d'aperçu contienne à la fois des objets proches (moins d'un mètre) et éloignés"</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
@@ -506,7 +506,7 @@
   <string name="pref_audio_focus_entry_front">Avant</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arrière</string>
-  <string name="pref_audio_focus_title">Focus Audio</string>
+  <string name="pref_audio_focus_title">Focus audio</string>
   <string name="pref_camera_asd_night_title">Amélioration auto des photos de nuit</string>
   <string name="pref_camera_asd_popup_title">Ouvrir un popup lorsque le flash est requis</string>
   <string name="pref_camera_delay_capture_title">Minuteur</string>
@@ -514,7 +514,7 @@
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Prise en rafale</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focus</string>
   <string name="pref_camera_long_pressing_shutter_title">Appuyez longuement sur le bouton l\'obturateur pour verrouiller AE/AF/AWB</string>
-  <string name="simple_mode_button_asd_flash">Quitter le mode Flash</string>
+  <string name="simple_mode_button_asd_flash">Quitter le mode flash</string>
   <string name="simple_mode_button_asd_hdr">Quitter le mode HDR</string>
   <string name="simple_mode_button_text_delay_capture">Quitter le minuteur</string>
   <string name="simple_mode_button_text_scene">Quitter le mode scène</string>
@@ -536,4 +536,6 @@
   <string name="pref_camera_peak_title">Intensification du focus</string>
   <string name="pref_camera_peak_entry_off">Désactivé</string>
   <string name="pref_camera_peak_entry_on">Activé</string>
+  <string name="pref_camera_gradienter_title">Recadrage</string>
+  <string name="simple_mode_button_text_gradienter">Quitter le mode recadrage</string>
 </resources>
