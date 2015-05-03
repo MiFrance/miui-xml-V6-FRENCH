@@ -175,7 +175,7 @@
   <string name="vp_exit">Quitter</string>
   <string name="vp_back">Retour</string>
   <string name="vp_loading"><CDATA>Chargement</CDATA></string>
-  <string name="vp_function">Paramètres</string>
+  <string name="vp_function">Param.</string>
   <string name="declaration_content">Acceptez-vous les <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">conditions d\'utilisation</a> stipulées par Sohu, iQiyi, et les autres fournisseurs de contenu vidéo ?</string>
   <string name="more">Aller à %s</string>
   <string name="local_video">Mes vidéos</string>
@@ -226,7 +226,7 @@
   <string name="clarity_high">Haute</string>
   <string name="clarity_standard">Standard</string>
   <string name="vp_device_list">Périphériques</string>
-  <string name="vp_select_function">Param.</string>
+  <string name="vp_select_function">Paramètres</string>
   <string name="vp_media_info">Afficher les détails</string>
   <string name="vp_hide_media_info">Masquer les détails</string>
   <string name="vp_screen_shot">Capture d\'écran</string>
@@ -485,7 +485,7 @@
 	 <string name="offline_add_queue_fail">Échec du téléchargement de \"%1$s\", veuillez essayer plus tard</string>
 	 <string name="offline_already_in">\"%1$s\" existe dans la file des téléchargements</string>
 	 <string name="offline_created_order">\"%1$s\" ajouté à la file des téléchargements, rang: %2$s</string>
-	 <string name="online_video_oneweek">La semaine dernière</string>
+	 <string name="online_video_oneweek">Cette semaine</string>
 	 <string name="online_video_oneweek_ago">Il y a une semaine</string>
 	 <string name="operator_test">Réglages opérateur</string>
 	 <string name="operator_test_summary">Si validé, bascule en mode opérateur</string>

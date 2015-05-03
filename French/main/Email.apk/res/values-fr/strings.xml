@@ -156,7 +156,7 @@
   <string name="account_setup_options_mail_check_frequency_imap_push">Automatique (Push, si le serveur le supporte)</string>
   <string name="account_setup_options_mail_window_1day">Hier</string>
   <string name="account_setup_options_mail_window_1month">Le mois dernier</string>
-  <string name="account_setup_options_mail_window_1week">La semaine dernière</string>
+  <string name="account_setup_options_mail_window_1week">Cette semaine</string>
   <string name="account_setup_options_mail_window_2weeks">Les 2 dernières semaines</string>
   <string name="account_setup_options_mail_window_3days">Les trois derniers jours</string>
   <string name="account_setup_options_mail_window_all">Tout</string>

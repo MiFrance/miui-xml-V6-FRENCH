@@ -124,7 +124,7 @@
   <string name="menu_item_sort_type">Type</string>
   <string name="migrate_announcement_msg">Si vous avez un compte vous pouvez y accéder dans les paramètres et préférences d\'accès</string>
   <string name="move_failed">Impossible de déplacer</string>
-  <string name="multi_select_title">%1$s éléments(s) sélectionné(s)</string>
+  <string name="multi_select_title">%1$s élément(s) sélectionné(s)</string>
   <string name="name_illegal">Le nom de fichier ne peut être vide</string>
   <string name="net_lose_connected">Réseau non disponible, impossible d\'obtenir la taille</string>
   <string name="networkView_notConnected">Aucun réseau disponible</string>

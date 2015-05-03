@@ -108,7 +108,7 @@
   <string name="miliao_account_guide">Compte MiTalk mis à jour sur le compte Mi\n Profitez de tous les services Xiaomi en ligne</string>
   <string name="miliao_account_login">Connectez-vous à MiTalk</string>
   <string name="mms_title">Messagerie multimédia</string>
-  <string name="multi_select_title">%1$s éléments(s) sélectionné(s)</string>
+  <string name="multi_select_title">%1$s élément(s) sélectionné(s)</string>
   <string name="no_encrypt_password">Aucun chiffrement de mot de passe</string>
   <string name="no_network">Erreur réseau\nVérifiez la connexion du réseau et réessayez</string>
   <string name="note_title">Notes</string>

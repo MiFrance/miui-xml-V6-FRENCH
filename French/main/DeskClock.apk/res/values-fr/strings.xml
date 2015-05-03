@@ -130,7 +130,7 @@
   <string name="timer_item_picker_hour">h</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">sec</string>
-  <string name="timer_item_duration_display">%1$d min %2$d sec</string>
+  <string name="timer_item_duration_display">%1$d min %2$d s</string>
   <string name="timer_new_item">Ajouter une minuterie</string>
   <string name="timer_item_label_hint">Nom de la minuterie</string>
   <string name="legal_workday_invalidate">Expirée (alarme de lundi à vendredi)</string>

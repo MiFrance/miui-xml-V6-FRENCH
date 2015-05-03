@@ -3585,7 +3585,7 @@ l'assistant  e-mail"</string>
   <string name="music_dolby_volume_leveler">Normalisation du volume</string>
   <string name="music_dolby_dialogue_enhancer">Amélioration des voix</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
-  <string name="status_bar_app_disable_notification">Vide</string>
+  <string name="status_bar_app_disable_notification">Désactivé</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Écran de verrouillage, menu déroulant</string>
   <string name="status_bar_app_enable_on_notificationBar">Menu déroulant</string>
   <string name="title_font2">Police</string>
