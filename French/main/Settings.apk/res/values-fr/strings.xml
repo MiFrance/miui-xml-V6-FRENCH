@@ -3599,5 +3599,5 @@ l'assistant  e-mail"</string>
   <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
   <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
-  <string name="search_fluency_mode">mode fluidité</string>
+  <string name="search_fluency_mode">Optimise les performances système</string>
 </resources>
