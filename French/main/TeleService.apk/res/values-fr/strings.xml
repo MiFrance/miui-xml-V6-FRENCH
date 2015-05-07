@@ -1377,4 +1377,5 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="flash_when_ring_title">Clignoter lors d\'appels</string> 
   <string name="confirm_change_default_data">Modifier</string>  
   <string name="change_default_data">Modifier</string>
+  <string name="incall_error_sim_deactive">Carte SIM inactive</string>
 </resources>

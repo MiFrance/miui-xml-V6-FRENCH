@@ -282,4 +282,5 @@
   <string name="yellowpage_navigation_network_location_enabled">Le service est actif, vous pouvez le désactiver dans les réglages de localisation</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Améliorer les résultats de recherche en autorisant l\'application à accéder aux informations de localisation.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Accès à la localisation</string>
+  <string name="network_access_denied">Accès réseau refusé</string>
 </resources>
