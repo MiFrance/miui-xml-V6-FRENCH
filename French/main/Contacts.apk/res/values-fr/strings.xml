@@ -1201,4 +1201,5 @@ Sélectionnez l'une des options suivantes :"</string>
   <string name="blacklist">Bloquer</string>
   <string name="resource_select_ringtone_confirm_picker">Sélectionner ce son ?</string>
   <string name="remove_blacklist_dialog_title">Retirer de la liste noire</string>
+  <string name="preference_contacts_recovery_introduction">Restaurer les contacts</string>
 </resources>

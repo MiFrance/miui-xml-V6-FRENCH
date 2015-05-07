@@ -730,4 +730,12 @@
         <item>4 derniers chiffres</item>
         <item>4 premiers chiffres</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+       <item>Demander l\'autorisation pour les applis risquées</item>
+       <item>Autoriser</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+       <item>Demander l\'autorisation</item>
+       <item>Autoriser</item>
+    </string-array>
 </resources>

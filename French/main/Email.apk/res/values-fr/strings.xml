@@ -946,4 +946,12 @@ Taille du patch Delta : %2$s"</string>
   <string name="SMTP_password_text">Mot de passe</string>
   <string name="SMTP_username_text">Nom d\'utilisateur</string>
   <string name="folder_synchronization_mail_settings">Dossier de synchronisation des paramètres de messagerie</string>
+  <string name="account_settings_using_ringtone">Sonnerie</string>
+  <string name="folder_list_display_all">Afficher tous les dossiers</string>
+  <string name="folder_list_display_only_import">Afficher uniquement les dossiers importants</string>
+  <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
+  <string name="outbox_alert_description_cannot_authenticate">%s Erreur de mail système</string>
+  <string name="outbox_alert_description_reject_by_server">Rejeté par %s</string>
+  <string name="outbox_alert_description_time_out">Echec de connexion réseau</string>
+  <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
 </resources>

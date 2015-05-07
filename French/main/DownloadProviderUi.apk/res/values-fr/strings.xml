@@ -134,7 +134,7 @@
   <string name="add_flow_fail_haveget_msg">La période d\'essai a expiré.</string>
   <string name="add_flow_fail_vip_msg">L\'accélérateur Xunlei est actif</string>
   <string name="add_flow_success_msg">%s ajouté(s) ce mois-ci</string>
-  <string name="download_filesize_unknown">inconnu</string>
+  <string name="download_filesize_unknown">Inconnu</string>
   <string name="download_speed_null" />
   <string name="mi_money_">Mi Credits</string>
   <string name="original_price">Prix</string>
