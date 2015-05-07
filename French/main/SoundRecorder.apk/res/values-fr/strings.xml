@@ -36,8 +36,8 @@
   <string name="notification_warning">Espace libre faible (moins de %d minutes)</string>
   <string name="pause">Pause</string>
   <string name="play_record">Lecture</string>
-  <string name="preference_enable_earpiece_summary">Utiliser le récepteur pour la lecture externe</string>
-  <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture audio</string>
+  <string name="preference_enable_earpiece_summary">Utilise le récepteur pour la lecture audio externe</string>
+  <string name="preference_enable_earpiece_title">Utiliser le récepteur pour la lecture</string>
   <string name="preference_led_indicator">Écran de verrouillage</string>
   <string name="preference_led_indicator_prompt">Lors d\'un enregistrement, si l\'écran est verrouillé, l\'indiquer via la LED et la barre d\'état</string>
   <string name="preference_record_scenes_dialog_title">Sélectionner le mode d\'enregistrement</string>
@@ -45,7 +45,7 @@
   <string name="preference_record_type_title">Type d\'enregistrement</string>
   <string name="preference_scenes">Mode d\'enregistrement</string>
   <string name="preference_silent_mode">Enregistrement en silencieux</string>
-  <string name="preference_tip_rename">Nommer les enregistrements manuellement</string>
+  <string name="preference_tip_rename">Nommer les enregist. manuellement</string>
   <string name="record_list">Liste des enregistrements</string>
   <string name="record_loading">Chargement de l\'enregistrement…</string>
   <string name="record_name_hour">h</string>

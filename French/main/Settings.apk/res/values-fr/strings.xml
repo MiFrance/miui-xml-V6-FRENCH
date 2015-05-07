@@ -964,7 +964,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="launch_count_label">Nombre</string>
   <string name="led_colors_summary">Couleur de la LED de notification</string>
   <string name="led_frequence_summary">Définir l\'intervalle entre les clignotements de la LED</string>
-  <string name="led_pulse_summary">Faire clignoter la LED pour les nouvelles notifications</string>
+  <string name="led_pulse_summary">Faire clignoter la LED pour les appels, messages et notifications</string>
   <string name="led_settings">LED</string>
   <string name="legal_information">Informations légales</string>
   <string name="license_title">Licence</string>
@@ -1253,8 +1253,8 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="privacy_mode_enable_title">Activer le mode invité</string>
   <string name="privacy_protect_title">Protection des données personnelles</string>
   <string name="privacy_relative">Confidentialité</string>
-  <string name="privacy_settings">Sauvegarder et réinitialiser</string>
-  <string name="privacy_settings_title">Sauvegarder et réinitialiser</string>
+  <string name="privacy_settings">Sauvegarde et réinitialisation</string>
+  <string name="privacy_settings_title">Sauvegarde et réinitialisation</string>
   <string name="private_sms_need_to_unlock">Veuillez saisir le mot de passe SMS privé</string>
   <string name="private_sms_recording_intro_header">Dessiner un schéma pour créer le verrouillage</string>
   <string name="private_sms_reset_by_account">Connectez-vous sur votre compte Mi pour réinitialiser le mot de passe SMS privé</string>
@@ -2820,7 +2820,7 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="font_size_summary2">Mode allégé</string>
   <string name="handy_mode">Mode à une main</string>
   <string name="handy_mode_enable">Mode à une main</string>
-  <string name="handy_mode_size">Taille écran</string>
+  <string name="handy_mode_size">Taille de l\'écran</string>
   <string name="handy_mode_tips">Glissez vers la gauche ou la droite depuis le bouton Accueil pour ajuster la taille de l\'écran.</string>
   <string name="layout_size_large">Grand</string>
   <string name="layout_size_medium">Moyen</string>

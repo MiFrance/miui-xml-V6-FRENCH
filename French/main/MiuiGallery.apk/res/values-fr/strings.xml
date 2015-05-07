@@ -413,7 +413,7 @@
   <string name="slideshow_category">Diaporama</string>
   <string name="slideshow_dream_name">Diaporama</string>
   <string name="slideshow_interval">Intervalle du diaporama</string>
-  <string name="slideshow_interval_dialog_title">L\'intervalle d\'affichage du diaporama doit être supérieur à 0</string>
+  <string name="slideshow_interval_dialog_title">L\'intervalle doit être supérieur à 0</string>
   <string name="slideshow_interval_invalid">Intervalle non valide. Celui-ci doit être compris entre 1 et 3600. L\'intervalle par défaut va être utilisé en attendant.</string>
   <string name="slideshow_repeat_mode">Lire en boucle</string>
   <string name="slideshow_time_select_title">Sélectionner l\'intervalle du diaporama</string>

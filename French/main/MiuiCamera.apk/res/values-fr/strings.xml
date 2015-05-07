@@ -310,7 +310,7 @@
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Coucher soleil</string>
   <string name="pref_camera_scenemode_title">Mode scène</string>
-  <string name="pref_camera_settings_category">Paramètres appareil photo</string>
+  <string name="pref_camera_settings_category">Appareil photo</string>
   <string name="pref_camera_settings_title">Paramètres</string>
   <string name="pref_camera_sharpness_title">Netteté</string>
   <string name="pref_camera_show_gender_age_entry_alias">"Affiche une tranche d'âge lorsque le réhausseur est actif"</string>
@@ -486,9 +486,9 @@
   <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_camera_settings">Paramètres généraux</string>
   <string name="pref_advance_settings">Paramètres avancés</string>
-  <string name="pref_camcorder_settings">Paramètres caméra</string>
+  <string name="pref_camcorder_settings">Paramètres vidéo</string>
   <string name="pref_camcorder_settings_category">Paramètres photo et vidéo</string>
-  <string name="pref_capture_settings">Paramètres appareil photo</string>
+  <string name="pref_capture_settings">Paramètres photo</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capture auto lorsque stable</string>
   <string name="setting_top_text">Options</string>
