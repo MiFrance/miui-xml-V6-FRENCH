@@ -149,7 +149,7 @@
   <string name="comment_2_star">2 étoiles</string>
   <string name="comment_1_star">1 Étoile</string>
   <string name="comment_current_version">Version actuelle</string>
-  <string name="bad_comment_reason_dialog_title">Veuillez choisir une raison</string>
+  <string name="bad_comment_reason_dialog_title">Sélectionnez une raison</string>
   <string name="bad_comment_reason_dialog_button_text">Ignorer</string>
   <string name="rating_button">%1$s notes</string>
   <string name="developer_button">Autres titres</string>

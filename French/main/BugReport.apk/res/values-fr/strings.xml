@@ -75,9 +75,9 @@ I hope you'll add X feature, because…"</string>
   <string name="bluetooth_problem2">"Ne peut pas détecter d'appareils tiers"</string>
   <string name="bluetooth_problem3">"Ne peut pas envoyer de fichiers"</string>
   <string name="bluetooth_problem4">"Ne peut pas recevoir de fichiers"</string>
-  <string name="bugreport_dump_complete_notification_summary">Touchez pour voir.</string>
+  <string name="bugreport_dump_complete_notification_summary">Appuyer pour l\'afficher.</string>
   <string name="bugreport_dump_complete_notification_title">Rapport de bogue créé</string>
-  <string name="bugreport_dump_start_notification_summary">Prends environ une minute.</string>
+  <string name="bugreport_dump_start_notification_summary">Dure environ une minute.</string>
   <string name="bugreport_dump_start_notification_title">Création d\'un rapport de bogue</string>
   <string name="button_feedback">Autre</string>
   <string name="button_plus">+1</string>

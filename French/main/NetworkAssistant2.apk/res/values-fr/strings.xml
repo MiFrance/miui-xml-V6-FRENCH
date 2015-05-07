@@ -492,7 +492,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="add_miservice_dialog_title">Service de framework MIUI</string>
   <string name="repair_loading_text">Chargement…</string>
   <string name="root">Accès root</string>
-  <string name="firewall_network_restrict_notify_message">Tapez pour changer les paramètres.</string>
+  <string name="firewall_network_restrict_notify_message">Appuyer pour modifier les paramètres.</string>
   <string name="firewall_network_restrict_notify_title">"%1$s n'est pas autorisé à se connecter à %2$s."</string>
-  <string name="traffic_correction_success_notify_message">Tapez pour voir les détails.</string>
+  <string name="traffic_correction_success_notify_message">Appuyer pour afficher les détails.</string>
 </resources>

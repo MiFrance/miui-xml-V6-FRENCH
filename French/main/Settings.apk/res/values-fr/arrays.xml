@@ -374,9 +374,9 @@
 (pour environnement Ubuntu 8.04 et +)"</item>
   </string-array>
   <string-array name="screen_color_title">
-      <item>Chaud</item>
-      <item>Naturel</item>
-      <item>Froid</item>
+      <item>Chaudes</item>
+      <item>Standards</item>
+      <item>Froides</item>
   </string-array>
   <string-array name="screen_saturation_title">
       <item>Brillant</item>
@@ -644,14 +644,14 @@
       <item>Illimité</item>
   </string-array>
      <string-array name="screen_optimize_summary">
-        <item>Optimiser le contraste en fonction de la lumière ambiante</item>
+        <item>Optimise le contraste en fonction de la lumière ambiante</item>
         <item>Augmente le contraste de l\'écran</item>
         <item>Le contraste restera constant</item>
      </string-array>
      <string-array name="screen_optimize_title">
         <item>Contraste automatique</item>
         <item>Contraste augmenté</item>
-        <item>Standard</item>
+        <item>Contraste standard</item>
      </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 pouces</item>

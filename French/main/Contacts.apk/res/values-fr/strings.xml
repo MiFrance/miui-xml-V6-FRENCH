@@ -575,7 +575,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="next_birthday">Prochain anniversaire : %s</string>
   <string name="nfc_vcard_file_name">Contact reçu via NFC</string>
   <string name="nicknameLabelsGroup">Surnom</string>
-  <string name="nickname_editor_title">Modifier le Pseudo</string>
+  <string name="nickname_editor_title">Modifier le nom</string>
   <string name="nickname_picker_name_column">Nom du contact</string>
   <string name="nickname_picker_nickname_column">Titre</string>
   <string name="noAccounts">Vous devez posséder un compte pour créer des groupes.</string>
@@ -681,13 +681,13 @@ Pour ajouter un contact à la liste de favoris :
   <string name="pickerNewContactHeader">Créer un contact</string>
   <string name="pickerNewContactText">Créer un contact</string>
   <string name="picker_all_list_empty">Aucun contact</string>
-  <string name="picker_contact_title">Veuillez choisir un contact</string>
-  <string name="picker_email_title">Veuillez choisir un e-mail</string>
+  <string name="picker_contact_title">Sélectionnez un contact</string>
+  <string name="picker_email_title">Sélectionnez un e-mail</string>
   <string name="picker_favorites_list_empty">Aucun favori</string>
   <string name="picker_groups_list_empty">Aucun groupe</string>
   <string name="picker_join_title">Choisissez un contact à fusionner avec %s</string>
-  <string name="picker_number_title">Veuillez choisir un numéro</string>
-  <string name="picker_postal_title">Veuillez choisir un code postal</string>
+  <string name="picker_number_title">Sélectionnez un numéro</string>
+  <string name="picker_postal_title">Sélectionnez un code postal</string>
   <string name="picker_recent_list_empty">Aucun contact récent</string>
   <string name="pkgLabel">Contacts et pavé numérique</string>
   <string name="postalLabelsGroup">Adresse</string>

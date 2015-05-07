@@ -99,7 +99,6 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="uninstall_update_title">Désinstaller la mise à jour</string>
   <string name="uninstalling">Désinstallation…</string>
   <string name="unknown">Inconnu</string>
-  <string name="unknown_apps_dlg_text">"Pour plus de sécurité, votre appareil bloque l\'installation d\'applications de sources inconnues."</string>
   <string name="unknown_apps_dlg_title">Installation bloquée</string>
   <string name="unknown_installer">Installateur inconnu</string>
   <string name="virus_scan_clear">Supprimer</string>
@@ -116,7 +115,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="permission_action_reject">Refuser</string>
   <string name="virus_scan_caller_unknown">Inconnu</string>
   <string name="permission_send_sms_descx">Permet d\'envoyer des SMS et MMS</string>
-  <string name="dlg_appstore_notice">Récupérez cette appli sur notre &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt; officiel</string>
+  <string name="dlg_appstore_notice">Récupérez cette appli sur notre <u>&lt;font color=#91c727>App Store&lt;/font></u> officiel</string>
   <string name="lift_ban_once">Autoriser une fois</string>
   <string name="unknown_apps_dlg_text">Votre téléphone ainsi que vos données personnelles sont plus vulnérables aux attaques d\'applis de sources inconnues. Vous reconnaissez être pleinement responsable de tout dommage ou perte de données résultant de l\'utilisation de ces applis. Vous pouvez désactiver cette notification dans les Paramètres.</string>
 </resources>

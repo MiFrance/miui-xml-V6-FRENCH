@@ -846,7 +846,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Petite</string>
-  <string name="font_size_summary">Modifie la taille du texte affiché sur votre appareil</string>
+  <string name="font_size_summary">Modifie la taille du texte affiché sur votre appareil.</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">Forcer l\'utilisation du GPU pour le dessin 2D</string>
   <string name="force_msaa">Forcer MSAA 4x</string>
@@ -1402,8 +1402,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="runningservices_settings_title">Services en cours d\'exécution</string>
   <string name="scan_list_label">Résultats de l\'analyse :</string>
   <string name="screen">Écran</string>
-  <string name="screen_color_temperature">Température des couleurs</string>
-  <string name="screen_color_temperature_and_saturation">Température des couleurs et saturation</string>
+  <string name="screen_color_temperature">Températures de couleurs</string>
+  <string name="screen_color_temperature_and_saturation">Températures de couleurs et saturation</string>
   <string name="screen_compatibility_label">Compatibilité de l\'écran</string>
   <string name="screen_compatibility_text">Cette application n\'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d\'ajustement ici.</string>
   <string name="screen_key_long_press">Appui long des touches d\'écran</string>
@@ -3599,7 +3599,7 @@ l'assistant  e-mail"</string>
   <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
   <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
-  <string name="search_fluency_mode">Optimise les performances système</string>
+  <string name="search_fluency_mode">Optimiser les performances système</string>
   <string name="install_no_market_app_summary">Autoriser l\'installation d\'applications provenant de sources autres que l\'App Store</string>
   <string name="install_no_market_app_title">Sources inconnues</string>
 </resources>
