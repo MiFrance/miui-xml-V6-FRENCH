@@ -374,9 +374,9 @@
 (pour environnement Ubuntu 8.04 et +)"</item>
   </string-array>
   <string-array name="screen_color_title">
-      <item>Chaudes</item>
-      <item>Standards</item>
-      <item>Froides</item>
+      <item>Chaude</item>
+      <item>Standard</item>
+      <item>Froide</item>
   </string-array>
   <string-array name="screen_saturation_title">
       <item>Brillant</item>
