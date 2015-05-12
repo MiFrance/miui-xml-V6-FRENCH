@@ -114,12 +114,12 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="calllog_menu_send_sms">Envoyer un message</string>
   <string name="callrecordview_item_newcontact">nouveau contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
-  <string name="callrecordview_item_op_time_missed">, non connecté</string>
+  <string name="callrecordview_item_op_time_missed">non connecté</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d s</string>
-  <string name="callrecordview_item_op_time_rejected">, appel rejeté</string>
-  <string name="callrecordview_item_op_time_short_incoming">", entrant : "</string>
-  <string name="callrecordview_item_op_time_short_outgoing">", sortant : "</string>
+  <string name="callrecordview_item_op_time_rejected">appel rejeté</string>
+  <string name="callrecordview_item_op_time_short_incoming">"entrant : "</string>
+  <string name="callrecordview_item_op_time_short_outgoing">"sortant : "</string>
   <string name="callrecordview_menu_add_call_note">Ajout. note d\'appel</string>
   <string name="callrecordview_menu_delete">Effacer du journal d\'appels</string>
   <string name="callrecordview_menu_delete_accepted">Effacer les appels reçus du journal d\'appels</string>
@@ -194,7 +194,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="contact_edit_title_edit">Modifier le contact</string>
   <string name="contact_edit_title_insert">Créer un contact %s</string>
   <string name="contact_edit_title_readonly">Contact inaltérable</string>
-  <string name="contact_editor_prompt_multiple_accounts">Vous pouvez synchroniser votre nouveau contact avec l\'un des comptes suivants. Lequel voulez-vous utiliser ?</string>
+  <string name="contact_editor_prompt_multiple_accounts">Sélectionnez le compte à utiliser</string>
   <string name="contact_editor_prompt_one_account">Votre nouveau contact sera synchronisé avec %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte permettant de sauvegarder les contacts en ligne ?</string>
   <string name="contact_is_readOnly">Impossible d\'éditer les contacts en lecture seule</string>

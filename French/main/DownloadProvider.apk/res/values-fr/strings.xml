@@ -55,8 +55,8 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="task_already_exist">Cette tâche existe déjà</string>
   <string name="paused_waiting_for_network">En attente de réseau</string>
   <string name="notif_title_file_size">Total : %1$d</string>
-  <string name="notif_title_multiple_downloading">Téléch. : %1$d fichiers</string>
-  <string name="notif_title_single_downloading">Téléch. : %1$s</string>
+  <string name="notif_title_multiple_downloading">Téléchargement de %1$d fichiers</string>
+  <string name="notif_title_single_downloading">Téléch. de %1$s</string>
   <string name="dialog_not_show_again">Ne plus afficher</string>
   <string name="warning_tip_cancel">Télécharger</string>
   <string name="warning_tip_content">"Vous n'êtes plus connecté au Wi-Fi. Vos données mobiles seront utilisées pour terminer ce téléchargement. En cas de dépassement de votre quota, votre opérateur peut vous facturer des frais supplémentaires."</string>

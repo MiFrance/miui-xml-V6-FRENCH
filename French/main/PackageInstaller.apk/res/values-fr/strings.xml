@@ -115,7 +115,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="permission_action_reject">Refuser</string>
   <string name="virus_scan_caller_unknown">Inconnu</string>
   <string name="permission_send_sms_descx">Permet d\'envoyer des SMS et MMS</string>
-  <string name="dlg_appstore_notice">Récupérez cette appli sur notre <u>&lt;font color=#91c727>App Store&lt;/font></u> officiel</string>
+  <string name="dlg_appstore_notice">Récupérez cette application sur notre <u>&lt;font color=#91c727>Market&lt;/font></u> officiel</string>
   <string name="lift_ban_once">Autoriser une fois</string>
-  <string name="unknown_apps_dlg_text">Votre téléphone ainsi que vos données personnelles sont plus vulnérables aux attaques d\'applis de sources inconnues. Vous reconnaissez être pleinement responsable de tout dommage ou perte de données résultant de l\'utilisation de ces applis. Vous pouvez désactiver cette notification dans les Paramètres.</string>
+  <string name="unknown_apps_dlg_text">Votre téléphone ainsi que vos données personnelles sont plus vulnérables aux attaques si vous installez des applications provenant de sources inconnues. Vous reconnaissez être pleinement responsable de tout dommage ou perte de données résultant de leur utilisation. Vous pouvez désactiver cette alerte dans les Paramètres.</string>
 </resources>

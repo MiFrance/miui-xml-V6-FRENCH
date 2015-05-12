@@ -312,7 +312,7 @@
   <string name="play_all_song">Tout lire</string>
   <string name="delete">Supprimer</string>
   <string name="only_online_can_select_quality">La qualité ne peut être changée que sur les chansons en ligne</string>
-  <string name="remove">Enlever</string>
+  <string name="remove">OK</string>
   <string name="sort_by_language">Langue</string>
   <string name="sort_by_name">Nom</string>
   <string name="sort_by_time">Date</string>
