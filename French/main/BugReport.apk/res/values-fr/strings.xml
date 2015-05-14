@@ -129,8 +129,6 @@ I hope you'll add X feature, because…"</string>
   <string name="network_disconnected">Pas de connexion réseau</string>
   <string name="toast_fill_brackets">Il manque des informations dans votre rapport</string>
   <string name="bugreport_tool_log">Créer un rapport de bug</string>
-  <string name="bugreport_tool_log_toast">Journal enregistré dans %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Création du rapport de bug (dure environ 1 min)</string>
   <string name="modem_tool_log">Capturer les journaux du modem</string>
   <string name="modem_tool_log_start">Démarrer</string>
   <string name="modem_tool_log_start_toast">"Démarrage de la journalisation du modem dans %s"</string>
