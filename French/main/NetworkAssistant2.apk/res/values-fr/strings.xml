@@ -151,7 +151,7 @@ connexion au réseau de données mobiles"</string>
   <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
   <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
   <string name="pref_title_update_notification">Aff. la consom. dans le menu déroulant</string>
-  <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert/string>
+  <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
   <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lorsque vous déverrouillez votre téléphone, pour la période où celui-ci est verrouillé (5 minutes minimum)</string>
   <string name="pref_title_mobile_traffic">Afficher l\'usage des données en tenant compte du verrouillage</string>
   <string name="pref_title_declaration">Avertissement important</string>
