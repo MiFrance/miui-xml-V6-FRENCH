@@ -62,4 +62,6 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="warning_tip_content">"Vous n'êtes plus connecté au Wi-Fi. Vos données mobiles seront utilisées pour terminer ce téléchargement. En cas de dépassement de votre quota, votre opérateur peut vous facturer des frais supplémentaires."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Avertissement sur l\'utilisation des données</string>
+  <string name="notification_download_failed_more">Échec du téléchargement de %1$d fichiers</string>
+  <string name="notification_download_success_more">Téléchargement de %1$d fichiers terminé</string>
 </resources>

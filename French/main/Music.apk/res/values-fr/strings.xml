@@ -229,7 +229,7 @@
   <string name="priority_storage">Utiliser la carte SD externe</string>
   <string name="priority_storage_summary">Télécharge en priorité sur la carte SD externe (si disponible)</string>
   <string name="please_download_first">Veuillez télécharger la chanson afin de pouvoir la définir comme sonnerie</string>
-  <string name="song_not_find">"Impossible d\'obtenir un résultat. Vérifiez votre connexion et réessayez."</string>
+  <string name="song_not_find">"Ce morceau n\'est pas disponible"</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">"Votre période d'essai ou abonnement a expiré. Veuillez sélectionner une autre qualité de téléchargement."</string>
   <string name="order_process_fail">"Erreur d\'authentification. Veuillez patienter quelques minutes et réessayer."</string>
   <string name="period_format">%1$s-%2$s</string>
@@ -324,4 +324,7 @@
   <string name="upgrade_remind">Mise à jour disponible</string>
   <string name="upgrade_suggest">"Nous interrompons notre service de streaming pendant que nous résolvons des problèmes de copyright. Mettez à jour vers la dernière version de l'application Musique pour écouter de la musique de haute qualité."</string>
   <string name="upgrade_waringing">"Vous serez uniquement en mesure d'écouter de la musique stockée hors ligne."</string>
+  <string name="preset_music_playlist">Playlist Mi Musique</string>
+  <string name="set_id3_not_have_read_or_write_permission">Vous n\'avez pas les droits requis pour éditer ce fichier</string>
+  <string name="set_id3_not_support_format">Impossible d\'éditer ce format de fichier</string>
 </resources>

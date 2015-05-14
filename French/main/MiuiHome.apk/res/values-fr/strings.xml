@@ -237,4 +237,7 @@
   <string name="configure_wallpaper">Paramètres</string>
   <string name="failed_to_load_image">"Impossible de charger l'image"</string>
   <string name="mtzgadget_missing_text">Widget non disponible</string>
+  <string name="download_action">Télécharger</string>
+  <string name="loading_wallpaper">Chargement…</string>
+  
 </resources>

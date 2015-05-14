@@ -49,5 +49,7 @@
   <string name="shake_enter_tip">Secouez pour calibrer</string>
   <string name="calibrate_rotate_again">Réessayer</string>
   <string name="calibrate_title">Calibrage de la boussole</string>
-  <string name="calibrate_tip">Inclinez votre appareil pour faire rouler la boule autour du cercle</string>  
+  <string name="calibrate_tip">Inclinez votre appareil pour faire rouler la boule autour du cercle</string>
+  <string name="first_using_dialog_message">Cette application requiert l\'accès à internet, la localisation et l\'appareil photo pour fonctionner correctement.</string>
+  <string name="first_using_dialog_title">Information</string>
 </resources>

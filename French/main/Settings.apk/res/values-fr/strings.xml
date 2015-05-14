@@ -1770,11 +1770,11 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_none_summary">Aucune sécurité</string>
   <string name="unlock_set_unlock_none_title">Faire glisser</string>
   <string name="unlock_set_unlock_off_title">Aucun</string>
-  <string name="unlock_set_unlock_password_summary">Sécurité élevée</string>
+  <string name="unlock_set_unlock_password_summary">Peut contenir lettres et chiffres</string>
   <string name="unlock_set_unlock_password_title">Mot de passe</string>
-  <string name="unlock_set_unlock_pattern_summary">Sécurité moyenne</string>
+  <string name="unlock_set_unlock_pattern_summary">Au moins 4 points doivent être reliés</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
-  <string name="unlock_set_unlock_pin_summary">Sécurité moyenne à élevée</string>
+  <string name="unlock_set_unlock_pin_summary">Un code à 4 chiffres est requis</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="unlock_set_unlock_summary">Veuillez activer l\'écran de mot de passe pour valider la protection par mot de passe</string>
   <string name="unmount_inform_text">La mémoire de stockage USB va être désinstallée.</string>
@@ -3602,4 +3602,7 @@ l'assistant  e-mail"</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
   <string name="install_no_market_app_summary">Autoriser l\'installation d\'applications provenant de sources autres que l\'App Store</string>
   <string name="install_no_market_app_title">Sources inconnues</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Mot de passe requis immédiatement</string>
+  <string name="lock_screen_secure_after_timeout_summary">Mot de passe requis dans %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Mot de passe requis</string>
 </resources>

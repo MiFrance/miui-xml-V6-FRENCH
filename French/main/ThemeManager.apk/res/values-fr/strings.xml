@@ -342,4 +342,6 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="theme_purchased_non_local">En ligne</string>
   <string name="gift_received_notification_title">%s vous a offert un thème</string>
   <string name="resource_tab_to_view">Appuyer pour afficher</string>
+  <string name="theme_is_external_priority_storage">Enregistrer sur la carte SD</string>
+  <string name="theme_is_external_priority_storage_summary">L\'application Thèmes redémarrera immédiatement afin que la configuration prenne effet</string>
 </resources>

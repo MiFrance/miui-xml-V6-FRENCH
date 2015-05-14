@@ -952,6 +952,18 @@ Taille du patch Delta : %2$s"</string>
   <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
   <string name="outbox_alert_description_cannot_authenticate">%s Erreur de mail système</string>
   <string name="outbox_alert_description_reject_by_server">Rejeté par %s</string>
-  <string name="outbox_alert_description_time_out">Echec de connexion réseau</string>
+  <string name="outbox_alert_description_time_out">Échec de connexion réseau</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
+  <string name="re_download_message_button">Appuyer pour retélécharger</string>
+  <string name="re_download_message_info">Échec du téléchargement de l\'e-mail</string>
+
+<!-- à traduire
+  <string name="contact_edit_set_black_list">Set blacklist</string>
+  <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
+  <string name="contact_edit_set_pop_up_tips">Popup tips</string>
+  <string name="contact_edit_set_unread_top">Show unread emails first</string>
+  <string name="contact_edit_set_vip">Set VIP</string>
+  <string name="contact_edit_title_permission">"Contacts' permissions"</string>
+  <string name="contact_edit_title_phone_contact">Phone contacts list</string>
+-->
 </resources>

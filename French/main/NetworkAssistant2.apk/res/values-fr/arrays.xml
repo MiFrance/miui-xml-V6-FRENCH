@@ -2,6 +2,10 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string-array name="roaming_apps_sorted_type">
+      <item>Fréquence d\'utilisation</item>
+      <item>Nom</item>
+  </string-array>
   <string-array name="traffic_uints">
       <item>Mo</item>
       <item>Go</item>
