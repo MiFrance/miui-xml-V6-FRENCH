@@ -33,7 +33,7 @@
   <string name="account_duplicate_dlg_message_fmt">"Vous utilisez déjà ce nom d'utilisateur pour le compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Dupliquer le compte</string>
   <string name="account_folder_list_summary_drafts">Brouillons</string>
-  <string name="account_folder_list_summary_inbox">Boîte de réception2</string>
+  <string name="account_folder_list_summary_inbox">Boîte de réception</string>
   <string name="account_folder_list_summary_outbox">Boîte d\'envoi</string>
   <string name="account_folder_list_summary_starred">Suivis</string>
   <string name="account_password_spaces_error">"Ce mot de passe débute ou se termine par un ou plusieurs espaces. De nombreux serveurs n'acceptent pas les mots de passe contenant des espaces."</string>
@@ -347,7 +347,7 @@
   <string name="hide_folders">Masquer les dossiers</string>
   <string name="ignore_spam_warning">Ignorer, ce message est fiable</string>
   <string name="imap_name">IMAP</string>
-  <string name="inbox_folders_heading">Boîte de réception3</string>
+  <string name="inbox_folders_heading">Boîte de réception</string>
   <string name="info">Informations</string>
   <string name="invalid_recipient">L\'adresse %s est incorrecte.</string>
   <string name="kilobytes">%s Ko</string>
@@ -360,7 +360,7 @@
   <string name="long_press_to_select_tip">Appuyez de manière prolongée sur une conversation pour la sélectionner, et appuyez sur d\'autres pour les sélectionner.</string>
   <string name="mailbox_list_account_selector_combined_view">Vue combinée</string>
   <string name="mailbox_name_display_drafts">Brouillons</string>
-  <string name="mailbox_name_display_inbox">Boîte de réception1</string>
+  <string name="mailbox_name_display_inbox">Boîte de réception</string>
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Boîte d\'envoi</string>
   <string name="mailbox_name_display_sent">Éléments envoyés</string>
