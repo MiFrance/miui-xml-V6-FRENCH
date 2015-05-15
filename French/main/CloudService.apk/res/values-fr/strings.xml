@@ -58,7 +58,7 @@
   <string name="start_micloud">Activer</string>
   <string name="micloud_proceed">Continuer</string>
   <string name="master_alert_notif_title">Dernière synchronisation il y a %s jours</string>
-  <string name="sub_alert_notif_title">Synchronisation non activée</string>
+  <string name="sub_alert_notif_title">Synchronisation inactive</string>
   <string name="alert_notif_title_dspt">Vos données seront perdues si vous égarez votre appareil</string>
   <string name="noRemind">Ne pas rappeler</string>
   <string name="restoreSync">Synchroniser</string>
