@@ -3606,4 +3606,5 @@ l'assistant  e-mail"</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Mot de passe requis immédiatement</string>
   <string name="lock_screen_secure_after_timeout_summary">Mot de passe requis dans %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Délai avant verrouillage</string>
+  <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher</string>
 </resources>
