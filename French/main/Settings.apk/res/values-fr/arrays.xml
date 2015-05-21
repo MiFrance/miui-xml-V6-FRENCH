@@ -746,4 +746,16 @@
         <item>15 minutes</item>
         <item>30 minutes</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+       <item>Masquer les animations système</item>
+       <item>Afficher les animations système</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+       <item>"Pour améliorer les performances de l'appareil, masquez les animations système"</item>
+       <item>"Afficher les animations système peut réduire les performances de l'appareil"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+       <item>Redémarrer votre appareil pour appliquer ce réglage?</item>
+       <item>Redémarrer votre appareil pour appliquer ce réglage?</item>
+    </string-array>
 </resources>

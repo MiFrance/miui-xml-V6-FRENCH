@@ -138,8 +138,9 @@
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">Envoi de %1$s terminé</string>
   <string name="ble_device_address">Adresse MAC de l\'appareil BLE</string>
-  <string name="ble_device_profile_header_title">Profils</string>
+  <string name="ble_device_profile_header_title">Réglages</string>
   <string name="ble_device_profile_title">Appareil BLE connecté</string>
+  <string name="ble_device_rename">Renommer</string>
   <string name="bluetooth_preference_connected_devices">Appareils connectés</string>
   <string name="bluetooth_preference_found_devices">Appareils détectés</string>
   <string name="bluetooth_preference_scan_title">Recherche d\'appareils</string>

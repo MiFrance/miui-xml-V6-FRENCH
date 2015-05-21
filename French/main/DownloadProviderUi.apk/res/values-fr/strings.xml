@@ -154,8 +154,8 @@
   <string name="recommend_other_downloads">Populaire</string>
   <string name="recommend_paused">En attente</string>
 <!-- à traduire, non utilisé sauf tel en chinois probablement
-  <string name="recommend_prepare">Wait</string>
-  <string name="recommend_show_other_downloads">Show hot</string>
+  <string name="recommend_prepare">Patientez</string>
+  <string name="recommend_show_other_downloads">Afficher les populaires</string>
   <string name="mi_money">Mi money</string>
   <string name="display_expire_netiv1">Month Owner</string>
   <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用
