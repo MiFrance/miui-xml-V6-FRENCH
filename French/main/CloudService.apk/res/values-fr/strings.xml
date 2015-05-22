@@ -301,7 +301,7 @@ Pour obtenir plus d'espace de stockage, visitez mi.com/micloud."</string>
   <string name="cloud_back_up_close_info">Appuyer pour sauvegarder</string>
   <string name="cloud_back_up_dialog_content">"Stopper la sauvegarde en cours ? Si vous l'arrêtez maintenant, vous ne pourrais pas l'utiliser pour restaurer des applications."</string>
   <string name="cloud_back_up_interval_long">7 jours</string>
-  <string name="cloud_back_up_interval_short">1 heure</string>
+  <string name="cloud_back_up_interval_short">1 jour</string>
   <string name="cloud_back_up_network_unavailable">"Suppression impossible, connectez-vous à un réseau Wi-Fi et réessayez."</string>
   <string name="cloud_back_up_open_info">"Sauvegarde la disposition du bureau et applications tous les %1$s, lorsque connecté en Wi-Fi
 Dernière sauvegarde : %2$s"</string>
@@ -329,7 +329,7 @@ Dernière sauvegarde : %2$s"</string>
   <string name="micloud_main_suggest_setting">"En attente de connexion au Wi-Fi pour synchroniser
   Touchez le bouton Paramètres pour voir plus d'options"</string>
   <string name="micloud_main_sync_setting">Paramètres de synchronisation</string>
-  <string name="micloud_main_title_sync_fail">"Ne peut synchroniser"</string>
+  <string name="micloud_main_title_sync_fail">Synchronisation impossible</string>
   <string name="micloud_main_title_sync_off">Synchro désactivée</string>
   <string name="micloud_main_title_sync_on_wifi">Utiliser le Wi-Fi</string>
   <string name="micloud_member">Premium</string>

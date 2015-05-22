@@ -145,17 +145,17 @@
   <string name="unbind_xunlei_2_success">Compte Xunlei ajouté</string>
   <string name="unbind_xunlei_success">Déconnexion du compte Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-  <string name="recommend_downloading">Téléchargement</string>
+  <string name="recommend_downloading">Téléchargement…</string>
   <string name="recommend_failed">Échec</string>
   <string name="recommend_install">Installer</string>
-  <string name="recommend_installing">Installation</string>
+  <string name="recommend_installing">Installation…</string>
   <string name="recommend_loading">Chargement…</string>
   <string name="recommend_open">Ouvrir</string>
   <string name="recommend_other_downloads">Populaire</string>
   <string name="recommend_paused">En attente</string>
-<!-- à traduire, non utilisé sauf tel en chinois probablement
-  <string name="recommend_prepare">Patientez</string>
+  <string name="recommend_prepare">Patientez…</string>
   <string name="recommend_show_other_downloads">Afficher les populaires</string>
+<!-- à traduire, non utilisé sauf tel en chinois probablement
   <string name="mi_money">Mi money</string>
   <string name="display_expire_netiv1">Month Owner</string>
   <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用

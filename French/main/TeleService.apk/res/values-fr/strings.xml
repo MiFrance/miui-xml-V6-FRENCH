@@ -620,9 +620,9 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="emergency_call_area_code_edit_dialog_button">Appeler</string>
   <string name="dial_related_setting_catory">Composer</string>
   <string name="t9_indexing_method_title">Paramètre de recherche T9</string>
-  <string name="t9_indexing_method_pinyin">Caractères chinois (PinYin)</string>
+  <string name="t9_indexing_method_pinyin">Alphabet latin</string>
   <string name="t9_indexing_method_zhuyin">Caractères chinois (ZhuYin)</string>
-  <string name="t9_indexing_rebuilding_message">Reconstruction des index du T9…</string>
+  <string name="t9_indexing_rebuilding_message">Reconstruction de la base de données…</string>
   <string name="auto_redial_pref_title">Recomposition automatique</string>
   <string name="auto_redial_pref_summary">Recomposer automatiquement si la ligne est occupée</string>
   <string name="auto_retry_mode_title">Réponse automatique</string>

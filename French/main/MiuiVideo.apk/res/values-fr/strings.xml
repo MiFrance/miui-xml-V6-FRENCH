@@ -16,7 +16,7 @@
   <string name="all">Tous</string>
   <string name="about_app_name">Lecteur vidéo</string>
   <string name="about_title">À propos</string>
-  <string name="about_version_label">Version :</string>
+  <string name="about_version_label">"Version "</string>
   <string name="adjust_position_next_media_notice">Suivant</string>
   <string name="adjust_position_prev_media_notice">Précédent</string>
   <string name="airkan_control_device_des">Vous pouvez contrôler la lecture vidéo via le bouton du bas</string>
@@ -231,7 +231,7 @@
   <string name="vp_hide_media_info">Masquer les détails</string>
   <string name="vp_screen_shot">Capture d\'écran</string>
   <string name="vp_scale_screen">Ratio d\'aspect</string>
-  <string name="vp_auto_select">Sélection auto</string>
+  <string name="vp_auto_select">Auto</string>
   <string name="vp_full_screen">Plein écran</string>
   <string name="vp_adapt_width">Adapter la largeur</string>
   <string name="vp_adapt_height">Adapter la hauteur</string>
@@ -521,7 +521,7 @@
      <string name="join_hint">Saisissez le code d\'invitation</string>
      <string name="memory_mode_desc">Économiser l\'utilisation de la mémoire</string>
      <string name="my_local_favorite">Favoris locaux</string>
-	 <string name="i_will_write_comments">Je vais écrire des commentaires ...</string>
+	 <string name="i_will_write_comments">Je vais écrire des commentaires...</string>
 	 <string name="vp_mobile_network_using_negative">Annuler</string>
 	 <string name="vp_mobile_network_using_positive">Continuer</string>
 	 <string name="vp_mobile_network_using_warning">Lire les vidéos en ligne via votre connexion mobile aura un coût sur votre consommation de données.</string>

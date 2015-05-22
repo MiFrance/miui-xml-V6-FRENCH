@@ -157,7 +157,7 @@
   <string name="mi_key_alert_dialog_message">Touchez OK pour éteindre l\'alarme.</string>
   <string name="mi_key_alert_dialog_title">Alerte Mi-Key</string>
   <string name="mi_key_find_mikey">Trouver votre Mi-Key</string>
-  <string name="mi_key_find_phone">Trouver le téléphone</string>
+  <string name="mi_key_find_phone">Trouver l\'appareil</string>
   <string name="mi_key_take_photo">Prendre une photo</string>
   <string name="progress_scanning">Recherche…</string>
   <string name="ble_device_unbind">Effacer les paramètres</string>
