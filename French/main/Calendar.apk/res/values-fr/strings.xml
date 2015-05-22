@@ -350,4 +350,5 @@
   <string name="online_reminder_minutes_text">提醒时间</string>
   <string name="online_reminder_slider_text">启用提醒</string>
   <string name="pengzu">彭祖</string>
+  <string name="select_date">Sélectionnez une date</string>
 </resources>

@@ -325,5 +325,20 @@ Dernière sauvegarde : %2$s"</string>
   <string name="voip_choose_sim">Choisissez un numéro de téléphone pour activer Mi Voice</string>
   <string name="voip_dspt">Mi Voice</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  
+  <string name="deskclock_backup">Sauvegarde des horloges</string>
+  <string name="micloud_main_suggest_setting">"En attente de connexion au Wi-Fi pour synchroniser
+  Touchez le bouton Paramètres pour voir plus d'options"</string>
+  <string name="micloud_main_sync_setting">Paramètres de synchronisation</string>
+  <string name="micloud_main_title_sync_fail">"Ne peut synchroniser"</string>
+  <string name="micloud_main_title_sync_off">Synchro désactivée</string>
+  <string name="micloud_main_title_sync_on_wifi">Utiliser le Wi-Fi</string>
+  <string name="micloud_member">Premium</string>
+  <string name="micloud_member_advantage">Obtenir plus d\'espace de stockage.</string>
+  <string name="micloud_setting_deskclock_summary">Réglages des horloges</string>
+  <string name="micloud_storage">Stockage</string>
+  <string name="micloud_sync_alert_dialog_message">Synchronisez vos photos, contacts, notes, et plus encore sur tous vos appareils.</string>
+  <string name="micloud_sync_alert_dialog_negative">Annuler</string>
+  <string name="micloud_sync_alert_dialog_positive">OK</string>
+  <string name="micloud_sync_alert_dialog_title">Utiliser Mi Cloud</string>
+  <string name="settings_backup_title">Sauvegarder les réglages système</string>
 </resources>

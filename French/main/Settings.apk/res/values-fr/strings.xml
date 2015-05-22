@@ -28,14 +28,14 @@
   <string name="ac_enable_title">Activer le contrôle d\'accès</string>
   <string name="ac_privacy_mode_sum">Entrez le mot de passe du contrôle d\'accès pour désactiver le mode invité</string>
   <string name="ac_privacy_mode_title">Protéger le mode invité</string>
-  <string name="ac_set_apps_title">Protéger les applications</string>
+  <string name="ac_set_apps_title">Sélectionner les applications</string>
   <string name="accelerometer_summary_on">Changer automatiquement d\'orientation lors de la rotation de l\'appareil</string>
   <string name="accelerometer_summary_off">Changer automatiquement d\'orientation lors de la rotation de l\'appareil</string>
   <string name="accelerometer_title">Rotation auto de l\'écran</string>
   <string name="access_control_app_entry_multiple">Ouvrir %s</string>
   <string name="access_control_app_entry_single">Ouvrir l\'application sélectionnée</string>
-  <string name="access_control_need_password">"L'application %s est protégée
- +"</string>
+  <string name="access_control_need_password">"L'application %s est verrouillée
+ "</string>
   <string name="access_control_need_to_unlock">Schéma de déverrouillage requis</string>
   <string name="access_control_no_back_footer">Appuyez sur [icon] pour quitter</string>
   <string name="access_control_password_title">Activer le mot de passe</string>
@@ -3599,10 +3599,12 @@ l'assistant  e-mail"</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">L\'activation des animations et l\'usage de mémoire additionnelle peut causer des ralentissements sur certains appareils.</string>
   <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
   <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
+  <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
   <string name="install_no_market_app_summary">Autoriser l\'installation d\'applications provenant de sources autres que l\'App Store</string>
   <string name="install_no_market_app_title">Sources inconnues</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Mot de passe requis immédiatement</string>
   <string name="lock_screen_secure_after_timeout_summary">Mot de passe requis dans %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Délai avant verrouillage</string>
+  <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher</string>
 </resources>

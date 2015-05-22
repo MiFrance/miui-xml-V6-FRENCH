@@ -66,8 +66,16 @@
     <item quantity="other">Vous pouvez sélectionner %d éléments</item>
     <item quantity="one">Vous pouvez sélectionner %d élément</item>
   </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s nouveaux visages peuvent aussi correspondre à %2$s >></item>
-        <item quantity="one">Un nouveau visage peut aussi correspondre à %2$s >></item>
-    </plurals>
+  <plurals name="more_face">
+    <item quantity="other">%1$s nouveaux visages peuvent aussi correspondre à %2$s >></item>
+    <item quantity="one">Un nouveau visage peut aussi correspondre à %2$s >></item>
+  </plurals>
+  <plurals name="confirm_delete_album">
+    <item quantity="other">Supprimer %1$s album(s) (%2$s au total)?</item>
+    <item quantity="one">Supprimer %1$s album(s) (%2$s au total)?</item>
+  </plurals>
+  <plurals name="confirm_delete_video_from_many_albums">
+    <item quantity="other">" "&lt;Data> Supprimer &amp;lt;xliff:g id=ITEM>%1$d vidéo(s)&amp;lt;/xliff:g> de %2$d album(s)?&lt;/Data>" "</item>
+    <item quantity="one">" "&lt;Data> Supprimer &amp;lt;xliff:g id=ITEM>%1$d vidéo(s)&amp;lt;/xliff:g> de %2$d album(s)?&lt;/Data>" "</item>
+  </plurals>
 </resources>
