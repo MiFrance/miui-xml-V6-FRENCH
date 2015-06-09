@@ -1770,11 +1770,11 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="unlock_set_unlock_none_summary">Aucune sécurité</string>
   <string name="unlock_set_unlock_none_title">Faire glisser</string>
   <string name="unlock_set_unlock_off_title">Aucun</string>
-  <string name="unlock_set_unlock_password_summary">Peut contenir lettres et chiffres</string>
+  <string name="unlock_set_unlock_password_summary">Entrer 4 caractères ou plus pour déverrouiller l\'appareil</string>
   <string name="unlock_set_unlock_password_title">Mot de passe</string>
-  <string name="unlock_set_unlock_pattern_summary">Au moins 4 points doivent être reliés</string>
+  <string name="unlock_set_unlock_pattern_summary">Tracer un motif simple pour déverrouiller l\'appareil</string>
   <string name="unlock_set_unlock_pattern_title">Schéma</string>
-  <string name="unlock_set_unlock_pin_summary">Un code à 4 chiffres est requis</string>
+  <string name="unlock_set_unlock_pin_summary">Entrer 4 caractères ou plus pour déverrouiller l\'appareil</string>
   <string name="unlock_set_unlock_pin_title">Code PIN</string>
   <string name="unlock_set_unlock_summary">Veuillez activer l\'écran de mot de passe pour valider la protection par mot de passe</string>
   <string name="unmount_inform_text">La mémoire de stockage USB va être désinstallée.</string>
@@ -2734,7 +2734,7 @@ et lancer le logiciel."</string>
   <string name="preferred_sms_settings">L\'application définie sera utilisée pour lire et composer les SMS.</string>
   <string name="high_performance_title">Benchmark détecté. Mode Performances recommandé</string>
   <string name="high_performance_notif_title">Mode performance actif</string>
-  <string name="high_performance_notif_summary">Appuyer pour configurer</string>
+  <string name="high_performance_notif_summary">"Le mode performance désactive les contrôles de température ainsi que les limitations de consommation de batterie, votre appareil étant alors à sa puissance maximale. Cela peut faire chauffer votre appareil et réduire son autonomie."</string>
   <string name="dirac_mode_general_earbuds">Écouteurs standards</string>
   <string name="dirac_mode_general_inear">Intra-aur. standards</string>
   <string name="dirac_mode_piston_1">Mi Piston-1</string>
@@ -3607,4 +3607,5 @@ l'assistant  e-mail"</string>
   <string name="lock_screen_secure_after_timeout_summary">Mot de passe requis dans %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Délai avant verrouillage</string>
   <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher</string>
+  <string name="status_bar_settings_manage_notification">Gérer les notifications</string>
 </resources>

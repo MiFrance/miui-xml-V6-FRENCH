@@ -23,7 +23,7 @@
   <string name="lrc_searching">Recherche de paroles…</string>
   <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion internet mobile</string>
   <string name="mediaplaybacklabel">Musique</string>
-  <string name="headset_settings">Paramètres du casque</string>
+  <string name="headset_settings">Paramètres audio du casque</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_picker_title">Sélectionner un titre</string>
   <string name="music_settings">Musique</string>
