@@ -507,58 +507,56 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="data_network_blocked_notification_title">Aucune connexion internet</string>
   <string name="network_blocked_switch_wifi">Basculer les réseaux</string>
   
-<!-- à traduire
-  <string name="hints_input_roaming_daily_limit">Enter data usage limit</string>
-  <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
-  <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
-  <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+  <string name="hints_input_roaming_daily_limit">Entrer la limite d\'utilisation des données</string>
+  <string name="ip_address_exception_summary">"Impossible d\'obtenir une adresse IP. Si jamais vous rencontrez à nouveau cette erreur, essayez d\'utiliser une adresse IP statique."</string>
+  <string name="local_ip_exception_summary">"Impossible de récupérer l\'adresse IP locale. Pour notifier cette erreur à MIUI, utilisez l\'appli Rapports et transmettez un rapport à partir de votre appareil."</string>
+  <string name="network_mobile_exception_detail">"Votre appareil ne peut se connecter à Internet:
 
- 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
- 2. If you just topped up your device's balance, reboot your device and try again.
- 3. Your carrier's network's signal may be weak in your current location."</string>
-  <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
-  <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
-  <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
-  <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+ 1. Assurez-vous de ne pas avoir dépassé votre quota de données mobiles.
+ 2. Si vous venez d\'augmenter votre quota, redémarrez votre appareil et essayez à nouveau.
+ 3. Le signal réseau de votre opérateur est peut-être faible dans votre localité actuelle."</string>
+  <string name="network_operator_exception_summary">"Impossible d'activer la carte SIM. Assurez-vous d'avoir inséré correctement la carte SIM et que votre quota de données est bien actif auprès de votre opérateur."</string>
+  <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
+  <string name="network_roaming_exception_tips">"Impossible d'utiliser les données mobiles en itinérance pour se connecter au réseau."</string>
+  <string name="network_route_exception_detail">"Il semble y avoir un problème avec le routeur sur lequel vous êtes connecté:
 
-"<b>"1. Public WLAN network issues
-"</b>"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
- 2."<b>" Internet service provider issues
-M"</b>"ake sure that your account is in good standing with your Internet Service Provider.
- 3."<b>" Router hardware issues
-T"</b>"ry rebooting your router or checking the admin settings for your router.
- 4."<b>" Other router issues
-R"</b>"ead the instructions that came with your router and restore your router to its factory settings.
- 5."<b>" Make sure your router is connected properly
-T"</b>"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
-  <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+"<b>"1. Problèmes sur les réseaux Wi-Fi publics
+"</b>"Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs connectés à ce réseau peut entraîner des lenteurs ou des erreurs de connexions. Sélectionnez un autre réseau et essayez à nouveau.
+ 2."<b>" Problèmes liés aux fournisseurs d'accès
+"</b>"Assurez-vous que votre abonnement est actif auprès de votre fournisseur d'accès.
+ 3."<b>" Problèmes matériels sur votre box
+"</b>"Essayez de redémarrer votre box ou consultez les réglages administrateur.
+ 4."<b>" Autres problèmes liées à la box
+"</b>"Lisez les instructions fournies avec votre box, et restaurez les réglages usine.
+ 5."<b>" Assurez-vous que votre box soit bien connectée
+"</b>"Essayez un autre câble Ethernet pour connecter votre box. Si vous estimez qu'il y a un problème avec votre connexion, contactez votre fournisseur d'accès."</string>
+  <string name="network_sim_exception_detail">"Il semble y avoir un problème avec votre carte SIM:
 
- 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
- 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
- 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
-  <string name="open_now">Allow app to use mobile data</string>
-  <string name="other_exception_summary">"You don't have an internet connection"</string>
-  <string name="other_exception_title">Checking for other issues</string>
-  <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
-  <string name="protocol_exception_title">Network protocol diagnostics</string>
-  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
-  <string name="renew_ip">Retry</string>
-  <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
-  <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
-  <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
-  <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
-  <string name="usbsharenet_pc_exception_summary">"Can't connect to to the internet using shared connection. Check your computer's internet connection."</string>
+ 1. Assurez-vous que votre abonnement est actif auprès de votre opérateur mobile. Essayez d'utiliser la carte SIM d'un ami pour vous connecter normalement.
+ 2. Si vous utilisez deux cartes SIM, essayez de basculer sur l'autre carte, et voyez si vous pouvez vous connecter normalement.
+ 3. Assurez-vous que votre carte ainsi que votre emplacement SIM ne soient pas endommagés. Vérifiez que la carte SIM est bien insérée dans son emplacement."</string>
+  <string name="open_now">Autoriser l\'appli à utiliser les données mobiles</string>
+  <string name="other_exception_summary">"Vous n'avez pas de connexion Internet"</string>
+  <string name="other_exception_title">Recherche d\'autres problèmes</string>
+  <string name="pref_roaming_daily_limit_setting">Limite quotidienne de données en itinérance</string>
+  <string name="protocol_exception_title">Diagnostics réseau</string>
+  <string name="protocol_loop_back_exception_summary">Le test de boucle locale a échoué. Pour notifier cette erreur à MIUI, utilisez l\'appli Rapport et transmettez un rapport à partir de votre appareil.</string>
+  <string name="renew_ip">Réessayer</string>
+  <string name="roaming_limit_dialog_message">Limite de données en itinérance atteinte.</string>
+  <string name="roaming_limit_notification_title">Limite de données en itinérance atteinte</string>
+  <string name="roaming_limit_warning_notification_body">Touchez pour voir l\'utilisation des données.</string>
+  <string name="sim_state_exception_summary">Le contrôle SIM indique qu\'il y a un problème avec votre carte SIM.</string>
+  <string name="usbsharenet_pc_exception_summary">"Ne peut se connecter à Internet en utilisant une connexion partagée. Vérifiez la connexion à Internet de votre ordinateur."</string>
 
-  <string name="miuishare_title_more">More</string>
-  <string name="miuishare_title_share">Share</string>
+  <string name="miuishare_title_more">Plus</string>
+  <string name="miuishare_title_share">Partager</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="network_connected_exception_title">Test network</string>
-  <string name="network_not_available">"Can't connect to the network"</string>
-  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
-  <string name="networkchanged_exception_title">Connection changed</string>
-  <string name="no_network_btn">Try again</string>
-  <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
-  <string name="permission_exception_title">View network permissions</string>
--->
+  <string name="network_connected_exception_title">Test du réseau</string>
+  <string name="network_not_available">"Pas de connexion réseau"</string>
+  <string name="networkchanged_exception_summary">La connexion réseau a été modifiée. Essayez à nouveau.</string>
+  <string name="networkchanged_exception_title">Connexion modifiée</string>
+  <string name="no_network_btn">Essayez à nouveau</string>
+  <string name="permission_exception_summary">"Certaines applis n'ont pas l'autorisation de se connecter à Internet"</string>
+  <string name="permission_exception_title">Voir les permissions réseau</string>
 </resources>

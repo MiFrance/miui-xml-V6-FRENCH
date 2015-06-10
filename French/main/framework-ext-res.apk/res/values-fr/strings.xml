@@ -34,10 +34,8 @@
   <string name="screen_rotation_freeze_message">Rotation automatique désactivée</string>
   <string name="screen_button_disabled_message">Touches de navigation désactivées. Vous pouvez les réactiver en appuyant sur Accueil et Marche/Arrêt simultanément</string>
   <string name="screen_button_enabled_message">Touches de navigation activées</string>
-
-
-<!-- à traduire
-  <string name="alwaysUsePrompt">Remember this choice</string>
+  <string name="alwaysUsePrompt">Mémoriser ce choix</string>
+  <!--
   <string name="android_activity_resolver_use_always">@android:string/activity_resolver_use_always</string>
   <string name="android_activity_resolver_use_once">@android:string/activity_resolver_use_once</string>
   <string name="android_add_account_label">@android:string/add_account_label</string>
@@ -86,57 +84,57 @@
   <string name="android_whichHomeApplication">@android:string/whichHomeApplication</string>
   <string name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</string>
   <string name="android_wireless_display_route_description">@android:string/wireless_display_route_description</string>
-  <string name="auto_start_warning_allow">Allow</string>
-  <string name="auto_start_warning_deny">Deny</string>
-  <string name="auto_start_warning_title">Allow %s to autostart in the future?</string>
-  <string name="call_record_or">" or "</string>
-  <string name="call_record_sample_prefix_miui">Call</string>
-  <string name="caller_info_name_delimiter">" or "</string>
-  <string name="copy">Copy</string>
-  <string name="cut">Cut</string>
-  <string name="first_back_long_press_message">"Press &amp; hold the Back button to kill the current process and its background services.
+  -->
+  <string name="auto_start_warning_allow">Autoriser</string>
+  <string name="auto_start_warning_deny">Refuser</string>
+  <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement à l\'avenir?</string>
+  <string name="call_record_or">" ou "</string>
+  <string name="call_record_sample_prefix_miui">Appel</string>
+  <string name="caller_info_name_delimiter">" ou "</string>
+  <string name="copy">Copier</string>
+  <string name="cut">Couper</string>
+  <string name="first_back_long_press_message">"Maintenez appuyé le bouton Retour pour tuer le processus courant et ses services en arrière-plan.
 
-To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
-  <string name="fm_record_smaple_prefix_miui">FM recording</string>
-  <string name="force_exit_message">Force quit %1$s</string>
-  <string name="force_exit_skip_message">"Can't close %1$s because it's required by the system."</string>
-  <string name="global_actions_airplane_mode">Airplane mode</string>
-  <string name="global_actions_reboot">Reboot</string>
-  <string name="global_actions_shutdown">Power off</string>
-  <string name="global_actions_silent_mode">Silent mode</string>
+Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Boutons"</string>
+  <string name="fm_record_smaple_prefix_miui">Enregistrement FM</string>
+  <string name="force_exit_message">Forcer l\'arrêt de %1$s</string>
+  <string name="force_exit_skip_message">"Ne peut fermer %1$s car requis par le système."</string>
+  <string name="global_actions_airplane_mode">Mode avion</string>
+  <string name="global_actions_reboot">Redémarrer</string>
+  <string name="global_actions_shutdown">Eteindre</string>
+  <string name="global_actions_silent_mode">Mode silencieux</string>
   <string name="key_btn_ok">OK</string>
-  <string name="key_btn_space">Space</string>
-  <string name="lockscreen_access_pattern_cell_added">Cell added</string>
-  <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
-  <string name="lockscreen_access_pattern_detected">Pattern completed</string>
-  <string name="lockscreen_access_pattern_start">Pattern started</string>
-  <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-  <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
-  <string name="paste">Paste</string>
-  <string name="reboot_confirm_title">Your phone will reboot.</string>
-  <string name="reboot_progress">Rebooting…</string>
-  <string name="replace">Replace</string>
+  <string name="key_btn_space">Espace</string>
+  <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
+  <string name="lockscreen_access_pattern_cleared">Motif désactivé</string>
+  <string name="lockscreen_access_pattern_detected">Motif terminé</string>
+  <string name="lockscreen_access_pattern_start">Motif démarré</string>
+  <string name="memory_clear_nothing_result">Aucune mémoire à libérer</string>
+  <string name="memory_clear_result">%1$sB libérés | %2$sB disponibles</string>
+  <string name="paste">Coller</string>
+  <string name="reboot_confirm_title">Votre téléphone va redémarrer.</string>
+  <string name="reboot_progress">Redémarrer…</string>
+  <string name="replace">Remplacer</string>
 
-  <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
-  <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-  <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Back and Volume up buttons simultaneously.</string>
-  <string name="screen_on_proximity_sensor_summary">"Don't cover the orange area of the screen"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
-  <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Additional settings &gt; Read mode.</string>
+  <string name="screen_button_notification_text">Pour les activer, appuyez simultanément sur les boutons Accueil et Allumage.</string>
+  <string name="screen_button_notification_title">Les boutons de navigation sont désactivés</string>
+  <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonctionnalité, appuyez simultanément sur les boutons Retour et Volume Haut.</string>
+  <string name="screen_on_proximity_sensor_summary">"Ne pas couvrir la zone orange de votre écran"</string>
+  <string name="screen_on_proximity_sensor_title">Empêcher les appels dans la poche</string>
+  <string name="screen_paper_mode_enter_toast">Le mode lecture est actif. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans Paramètres additionnels &gt; Mode lecture.</string>
 
-  <string name="select">Select</string>
-  <string name="select_all">Select all</string>
-  <string name="shutdown_confirm_title">Your phone will shut down.</string>
-  <string name="shutdown_progress">Shutting down…</string>
-  <string name="sim_added_reboot_confirm">Reboot</string>
-  <string name="sim_added_reboot_title">SIM card will activate after you reboot your device.</string>
-  <string name="softap_notifif_summary">%d connected</string>
-  <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
-  <string name="unknown_caller">Unknown number</string>
-  <string name="handy_mode_summary">To close, tap empty space off-screen</string>
-  <string name="handy_mode_title">One-handed mode</string>
+  <string name="select">Sélectionner</string>
+  <string name="select_all">Sélectionner tout</string>
+  <string name="shutdown_confirm_title">Votre téléphone va s\'éteindre.</string>
+  <string name="shutdown_progress">Extinction…</string>
+  <string name="sim_added_reboot_confirm">Redémarrage</string>
+  <string name="sim_added_reboot_title">La carte SIM s\'activera après le redémarrage de votre appareil.</string>
+  <string name="softap_notifif_summary">%d connecté</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" actif</string>
+  <string name="unknown_caller">Numéro inconnu</string>
+  <string name="handy_mode_summary">Pour fermer, touchez une zone vide hors de l\'écran</string>
+  <string name="handy_mode_title">Mode à une main</string>
 
-  <string name="perm_send_push_dspt">Allow Mi push messages</string>
-  <string name="perm_send_push_lab">Send push message</string>
--->
+  <string name="perm_send_push_dspt">Autoriser les messages push Mi</string>
+  <string name="perm_send_push_lab">Envoyer un message push</string>
 </resources>

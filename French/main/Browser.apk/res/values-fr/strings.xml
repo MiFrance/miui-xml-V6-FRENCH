@@ -824,10 +824,8 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="sub_sync_item_browser_title_useful_summary">Synchronise la page de démarrage du navigateur</string>
   <string name="sub_sync_item_browser_title_video">Synchroniser l\'historique des vidéos</string>
   <string name="sub_sync_item_browser_title_video_summary">"Synchronise entre vos divers appareils la liste des vidéos vues récemment</string>
-<!-- à traduire, affiché ou à vérifier ?
-  <string name="action_menu_text_bandwidth">Bandwidth</string>
-  <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
-  <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
--->
+  <string name="action_menu_text_bandwidth">Bande passante</string>
+  <string name="action_menu_text_bandwidth_off">Bande passante/Inactif</string>
+  <string name="action_menu_text_bandwidth_on">Bande passante/Actif</string>
   <string name="video_buffering_percent_string">Mise en mémoire tampon</string>
 </resources>
