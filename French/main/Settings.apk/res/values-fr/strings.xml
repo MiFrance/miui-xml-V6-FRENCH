@@ -3608,4 +3608,5 @@ l'assistant  e-mail"</string>
   <string name="lock_screen_secure_after_timeout_title">Délai avant verrouillage</string>
   <string name="cell_broadcast_settings_summary">Sélectionnez les types d\'alertes d\'urgence à afficher</string>
   <string name="status_bar_settings_manage_notification">Gérer les notifications</string>
+  <string name="music_dirac_mode_piston_standard">Edition standard</string>
 </resources>

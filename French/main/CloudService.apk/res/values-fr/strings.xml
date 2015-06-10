@@ -342,4 +342,5 @@ Dernière sauvegarde : %2$s"</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Utiliser Mi Cloud</string>
   <string name="settings_backup_title">Sauvegarder les réglages système</string>
+  <string name="internet_access_dspt">Cette appli a besoin d\'un accès à Internet pour fonctionner normalement.</string>
 </resources>

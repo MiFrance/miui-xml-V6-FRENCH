@@ -646,7 +646,7 @@
   <string name="all_video_album_display_name">Toutes les vidéos</string>
   <string name="confirm_all_photo_not_this_people_face">Aucun résultat ?</string>
   <string name="confirm_face">Confirmer</string>
-  <string name="confirm_left_photo_will_move_out">Les photos de gauches seront retirées de cet album.</string>
+  <string name="confirm_left_photo_will_move_out">Les photos de gauches ne sont pas les siennes ?</string>
   <string name="confirm_not_face">Pas cette personne</string>
   <string name="contrast_abbr">C</string>
   <string name="enabling_face_feature">Activation…</string>
@@ -676,4 +676,16 @@
   <string name="videos">Vidéos</string>
   <string name="paint_highlight_cancel_context">Enregistrer l\'image surlignée ?</string>
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
+  <string name="add_event">Ajouter un évènement</string>
+  <string name="add_event_hint">Saisissez un libellé</string>
+  <string name="confirm_all_photo_are_this_people_face">Accepter toutes les photos ?</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Fusionner ces albums avec &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="event_manage_photos">Gérer les photos</string>
+  <string name="face_albumset_loading_data">Chargement des données…</string>
+  <string name="merge_album">Fusionner</string>
+  <string name="merge_album_title">Fusionner les albums vers</string>
+  <string name="pick_from_contact">Récupérer à partir du contact</string>
+  <string name="face_album_long_tap_tip">Pour sélectionner plusieurs personnes et changer les paramètres de groupe, maintenez une longue pression sur une photo de profil</string>
+  <string name="ignore_alert_title">"Ne sera plus affiché si ignoré, continuer?"</string>
+   
 </resources>

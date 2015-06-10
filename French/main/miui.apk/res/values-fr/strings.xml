@@ -582,4 +582,6 @@
   <string name="app_name_which_call">Application : %s</string>
   <string name="app_version_which_call">Version de l\'application : %s</string>
   <string name="policy_name">Politique : %s</string>
+  <string name="web_sso_login_fail">Vous devez vous identifier à nouveau</string>
+  <string name="web_sso_login_message">Connexion…</string>
 </resources>

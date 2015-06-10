@@ -829,4 +829,5 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
   <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
 -->
+  <string name="video_buffering_percent_string">Mise en mémoire tampon</string>
 </resources>

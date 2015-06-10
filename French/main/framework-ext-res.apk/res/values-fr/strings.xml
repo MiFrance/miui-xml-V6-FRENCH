@@ -133,5 +133,10 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="softap_notifif_summary">%d connected</string>
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
   <string name="unknown_caller">Unknown number</string>
+  <string name="handy_mode_summary">To close, tap empty space off-screen</string>
+  <string name="handy_mode_title">One-handed mode</string>
+
+  <string name="perm_send_push_dspt">Allow Mi push messages</string>
+  <string name="perm_send_push_lab">Send push message</string>
 -->
 </resources>

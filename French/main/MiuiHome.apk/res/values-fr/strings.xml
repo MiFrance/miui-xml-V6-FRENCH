@@ -216,7 +216,7 @@
   <string name="gadget_calculator_label">Calculatrice</string>
   <string name="gadget_calendar_label">Calendrier</string>
   <string name="gadget_notes_label">Notes</string>
-  <string name="is_setting_wallpaper_toast">Application du fond d\'écran…</string>
+  <string name="is_setting_wallpaper_message">Application du fond d\'écran…</string>
   <string name="is_system_wallpaper_message">"Impossible de supprimer des ressources système"</string>
   <string name="local_wallpaper">Téléchargé</string>
   <string name="mi_wallpaper">Boutique de thèmes MIUI</string>

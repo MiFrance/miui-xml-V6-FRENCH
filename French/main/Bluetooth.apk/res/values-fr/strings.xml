@@ -140,6 +140,7 @@
   <string name="ble_device_address">Adresse MAC de l\'appareil BLE</string>
   <string name="ble_device_profile_header_title">Réglages</string>
   <string name="ble_device_profile_title">Appareil BLE connecté</string>
+  <string name="ble_device_profile">Profil de l\'appareil Bluetooth</string>
   <string name="ble_device_rename">Renommer</string>
   <string name="bluetooth_preference_connected_devices">Appareils connectés</string>
   <string name="bluetooth_preference_found_devices">Appareils détectés</string>
@@ -177,4 +178,12 @@
   <string name="bluetooth_connecting">Connexion…</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_disconnecting">Déconnexion…</string>
+  <string name="goto_package">Ouvrir %1$s</string>
+  <string name="install_package">Installez %1$s pour plus de fonctionnalités</string>
+  <string name="mi_key_open_camera">Ouvrir l\'appareil photo</string>
+  <string name="mi_key_summary_find_phone">Pressez et &amp; maintenez Mi-Key pour activer la sonnerie</string>
+  <string name="mi_key_summary_open_camera">Double-cliquez Mi-Key pour ouvrir l\'appareil photo</string>
+  <string name="mi_key_summary_take_photo">Cliquez Mi-Key pour prendre une photo</string>
+  <string name="reset_function_msg">Ouvrir à nouveau cette fonction la rendra invalide dans %1$s</string>
+  <string name="some_app_taking">(%1$s utilise déjà cette fonction…)</string>
 </resources>

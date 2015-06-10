@@ -548,5 +548,17 @@ T"</b>"ry using another Ethernet cable to connect your router. If you suspect th
   <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to to the internet using shared connection. Check your computer's internet connection."</string>
+
+  <string name="miuishare_title_more">More</string>
+  <string name="miuishare_title_share">Share</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="network_connected_exception_title">Test network</string>
+  <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+  <string name="networkchanged_exception_title">Connection changed</string>
+  <string name="no_network_btn">Try again</string>
+  <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
+  <string name="permission_exception_title">View network permissions</string>
 -->
 </resources>
