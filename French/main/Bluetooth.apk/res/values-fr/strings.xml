@@ -184,6 +184,7 @@
   <string name="mi_key_summary_find_phone">Pressez et &amp; maintenez Mi-Key pour activer la sonnerie</string>
   <string name="mi_key_summary_open_camera">Double-cliquez Mi-Key pour ouvrir l\'appareil photo</string>
   <string name="mi_key_summary_take_photo">Cliquez Mi-Key pour prendre une photo</string>
-  <string name="reset_function_msg">Ouvrir à nouveau cette fonction la rendra invalide dans %1$s</string>
-  <string name="some_app_taking">(%1$s utilise déjà cette fonction…)</string>
+  <string name="reset_function_msg">Réinitialiser cette fonction peut perturber le fonctionnement de %1$s</string>
+  <string name="some_app_taking">(%1$s utilise déjà cette fonction)</string>
+  
 </resources>

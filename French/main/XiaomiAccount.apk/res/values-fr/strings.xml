@@ -481,9 +481,9 @@ Veuillez saisir le code de vérification contenu dans le message"</string>
   <string name="phone_send_verify_code_prompt">Envoyer un code de vérification à %s</string>
   <string name="replace_binded_phone">Remplacer le numéro</string>
   <string name="restart_action">Redémarrer</string>
-  <string name="restart_email_bind_message">Recevoir un mail peut prendre du temps, confirmez-vous ce changement?</string>
+  <string name="restart_email_bind_message">Un mail contenant le code de vérification va être envoyé à cette adresse.</string>
   <string name="restart_email_bind_title">Changement de l\'adresse mail de récupération</string>
-  <string name="restart_phone_bind_message">Recevoir un sms peut prendre du temps, confirmez-vous ce changement?</string>
+  <string name="restart_phone_bind_message">Un SMS contenant le code de vérification va être envoyé à ce numéro.</string>
   <string name="restart_phone_bind_title">Changement du numéro de récupération</string>
   <string name="trying_read_verify_code_sms">Récupération du code de vérification…</string>
   <string name="update_recovery_info_dialog_message">Vous devez vérifier votre identité avant de mettre à jour %s.</string>

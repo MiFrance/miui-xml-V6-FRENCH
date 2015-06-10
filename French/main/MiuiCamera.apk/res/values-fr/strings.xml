@@ -520,7 +520,7 @@
   <string name="simple_mode_button_text_scene">Quitter le mode scène</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
-  <string name="pref_camera_hdr_entry_normal">Amélioré</string>
+  <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_flashmode_entry_torch">Torche</string>
   <string name="pref_camera_hdr_entry_off">Inactif</string>
   <string name="do_not_save">Ne pas enregistrer</string>

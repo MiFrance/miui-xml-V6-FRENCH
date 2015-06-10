@@ -30,7 +30,7 @@
   <string name="add_to_cloud_fail_too_many_items">L\'opération a échoué, trop d\'éléments sélectionnés</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s élément(s) ne peuvent-être envoyés sur le cloud : %1$s.</string>
   <string name="add_to_cloud_file_exist_message">La photo existe déjà dans l\'album sélectionné.</string>
-  <string name="add_to_cloud_folder">Ajouter au dossier Mi Cloud</string>
+  <string name="add_to_cloud_folder">Ajouter à l\'album</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Quota d\'images dépassé.</string>
   <string name="add_to_cloud_local_space_full_message">"Le stockage est plein ou n'est pas encore prêt."</string>
   <string name="add_to_cloud_space_full_message">L\'album Mi Cloud est plein.</string>
@@ -115,11 +115,11 @@
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">Tout</string>
   <string name="cloud_tab_locations">Lieux</string>
-  <string name="cloudfolder_already_exists">Le dossier Mi Cloud existe déjà</string>
-  <string name="cloudfolder_cannot_start_with">"Le nom du dossier ne peut pas commencer par '%s'"</string>
-  <string name="cloudfolder_contain_invalidate_char">"Le nom du dossier ne peut contenir '%s'"</string>
-  <string name="cloudfolder_name_cannot_empty">Veuillez saisir un nom de dossier.</string>
-  <string name="cloudfolder_name_reserved">Le nom du dossier est réservé.</string>
+  <string name="cloudfolder_already_exists">Un album avec ce nom existe déjà</string>
+  <string name="cloudfolder_cannot_start_with">"Le nom de l\'album ne peut pas commencer par '%s'"</string>
+  <string name="cloudfolder_contain_invalidate_char">"Le nom de l\'album ne peut contenir '%s'"</string>
+  <string name="cloudfolder_name_cannot_empty">Veuillez saisir un nom d\'album.</string>
+  <string name="cloudfolder_name_reserved">Ce nom d\'album est réservé.</string>
   <string name="comfirm_delete_current_album">Supprimer cet album ?</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Supprimer %s élément(s) ?</string>
@@ -132,7 +132,7 @@
   <string name="context_menu_copy">Copier</string>
   <string name="context_menu_copy_notice">Sélection copiée dans le presse-papiers</string>
   <string name="contrast">Contraste</string>
-  <string name="create_new_cloud_folder">Créer un nouveau dossier Mi Cloud</string>
+  <string name="create_new_cloud_folder">Créer un nouvel album</string>
   <string name="crop">Recadrer</string>
   <string name="crop_fail_to_load_image">Impossible de charger l\'image pour la recadrer.</string>
   <string name="crop_label">Recadrer l\'image</string>
@@ -235,7 +235,7 @@
   <string name="initial_cloud_button_text">Activer Mi Cloud</string>
   <string name="initial_cloud_text">À tout moment et n\'importe où, organisez et visualisez vos photos</string>
   <string name="initializing_cloud">Initialisation…</string>
-  <string name="input_cloudfolder_name">Nom du dossier Mi Cloud</string>
+  <string name="input_cloudfolder_name">Nom de l\'album</string>
   <string name="internal_camera_folder_display_name">Photos de la caméra</string>
   <string name="internal_miui_capture_screen_folder_display_name">Captures d\'écran internes</string>
   <string name="internal_sd_card">Stockage interne</string>
@@ -321,7 +321,7 @@
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
   <string name="photo_saved">Photo retouchée enregistrée dans %s.</string>
   <string name="photoeditor_name">Studio photo</string>
-  <string name="photos">Photos</string>
+  <string name="photos"> photos</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="posterize">Postérisation</string>
   <string name="ppmm_gallery">PPMM</string>
@@ -533,7 +533,7 @@
   <string name="menu_item_sort_size">Taille</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_name">Nom</string>
-  <string name="cloudfolder_loading_data">(Chargement…)</string>
+  <string name="cloudfolder_loading_data">Chargement…</string>
   <string name="photo_paint_crop">Recadrer</string>
   <string name="photo_paint_rotate">Pivoter</string>
   <string name="only_show_camera_in_first_page">Afficher uniquement l\'album photo</string>
@@ -602,7 +602,7 @@
   <string name="black_white">Noir &amp; blanc #1</string>
   <string name="brannan">Aube</string>
   <string name="camera_black_white">Noir &amp; blanc #2</string>
-  <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec l\'album &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
+  <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec %s &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
   <string name="cool">Froid</string>
   <string name="cool_portrait">Portrait</string>
   <string name="create_new_face">Nouveau visage</string>
@@ -613,9 +613,9 @@
   <string name="face_album_rename_hint">Saisir le nom</string>
   <string name="face_albumset_detecting_tip">Chargement…</string>
   <string name="face_albumset_empty">Vide.</string>
-  <string name="face_albumset_use_tip">Utilisez la détection de visages pour trier les photos en fonction des personnes présentes</string>
+  <string name="face_albumset_use_tip">Trier les photos selon les personnes présentes</string>
   <string name="face_move_dialog_title">Sélectionnez un album</string>
-  <string name="home_page_tab_face">Visage</string>
+  <string name="home_page_tab_face">Personnes</string>
   <string name="ignore_face">Ignorer cette personne</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="merge_album_positive_button_text">Fusionner</string>
@@ -637,7 +637,7 @@
   <string name="wechat">WeChat</string>
   <string name="weibo">Weibo</string>
   <string name="weixin">WeChat</string>
-  <string name="who_is_this">Qui est-ce ?</string>
+  <string name="who_is_this">Qui est dans cette photo ?</string>
   <string name="wps">WPS</string>
   <string name="start_to_use_face_albumset">Trier par personne</string>
   <string name="always_rotate_alert_msg">Vous pouvez désactiver cette fonction à tout moment dans les réglages de la galerie</string>
@@ -646,13 +646,13 @@
   <string name="all_video_album_display_name">Toutes les vidéos</string>
   <string name="confirm_all_photo_not_this_people_face">Aucun résultat ?</string>
   <string name="confirm_face">Confirmer</string>
-  <string name="confirm_left_photo_will_move_out">Les photos de gauches ne sont pas les siennes ?</string>
+  <string name="confirm_left_photo_will_move_out">La personne n\'est pas présente dans ces photos ?</string>
   <string name="confirm_not_face">Pas cette personne</string>
   <string name="contrast_abbr">C</string>
-  <string name="enabling_face_feature">Activation…</string>
+  <string name="enabling_face_feature">Un instant…</string>
   <string name="face_albumset_pending_enable_tip">Les photos seront triées lorsque l\'appareil est connecté en Wi-Fi</string>
   <string name="highlight_abbr">H</string>
-  <string name="ignore_album">Ignorer</string>
+  <string name="ignore_album">Ne pas afficher</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">Pour masquer une photo, rester appuyé puis sélectionner \"Masquer\" depuis le menu dans le coin gauche inférieur.</string>
   <string name="last_chinese_new_year">Dernier nouvel an chinois</string>
   <string name="last_new_year">Dernier nouvel an</string>
@@ -668,24 +668,23 @@
   <string name="return_to_top">Appuyer sur \"Photo\" pour revenir en haut</string>
   <string name="saturation_abbr">S</string>
   <string name="script">Script</string>
-  <string name="select_item_face">Sélectionner la photo correspondante à %1</string>
+  <string name="select_item_face">Photos de %1</string>
   <string name="single_device_project_dialog_checkbox_text">Se rappeler de cet écran</string>
   <string name="single_device_project_dialog_title">Caster sur %s</string>
   <string name="ubifocus_data_invalid">Certaines données de cette image sont corrompues.</string>
   <string name="ubifocus_refocus_data_invalid">"Impossible de modifier la mise au point car certaines données de cette images sont corrompues"</string>
-  <string name="videos">Vidéos</string>
+  <string name="videos"> vidéos</string>
   <string name="paint_highlight_cancel_context">Enregistrer l\'image surlignée ?</string>
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
   <string name="add_event">Ajouter un évènement</string>
   <string name="add_event_hint">Saisissez un libellé</string>
-  <string name="confirm_all_photo_are_this_people_face">Accepter toutes les photos ?</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Fusionner ces albums avec &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_all_photo_are_this_people_face">Associer toutes les photos à cette personne ?</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Fusionner ces albums avec %s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="event_manage_photos">Gérer les photos</string>
   <string name="face_albumset_loading_data">Chargement des données…</string>
   <string name="merge_album">Fusionner</string>
-  <string name="merge_album_title">Fusionner les albums vers</string>
-  <string name="pick_from_contact">Récupérer à partir du contact</string>
+  <string name="merge_album_title">Fusionner les albums</string>
+  <string name="pick_from_contact">Choisir parmi les contacts</string>
   <string name="face_album_long_tap_tip">Pour sélectionner plusieurs personnes et changer les paramètres de groupe, maintenez une longue pression sur une photo de profil</string>
-  <string name="ignore_alert_title">"Ne sera plus affiché si ignoré, continuer?"</string>
-   
+  <string name="ignore_alert_title">"Ne plus afficher cet album ?"</string>
 </resources>
