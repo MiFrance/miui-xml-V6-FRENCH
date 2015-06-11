@@ -679,7 +679,7 @@
   <string name="add_event">Ajouter un évènement</string>
   <string name="add_event_hint">Saisissez un libellé</string>
   <string name="confirm_all_photo_are_this_people_face">Associer toutes les photos à cette personne ?</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Fusionner ces albums avec %s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Fusionner ces albums avec &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="event_manage_photos">Gérer les photos</string>
   <string name="face_albumset_loading_data">Chargement des données…</string>
   <string name="merge_album">Fusionner</string>
