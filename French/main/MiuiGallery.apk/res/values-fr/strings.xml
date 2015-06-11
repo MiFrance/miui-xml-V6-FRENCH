@@ -321,7 +321,7 @@
   <string name="photo_page_save_uri_image_ok">Enregistrer les photos dans le dossier de la caméra.</string>
   <string name="photo_saved">Photo retouchée enregistrée dans %s.</string>
   <string name="photoeditor_name">Studio photo</string>
-  <string name="photos"> photos</string>
+  <string name="photos">" photos"</string>
   <string name="pick_too_many_recipients">Trop de destinataires</string>
   <string name="posterize">Postérisation</string>
   <string name="ppmm_gallery">PPMM</string>
@@ -637,7 +637,7 @@
   <string name="wechat">WeChat</string>
   <string name="weibo">Weibo</string>
   <string name="weixin">WeChat</string>
-  <string name="who_is_this">Qui est dans cette photo ?</string>
+  <string name="who_is_this">Qui est sur cette photo ?</string>
   <string name="wps">WPS</string>
   <string name="start_to_use_face_albumset">Trier par personne</string>
   <string name="always_rotate_alert_msg">Vous pouvez désactiver cette fonction à tout moment dans les réglages de la galerie</string>
@@ -646,7 +646,7 @@
   <string name="all_video_album_display_name">Toutes les vidéos</string>
   <string name="confirm_all_photo_not_this_people_face">Aucun résultat ?</string>
   <string name="confirm_face">Confirmer</string>
-  <string name="confirm_left_photo_will_move_out">La personne n\'est pas présente dans ces photos ?</string>
+  <string name="confirm_left_photo_will_move_out">La personne n\'est pas présente sur ces photos ?</string>
   <string name="confirm_not_face">Pas cette personne</string>
   <string name="contrast_abbr">C</string>
   <string name="enabling_face_feature">Un instant…</string>
@@ -673,7 +673,7 @@
   <string name="single_device_project_dialog_title">Caster sur %s</string>
   <string name="ubifocus_data_invalid">Certaines données de cette image sont corrompues.</string>
   <string name="ubifocus_refocus_data_invalid">"Impossible de modifier la mise au point car certaines données de cette images sont corrompues"</string>
-  <string name="videos"> vidéos</string>
+  <string name="videos">" vidéos"</string>
   <string name="paint_highlight_cancel_context">Enregistrer l\'image surlignée ?</string>
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
   <string name="add_event">Ajouter un évènement</string>
