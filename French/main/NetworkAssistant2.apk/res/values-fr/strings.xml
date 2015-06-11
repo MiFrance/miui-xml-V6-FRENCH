@@ -510,7 +510,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="hints_input_roaming_daily_limit">Entrer la limite d\'utilisation des données</string>
   <string name="ip_address_exception_summary">"Impossible d\'obtenir une adresse IP. Si jamais vous rencontrez à nouveau cette erreur, essayez d\'utiliser une adresse IP statique."</string>
   <string name="local_ip_exception_summary">"Impossible de récupérer l\'adresse IP locale. Pour notifier cette erreur à MIUI, utilisez l\'appli Rapports et transmettez un rapport à partir de votre appareil."</string>
-  <string name="network_mobile_exception_detail">"Votre appareil ne peut se connecter à Internet:
+  <string name="network_mobile_exception_detail">"Votre appareil ne peut se connecter à internet :
 
  1. Assurez-vous de ne pas avoir dépassé votre quota de données mobiles.
  2. Si vous venez d\'augmenter votre quota, redémarrez votre appareil et essayez à nouveau.
@@ -518,7 +518,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="network_operator_exception_summary">"Impossible d'activer la carte SIM. Assurez-vous d'avoir inséré correctement la carte SIM et que votre quota de données est bien actif auprès de votre opérateur."</string>
   <string name="network_permission_exception_tips">"Impossible d'utiliser les données mobiles pour se connecter au réseau"</string>
   <string name="network_roaming_exception_tips">"Impossible d'utiliser les données mobiles en itinérance pour se connecter au réseau."</string>
-  <string name="network_route_exception_detail">"Il semble y avoir un problème avec le routeur sur lequel vous êtes connecté:
+  <string name="network_route_exception_detail">"Il semble y avoir un problème avec le routeur sur lequel vous êtes connecté :
 
 "<b>"1. Problèmes sur les réseaux Wi-Fi publics
 "</b>"Si vous êtes connecté à un réseau Wi-Fi public, le nombre d'utilisateurs connectés à ce réseau peut entraîner des lenteurs ou des erreurs de connexions. Sélectionnez un autre réseau et essayez à nouveau.
@@ -530,7 +530,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
 "</b>"Lisez les instructions fournies avec votre box, et restaurez les réglages usine.
  5."<b>" Assurez-vous que votre box soit bien connectée
 "</b>"Essayez un autre câble Ethernet pour connecter votre box. Si vous estimez qu'il y a un problème avec votre connexion, contactez votre fournisseur d'accès."</string>
-  <string name="network_sim_exception_detail">"Il semble y avoir un problème avec votre carte SIM:
+  <string name="network_sim_exception_detail">"Il semble y avoir un problème avec votre carte SIM :
 
  1. Assurez-vous que votre abonnement est actif auprès de votre opérateur mobile. Essayez d'utiliser la carte SIM d'un ami pour vous connecter normalement.
  2. Si vous utilisez deux cartes SIM, essayez de basculer sur l'autre carte, et voyez si vous pouvez vous connecter normalement.
@@ -559,6 +559,6 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="no_network_btn">Essayez à nouveau</string>
   <string name="permission_exception_summary">"Certaines applis n'ont pas l'autorisation de se connecter à Internet"</string>
   <string name="permission_exception_title">Voir les permissions réseau</string>
-  <string name="gateway_exception_summary2">"Echec de connexion au serveur"</string>
+  <string name="gateway_exception_summary2">"Échec de connexion au serveur"</string>
   <string name="pref_title_diagnostics_dont_show_float_notification">Afficher les alertes dans les notifications</string>
 </resources>

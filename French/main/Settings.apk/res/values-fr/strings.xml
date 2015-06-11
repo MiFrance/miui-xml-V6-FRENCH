@@ -2717,7 +2717,7 @@ et lancer le logiciel."</string>
   <string name="music_headset_mode_music">Lecture de musique - précédent/suivant</string>
   <string name="music_headset_mode_volume">Ajustement du volume - haut/bas</string>
   <string name="music_headset_no_contected">Casque non connecté</string>
-  <string name="music_headset_settings">Écouteurs et Effets audio</string>
+  <string name="music_headset_settings">Écouteurs et effets audio</string>
   <string name="music_dirac_mode_in_ear">Intra-aur. Mi</string>
   <string name="music_dirac_mode_earbuds">Écouteurs Mi</string>
   <string name="music_dirac_mode_piston_100">Mi Piston-1</string>
