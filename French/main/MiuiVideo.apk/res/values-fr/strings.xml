@@ -537,7 +537,6 @@
   <string name="vp_app_name">Lecteur vidéo</string>
   <string name="app_plugin_ready">%1$s installé</string>
   <string name="app_update_background">Mettre à jour en arrière-plan.</string>
-  <string name="declaration_content_td_custom">Cette application requiert un accès à Internet pour fonctionner correctement.</string>
   <string name="miwifi_app_download_content">Téléchargement ...</string>
   <string name="miwifi_app_download_title">Routeur Xiaomi</string>
   <string name="miwifi_app_update_button">Mettre à jour</string>
@@ -547,15 +546,4 @@
   <string name="router_download_task_with">%d tâches</string>
   <string name="router_update">Vous devez mettre à jour l\'application du routeur Xiaomi.</string>
   <string name="vp_video_invalid_cp_info">Fournisseur de vidéo incorrect, veuillez redémarrer l\'application</string>
-  <string name="check_network">Network is not connected, please check your connection</string>
-  <string name="defaults">Par défaut</string>
-  <string name="forecast">Programme</string>
-  <string name="forecast_empty_hint">Pas d\'EPG</string>
-  <string name="forecasts">EPG</string>
-  <string name="fullscreen">Plein écran</string>
-  <string name="key_back_down_toast">Pressez Retour à nouveau pour quitter</string>
-  <string name="select_tv">Chaînes</string>
-  <string name="select_tv_empty_hint">Pas de chaînes</string>
-  <string name="select_tvs">Chaînes</string>
-  <string name="tv_channel_empty_hint">Pas de chaînes</string>
 </resources>
