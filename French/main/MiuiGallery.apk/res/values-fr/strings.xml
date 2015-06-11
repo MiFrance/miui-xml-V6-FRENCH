@@ -602,7 +602,7 @@
   <string name="black_white">Noir &amp; blanc #1</string>
   <string name="brannan">Aube</string>
   <string name="camera_black_white">Noir &amp; blanc #2</string>
-  <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec %s &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
+  <string name="confirm_merge_face_albums">" "<Data> Fusionner cet album avec &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
   <string name="cool">Froid</string>
   <string name="cool_portrait">Portrait</string>
   <string name="create_new_face">Nouveau visage</string>
