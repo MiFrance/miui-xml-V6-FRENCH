@@ -103,7 +103,7 @@
   <string name="call_recording_notification_message">Touchez pour écouter.</string>
   <string name="call_recording_notification_message_low_storage">La carte SD est pleine.</string>
   <string name="call_recording_notification_message_sd_unmounted">La carte SD a été retirée.</string>
-  <string name="call_recording_notification_summary">Afficher une notification après l'\enregistrement d\'un appel</string>
+  <string name="call_recording_notification_summary">Afficher une notification après l\'enregistrement d\'un appel</string>
   <string name="call_recording_notification_title">Appel enregistré</string>
   <string name="call_recording_notification_title_error">"Impossible d'enregistrer l'appel"</string>
   <string name="call_recording_notification_toggle_title">Notification d\'enregistrement de l\'appel</string>
@@ -136,7 +136,7 @@
   <string name="card_title_callonhold_released">Appel débloqué</string>
   <string name="card_title_callretrieved">Appel récupéré</string>
   <string name="card_title_clir_suppression_rejected">Suppression CLIR rejetée</string>
-  <string name="card_title_conditionalCF">Transfert d'\appel conditionnel activé</string>
+  <string name="card_title_conditionalCF">Transfert d\'appel conditionnel activé</string>
   <string name="card_title_cugcall">Appel CUG</string>
   <string name="card_title_deflectedcall">Appel dévié</string>
   <string name="card_title_forwardcheckreceived">Vérification reçu pour le transfert</string>
@@ -395,7 +395,7 @@ Basculer quand même sur le nouvel opérateur?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Réglages de planification de données</string>
   <string name="ivr_type_settings_hint">Entrez votre code de planification</string>
-  <string name="labelCDMAMore">Paramètres d'\appels CDMA</string>
+  <string name="labelCDMAMore">Paramètres d\'appels CDMA</string>
   <string name="labelCF">Transfert d\'appel</string>
   <string name="labelCFB">Transférer si occupé</string>
   <string name="labelCFNRc">Transférer si injoignable</string>
@@ -764,7 +764,7 @@ Votre carte SIM va être effacée après une autre tentative échouée."</string
   <string name="sim_unlock_failed">Echec de déverrouillage SIM.</string>
   <string name="sim_unlock_success">Déverrouillage SIM réussi.</string>
   <string name="sip_account_list">Comptes SIP</string>
-  <string name="sip_accounts">Comptes d'\appels Internet (SIP)</string>
+  <string name="sip_accounts">Comptes d\'appels Internet (SIP)</string>
   <string name="sip_accounts_title">Comptes SIP</string>
   <string name="sip_add_account_tip_text">Pour utiliser les appels Internet, ajoutez un compte SIP</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
