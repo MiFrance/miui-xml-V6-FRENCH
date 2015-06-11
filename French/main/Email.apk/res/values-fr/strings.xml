@@ -58,7 +58,7 @@
   <string name="account_settings_login_dialog_title">"Impossible de se connecter."</string>
   <string name="account_settings_mail_check_frequency_label">Fréquence de consultation</string>
   <string name="account_settings_name_label">Votre nom</string>
-  <string name="account_settings_mibill_resolve_label">Analyser les relevés de messages</string>
+  <string name="account_settings_mibill_resolve_label">Gérer automatiquement les relevés de messages</string>
   <string name="account_settings_notifications">Paramètres de notification</string>
   <string name="account_settings_notify_label">Notifications</string>
   <string name="account_settings_notify_summary">Afficher une notification en cas de nouvel e-mail</string>
@@ -180,6 +180,7 @@
   <string name="account_setup_security_required_title">Administration de la sécurité à distance</string>
   <string name="account_setup_username_password_toast">Saisissez une adresse e-mail et un mot de passe corrects.</string>
   <string name="account_setup_username_uneditable_error">"Vous ne pouvez pas modifier le nom d'utilisateur d'un compte. Pour ajouter un compte associé à un autre nom d'utilisateur, appuyez sur \"Ajouter un compte\"."</string>
+  <string name="account_setup_incoming_username_label_default_hint">Spécifiez également le domaine</string>
   <string name="account_sync_off">La synchronisation de votre compte est désactivée.</string>
   <string name="account_waiting_for_folders_msg">Chargement de la liste des dossiers en cours…</string>
   <string name="accounts_welcome">Vous pouvez configurer votre compte en quelques étapes seulement.</string>
@@ -866,8 +867,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="head_only_enable_dialog_positive">Accepter</string>
   <string name="head_only_enable_dialog_title">Économiseur de trafic</string>
   <string name="hide_atts_remaining">Masquer %1$d pièces-jointes</string>
-  <string name="inline_picture_deleted">"Image non trouvée, téléchargement…"</string>
-  <string name="inline_picture_download_complete">téléchargement de l\'image terminé</string>
+  <string name="inline_picture_deleted">"Téléchargement de l'image manquante…"</string>
+  <string name="inline_picture_download_complete">Image téléchargée</string>
   <string name="invalid_recipient_title">Destinataire invalide</string>
   <string name="load_from_remote">Rechercher sur le serveur</string>
   <string name="mail_header_downloading_message_body">Téléchargement…</string>
@@ -878,7 +879,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="mock_content_provider">Copie du fournisseur de contenu</string>
   <string name="more_atts_remaining">%1$d restants</string>
   <string name="more_context">Plus</string>
-  <string name="next_not_prompt">"Ne pas demander"</string>
+  <string name="next_not_prompt">"Ne plus demander"</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found_title">Ouvrir cette pièce-jointe.</string>
   <string name="no_content_in_body">[Aucun contenu]</string>
@@ -892,7 +893,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="perference_setup_pop_del">Supprimer le message du serveur</string>
   <string name="perference_setup_recv_tag">Serveur de messagerie entrant</string>
   <string name="perference_setup_send_tag">Serveur de messagerie sortant</string>
-  <string name="preference_eas_tips">La page d\'activation est requise par le serveur de messagerie, veuillez vous authentifier pour l\'activer.</string>
+  <string name="preference_eas_tips">Touchez pour configurer le serveur de messagerie.</string>
   <string name="preference_head_load_description">Téléchargement des en-têtes de message uniquement, lors de l\'utilisation de données mobiles.</string>
   <string name="preference_imap_tips" />
   <string name="preference_pop_tips">Les pièces-jointes seront téléchargées avec le contenu du message, comme l\'impose le protocole POP3. Veuillez vérifier la consommation de vos données mobiles.</string>
@@ -921,22 +922,22 @@ Taille du patch Delta : %2$s"</string>
   <string name="upload_log">Envoyer les logs de diagnostic</string>
   <string name="upload_log_failed">Échec à l\'envoi des logs</string>
   <string name="upload_log_success">Logs envoyés avec succès</string>
-  <string name="upload_log_title">Envoyer les logs de diagnostic ?</string>
-  <string name="uploading_logs">Envoi des logs</string>
+  <string name="upload_log_title">Confirmation de l\'envoi</string>
+  <string name="uploading_logs">Envoi des logs...</string>
   <string name="upload_log_no">Annuler</string>
   <string name="upload_log_yes">Envoyer</string>
-  <string name="you_are_in_mobile_network">Vous êtes actuellement connecté à un réseau mobile</string>
+  <string name="you_are_in_mobile_network">Vous êtes actuellement connecté à un réseau mobile, continuer l\'envoi du fichier (taille : nKo) ?</string>
   <string name="gmail_acceleration">Utiliser un serveur proxy pour le compte Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Utiliser un serveur proxy pour accéder à votre compte Gmail ?</string>
   <string name="gmail_login_verify">Ajouter un compte Gmail</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Se connecter à Gmail</string>
   <string name="open_proxy_in_settings">"Gmail n'est pas disponible dans votre pays actuel. Vous pouvez cependant envoyer et recevoir des messages de Gmail en utilisant un serveur proxy. Vous pouvez (dés)activer cette fonction à tout moment dans les Paramètres."</string>
-  <string name="mibill_privacy_policy_button1">Pas maintenant</string>
+  <string name="mibill_privacy_policy_button1">Je refuse</string>
   <string name="mibill_privacy_policy_button2">J\'accepte</string>
-  <string name="mibill_privacy_policy_description">Mi Wallet va analyser toutes les factures présentes dans vos messages, et les gérer pour vous. Ce service est désactivé par défaut pour les adresses professionnelles.</string>
-  <string name="mibill_privacy_policy_link">Accepter <a href="https://www.mipay.com/res/doc/eula/email.html">les conditions d\'utilisation du service de facturation bancaire</a></string>
-  <string name="mibill_privacy_policy_title">Mi Wallet analyse vos factures électroniques</string>
+  <string name="mibill_privacy_policy_description">Mi Wallet va gérer automatiquement toutes vos factures. Ce service est désactivé par défaut pour les adresses professionnelles.</string>
+  <string name="mibill_privacy_policy_link">En utilisant cette fonctionnalité, vous acceptez <a href="https://www.mipay.com/res/doc/eula/email.html">les conditions d\'utilisation du service de facturation bancaire</a></string>
+  <string name="mibill_privacy_policy_title">Autorisation de gestion automatique via Mi Wallet</string>
   <string name="toast_bar_fail_synchronization">Pas de connexion réseau</string>
   <string name="toast_bar_insufficient_memory_space">Espace disque insuffisant sur le téléphone</string>
   <string name="toast_bar_invalid_account">Veuillez vous reconnecter</string>
@@ -945,25 +946,27 @@ Taille du patch Delta : %2$s"</string>
   <string name="SMTP_independent_verification_text">Authentification SMTP spécifique</string>
   <string name="SMTP_password_text">Mot de passe</string>
   <string name="SMTP_username_text">Nom d\'utilisateur</string>
-  <string name="folder_synchronization_mail_settings">Dossier de synchronisation des paramètres de messagerie</string>
+  <string name="folder_synchronization_mail_settings">Paramètres de synchronisation du dossier</string>
   <string name="account_settings_using_ringtone">Sonnerie</string>
   <string name="folder_list_display_all">Afficher tous les dossiers</string>
   <string name="folder_list_display_only_import">Afficher uniquement les dossiers importants</string>
   <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
-  <string name="outbox_alert_description_cannot_authenticate">%s Erreur de mail système</string>
+  <string name="outbox_alert_description_cannot_authenticate">Echec d\'authentification pour %s</string>
   <string name="outbox_alert_description_reject_by_server">Rejeté par %s</string>
-  <string name="outbox_alert_description_time_out">Échec de connexion réseau</string>
+  <string name="outbox_alert_description_time_out">Expiration de la connexion réseau</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>
   <string name="re_download_message_button">Appuyer pour retélécharger</string>
   <string name="re_download_message_info">Échec du téléchargement de l\'e-mail</string>
-
-<!-- à traduire
-  <string name="contact_edit_set_black_list">Set blacklist</string>
-  <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
-  <string name="contact_edit_set_pop_up_tips">Popup tips</string>
-  <string name="contact_edit_set_unread_top">Show unread emails first</string>
-  <string name="contact_edit_set_vip">Set VIP</string>
-  <string name="contact_edit_title_permission">"Contacts' permissions"</string>
-  <string name="contact_edit_title_phone_contact">Phone contacts list</string>
--->
+  <string name="contact_edit_set_black_list">Ajouter à la liste noire</string>
+  <string name="contact_edit_set_phone_contact">Modifier les contacts du téléphone</string>
+  <string name="contact_edit_set_pop_up_tips">Afficher les astuces</string>
+  <string name="contact_edit_set_unread_top">Afficher les mails non lus d\'abord</string>
+  <string name="contact_edit_set_vip">Activer le mode VIP</string>
+  <string name="contact_edit_title_permission">"Permissions des contacts"</string>
+  <string name="contact_edit_title_phone_contact">Liste des contacts du téléphone</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"La synchro des messages est désactivée, vous ne recevrez pas de nouveaux messages."</string>
+  <string name="dialog_auto_sync_setting_no_open">"La synchro est désactivée, vous ne recevrez pas de nouveaux messages."</string>
+  <string name="oauth_error_description">Impossible de s\'authentifier</string>
+  <string name="oauth_gmail_login_notify">"Entrez vos identifiants Google sur la page d\'authentification suivante"</string>
+  <string name="oauth_login_continue">Continuer</string>
 </resources>

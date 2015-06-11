@@ -155,13 +155,13 @@
   <string name="recommend_paused">En attente</string>
   <string name="recommend_prepare">Patientez…</string>
   <string name="recommend_show_other_downloads">Afficher les populaires</string>
-<!-- à traduire, non utilisé sauf tel en chinois probablement
-  <string name="mi_money">Mi money</string>
-  <string name="display_expire_netiv1">Month Owner</string>
+  <string name="mi_money">Mi Money</string>
+  <string name="display_expire_netiv1">Propriétaire du mois</string>
+  <!--
   <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用
   可在右上角设置中更改配置"</string>
   <string name="xunlei_close_tips_button">立即加速</string>
   <string name="xunlei_close_tips_content">95%用户已选择</string>
   <string name="xunlei_close_tips_title">迅雷免费帮您提升下载速度</string>
- -->
+  -->
 </resources>

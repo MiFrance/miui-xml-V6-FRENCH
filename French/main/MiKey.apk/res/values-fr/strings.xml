@@ -300,9 +300,9 @@ L'utilisation de l'assistant désactivera certaines fonctionnalités de l'applic
     <string name="wallpaper_no_more">Ne pas remplacer le fond d\'écran</string>
     <string name="webpage_input_title">Saisir une URL</string>
     <string name="webpage_title">Ouvrir une page</string>
-
-<!-- à traduire --> 
+	<!--
     <string name="combo_customize_desc">"Packages can define their own
     Set in its own good meters below the key page click into combo
     OK it"</string>
+	-->
 </resources>
