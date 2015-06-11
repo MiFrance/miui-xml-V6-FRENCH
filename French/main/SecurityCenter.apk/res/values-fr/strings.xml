@@ -150,7 +150,7 @@
   <string name="power_settings_shape">Graphique</string>
   <string name="power_settings_number">Pourcentage</string>
   <string name="power_settings_top">Barre linéaire</string>
-  <string name="power_save_on_time_goout_title">Restaurer vers</string>
+  <string name="power_save_on_time_goout_title">Après cette période, basculer vers</string>
   <string name="power_save_choose_recovery_mode">Sélectionnez un profil</string>
   <string name="power_new_choose_mode">Sélectionnez un profil</string>
   <string name="power_save_low_battery_option_recovery_title">Si le niveau remonte, basculer vers</string>

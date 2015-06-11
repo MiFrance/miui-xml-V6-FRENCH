@@ -2995,8 +2995,8 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="status_bar_settings_notification_led">Led de notification</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sons &amp; vibrations</string>
   <string name="status_bar_settings_show_home_message">Badge sur l\'icône de l\'app</string>
-  <string name="status_bar_settings_show_keyguard_notification">Notifications flottantes</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Les notifications apparaîtront en haut de l\'écran puis disparaitront automatiquement</string>
+  <string name="status_bar_settings_show_keyguard_notification">Notifications flottantes et verrouillage</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary"/>
   <string name="Accounts_settings_title">Comptes</string>
   <string name="access_point_names">"Noms des points d'accès"</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Cette fonctionnalité est expérimentale et peut affecter les performances.</string>

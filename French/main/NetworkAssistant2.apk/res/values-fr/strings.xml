@@ -559,4 +559,6 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="no_network_btn">Essayez à nouveau</string>
   <string name="permission_exception_summary">"Certaines applis n'ont pas l'autorisation de se connecter à Internet"</string>
   <string name="permission_exception_title">Voir les permissions réseau</string>
+  <string name="gateway_exception_summary2">"Echec de connexion au serveur"</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Afficher les alertes dans les notifications</string>
 </resources>
