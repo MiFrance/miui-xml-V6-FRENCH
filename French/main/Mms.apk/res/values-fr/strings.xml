@@ -195,6 +195,7 @@
   <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
   <string name="found_wild_messages">Des messages reçus sur les numéros suivants ont été stockés sur votre Mi Cloud : %s. Souhaitez-vous les restaurer ?</string>
   <string name="found_wild_messages_title">Récupération de messages</string>
+  <string name="found_wild_messages_guide_settings_desc">Synchronisez vos SMS à partir de Mi Clound dans les paramètres de messagerie.</string>
   <string name="from_label">"De : "</string>
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
@@ -215,7 +216,7 @@
   <string name="layout_selector_title">"Mise en page du diaporama "</string>
   <string name="loading_all_messages">Chargement de tous les messages…</string>
   <string name="loading_conversations">Chargement des conversations…</string>
-  <string name="loading_mms">Chargement MMS…</string>
+  <string name="loading_mms">Un instant…</string>
   <string name="me">Moi</string>
   <string name="menu_compose_new">Nouveau message</string>
   <string name="menu_edit">Modifier</string>
@@ -566,7 +567,9 @@
   <string name="pref_title_mms_validity_period">Durée de validité des MMS</string>
   <string name="pref_title_sms_validity_period">Durée de validité des SMS</string>
   <string name="pref_show_sms_template_summary">Copier automatiquement et remplir les codes de vérification</string>
+  <string name="pref_show_blocked_messages_summary">Afficher les SMS bloqués dans la liste des conversations</string>
   <string name="title_show_sms_template">Consultez vos SMS pour les codes de vérification</string>
+  <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
   <string name="message_contact">Contact :</string>
   <string name="message_expired">Expiré</string>
   <string name="message_number">Téléphone :</string>

@@ -17,7 +17,7 @@
   <string name="error_unauthorized">Trop de tentatives de connexion : synchronisation désactivée.</string>
   <string name="error_forbidden">Il y a un problème avec votre compte : synchronisation désactivée.</string>
   <string name="error_not_acceptable">Erreur serveur : synchronisation désactivée.</string>
-  <string name="fail_to_download_n_items">Échec du téléchargement de %s</string>
+  <string name="fail_to_download_n_items">Échec du téléchargement de %s éléments</string>
   <string name="Import">Importer</string>
   <string name="accept">Accepter</string>
   <string name="accept_or_deny">%1$s a partagé l\'album %2$s avec vous.</string>
@@ -389,7 +389,7 @@
   <string name="set_screensaver_path_title">Diaporama d\'écran de veille</string>
   <string name="set_wallpaper">Application du fond d\'écran…</string>
   <string name="settings">Paramètres</string>
-  <string name="settings_i_xiaomi_com">Connectez-vous sur i.mi.com pour gérer votre espace de stockage Mi Cloud</string>
+  <string name="settings_i_xiaomi_com">"Consultez vos photos synchronisées avec Mi Cloud sur www.mi.com/micloud"</string>
   <string name="shadow">Ombres</string>
   <string name="share_album">Partager l\'album</string>
   <string name="share_album_owner">Propriétaire</string>
@@ -507,8 +507,8 @@
   <string name="sync_in_progress_message">Synchronisation en cours…</string>
   <string name="alert_init_merged_title">Information</string>
   <string name="alert_init_merged_message">Dorénavant les photos stockées sur votre appareil et celles stockées sur Mi Cloud seront affichées ensemble.</string>
-  <string name="item_not_sync_for_origin_video">Cette vidéo n\'a pas été synchronisée avec le cloud, le fichier d\'origine ne peut donc pas être récupéré</string>
-  <string name="item_not_sync_for_origin_image">Cette image n\'a pas été synchronisée avec le cloud, le fichier d\'origine ne peut donc pas être récupéré</string>
+  <string name="item_not_sync_for_origin_video">Impossible de télécharger des vidéos non synchronisées avec Mi Cloud.</string>
+  <string name="item_not_sync_for_origin_image">Impossible de télécharger des images non synchronisées avec Mi Cloud.</string>
   <string name="ubifocus_data_missing">Certaines données sont perdues</string>
   <string name="ubifocus_map_error">Certaines données sont incorrectes</string>
   <string name="confirm_delete_has_cloud_local_image_video">Supprimer %s élément(s) du &lt;b>téléphone et du cloud&lt;/b> ?</string>
@@ -523,7 +523,7 @@
   <string name="crop_save_text_setas">Appliquer</string>
   <string name="recognizing_image">Analyse de l\'image…</string>
   <string name="long_press_to_refocus">Appuyer pour modifier le focus</string>
-  <string name="item_not_sync_for_refocus_data">Cette image n\'a pas été synchronisée avec le cloud, les données de focus ne peuvent pas être téléchargées</string>
+  <string name="item_not_sync_for_refocus_data">Impossible de télécharger les données de focus pour des images non synchronisées avec Mi Cloud.</string>
   <string name="download_refocus_data">Télécharger les données de focus</string>
   <string name="refocus_data_downloading">Téléchargement des données de focus…</string>
   <string name="ubifocus_guide_text">Appuyer pour modifier le focus</string>
@@ -644,9 +644,10 @@
   <string name="always_rotate_alert_positive_button_text">Activer</string>
   <string name="always_rotate_alert_title">Rotation automatique des images</string>
   <string name="all_video_album_display_name">Toutes les vidéos</string>
-  <string name="confirm_all_photo_not_this_people_face">Aucun résultat ?</string>
+  <string name="confirm_all_photo_not_this_people_face">Aucun résultat pour %s ?</string>
   <string name="confirm_face">Confirmer</string>
-  <string name="confirm_left_photo_will_move_out">La personne n\'est pas présente sur ces photos ?</string>
+  <string name="confirm_left_photo_will_move_in">%s est présent(e) dans toutes les photos restantes ?</string>
+  <string name="confirm_left_photo_will_move_out">"%s n\'est présent(e) dans aucune des photos restantes ?"</string>
   <string name="confirm_not_face">Pas cette personne</string>
   <string name="contrast_abbr">C</string>
   <string name="enabling_face_feature">Un instant…</string>
@@ -659,7 +660,7 @@
   <string name="last_valentine_day">Dernier jour de la St Valentin</string>
   <string name="last_year_today">Il y a 1 an</string>
   <string name="mosaic">Mosaïque</string>
-  <string name="network_connected_rescan">Connectez-vous à internet et réessayez</string>
+  <string name="network_connected_rescan">Echec de connexion au réseau</string>
   <string name="no_secret_photo">Aucune photo masquée</string>
   <string name="paint_brush">Dessiner</string>
   <string name="paint_highlight">Surligner</string>
@@ -668,7 +669,7 @@
   <string name="return_to_top">Appuyer sur \"Photo\" pour revenir en haut</string>
   <string name="saturation_abbr">S</string>
   <string name="script">Script</string>
-  <string name="select_item_face">Photos de %1</string>
+  <string name="select_item_face">"Photos possibles pour '%s'"</string>
   <string name="single_device_project_dialog_checkbox_text">Se rappeler de cet écran</string>
   <string name="single_device_project_dialog_title">Caster sur %s</string>
   <string name="ubifocus_data_invalid">Certaines données de cette image sont corrompues.</string>
@@ -678,7 +679,7 @@
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
   <string name="add_event">Ajouter un évènement</string>
   <string name="add_event_hint">Saisissez un libellé</string>
-  <string name="confirm_all_photo_are_this_people_face">Associer toutes les photos à cette personne ?</string>
+  <string name="confirm_all_photo_are_this_people_face">Associer toutes les photos à %s ?</string>
   <string name="confirm_merge_many_face_albums">" "<Data> Fusionner ces albums avec &lt;font color=#323232>&lt;b>%s&lt;/b>&lt;/font> ? </Data>" "</string>
   <string name="event_manage_photos">Gérer les photos</string>
   <string name="face_albumset_loading_data">Chargement des données…</string>
@@ -687,4 +688,9 @@
   <string name="pick_from_contact">Choisir parmi les contacts</string>
   <string name="face_album_long_tap_tip">Pour sélectionner plusieurs personnes et changer les paramètres de groupe, maintenez une longue pression sur une photo de profil</string>
   <string name="ignore_alert_title">"Ne plus afficher cet album ?"</string>
+  <string name="event_create_long_photo">Création de la photo…</string>
+  <string name="not_is">N\'est pas %s?</string>
+  <string name="rename_event">Renommer l\'évènement</string>
+  <string name="share_title_more">Plus</string>
+  <string name="wechat_timeline_title">Chronologie WeChat</string>
 </resources>

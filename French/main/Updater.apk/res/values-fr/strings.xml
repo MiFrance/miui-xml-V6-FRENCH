@@ -136,7 +136,7 @@
 Vous pourrez le faire mardi prochain"</string>
   <string name="update_feel">Comment vous sentez-vous ?</string>
   <string name="update_general">Indifférent</string>
-  <string name="update_happy">Satisfait</string>
+  <string name="update_happy">Satisfait!</string>
   <string name="update_monthly_build_only">Mettre à jour vers la compilation mensuelle uniquement</string>
   <string name="update_sad">Déçu</string>
   <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>

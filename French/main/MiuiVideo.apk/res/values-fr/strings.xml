@@ -546,4 +546,5 @@
   <string name="router_download_task_with">%d tâches</string>
   <string name="router_update">Vous devez mettre à jour l\'application du routeur Xiaomi.</string>
   <string name="vp_video_invalid_cp_info">Fournisseur de vidéo incorrect, veuillez redémarrer l\'application</string>
+  <string name="empty_tv_exiting">Sortie ...</string>
 </resources>
