@@ -103,4 +103,7 @@
   <string name="first_back_long_press_message">"L'appui long sur Retour tuera le processus courant et ses services en arrière-plan. 
 
 Pour activer cette fonction, allez dans Paramètres > Système > Touches"</string>
+  <string name="android_ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
+  <string name="android_ringtone_silent">Aucune</string>
+  <string name="android_ringtone_unknown">Sonnerie inconnue</string>
 </resources>

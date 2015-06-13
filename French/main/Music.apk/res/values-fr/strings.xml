@@ -23,7 +23,7 @@
   <string name="lrc_searching">Recherche de paroles…</string>
   <string name="lyric_open_other_connect">Télécharger les paroles à l\'aide de la connexion internet mobile</string>
   <string name="mediaplaybacklabel">Musique</string>
-  <string name="headset_settings">Paramètres du casque</string>
+  <string name="headset_settings">Paramètres audio du casque</string>
   <string name="music_browser_label">Musique</string>
   <string name="music_picker_title">Sélectionner un titre</string>
   <string name="music_settings">Musique</string>
@@ -205,7 +205,7 @@
   <string name="auto_download_in_wifi">Aucune connexion internet détectée</string>
   <string name="no_local_songs_selected">Veuillez télécharger la piste avant d\'effectuer cette action</string>
   <string name="no_online_song_selected">Aucune piste sélectionnée</string>
-  <string name="is_loading_data">Chargement des données. Veuillez patienter et réessayer.</string>
+  <string name="is_loading_data">Toujours en cours de chargement. Veuillez patienter et réessayer.</string>
   <string name="metered_alert">Avertissement</string>
   <string name="metered_alert_msg">L\'utilisation de votre connexion mobile pour streamer de la musique aura un impact sur votre quota mensuel, vous pouvez réduire la qualité de streaming et utiliser le Moniteur réseau pour surveiller votre consommation."</string>
   <string name="metered_allow">OK</string>

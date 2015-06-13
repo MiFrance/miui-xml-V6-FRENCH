@@ -513,7 +513,7 @@
   <string name="heavenly_stems_wu">戊</string>
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
-  <string name="permdesc_sendSmsNoConfirmation">L`appli peut envoyer des SMS sans votre permission. Cela peut entraîner des frais de la part de votre opérateur.</string>
+  <string name="permdesc_sendSmsNoConfirmation">L`appli peut envoyer des SMS sans votre autorisation. Cela peut entraîner des frais de la part de votre opérateur.</string>
   <string name="permlab_sendSmsNoConfirmation">Autoriser les messages SMS en arrière-plan</string>
   <string name="solar_term_autumn_begins">Début de l\'automne</string>
   <string name="solar_term_autumn_equinox">Equinoxe d\'automne</string>
@@ -582,4 +582,6 @@
   <string name="app_name_which_call">Application : %s</string>
   <string name="app_version_which_call">Version de l\'application : %s</string>
   <string name="policy_name">Politique : %s</string>
+  <string name="web_sso_login_fail">Vous devez vous identifier à nouveau</string>
+  <string name="web_sso_login_message">Connexion…</string>
 </resources>

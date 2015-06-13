@@ -10,18 +10,16 @@
         <item quantity="other">%d applications trouvées</item>
         <item quantity="one">%d application trouvée</item>
     </plurals>
-<!-- à traduire
     <plurals name="search_app_count_txt">
-        <item quantity="other">Search %d apps</item>
-        <item quantity="one">Search %d app</item>
+        <item quantity="other">Rechercher %d applis</item>
+        <item quantity="one">Rechercher %d appli</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d apps can use mobile data while roaming</item>
-        <item quantity="one">%d app can use mobile data while roaming</item>
+        <item quantity="other">%d applis peuvent utiliser les données mobiles en itinérance</item>
+        <item quantity="one">%d appli peut utiliser les données mobiles en itinérance</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d apps can't use mobile data while roaming"</item>
-        <item quantity="one">"%d app can't use mobile data while roaming"</item>
+        <item quantity="other">"%d applis ne peuvent utiliser les données mobiles en itinérance"</item>
+        <item quantity="one">"%d appli ne peut utiliser les données mobiles en itinérance"</item>
     </plurals>
--->
 </resources>
