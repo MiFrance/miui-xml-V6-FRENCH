@@ -362,7 +362,6 @@
   <string name="pref_video_focusmode_entry_continuous">AutoFocus continu</string>
   <string name="pref_video_focusmode_entryvalue_auto">auto</string>
   <string name="pref_video_focusmode_entryvalue_continuous">continuous-video</string>
-  <string name="pref_video_focusmode_entryvalue_default">@string/pref_video_focusmode_entryvalue_auto</string>
   <string name="pref_video_focusmode_title">Mode de focus</string>
   <string name="pref_video_quality_entry_4kuhd">4K (Ultra HD)</string>
   <string name="pref_video_quality_entry_1080p">1080p (Full HD)</string>
@@ -485,11 +484,9 @@
   <string name="pref_camera_countdown_title">Minuteur</string>
   <string name="pref_priority_storage_title">Sauvegarder sur la carte SD</string>
   <string name="pref_front_mirror_title">Caméra frontale inversée</string>
-  <string name="pref_front_mirror_default">auto</string>
   <string name="pref_front_mirror_entry_auto">Auto(Miroir seulement lorsque le visage est détecté)</string>
   <string name="pref_front_mirror_entry_off">Off</string>
   <string name="pref_front_mirror_entry_on">On</string>
-  <string name="pref_front_mirror_entryvalue_auto">auto</string>  
   <string name="pref_video_speed_fast_title">Time-lapse</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_camera_settings">Paramètres généraux</string>

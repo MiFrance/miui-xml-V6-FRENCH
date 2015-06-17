@@ -838,7 +838,6 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_description_provision_error">Cause : Erreur de provision du serveur pendant la synchronisation de la boîte d\'envoi</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Échec de validation du certificat serveur
 \u0009 (Vérifiez que le réglage est 'Synchro temps auto')"</string>
-  <string name="account_cache_provider">Cache fournisseur du compte</string>
   <string name="account_setup_not_disturb_title">Ne pas déranger</string>
   <string name="add_pre_message_attachments">Ajouter les pièces-jointes du pré-message ?</string>
   <string name="add_pre_message_attachments_no">Ne pas ajouter</string>
@@ -848,7 +847,6 @@ Taille du patch Delta : %2$s"</string>
   <string name="changepw_dialog_tips">Veuillez saisir à nouveau le mot de passe pour \"%s\"</string>
   <string name="confirm_delete_conversation_title">Supprimer</string>
   <string name="contact_content_provider">Contacter le fournisseur de contenu</string>
-  <string name="conversation_content_provider">Fournisseur de contenu Conversation</string>
   <string name="donot_disturb_endtime_title">Jusqu\'à</string>
   <string name="donot_disturb_starttime_title">De</string>
   <string name="donot_disturb_summary">Les notifications seront désactivées lors de l\'arrivée de nouveaux messages</string>
@@ -876,7 +874,6 @@ Taille du patch Delta : %2$s"</string>
   <string name="mail_header_message_body_auto_download_tip">Le contenu du message sera téléchargé via Wi-Fi.</string>
   <string name="mail_header_message_body_download_failed">Echec au téléchargement du contenu du message.</string>
   <string name="mail_header_network_not_available">"Vous n\'avez pas de connexion réseau."</string>
-  <string name="mock_content_provider">Copie du fournisseur de contenu</string>
   <string name="more_atts_remaining">%1$d restants</string>
   <string name="more_context">Plus</string>
   <string name="next_not_prompt">"Ne plus demander"</string>
@@ -904,10 +901,6 @@ Taille du patch Delta : %2$s"</string>
   <string name="remote_search">Tous les messages sur le serveur</string>
   <string name="remote_search_result">%s messages trouvés sur le serveur.</string>
   <string name="remove_account_confirm_title">Supprimer le compte</string>
-  <string name="report_rendering_improvement">Rendu correct</string>
-  <string name="report_rendering_improvement_desc">Ce message s\'affiche correctement.</string>
-  <string name="report_rendering_problem">Rendu incorrect</string>
-  <string name="report_rendering_problem_desc">Ce message ne s\'affiche pas correctement.</string>
   <string name="switch_as_tranditional_view">Vue traditionnelle</string>
   <string name="tip_cannot_switchview_in_unread_folder">Impossible de changer de vue pour les messages non lus en mode agrégé</string>
   <string name="unread_from_someone">Messages non lus de %s</string>
