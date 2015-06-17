@@ -266,6 +266,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="button_to_setting">Paramètres</string>
   <string name="dlg_title_not_open_stranger_identify">Identifier les numéros inconnus</string>
   <string name="STRANGER_BLOCK">Liste noire inconnus</string>
+  <string name="action_source_sms_title">SMS bloqué</string>
   <string name="dlg_message_not_open_stranger_identify">Vous devez activer Identifier les numéros inconnus dans les paramètres, avant de pouvoir marquer un numéro.</string>
   <string name="mark_agent">Commercial</string>
   <string name="mark_agent_block">Marqué comme commercial</string>

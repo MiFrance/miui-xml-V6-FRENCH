@@ -244,6 +244,7 @@ Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de 
   <string name="free_space_receive_fail">"Impossible de mettre à jour, ou déjà effectué"</string>
   <string name="cloud_space_upgrade_title">Obtenez de l\'espace Cloud gratuit !</string>
   <string name="find_device_status_ok">Trouvez votre appareil où que vous soyez sur i.mi.com/micloud</string>
+  <string name="micloud_buy_member">Compte</string>
   <string name="micloud_check_sim_notify_text">"Il semble que vous ayez changé de carte(s) SIM. Identifiez-vous
 sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Réactiver Mi Cloud</string>

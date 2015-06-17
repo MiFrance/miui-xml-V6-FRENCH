@@ -196,6 +196,7 @@
   <string name="found_wild_messages">Des messages reçus sur les numéros suivants ont été stockés sur votre Mi Cloud : %s. Souhaitez-vous les restaurer ?</string>
   <string name="found_wild_messages_title">Récupération de messages</string>
   <string name="found_wild_messages_guide_settings_desc">Synchronisez vos SMS à partir de Mi Clound dans les paramètres de messagerie.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Pour synchroniser les messages sur le Mi-Cloud, vous devez vous connecter à votre compte Mi et activer la synchronisation des SMS.</string>
   <string name="from_label">"De : "</string>
   <string name="group_message">Message groupé</string>
   <string name="group_message_failed_title">Impossible d\'envoyer aux %d contacts, souhaitez-vous réessayer ?</string>
@@ -299,6 +300,8 @@
   <string name="pref_mms_settings_title">Messages multimédias (MMS)</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Autre</string>
+  <string name="pref_show_blocked_messages_summary">Afficher les SMS bloqués dans les conversations</string>
+  <string name="pref_show_sms_template_summary">Copier automatiquement et insérer les codes de vérification</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
   <string name="pref_summary_delivery_reports">Demander un accusé de réception pour les messages envoyés</string>
@@ -363,6 +366,7 @@
   <string name="remove_video">Supprimer la vidéo</string>
   <string name="replace">Remplacer</string>
   <string name="replace_image">Remplacer l\'image</string>
+  <string name="reply_button_msg">Répondre</string>
   <string name="resent_message">Renvoyer</string>
   <string name="resize_image_error_information">L\'image redimensionnée est trop volumineuse pour être envoyée.</string>
   <string name="restore_blocked_message">Restaurer les messages bloqués</string>
@@ -443,6 +447,8 @@
   <string name="timed_message_in_total">(%d au total)</string>
   <string name="timed_message_to">À</string>
   <string name="title_date_type">Horodatage</string>
+  <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
+  <string name="title_show_sms_template">Vérifiez les SMS pour les codes de vérification</string>
   <string name="title_timed_message_dialog">Définir l\'heure d\'envoi</string>
   <string name="to_address_label">"À : "</string>
   <string name="to_count">%d au total</string>
