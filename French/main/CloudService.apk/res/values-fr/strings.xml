@@ -101,6 +101,8 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="sub_alert_notif_dspt_add">"%s non synchronisé."</string>
   <string name="sub_alert_notif_dspt_no">"Tout est synchronisé."</string>
   <string name="micloud_space_full_influence"><u>Que se passe-t-il quand je n\'ai plus d\'espace ?</u></string>
+  <string name="micloud_space_soundrecorder_detail">Gérer le contenu de votre magnétophone en utilisant l\'application du téléphone.</string>
+  <string name="micloud_space_soundrecorder_title">Espace magnétophone</string>
   <string name="error_data_in_transfer">Vos données sont en train d\'être transférées. Veuillez patienter %s heures.</string>
   <string name="error_data_in_transfer_title">Le service Mi Cloud n\'est pas disponible actuellement.</string>
   <string name="find_device_dspt">Verrouiller ou effacer cet appareil à distance.</string>
@@ -291,7 +293,9 @@ Cette fonction encrypte et transmet l\'ID de votre appareil sur les serveurs Mi.
   <string name="antispam_sync">Paramètres mode NPD</string>
   <string name="micloud_main_sync_init">Réception de données</string>
   <string name="micloud_setting_antispam_summary">Exceptions pour le mode NPD et les numéros bloqués.</string>
-  <string name="micloud_single_dspt">Utilisez Mi Clound pour synchroniser vos données, localiser votre appareil, ou partager avec vos amis.</string>
+  <string name="micloud_single_dspt">Utilisez Mi Clound pour synchroniser vos données, localiser votre appareil, ou partager avec vos amis.</string> 
+  <string name="micloud_space_applist_detail">Gérez votre espace de l\'écran d\'accueil en utilisant l\'application du téléphone.</string>
+  <string name="micloud_space_applist_title">Écran d\'accueil, sauvegarder votre espace</string>
   <string name="micloud_space_duokan_detail">Gérez votre contenu Duokan en utilisant l\'application Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="buy_more_space_b_class">"Connectez-vous sur mi.com/micloud pour obtenir plus d'espace de stockage.
