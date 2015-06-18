@@ -1637,4 +1637,7 @@ Pour annuler l'épinglage, appuyez de manière prolongée sur \"Vue d'ensemble\"
   <string name="zen_mode_forever">Indéfiniment</string>
   <string name="usb_choose_notification_title">Appuyer pour modifier les options USB</string>
   <string name="android_upgrading_fstrim">Optimisation de l\'espace de stockage.</string>
+  <string name="media_info_audio_not_supported">"Échec de la lecture audio."</string>
+  <string name="media_info_video_not_supported">"Cette vidéo n'est pas prise en charge."</string>
+  <string name="global_action_reboot_summary">Fermez toutes les applications et redémarrer le téléphone</string>
 </resources>

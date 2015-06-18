@@ -3506,6 +3506,7 @@ l'assistant  e-mail"</string>
   <string name="primary_sub_select_title">Abonnement 3G/LTE par défaut</string>
   <string name="sim_enable_disable_lock_not_supported">Le verrouillage SIM/RUIM n\'est pas pris en charge par la carte.</string>
   <string name="sim_enabled">activée</string>
+  <string name="sim_disabled">désactivée</string>
   <string name="sim_enabler_airplane_on">Impossible d\'effectuer l\'opération tant que le mode avion est activé.</string>
   <string name="sim_enabler_both_inactive">Impossible de désactiver toutes les cartes SIM</string>
   <string name="sim_enabler_disabling">Désactivation %s\u2026</string>
@@ -3610,6 +3611,11 @@ l'assistant  e-mail"</string>
   <string name="status_bar_settings_manage_notification">Gérer les notifications</string>
   <string name="music_dirac_mode_piston_standard">Édition standard</string>
   <string name="virtual_sim_category_title">SIM Virtuel</string>
+  <string name="performance_category">Performance</string>
+  <string name="processor_info">Infos processeur</string>
+  <string name="close_dialog">OK</string>
+  <string name="slot_name">SIM %d</string>
+  <string name="data_usage_tab_slot">SIM</string>
 <!-- à traduire
   <string name="virtual_sim_description">Reliable international roaming service</string>
   <string name="virtual_sim_title">Roaming data network</string>

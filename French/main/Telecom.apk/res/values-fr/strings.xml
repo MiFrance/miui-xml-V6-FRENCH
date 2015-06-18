@@ -38,4 +38,15 @@
     <string name="no_vm_number">"Numéro de messagerie vocale manquant"</string>
     <string name="no_vm_number_msg">"Aucun numéro de messagerie vocale n\'est enregistré sur la carte SIM."</string>
     <string name="add_vm_number_str">"Ajouter un numéro"</string>
+    <string name="respond_via_sms_menu_reset_default_activity">"Rétablir application par défaut"</string>
+    <string name="video_call_not_allowed_if_tty_enabled">Veuillez désactiver le mode TTY pour passer des appels vidéo.</string>
+    <string name="select_account_dialog_title">Sélectionner un compte</string>
+    <string name="incall_error_call_failed">Impossible d\'émettre l\'appel.</string>
+
+<!-- à traduire
+     <string name="headset_plugin_view_text">Headset is plugged in.</string>
+     <string name="headset_plugin_view_title">Headset</string>
+     <string name="voice_report_incoming_call">Calling</string>
+     <string name="voice_report_unknown_num">Unknown number</string>
+-->
 </resources>
