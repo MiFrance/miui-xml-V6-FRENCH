@@ -17,7 +17,6 @@
   <string name="cancel">Annuler</string>
   <string name="click_to_shuffle">Lecture aléatoire</string>
   <string name="file_not_found">Le fichier n\'existe pas</string>
-  <string name="impunity_declaration">Pour utiliser le service de musique en ligne Baidu, veuillez accepter les <a href="http://music.baidu.com/doc/agreement">conditions d\'utilisation</a>.</string>
   <string name="impunity_declaration_title">Conditions d\'utilisation</string>
   <string name="lrc_search_failed">Paroles introuvables !</string>
   <string name="lrc_searching">Recherche de paroles…</string>

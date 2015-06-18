@@ -571,11 +571,6 @@
   <string name="block_messaging_entry_title">SMS bloqué</string>
   <string name="open_url_with_web">Ouvrir le lien dans le navigateur ?</string>
   <string name="pref_title_mms_validity_period">Durée de validité des MMS</string>
-  <string name="pref_title_sms_validity_period">Durée de validité des SMS</string>
-  <string name="pref_show_sms_template_summary">Copier automatiquement et remplir les codes de vérification</string>
-  <string name="pref_show_blocked_messages_summary">Afficher les SMS bloqués dans la liste des conversations</string>
-  <string name="title_show_sms_template">Consultez vos SMS pour les codes de vérification</string>
-  <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
   <string name="message_contact">Contact :</string>
   <string name="message_expired">Expiré</string>
   <string name="message_number">Téléphone :</string>
