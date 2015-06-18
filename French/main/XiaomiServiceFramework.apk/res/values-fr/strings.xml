@@ -84,6 +84,7 @@
   <string name="activate_popup_link_diagnosis_detail">Quelles informations seront incluses ?</string>
   <string name="activate_popup_title_diagnosis_detail">Info diagnostic</string>
   <string name="activate_popup_title_upload_diagnosis_info">"Impossible d'activer la carte SIM"</string>
+  <string name="activate_sms_postfix">Ce SMS est utilisé pour activer votre appareil Mi.</string>
   <string name="sync_notification_title_format">Synchronisation de : %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">Info d\'activation XMSF</string>
