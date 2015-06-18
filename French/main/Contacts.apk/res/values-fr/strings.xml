@@ -171,6 +171,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="close_dial_pad">fermer le pavé de numérotation</string>
   <string name="cloud_antispam_mark">Signaler spam</string>
   <string name="cloud_antispam_title">Anti-Spam Cloud</string>
+  <string name="cloud_recommend_msg">Tapez pour synchroniser les contacts avec Mi Cloud.</string>
   <string name="composer_failed_to_get_database_infomation">Impossible d\'obtenir les informations concernant la base de données.</string>
   <string name="composer_has_no_exportable_contact">Il n\'y a aucun contact exportable. Si vous avez réellement des contacts sur votre téléphone, ils peuvent être interdits d\'exportation par certains fournisseurs de données.</string>
   <string name="composer_not_initialized">"Le compositeur de carte de visite n'est pas correctement initialisé"</string>
