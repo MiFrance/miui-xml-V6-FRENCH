@@ -317,6 +317,8 @@
   <string name="cnlive">cnlive</string>
   <string name="declaration_content_td_custom">Cette application requiert l\'accès à internet afin de vous permettre de visionner des vidéos.</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Mode de qualité d\'image</string>
+  <string name="bmp_quality_mode_desc">Vérifié, le mode d\'exposition en haute qualité.</string>
   <string name="datastream_alert_download">Utiliser votre connexion mobile pour télécharger des vidéos augmentera votre consommation de données. En cas de dépassement, votre opérateur peut vous facturer des frais supplémentaires.</string>
   <string name="datastream_alert_hint">Vous pouvez désactiver les notifications d\'utilisation de données à tout moment dans les Paramètres.</string>
   <string name="datastream_alert_negative_button">Annuler</string>
