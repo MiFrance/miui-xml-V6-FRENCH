@@ -327,4 +327,21 @@
   <string name="get_cloud_space">Ajouter 500Go</string>
   <string name="can_not_send_with_too_many">"Impossible d'envoyer autant d'éléments"</string>
   <string name="kuaipan_delete_guide_des">Supprimer le guide ?</string>
+<!--- à traduire 
+     <string name="kp_category_all">Category</string>
+     <string name="kp_category_doc">Word</string>
+     <string name="kp_category_excel">Excel</string>
+     <string name="kp_category_pdf">PDF</string>
+     <string name="kp_category_ppt">PowerPoint</string>
+     <string name="kp_category_txt">Text</string>
+     <string name="kuaipan_cloud_photo">KuaiPan photos</string>
+     <string name="kuaipan_create_shortcut_success">Shortcut created</string>
+     <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
+     <string name="kuaipan_data_formater_without_year">M month d day</string>
+     <string name="kuaipan_delete_success">Photo deleted</string>
+     <string name="kuaipan_photo_folder_divider">,</string>
+     <string name="kuaipan_photo_locate">Located %1$s</string>
+     <string name="kuaipan_photo_more_folder_count">%1$s</string>
+     <string name="kuaipan_root_fooder">Home</string>
+-->
 </resources>

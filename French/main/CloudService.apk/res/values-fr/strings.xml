@@ -348,4 +348,17 @@ Dernière sauvegarde : %2$s"</string>
   <string name="micloud_sync_alert_dialog_title">Utiliser Mi Cloud</string>
   <string name="settings_backup_title">Sauvegarder les réglages système</string>
   <string name="internet_access_dspt">Cette appli a besoin d\'un accès à Internet pour fonctionner normalement.</string>
+  <string name="micloud_member_refresh_button">Actualiser</string>
+  <string name="micloud_member_buy_content" formatted="false">"Valide pour %s-%s-%s
+
+%s Mi Credits par an"</string>
+  <string name="micloud_member_buy_title">Confirmation de la commande</string>
+  <string name="micloud_member_net_error_alert_message">Veuillez vous connecter à internet.</string>
+  <string name="micloud_member_net_error_alert_title">Connexion impossible</string>
+  <string name="micloud_member_pay_fail_toast">Le payement n'a pas pu être complété</string>
+  <string name="micloud_member_pay_miid_error_toast">Erreur liée au compte</string>
+  <string name="micloud_member_pay_order_error_toast">Erreur de données</string>
+  <string name="micloud_member_webload_fail_error_message">Erreur réseau</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Impossible de charger la page</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Erreur serveur</string>
 </resources>

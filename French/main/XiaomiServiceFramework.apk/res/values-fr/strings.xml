@@ -4,7 +4,8 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activer</string>
-  <string name="error_device_id_message">Certaines fonctions du compte et du cloud ne seront pas disponibles</string>
+  <string name="error_device_id_message">"Identifiant de appareil non valide : %s
+ L'ID de l'appareil doit être une adresse IMEI ou MAC valide. Sans cet identifiant certaines fonctions du compte et du cloud ne seront pas disponibles"</string>
   <string name="error_device_id_title">Impossible de récupérer le numéro IMEI"</string>
   <string name="app_name">Framework des services Xiaomi</string>
   <string name="activate_feature_call_log_sync">"Synchronisation du journal d\'appels"</string>
@@ -43,8 +44,8 @@
   <string name="activate_popup_title_failed_receive_sms">"Pas de réponse du serveur"</string>
   <string name="activate_popup_title_failed_send_sms">"Impossible d\'envoyer le SMS"</string>
   <string name="activate_popup_title_failed_server">Erreur du serveur</string>
-  <string name="activate_popup_title_manual">Activation de la carte SIM</string>
-  <string name="activate_popup_title_new_sim_card">Activation de la nouvelle carte SIM</string>
+  <string name="activate_popup_title_manual">Activation %s</string>
+  <string name="activate_popup_title_new_sim_card">Réactivation %s </string>
   <string name="activate_popup_title_register_account">Enregistrement compte Mi</string>
   <string name="activate_status_desc_acquire_phone_number">Acquisition du numéro de téléphone…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">"Erreur serveur pendant l\'acquisition du numéro de téléphone"</string>

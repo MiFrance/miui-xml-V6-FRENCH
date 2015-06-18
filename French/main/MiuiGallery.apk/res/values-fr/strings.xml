@@ -693,4 +693,7 @@
   <string name="rename_event">Renommer l\'évènement</string>
   <string name="share_title_more">Plus</string>
   <string name="wechat_timeline_title">Chronologie WeChat</string>
+<!-- à  traduire , fonction reconnaisance face ? "C'est bien %s ?" ? 
+  <string name="is">Is this %s?</string>
+-->
 </resources>

@@ -962,4 +962,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="oauth_error_description">Impossible de s\'authentifier</string>
   <string name="oauth_gmail_login_notify">"Entrez vos identifiants Google sur la page d\'authentification suivante"</string>
   <string name="oauth_login_continue">Continuer</string>
+<!-- à traduire
+   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
+ -->
 </resources>
