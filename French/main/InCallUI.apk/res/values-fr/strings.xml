@@ -1021,6 +1021,6 @@ Nous recommandons l\'utilisation de la fonction "Sélection automatique ou la s�
   <string name="call_recording_notification_title_error">Impossible d\'enregistrer l\'appel</string>
   <string name="livetalk_left_minute">Restant : %s min</string>
   <string name="onscreen_audio_mode_conference">Conférence</string>
-  <string name="call_extension_conference_mode">Mode conférence mode</string>
+  <string name="call_extension_conference_mode">Mode conférence</string>
   <string name="call_recording_notification_toggle_title">"Notification d'enregistrement d'appel"</string>
 </resources>
