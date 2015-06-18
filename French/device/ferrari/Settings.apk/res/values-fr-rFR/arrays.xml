@@ -37,6 +37,10 @@
         <item>"À l'écran sous forme de barres"</item>
         <item>Dans adb shell dumpsys gfxinfo</item>
     </string-array>
+     <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa2</item>
+     </string-array>
     <string-array name="wifi_proxy_settings">
         <item>Aucun</item>
         <item>Manuel</item>
