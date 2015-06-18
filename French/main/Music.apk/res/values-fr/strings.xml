@@ -47,6 +47,7 @@
   <string name="album_search_title">Album</string>
   <string name="artist_search_title">Artiste</string>
   <string name="artist_view">Artiste</string>
+  <string name="atmd_music">Ultime</string>
   <string name="audio_picker_title">Sélectionner une chanson</string>
   <string name="dialog_button_create_playlist">Créer une playlist</string>
   <string name="dialog_button_find_music">Découvrir des chansons</string>
@@ -106,6 +107,7 @@
   <string name="error_not_acceptable">Une erreur de serveur s\'est produite. Synchronisation désactivée.</string>
   <string name="error_title">Avertissement</string>
   <string name="error_unauthorized">Trop d\'échecs d\'authentification de compte. Synchronisation désactivée.</string>
+  <string name="impunity_declaration">Cette application doit se connecter à Internet pour consulter et écouter de la musique en ligne.</string>
   <string name="impunity_declaration_ignore">Ne plus afficher</string>
   <string name="impunity_declaration_settings">Afficher les conditions d\'utilisation</string>
   <string name="impunity_declaration_summary">Un popup de rappel sera affiché à l\'ouverture de l\'application Musique</string>
