@@ -355,7 +355,7 @@ Dernière sauvegarde : %2$s"</string>
   <string name="micloud_member_buy_title">Confirmation de la commande</string>
   <string name="micloud_member_net_error_alert_message">Veuillez vous connecter à internet.</string>
   <string name="micloud_member_net_error_alert_title">Connexion impossible</string>
-  <string name="micloud_member_pay_fail_toast">Le payement n'a pas pu être complété</string>
+  <string name="micloud_member_pay_fail_toast">Le payement n\'a pas pu être complété</string>
   <string name="micloud_member_pay_miid_error_toast">Erreur liée au compte</string>
   <string name="micloud_member_pay_order_error_toast">Erreur de données</string>
   <string name="micloud_member_webload_fail_error_message">Erreur réseau</string>
