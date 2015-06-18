@@ -563,9 +563,7 @@
   <string name="webview_js_dialog_before_unload_title">Confirmer la Navigation</string>
   <string name="webview_js_dialog_before_unload_positive_button">Quitter cette page</string>
   <string name="webview_js_dialog_before_unload_negative_button">Rester sur cette Page</string>
-  <string name="webview_js_dialog_before_unload">"%s
-
-Êtes-vous sûr de vouloir quitter cette page ?"</string>
+  <string name="webview_js_dialog_before_unload">"%s Êtes-vous sûr de vouloir quitter cette page ?"</string>
   <string name="webview_ok">OK</string>
   <string name="webview_cancel">Quitter</string>
   <string name="webview_js_dialog_title">La page \"%s\" renvoie le message :</string>
@@ -601,6 +599,22 @@
   <string name="miuichromium_error_page_reason_network">"Echec de connexion au réseau"</string>
   <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
   <string name="miuichromium_error_page_wlan">Wi-Fi</string>
+  <string name="miuishare_account_activate_confirmation">Activation requise</string>
+  <string name="miuishare_account_activate_ok">Activer</string>
+  <string name="miuishare_account_login_cancel">Annuler</string>
+  <string name="miuishare_account_login_confirmation">Connexion requise</string>
+  <string name="miuishare_account_login_ok">Se connecter</string>
+  <string name="miuishare_account_need_activate">Partager avec Weibo nécessite que votre compte Weibo soit associé au compte Xiaomi, qui n\'est actuellement pas activée. Activez votre compte ?</string>
+  <string name="miuishare_account_need_login">Partager avec Weibo nécessite que votre compte Weibo soit associé au compte Xiaomi, qui est enregistré actuellement. Connectez-vous et partager maintenant ?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">Pas de réseau pour partager</string>
+  <string name="miuishare_publish">Envoyer</string>
+  <string name="miuishare_share_done">Le contenu partagé est envoyé.</string>
+  <string name="miuishare_share_editor_title">Partager</string>
+  <string name="miuishare_title_more">Plus</string>
+  <string name="miuishare_title_share">Partager</string>
+  <string name="miuishare_wechat_timeline_title">Chronologie WeChat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
   <string name="miuichromium_error_page_reload">Recharger</string>
   <string name="miuichromium_error_page_url">Afficher l\'URL de la page</string>
