@@ -60,7 +60,7 @@
   <string name="local_list_item_history">Historique</string>
   <string name="local_program">Téléchargés</string>
   <string name="max_sleep_time">90</string>
-  <string name="metered_alert">Avertissement de l'utilisation de données</string>
+  <string name="metered_alert">Avertissement de l\'utilisation de données</string>
   <string name="metered_alert_msg">L\'utilisation de votre réseau mobile pour écouter de la musique permettra d'augmenter votre consommation de données. Si vous dépassez la limite d'utilisation de données de votre forfait, votre opérateur peut vous facturer des frais.</string>
   <string name="metered_allow">Flux</string>
   <string name="metered_disallow">Annuler</string>
