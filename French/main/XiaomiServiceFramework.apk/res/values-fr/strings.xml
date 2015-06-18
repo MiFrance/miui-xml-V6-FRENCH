@@ -4,7 +4,7 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activer</string>
-  <string name="error_device_id_message">"Identifiant de appareil non valide : %s
+  <string name="error_device_id_message">"Identifiant de l\'appareil non valide : %s
  L'ID de l'appareil doit être une adresse IMEI ou MAC valide. Sans cet identifiant certaines fonctions du compte et du cloud ne seront pas disponibles"</string>
   <string name="error_device_id_title">Impossible de récupérer le numéro IMEI"</string>
   <string name="app_name">Framework des services Xiaomi</string>
