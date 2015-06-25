@@ -25,6 +25,7 @@
   <string name="call_record_folder_name">Notes vocales</string>
   <string name="default_folder_name">Notes</string>
   <string name="dlg_desc_confirm_alarm_silent">Attention, si vous désactivez cette option, les alarmes et notes ne sonneront pas si le téléphone est en mode silencieux.</string>
+  <string name="dlg_info_creating_message">Rédaction d\'un message…</string>
   <string name="dlg_title_confirm_alarm_silent">Confirmation</string>
   <string name="enable_sync">Synchroniser</string>
   <string name="enable_sync_desc">Les notes peuvent être synchronisées avec votre compte Mi %1$s, les synchroniser maintenant ?</string>
@@ -105,6 +106,7 @@
   <string name="sns_message_sending">Publication…</string>
   <string name="sns_toast_empty">"Impossible d'envoyer un billet vide"</string>
   <string name="sns_toast_over_limit">Envoyé en tant qu\'image (dépassement du texte)</string>
+  <string name="sync_tips">Toucher pour synchroniser les notes sur Mi Cloud.</string>
   <string name="sns_desc_preview_weibo">Aperçu du message Weibo</string>
   <string name="sns_desc_preview_wechat">Aperçu du message WeChat</string>
   <string name="format_move_notes_out_folder">%1$s déplacées</string>

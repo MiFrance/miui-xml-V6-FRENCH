@@ -76,12 +76,15 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="description_direction_left">Glisser vers la gauche pour %s.</string>
   <string name="description_direction_up">Glisser vers le haut pour %s.</string>
   <string name="description_target_search">Rechercher</string>
+  <string name="disable_notification_summary">La notification ne sera pas affiché après désactivation</string>
+  <string name="disable_notification_title">Désactiver la notification</string>
   <string name="dismount_storage">Non</string>
   <string name="dlg_confirm_kill_storage_users_text">Si vous activez la mémoire de stockage USB, certaines applications que vous utilisez s\'arrêteront et pourraient être indisponibles jusqu\'à ce que vous désactiviez la mémoire de stockage USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activer la mémoire de stockage USB</string>
   <string name="dlg_error_title">Mode USB échoué</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Mode voiture activé - Gardez un œil sur la route</string>
+  <string name="expanded_notification_manager">Gérer</string>
   <string name="ext_media_checking_notification_title">Préparation du stockage USB</string>
   <string name="ext_media_nofs_notification_title">Stockage USB vide</string>
   <string name="ext_media_nofs_notification_message">Le stockage USB est vide ou illisible.</string>
@@ -131,6 +134,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_otg_trackball_out">Trackball déconnecté</string>
   <string name="notification_otg_unknow_in">Périphérique OTG connecté</string>
   <string name="notification_otg_unknow_out">Périphérique OTG déconnecté</string>
+  <string name="notification_template_text">a un message, appuyez pour l\'afficher</string>
   <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
   <string name="screenshot_saved_text">Appuyer pour l\'afficher</string>

@@ -1182,6 +1182,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="no_services">Inactif</string>
   <string name="noise_suppression">Suppression du bruit</string>
   <string name="normal_date_format">Format régional (%s)</string>
+  <string name="normal_smartcover_title">Film de protection opaque</string>
   <string name="not_installed">Non installée</string>
   <string name="notification_pulse_title">Voyant de notification</string>
   <string name="notification_sound_dialog_title">Notification par défaut</string>
@@ -1586,6 +1587,7 @@ Le code PIN est peut-être incorrect."</string>
   <string name="skip_lock_screen_confirm_msg">Les notifications, les contrôles du lecteur audio, l\'appareil photo, et le numéroteur seront désactivés sur l\'écran de verrouillage.</string>
   <string name="skip_step">Ignorer</string>
   <string name="small_font">Petite</string>
+  <string name="smallwindow_smartcover_title">Protection d\'écran transparente</string>
   <string name="sms_delivered_sound_dialog_title">Choisissez le son de l\'accusé de réception</string>
   <string name="sms_delivered_sound_title">Accusé de réception</string>
   <string name="sms_over_ims_off">Désactiver SMS over IMS</string>
@@ -2565,6 +2567,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="cancel_download_buton_text">Annuler</string>
   <string name="check_update">Vérifiez MàJ</string>
   <string name="checking_for_updates">Vérification de la disponibilité de mises à jour…</string>
+  <string name="choose_smartcover_type">Choisissez le type de protection d\'écran</string>
   <string name="confirm_download_cancelation_dialog_message">Annuler le téléchargement ?</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
