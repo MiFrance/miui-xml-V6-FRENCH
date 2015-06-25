@@ -84,7 +84,7 @@ Si vous utilisez des données supplémentaires, celles-ci pourront être factur�
   <string name="dlg_error_title">Mode USB échoué</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Mode voiture activé - Gardez un œil sur la route</string>
-  <string name="expanded_notification_manager">Gérer</string>
+  <string name="expanded_notification_manager">Gérer les notifications</string>
   <string name="ext_media_checking_notification_title">Préparation du stockage USB</string>
   <string name="ext_media_nofs_notification_title">Stockage USB vide</string>
   <string name="ext_media_nofs_notification_message">Le stockage USB est vide ou illisible.</string>
@@ -134,7 +134,7 @@ Vous devez utiliser le chargeur fourni."</string>
   <string name="notification_otg_trackball_out">Trackball déconnecté</string>
   <string name="notification_otg_unknow_in">Périphérique OTG connecté</string>
   <string name="notification_otg_unknow_out">Périphérique OTG déconnecté</string>
-  <string name="notification_template_text">a un message, appuyez pour l\'afficher</string>
+  <string name="notification_template_text">" a un message, touchez pour l\'afficher."</string>
   <string name="return_to_incall_screen">Appuyer pour revenir à l\'appel</string>
   <string name="screenshot_failed_text">Impossible enregistrer capture d\'écran. Périphérique de stockage peut-être en cours d\'utilisation.</string>
   <string name="screenshot_saved_text">Appuyer pour l\'afficher</string>
