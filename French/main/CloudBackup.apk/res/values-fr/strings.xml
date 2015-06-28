@@ -18,7 +18,7 @@
   <string name="cloud_app_check_data">Vérification des données Mi Cloud…</string>
   <string name="cloud_app_current_device">Appareil actuel</string>
   <string name="cloud_app_dont_restore">Ne pas restaurer</string>
-  <string name="cloud_app_no_data">Aucunes données détectées</string>
+  <string name="cloud_app_no_data">Aucune donnée détectée</string>
   <string name="cloud_app_no_network">Impossible d\'accéder au réseau</string>
   <string name="cloud_app_other_devices">Autres appareils</string>
   <string name="cloud_app_restore_app_and_data">Restaurer la disposition du bureau et les applications</string>

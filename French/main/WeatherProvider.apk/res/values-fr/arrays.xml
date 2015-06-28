@@ -27,7 +27,7 @@
       <item>Dust</item>
       <item>Brume</item>
       <item>Pluie verglaçante</item>
-      <item>Aucunes données</item>
+      <item>Aucune donnée</item>
   </string-array>
   <string-array name="weather_indexes_uv_level">
       <item>Très faible</item>

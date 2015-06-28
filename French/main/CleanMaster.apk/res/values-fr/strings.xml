@@ -150,7 +150,7 @@
     <string name="title_delete_large_file">Supprimer ce fichier ?</string>
     <string name="title_optimizer">Nettoyeur</string>
     <string name="toast_add_white_list_success">" ajouté à la liste blanche"</string>
-    <string name="toast_app_no_residual_on_sdcard">Cette application n\'a aucuns fichiers stockés sur la carte SD</string>
+    <string name="toast_app_no_residual_on_sdcard">Cette application n\'a aucun fichier stocké sur la carte SD</string>
     <string name="toast_backup_is_running">Une sauvegarde est déjà en cours.</string>
     <string name="toast_backup_uninstall_failed">Échec de la sauvegarde de %d applis.</string>
     <string name="toast_backup_uninstall_failed2">"Échec de la sauvegarde"</string>

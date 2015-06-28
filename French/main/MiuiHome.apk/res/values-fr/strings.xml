@@ -137,7 +137,7 @@
   <string name="photo_confirm">Confirmer</string>
   <string name="photo_load_failed">Impossible de charger la photo !</string>
   <string name="frame_load_failed">Impossible de charger le widget cadre photo !</string>
-  <string name="gadget_weather_loading">Aucunes données</string>
+  <string name="gadget_weather_loading">Aucune donnée</string>
   <string name="gadget_weather_title">Météo</string>
   <string name="gadget_weather_title_24">Météo</string>
   <string name="gadget_weather_app_not_installed">MIUI Météo n\'est pas installé</string>

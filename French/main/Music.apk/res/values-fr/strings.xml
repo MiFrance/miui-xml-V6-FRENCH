@@ -264,7 +264,7 @@
   <string name="in_searching_please_wait">Recherche…</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="lyric">Paroles</string>
-  <string name="lyric_is_empty">Aucunes paroles</string>
+  <string name="lyric_is_empty">Aucune parole</string>
   <string name="lyric_setting">Réglages des paroles</string>
   <string name="modify_lyric">Modifier les paroles</string>
   <string name="modify_progress">Modifier la vitesse de déroulement des paroles</string>

@@ -513,7 +513,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="large_file_sort_type_name">Trier par nom</string>
   <string name="button_text_view_detail">Détails</string>
   <string name="button_text_view_file">Fichier</string>
-  <string name="toast_app_no_residual_on_sdcard">Cette application n\'a aucuns fichiers stockés sur la carte SD</string>
+  <string name="toast_app_no_residual_on_sdcard">Cette application n\'a aucun fichier stocké sur la carte SD</string>
   <string name="button_text_start_optimize">Vérifier</string>
   <string name="button_text_cancel_optimize">Annuler</string>
   <string name="button_text_cancel_clean">Annuler</string>
