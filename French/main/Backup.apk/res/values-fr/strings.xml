@@ -2,11 +2,13 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="abort_backup_confirm">"Sauvegarde non terminée. Arrêter tout de même ?"</string>
   <string name="account_contact_backup_info">Compte Google, Xiaomi et autres données liées aux contacts</string>
   <string name="account_login">Se connecter</string>
   <string name="account_summary">" : compte Google, Xiaomi et autres données liées aux contacts"</string>
   <string name="already_enable_encrypt">Cryptage activé</string>
   <string name="app_name">Sauvegarde</string>
+  <string name="apps_and_data_item_desc">Applications et données</string>
   <string name="auto_backup">Sauvegarde automatique</string>
   <string name="auto_backup_all_user_apps">Toutes les applications</string>
   <string name="auto_backup_choose">Éléments à sauvegarder</string>
@@ -32,6 +34,7 @@
   <string name="backup_file_error">Il y a un problème avec la sauvegarde, l\'opération n\'est pas valide.</string>
   <string name="backup_finished">Sauvegarde terminée</string>
   <string name="backup_hint">N\'éteignez pas l\'appareil</string>
+  <string name="backup_is_running">Sauvegarde de l\'appareil</string>
   <string name="backup_items_app_tailer">" fichiers de données d\'application "</string>
   <string name="backup_items_sysdata_tailer">" fichiers de données système "</string>
   <string name="backup_new">Nouveau :</string>
@@ -39,7 +42,7 @@
   <string name="backup_recently">" (dernière)"</string>
   <string name="backup_report">Rapport de sauvegarde</string>
   <string name="backup_update">Mise à jour</string>
-  <string name="batch_delete_backup_confirm">Confirmer la suppression de %d sauvegarde(s) ?</string>
+  <string name="batch_delete_backup_confirm">Confirmer la suppression de sauvegarde(s) sélectionnée(s) ?</string>
   <string name="button_backup">Sauvegarder</string>
   <string name="button_cancel">Annuler</string>
   <string name="button_finish">Terminé</string>
@@ -65,8 +68,11 @@
   <string name="compute_delete_contact_info">Recherche des contacts…</string>
   <string name="contact_title">Contacts</string>
   <string name="current_account">Connecté en tant que : %s</string>
+  <string name="current_phone_location">Téléphone</string>
   <string name="current_sim">Carte SIM actuelle</string>
   <string name="data_no_enough_space">Pas assez d\'espace libre dans la mémoire interne, libérez de l\'espace et essayez à nouveau</string>
+  <string name="custom_progress">%d éléments</string>
+  <string name="data_item_desc">Donné</string>
   <string name="data_no_enough_space_message">La restauration a peut-être échoué, veuillez libérer un peu d\'espace de stockage interne et essayer à nouveau</string>
   <string name="date_format">dd/MM/yyyy H:mm:ss</string>
   <string name="delete">Supprimer</string>
@@ -82,8 +88,18 @@
   <string name="enable_encrypt_summery2">"La nouvelle sauvegarde sera automatiquement chiffrée. Vous devez vous connecter à votre compte Mi lors de la suppression de données ou lors de l\'utilisation d\'autres appareils pour restaurer la sauvegarde."</string>
   <string name="enable_encrypt_title">Activer le cryptage</string>
   <string name="enable_encrypt_xiaomi_account">Cette sauvegarde a été créée par %1$s, supprimez le compte actuel et connectez-vous à %2$s afin de restaurer les données.</string>
+  <string name="err_authentication_failed">L\'authentification a échoué</string>
+  <string name="err_bakfile_broken">"Vous ne pouvez pas utiliser cette sauvegarde."</string>
+  <string name="err_low_storage">Pas assez d\'espace</string>
+  <string name="err_unknown">Erreur inconnue</string>
+  <string name="err_version_too_old">Le fichier de sauvegarde est trop ancien.</string>
+  <string name="err_version_unsupported">"Cette version de sauvegarde, n\'est pas prise en charge."</string>
   <string name="exchange_account">Compte Exchange</string>
   <string name="fail">Échoué</string>
+  <string name="feature_title_account">Compte</string>
+  <string name="feature_title_call_log">Journal d\'appels</string>
+  <string name="feature_title_mms">MMS</string>
+  <string name="file_uploading">Ajout en cours…</string>
   <string name="findlost_contact">Récupérer les contacts supprimés</string>
   <string name="findlost_contact_online">Restaurer les contacts supprimés à partir du cloud</string>
   <string name="guarded_mode_dialog_message">Impossible de sauvegarder/restaurer en mode invité</string>
@@ -113,6 +129,13 @@
   <string name="no_network">Erreur réseau\nVérifiez la connexion du réseau et réessayez</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">Aucun résultat</string>
+  <string name="notif_backup_complete_title">Sauvegardé avec succès</string>
+  <string name="notif_backup_content">Sauvegarde des données de l\'utilisateur</string>
+  <string name="notif_backup_title">Sauvegardez les données</string>
+  <string name="notif_restore_complete_title">Restauré avec succès</string>
+  <string name="notif_restore_content">Restauration des données de l\'utilisateur</string>
+  <string name="notif_restore_title">Restaurer les données</string>
+  <string name="page_loading">Veuillez patienter…</string>
   <string name="progress_backup_hint">Sauvegarde…</string>
   <string name="progress_restore_hint">Restauration…</string>
   <string name="prompt_reading">Lecture…</string>
@@ -121,6 +144,7 @@
   <string name="read_encrypt_fail">Le chiffrement de lecture a échoué</string>
   <string name="refresh">Actualiser</string>
   <string name="restore">Restaurer</string>
+  <string name="restore_backup">Restaurer</string>
   <string name="restore_contact">Restaurer les contacts</string>
 <!-- à vérifier comparer avec original restore_contact_content -->
   <string name="restore_contact_content">La restauration des contacts peut entraîner des doublons, êtes-vous sûr de vouloir faire cela ?\n Remarque : Vous pouvez fusionner les contacts en double dans les paramètres de la liste des contacts</string>
@@ -129,12 +153,14 @@
   <string name="restore_data">Restaurer les données</string>
   <string name="restore_failed">La restauration a échoué !</string>
   <string name="restore_finished">Restauration terminée</string>
+  <string name="restore_is_running">Restauration de l\'appareil</string>
   <string name="restore_launcher_layout_hit">(Remarque : restaure la disposition du bureau)</string>
   <string name="restore_progress">Restauration…</string>
   <string name="restore_report">Rapport de restauration</string>
   <string name="restore_telephony_hit">(Remarque : le processus de récupération va redémarrer l\'application Téléphone)</string>
   <string name="retry">Réessayer</string>
   <string name="reverse_all">Effacer tout</string>
+  <string name="router_backup_hint">Gardez votre appareil allumé</string>
   <string name="sc_bad_request">Requête incorrecte</string>
   <string name="sc_internal_server_error">Erreur interne du serveur</string>
   <string name="sc_network_unavailable">Erreur de connexion réseau</string>
@@ -147,15 +173,22 @@
   <string name="sdcard_no_enough_space">Pas assez d\'espace libre sur la carte SD</string>
   <string name="sdcard_no_enough_space_message">La sauvegarde peut échouer, veuillez libérer de la mémoire et réessayez</string>
   <string name="sdcard_unmounted">Carte SD non détectée !</string>
+  <string name="see_backup_files_on_router">Afficher les sauvegardes du Mi Router %s</string>
   <string name="select_all">Tout sélectionner</string>
   <string name="select_backup_item">Éléments à sauvegarder</string>
+  <string name="select_storage_location">Choisissez l\'emplacement de sauvegarde</string>
   <string name="service_stoped">Service arrêté</string>
-  <string name="settings_summary">" : paramètres téléphone et messagerie"</string>
+  <string name="settings_summary">"Donnée : paramètres téléphone et messagerie"</string>
   <string name="sms_title">Messages</string>
   <string name="software_backup_info">Applications et leurs données</string>
   <string name="start_backup">Démarrer la sauvegarde</string>
   <string name="start_restore">Restauration</string>
+  <string name="state_waiting">Veuillez patienter…</string>
   <string name="succeed">Réussi</string>
+  <string name="summary_err_backup_encrypting">Connectez-vous à votre compte Mi.</string>
+  <string name="summary_err_backup_no_network">"Impossible de se connecter au réseau"</string>
+  <string name="summary_err_restore_encrypting">"Impossible de restaurer. Assurez-vous que cette sauvegarde a été faite en utilisant votre compte Mi."</string>
+  <string name="summary_err_restore_no_network">"Impossible de se connecter au réseau"</string>
   <string name="system_backup">Sauvegardes</string>
   <string name="system_backup_info">Paramètres système, agencement du bureau, etc.</string>
   <string name="task_backup_cancel_progress">Annulation de la sauvegarde…</string>
@@ -193,8 +226,12 @@
   <string name="button_continue">Continuer</string>
   <string name="cloud_app_name">Sauvegarde Mi Cloud</string>
   <string name="deselect_all">Tout désélectionner</string>
+  <string name="digit_percent">%</string>
   <string name="sd_not_available">Aucune carte SD détectée</string>
   <string name="never">Jamais</string>
+  <string name="new_backup">Nouvelle sauvegarde</string>
   <string name="every_day">Quotidiennement</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_router">Mi Router</string>
+  <string name="xiaomi_router_location">Mi Router %s</string>
 </resources>

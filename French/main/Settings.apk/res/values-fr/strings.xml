@@ -490,6 +490,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="common_settings">Paramètres rapides</string>
   <string name="complete_settings">Paramètres complets</string>
   <string name="computing_size">Traitement…</string>
+  <string name="config_charging_function_name">recharge</string>
   <string name="config_list_label">Réseaux configurés</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
@@ -1799,6 +1800,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="usage_type_video">Vidéo</string>
   <string name="usage_type_wake_lock">Maintenir activé</string>
   <string name="usage_type_wifi_running">Wi-Fi actif</string>
+  <string name="usb_charging_summary">Éviter tout transfère de connexion USB, pour augmenter le temps de chargement.</string>
+  <string name="usb_charging_title">Accélérer le rechargement</string>
   <string name="usb_connection_category">Connecter en tant que</string>
   <string name="usb_label_installer_cd">Installer des outils de transfert de fichiers</string>
   <string name="usb_msd_driver_installer_summary">Vous pouvez obtenir le programme d\'installation de pilotes pour Windows et MAC ici</string>

@@ -2,6 +2,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
+  <string name="about_to_recover">À propos de la récupération</string>
   <string name="app_name">Sauvegarde des applis et du bureau</string>
   <string name="back_up_task_in_process">Sauvegarde en cours</string>
   <string name="back_up_task_unfinished">Sauvegarde interrompue</string>

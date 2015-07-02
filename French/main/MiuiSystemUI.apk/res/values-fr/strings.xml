@@ -45,6 +45,8 @@
   <string name="accessibility_wimax_signal_full">Signal WiMAX : excellent</string>
   <string name="accessibility_wimax_three_bars">Signal WiMAX : bon</string>
   <string name="accessibility_wimax_two_bars">Signal WiMAX : moyen</string>
+  <string name="activate_usb_message">Insérez la carte SIM pour activer la fonction USB</string>
+  <string name="activate_usb_title">activer USB</string>
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>
@@ -178,6 +180,7 @@ d MMMM yyyy"</string>
   <string name="usb_debugging_title">Autoriser le débogage USB ?</string>
   <string name="usb_device_confirm_prompt">Ouvrir %1$s lors de la connexion de ce périphérique USB ?</string>
   <string name="usb_device_permission_prompt">Autoriser l\'application %1$s à accéder au périphérique USB ?</string>
+  <string name="usb_function_charging_text">Connecté en mode de charge</string>
   <string name="usb_mode_dont_ask">Ne plus me le demander la prochaine fois</string>
   <string name="usb_mode_mount_storage_title">Ouvrir le périphérique de stockage USB ?</string>
   <string name="usb_mode_notification">Périphérique de stockage USB</string>

@@ -1020,6 +1020,8 @@ Pour commencer appuyez sur l\'icône en bas de l\'écran."</string>
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Appel sortant</string>
   <string name="type_voicemail">Messagerie vocale</string>
+  <string name="unknow_phone_number_call_failed">"Vous ne pouvez pas appeler de numéro inconnu"</string>
+  <string name="unknow_phone_number_mms_failed">"Vous ne pouvez pas envoyer un message à un numéro inconnu"</string>
   <string name="unknown">Inconnu</string>
   <string name="unknown_contact_name">Contact inconnu</string>
   <string name="upgrade_in_progress">Mise à jour de la liste de contacts…</string>

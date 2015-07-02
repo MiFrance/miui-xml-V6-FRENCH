@@ -181,6 +181,7 @@
   <string name="disable_auto_start_format">Désactiver le démarrage auto de %s ?</string>
   <string name="disable_auto_start_message">Désactive le démarrage automatique au boot.</string>
   <string name="app_being_backup_message">Application en cours de sauvegarde.</string>
+  <string name="app_being_restored_message">Application en cours de restauration</string>
   <string name="app_category_books">Livres</string>
   <string name="app_category_education">Éducation</string>
   <string name="app_category_entertainment">Loisirs</string>

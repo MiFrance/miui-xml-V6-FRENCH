@@ -111,6 +111,7 @@
   <string name="account_setup_failed_dlg_auth_message_fmt">Échec de la connexion.\"\n\"(%s)</string>
   <string name="account_setup_failed_dlg_certificate_message">"Impossible d'établir une connexion sécurisée avec le serveur."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">Impossible d\'établir une connexion sécurisée avec le serveur.\"\n\"(%s)</string>
+  <string name="account_setup_failed_dlg_device_locked">Votre adresse a été bloquée par le verrouillage de l\'appareil</string>
   <string name="account_setup_failed_dlg_edit_details_action">Modifier les infos</string>
   <string name="account_setup_failed_dlg_server_message">"Impossible de se connecter au serveur."</string>
   <string name="account_setup_failed_dlg_title">"Impossible de configurer le compte"</string>
@@ -212,6 +213,8 @@
   <string name="attachment_audio">Audio</string>
   <string name="attachment_image">Image</string>
   <string name="attachment_not_found">"Impossible de télécharger la pièce jointe."</string>
+  <string name="attachment_open_SecurityException_hint">Vérifiez les autorisations, dommages, etc..</string>
+  <string name="attachment_open_SecurityException_title">Échec d\'ouverture du fichier</string>
   <string name="attachment_text">Texte</string>
   <string name="attachment_type_blocked">"Malheureusement, vous ne pouvez pas enregistrer ni ouvrir ce type de pièce jointe."</string>
   <string name="attachment_unknown">Fichier %s</string>
@@ -564,6 +567,8 @@
   <string name="undo">Annuler</string>
   <string name="unread_string">conversation non lue</string>
   <string name="unsent_messages_in_outbox">%1$s message(s) non envoyé(s) dans %2$s</string>
+  <string name="unzip_file_failed">La décompression a échoué ！</string>
+  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Afficher d\'autres conversations</string>
   <string name="wait_for_manual_sync_body">La synchronisation automatique n\'est pas configurée pour ce compte.\nAppuyez sur \"<b>"Synchroniser"</b>" pour une synchronisation ponctuelle de la messagerie ou sur \"<b>"Modifier les paramètres"</b>" pour activer la synchronisation automatique.</string>
@@ -756,7 +761,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="outbox_alert_mailbox_not_found">Adresse e-mail introuvable</string>
   <string name="account_setup_incoming_mail_adress_label">Adresse e-mail</string>
   <string name="account_setup_incoming_mail_domain_label">Domaine</string>
-  <string name="account_setup_incoming_mail_domain_hint">Ne peut être vide</string>
+  <string name="account_setup_incoming_mail_domain_hint">Optionnel</string>
   <string name="folder_drafts_name_en0">Brouillons</string>
   <string name="folder_drafts_name_en1">Brouillon</string>
   <string name="folder_sent_name_en0">Envoyé</string>
@@ -768,6 +773,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="ser_resp_err_map_nouser">Utilisateur inconnu</string>
   <string name="ser_resp_err_map_or">Ou</string>
   <string name="ser_resp_err_map_serclosed">Service désactivé</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Comment résoudre ?</string>
   <string name="ser_resp_err_map_pserr">Nom d\'utilisateur ou mot de passe incorrect</string>
 <!-- à reformuler no_wifi_promot ? -->
   <string name="no_wifi_promot">Wi-Fi non utilisé actuellement, cela risque d\'engendrer du trafic de données mobiles</string>
@@ -896,6 +902,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="preference_pop_tips">Les pièces-jointes seront téléchargées avec le contenu du message, comme l\'impose le protocole POP3. Veuillez vérifier la consommation de vos données mobiles.</string>
   <string name="prefetched_got_it">OK</string>
   <string name="quick_reply_hint">Répondre aux %1$d personnes</string>
+  <string name="quick_reply_hint_bcc">"(En BCC) "</string>
+  <string name="quick_reply_hint_cc">"(En CC) "</string>
   <string name="recipient_needed_title">Avertissement</string>
   <string name="recipient_null_dialog_title">Alerte</string>
   <string name="remote_search">Tous les messages sur le serveur</string>
@@ -909,7 +917,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="search_tabs_name_sender">Expéditeur</string>
   <string name="search_tabs_name_subject">Objet</string>
   <string name="outbox_alert_rw_io_error">Erreur de lecture/écriture du message, essayez d\'écrire et d\'envoyer à nouveau</string>
-  <string name="outbox_alert_certificate_error">Erreur de certificat du message, veuillez le mettre à jour</string>
+  <string name="outbox_alert_certificate_error">"Erreur de certificat du message, veuillez le mettre à jour"</string>
   <string name="save_draft_failed">Échec d\'enregistrement du brouillon</string>
   <string name="sdcard_cannot_use">La carte SD ne peut être utilisée</string>
   <string name="upload_log">Envoyer les logs de diagnostic</string>

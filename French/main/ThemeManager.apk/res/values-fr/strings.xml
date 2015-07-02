@@ -291,7 +291,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="gift_present_dlg_anonymous">Cadeau anonyme</string>
   <string name="gift_present_dlg_input_hint">Compte Mi ID/Phone</string>
   <string name="gift_present_dlg_no_fee">"Vous ne serez pas facturé par votre opérateur pour l'envoi de cadeaux"</string>
-  <string name="gift_present_dlg_present_max_limit">Don du thème impossible plus de %$1s fois.</string>
+  <string name="gift_present_dlg_present_max_limit">Don du thème impossible plus de %1$s fois.</string>
   <string name="gift_present_dlg_share">Créer le code et offrir le cadeau</string>
   <string name="gift_present_fail_dlg_content">"Impossible d'envoyer ce cadeau. "</string>
   <string name="gift_present_fail_dlg_title">"Impossible d'envoyer le cadeau"</string>
