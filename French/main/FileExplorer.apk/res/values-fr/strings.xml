@@ -333,7 +333,6 @@
   <string name="connect_network_setting_des">Me le rappeler lors d\'accès au réseau</string>
   <string name="operate_confirm_in_3g">Utiliser le réseau mobile pour télécharger ce fichier volumineux ?</string>
   <string name="delete_dialog_button">Supprimer</string>
-  <string name="category_recent">Récent</string>
   <string name="mi_router_label">Mi Routeur</string>
   <string name="usb_label">USB</string>
   <string name="no_display_file">"Impossible d'afficher %1$s"</string>
