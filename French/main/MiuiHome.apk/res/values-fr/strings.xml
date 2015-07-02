@@ -168,6 +168,7 @@
   <string name="menu_customize">Personnaliser les Paramètres</string>
   <string name="menu_picktheme">Sélectionner un thème</string>
   <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
+  <string name="select_all">Tout sélectionner</string>
   <string name="status_pending">en attente</string>
   <string name="status_downloading">téléchargement</string>
   <string name="status_paused">en pause</string>
@@ -208,6 +209,7 @@
   <string name="delete">Supprimer</string>
   <string name="delete_wallpaper_message">Supprimer %1$d fond d\'écran ?</string>
   <string name="delete_wallpapers_message">Supprimer %1$d fonds d\'écran ?</string>
+  <string name="deselect_all">Tout déselectionner</string>
   <string name="disable_wallpaper_scroll">Désactiver le défilement horizontal</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>

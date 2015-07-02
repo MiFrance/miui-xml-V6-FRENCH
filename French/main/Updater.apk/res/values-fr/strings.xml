@@ -131,9 +131,9 @@
   <string name="update_comment_title">Vos commentaires</string>
   <string name="update_feedback">Notez cette mise à jour</string>
   <string name="update_feedback_end">Vous avez manqué le vote de cette semaine</string>
-  <string name="update_feedback_end_sum">Vous pourrez le faire mardi prochain.</string>
+  <string name="update_feedback_end_sum">Vous pourrez le faire lundi prochain.</string>
   <string name="update_feedback_expired">"Quel dommage que vous ayez manqué le vote de cette semaine !
-Vous pourrez le faire mardi prochain"</string>
+Vous pourrez le faire lundi prochain"</string>
   <string name="update_feel">Comment vous sentez-vous ?</string>
   <string name="update_general">Indifférent</string>
   <string name="update_happy">Satisfait!</string>

@@ -6,6 +6,7 @@
   <string name="adding_upload_tasks">Ajout de tâches à partager.</string>
   <string name="already_signin_description">Vous êtes déjà connecté</string>
   <string name="app_name">Explorateur</string>
+  <string name="archive_send_to">Envoyer à…</string>
   <string name="background">Télécharger en arrière-plan</string>
   <string name="big5_summary">L\'encodage par défaut du chinois traditionnel pour le système Windows</string>
   <string name="big5_title">BIG5</string>
@@ -20,9 +21,11 @@
   <string name="category_document">Documents</string>
   <string name="category_favorite">Favoris</string>
   <string name="category_log">Journaux</string>
-  <string name="category_music">Musique</string>
+  <string name="category_file">Fichiers</string>
+  <string name="category_music">Musiques</string>
   <string name="category_other">Divers</string>
   <string name="category_picture">Photos</string>
+  <string name="category_recent">Récent</string>
   <string name="category_theme">Thèmes</string>
   <string name="category_video">Vidéos</string>
   <string name="category_zip">Archives</string>
@@ -47,6 +50,7 @@
   <string name="data_capacity">Espace : %1$s</string>
   <string name="decompress_cancel">Annuler</string>
   <string name="decompress_confirm">Décompresser ?</string>
+  <string name="decompress_destination_error">"Échec de l'extraction: impossible d'extraire des fichiers ici."</string>
   <string name="decompress_fail">Échec de la décompression !</string>
   <string name="decompress_success">Décompression réussie</string>
   <string name="decompress_to">Décompresser vers…</string>
@@ -73,6 +77,7 @@
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
   <string name="error_open_file_failed_no_app_found">Aucune application ne peut ouvrir ce fichier</string>
+  <string name="expand_all">Tous</string>
   <string name="fail_to_create_folder">Impossible de créer le dossier, celui-ci existe déjà</string>
   <string name="fail_to_create_folder_unknown">Création impossible : erreur inconnue.</string>
   <string name="fail_to_rename">Impossible de renommer ce fichier. Il doit probablement déjà exister</string>
@@ -187,6 +192,9 @@
   <string name="sd_card_available">Disponible : %1$s</string>
   <string name="sd_card_size">Total : %1$s</string>
   <string name="sd_full">La carte SD est pleine</string>
+  <string name="sdcard">Carte SD</string>
+  <string name="sdcard_available">%1$s de disponible</string>
+  <string name="sdcard_total">Total %1$s</string>
   <string name="search_hint">Rechercher Mes fichiers</string>
   <string name="search_title">Rechercher Mes fichiers</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -243,8 +251,10 @@
   <string name="wait_wifi">En attente d\'une connexion Wi-Fi…</string>
   <string name="waiting">En attente…</string>
   <string name="wangpan_root_path">Mon disque</string>
+  <string name="wechat_video">Vidéo au %s</string>
   <string name="wifi_state">État du Wi-Fi</string>
   <string name="xiaomi_account">Compte Mi</string>
+  <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Oui</string>
   <string name="binded_accout_description">"Votre compte Mi est synchronisé avec KuaiPan. Vous pouvez maintenant utiliser votre compte Mi pour accéder aux données que vous avez stockées sur KuaiPan."</string>
   <string name="account_bind_prompt">Migration des données utilisateur, votre compte va être temporairement verrouillé, veuillez patienter…</string>
@@ -263,6 +273,7 @@
   <string name="my_video_desc" />
   <string name="mobile_photo">Photos (tel)</string>
   <string name="mobile_photo_desc" />
+  <string name="month_day_format">dd MMM</string>
   <string name="my_camera_album">Albums</string>
   <string name="my_camera_album_desc" />
   <string name="my_bakup">Sauvegardes des données</string>
@@ -297,8 +308,14 @@
   <string name="gigabyteShort">" Go"</string>
   <string name="terabyteShort">" To"</string>
   <string name="petabyteShort">" Po"</string>
+  <string name="group_title">%2$s sur %1$s</string>
   <string name="tab_local">Local</string>
+  <string name="tab_more">plus</string>
   <string name="tab_path">DOSSIERS</string>
+  <string name="tab_source">APPLICATIONS</string>
+  <string name="tab_storage">STOCKAGE</string>
+  <string name="title_more_source">Plus d\'applications</string>
+  <string name="title_recent">Récent</string>
   <string name="sys_size_enable">" disponible"</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="user_guide_continue_use">Ok</string>

@@ -522,6 +522,8 @@
   <string name="crop_recognize_text">Détecter</string>
   <string name="crop_save_text_setas">Appliquer</string>
   <string name="recognizing_image">Analyse de l\'image…</string>
+  <string name="recommanded_face_abandon_tip">Retiré de la recommandation</string>
+  <string name="recommanded_face_added_tip">Ajouté à \"%s\"</string>
   <string name="long_press_to_refocus">Appuyer pour modifier le focus</string>
   <string name="item_not_sync_for_refocus_data">Impossible de télécharger les données de focus pour des images non synchronisées avec Mi Cloud.</string>
   <string name="download_refocus_data">Télécharger les données de focus</string>
