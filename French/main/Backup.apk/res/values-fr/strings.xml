@@ -132,7 +132,7 @@
   <string name="notif_backup_complete_title">Sauvegardé avec succès</string>
   <string name="notif_backup_content">Sauvegarde des données de l\'utilisateur</string>
   <string name="notif_backup_title">Sauvegarde des données</string>
-  <string name="notif_restore_complete_title">Restauration terminé</string>
+  <string name="notif_restore_complete_title">Restauration effectuée</string>
   <string name="notif_restore_content">Restauration des données de l\'utilisateur</string>
   <string name="notif_restore_title">Restauration des données</string>
   <string name="page_loading">Veuillez patienter…</string>
