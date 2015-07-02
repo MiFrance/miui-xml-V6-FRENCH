@@ -45,8 +45,8 @@
   <string name="accessibility_wimax_signal_full">Signal WiMAX : excellent</string>
   <string name="accessibility_wimax_three_bars">Signal WiMAX : bon</string>
   <string name="accessibility_wimax_two_bars">Signal WiMAX : moyen</string>
-  <string name="activate_usb_message">Insérez la carte SIM pour activer la fonction USB</string>
-  <string name="activate_usb_title">activer USB</string>
+  <string name="activate_usb_message">Pour activer cette fonction, insérez la carte SIM</string>
+  <string name="activate_usb_title">Activation de l\'USB</string>
   <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
   <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
   <string name="app_label">IU système</string>

@@ -98,7 +98,7 @@ Vous pouvez faire autre chose…"</string>
   <string name="error_unknown">"Erreur inconnue"</string>
   <string name="error_invalid_dev_id">Identité de l\'appareil non valide</string>
   <string name="error_user_name">Nom d\'utilisateur non valide</string>
-  <string name="exceed_binded_phone_times_notice">Ce nombre est lié avec trop de compte Mi, merci de le modifier par un autre numéro et essayer à nouveau.</string>
+  <string name="exceed_binded_phone_times_notice">Ce numéro est lié avec trop de compte Mi, merci de le modifier par un autre numéro et essayer à nouveau.</string>
   <string name="error_verify_code">Le code que vous avez saisi est incorrect</string>
   <string name="error_dup_email">Cette e-mail est déjà associer avec un autre compte</string>
   <string name="error_login">Impossible de se connecter</string>

@@ -245,7 +245,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="month_report_disconnect_tip">"Impossible de se connecter au réseau"</string>
   <string name="month_report_history_activity_label">Historique du rapport</string>
   <string name="month_report_month_report_switch">Afficher le rapport mensuel</string>
-  <string name="month_report_network_dialog_description">Permettre l\'application de sécurité, de se connecter à internet pour obtenir des informations ?</string>
+  <string name="month_report_network_dialog_description">Permettre à l\'application de sécurité, de se connecter à internet pour obtenir des informations ?</string>
   <string name="month_report_network_dialog_positive">Autoriser</string>
   <string name="month_report_network_dialog_title">"Ne pas autoriser"</string>
   <string name="month_report_result_share">Partager</string>

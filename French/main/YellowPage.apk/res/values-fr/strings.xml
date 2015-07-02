@@ -161,7 +161,7 @@
   <string name="scan">Scanner</string>
   <string name="express_inqiury_select_logistics">Entreprise postale</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
-  <string name="follow_express">Suivez %1$s</string>
+  <string name="follow_express">Suivre %1$s</string>
   <string name="follow_express_success">Désormais vous le suivez, vous pouvez recevoir des messages et obtenir plus de services de %1$s.</string>
   <string name="expresss_inquiry_all_logistics">Tous</string>
   <string name="express_inquiry_history">Historique</string>

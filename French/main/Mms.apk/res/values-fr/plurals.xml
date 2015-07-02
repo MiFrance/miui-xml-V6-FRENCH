@@ -38,9 +38,9 @@
       <item quantity="one">1 personne</item>
     </plurals>
     <plurals name="cloud_sms_count">
-        <item quantity="other">%d Messages</item>
-        <item quantity="zero">0 Message</item>
-        <item quantity="one">1 Message</item>
+        <item quantity="other">%d messages</item>
+        <item quantity="zero">0 message</item>
+        <item quantity="one">1 message</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%d messages n\'ont pas été synchronisés"</item>
