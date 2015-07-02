@@ -3541,8 +3541,6 @@ l'assistant  e-mail"</string>
   <string name="uicc_media_format_gesture_explanation">Vous devez dessiner votre schéma de déverrouillage pour confirmer que vous voulez effacer le stockage UICC.</string>
   <string name="uicc_mount">Monter le stockage UICC</string>
   <string name="uicc_unmount_inform_text">Le stockage UICC sera démonté.</string>
-  <string name="usb_charging_summary">Désactive tous les transferts de données avec l\'ordinateur et charge l\'appareil par le port USB</string>
-  <string name="usb_charging_title">Charge uniquement</string>
   <string name="usb_eject">Démonter le stockage USB</string>
   <string name="usb_eject_summary">Démonter le stockage USB pour le retirer en toute sécurité</string>
   <string name="usb_format">Effacer le stockage USB</string>
