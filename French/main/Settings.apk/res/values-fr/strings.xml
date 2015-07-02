@@ -3365,7 +3365,7 @@ Procédez comme suit :
   <string name="sim_setup_wizard_title">Cartes SIM</string>
   <string name="sim_slot_empty">Carte SIM vide</string>
   <string name="sim_status_summary">Informations relatives à la carte SIM</string>
-  <string name="simulate_color_space">Simuler espace colori.</string>
+  <string name="simulate_color_space">Simuler un espace de couleur.</string>
   <string name="sms_messages_title">SMS</string>
   <string name="status_awaiting_tap">Appuyer sur un tag pour le modifier…</string>
   <string name="status_failed_to_write">Impossible de modifier des données sur le tag NFC. Si le problème persiste, essayez avec un autre tag.</string>
