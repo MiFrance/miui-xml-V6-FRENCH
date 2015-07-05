@@ -7,12 +7,12 @@
         <item quantity="one">Pas de suivi sur l\'utilisation de données pour %d l\'application</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Suivi d\'utilisation de données pour % les applications</item>
-        <item quantity="one">Suivi d\'utilisation de données pour % l\'applications</item>
+        <item quantity="other">Suivi d\'utilisation de données pour %d les applications</item>
+        <item quantity="one">Suivi d\'utilisation de données pour %d l\'applications</item>
     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d applications utilisent l\'économiseur de données</item>
-        <item quantity="one">%d application qui utilise l'économiseur de données</item>
+        <item quantity="one">%d application qui utilise l\'économiseur de données</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
         <item quantity="other">%d applications n\'utilisent pas l\'économiseur de données</item>
