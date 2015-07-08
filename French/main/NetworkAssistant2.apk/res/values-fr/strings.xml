@@ -34,7 +34,6 @@
   <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
   <string name="pref_traffic_saving_switch">Compresser les données</string>
   <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
-  <string name="pref_traffic_saving_notify_switch">Afficher dans la barre d\'état</string>
   <string name="pref_traffic_saving_notify_switch_hint">Affiche les informations relatives à l\'économie de données dans le menu déroulant.</string>
   <string name="pref_traffic_saving_issue">F.A.Q.</string>
   <string name="pref_traffic_saving_issue_content">"Cette application permet d'économiser de données mobiles 2G et 3G en compressant les textes et les photos sur quasiment toute application de votre téléphone.
