@@ -615,7 +615,6 @@
   <string name="face_album_rename_hint">Saisir le nom</string>
   <string name="face_albumset_detecting_tip">Chargement…</string>
   <string name="face_albumset_empty">Vide.</string>
-  <string name="face_albumset_use_tip">Trier les photos selon les personnes présentes</string>
   <string name="face_albumset_use_tip">"Trier les photos selon les personnes identifiées
  Ce traitement est effectuée automatiquement par l\'appareil sans aucune intervention humaine"</string>
   <string name="face_move_dialog_title">Sélectionnez un album</string>
