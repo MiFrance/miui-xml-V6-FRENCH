@@ -449,7 +449,7 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="sns_access_token_expired_warning">La connexion au compte a expiré. Veuillez vous reconnecter pour ajouter ce compte.</string>
   <string name="user_avatar_update_title">Modifier la photo</string>
   <string name="user_avatar_uploading">Envoi…</string>
-  <string name="mi_support_service">Support</string>
+  <string name="mi_pass">Mi Pass</string>
   <string name="micloud_sync_state_pending">En attente</string>
   <string name="account_bind_new_phone">Ajouter un nouveau numéro de téléphone</string>
   <string name="account_bind_phone_notice">Utilisez ce numéro pour vous connecter, réinitialiser votre mot de passe, ou changer vos paramètres de sécurité.</string>
