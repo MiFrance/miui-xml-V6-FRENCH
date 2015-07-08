@@ -19,6 +19,18 @@
   <string name="traffic_saving_msg_month">Économisé ce mois :</string>
   <string name="traffic_saving_history_title">Historique</string>
   <string name="traffic_saving_history_total_traffic">Données</string>
+  <string name="traffic_saving_button_mng">Gérer les paramètres d\'économie de données</string>
+  <string name="traffic_saving_need_optimize">Peut être optimisé</string>
+  <string name="traffic_saving_notification_button_start">Activer</string>
+  <string name="traffic_saving_one_key_optimize">Optimiser pour économiser les données</string>
+  <string name="traffic_saving_optimized">Déjà optimisé</string>
+  <string name="traffic_saving_pic_compress_orig">Original</string>
+  <string name="traffic_saving_ratio">Données réduites de %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Ne peut réduire significativement la consommation de données"</string>
+  <string name="traffic_saving_recommanded_close">Désactiver cet élément</string>
+  <string name="traffic_saving_recommanded_open">Activer cet élément</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activer automatiquement l\'économiseur de données pour réduire la consommation de données mobiles dans les applications.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Si vous avez un quota de données mensuel, n\'oubliez pas de désactiver ce service pour les applications tierces, afin de ne pas encourir de frais supplémentaires de votre opérateur.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Activer</string>
   <string name="pref_traffic_saving_title">Paramètres d\'économie des données</string>
   <string name="pref_traffic_saving_switch">Compresser les données</string>
   <string name="pref_traffic_saving_switch_hint">Permet d\'économiser des données grâce à la compression</string>
@@ -151,6 +163,12 @@ connexion au réseau de données mobiles"</string>
   <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
   <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
   <string name="pref_title_update_notification">Aff. la consom. dans le menu déroulant</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Réduire la consommation de données pour les nouvelles applis</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Activer automatiquement l\'économiseur de données pour les nouvelles applis, pour lesquelles la consommation peut être réduite significativement</string>
+  <string name="pref_traffic_saving_compressed">Compressé</string>
+  <string name="pref_traffic_saving_no_compress">Non compressé</string>
+  <string name="pref_traffic_saving_notify_switch">Afficher dans le menu déroulant</string>
+  <string name="pref_traffic_saving_pic_compress_level">Ratio de compression de l\'image</string>
   <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
   <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lorsque vous déverrouillez votre téléphone, pour la période où celui-ci est verrouillé (5 minutes minimum)</string>
   <string name="pref_title_mobile_traffic">Afficher l\'usage des données en tenant compte du verrouillage</string>
@@ -336,6 +354,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="add_white_list">Ajouter</string>
   <string name="alter_dialog_message">Utiliser les données en itinérances peut engendrer des frais conséquents de la part de votre opérateur. Autoriser les applis dans la liste d\'exceptions à utiliser les données en itinérance ?</string>
   <string name="daily_limit_network_available_body">Toucher pour voir les stats d\'utilisation de données.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Touchez pour activer les données mobiles.</string> 
   <string name="daily_limit_over_message">"Vous avez dépassé votre limite de données quotidienne."</string>
   <string name="dialog_app_roaming_message">"En itinérance, seules les applis ajoutées à la liste d\'exceptions peuvent utiliser les données. %1$s ne fait pas partie de cette liste. Voir la liste maintenant ?"</string>
   <string name="dialog_app_roaming_title">"Itinérance désactivée pour %1$s"</string>
@@ -376,6 +395,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="privacy_prompt_upload">Notification de confidentialité</string>
   <string name="reach_daily_limit_value_body">Réduisez votre consommation de données.</string>
   <string name="reach_daily_limit_value_title">Limite de conso quotidienne atteinte</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Touchez pour ouvrir l\'économiseur de données.</string>
   <string name="roaming_not_start_body">Les applis présentes dans la liste d\'exceptions pourront utiliser les données en itinérance</string>
   <string name="roaming_not_start_title">Itinérance</string>
   <string name="roaming_start_body">Autoriser les applis dans la liste d\'exceptions à utiliser les données en itinérance.</string>

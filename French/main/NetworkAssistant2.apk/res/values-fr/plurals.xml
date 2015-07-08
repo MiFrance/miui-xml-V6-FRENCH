@@ -10,6 +10,14 @@
         <item quantity="other">Suivi d\'utilisation de données pour %d les applications</item>
         <item quantity="one">Suivi d\'utilisation de données pour %d l\'applications</item>
     </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d applications optimisées</item>
+        <item quantity="one">%d application optimisée</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d applications peuvent être optimisées</item>
+        <item quantity="one">%d application peut être optimisée</item>
+    </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d applications utilisent l\'économiseur de données</item>
         <item quantity="one">%d application qui utilise l\'économiseur de données</item>

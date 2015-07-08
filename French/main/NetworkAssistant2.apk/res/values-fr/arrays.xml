@@ -69,4 +69,10 @@
 	<item>Afficher une alerte</item>
 	<item>Avertir et éteindre les données mob.</item>
  </string-array>
+ <string-array name="traffic_saving_compress_level_string_array">
+    <item>Aucune</item>
+    <item>Faible</item>
+    <item>Moyenne</item>
+    <item>Elevée</item>
+ </string-array>
 </resources>

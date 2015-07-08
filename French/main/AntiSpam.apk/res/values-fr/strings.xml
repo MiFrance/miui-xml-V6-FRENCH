@@ -177,6 +177,10 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_show_num_number">" numéros"</string>
   <string name="label_callwait">Appel en attente</string>
   <string name="open_callwait">Activé</string>
+  <string name="quiet">Silencieux</string>
+  <string name="quiet_important_interruptions_mode">Mode silencieux</string>
+  <string name="quiet_mode">Mode silencieux</string>
+  <string name="quiet_off_mode">Mode désactivé</string>
   <string name="close_callwait">Désactivé</string>
   <string name="addwhitelist">Ajouter aux exceptions</string>
   <string name="st_hint_add_phonenumber">Saisir un numéro de téléphone</string>
