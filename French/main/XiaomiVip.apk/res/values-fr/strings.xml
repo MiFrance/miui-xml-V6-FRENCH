@@ -43,7 +43,7 @@
   <string name="task_begin">En cours…</string>
   <string name="task_completed">Terminée</string>
   <string name="task_done">Effectuée</string>
-  <string name="task_limit">Aucune tâche restante pour aujourd'hui, à demain!</string>
+  <string name="task_limit">Aucune tâche restante pour aujourd\'hui, à demain!</string>
   <string name="task_not_completed">Non terminée</string>
   <string name="task_ongoing">En cours</string>
   <string name="task_score">%d points</string>
