@@ -201,6 +201,12 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="background_data_dialog_message">La désactivation des données en arrière-plan économise la batterie et réduit l\'utilisation des données. Certaines applications peuvent continuer d\'utiliser la connexion internet en arrière-plan.</string>
   <string name="background_data_dialog_title">Dés. données arr.-plan ?</string>
   <string name="background_data_summary">Synchronisation, envoi et réception de données à tout moment</string>
+  <string name="background_location_control_summary">"Autoriser ou bloquer la récupération de la localisation de votre appareil en arrière-plan"</string>
+  <string name="background_location_control_title">Accès à la localisation en arrière-plan</string>
+  <string name="background_location_deselect_apps">Désélectionner tout</string>
+  <string name="background_location_requests_summary">"Autoriser les applis à utiliser le service de localisation lorsque vous ne les utilisez pas"</string>
+  <string name="background_location_requests_title">Autoriser la localisation en arrière-plan</string>
+  <string name="background_location_select_apps">Sélectionner tout</string>
   <string name="background_process_stop_description">"Ceci est un ancien processus d'application qui peut toujours être exécuté en cas de besoin. Il n'existe généralement aucune raison de l'arrêter."</string>
   <string name="backup_configure_account_default_summary">Aucun compte ne stocke actuellement des données sauvegardées.</string>
   <string name="backup_configure_account_title">Compte de sauvegarde</string>
