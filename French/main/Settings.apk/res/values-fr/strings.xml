@@ -2880,6 +2880,8 @@ Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="page_layout_confirm_message">Votre appareil doit redémarrer pour appliquer les modifications. Cela peut prendre 1 minute.</string>
   <string name="page_layout_confirm_title">"Changer les paramètres d'affichage"</string>
   <string name="power_center">Énergie</string>
+  <string name="power_hide_mode_summary">Liste des applications énergivore, d\'importantes économies d\'énergie peuvent être réalisées.</string>
+  <string name="power_hide_mode_title">Masquer le mode</string>
   <string name="provision_page_layout_confirm_message">Votre appareil doit redémarrer pour appliquer les modifications. Cela peut prendre 1 minute.</string>
   <string name="screen_effect">Contraste &amp; couleurs</string>
   <string name="screen_optimize">Contraste</string>
