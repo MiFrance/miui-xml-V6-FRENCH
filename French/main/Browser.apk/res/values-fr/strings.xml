@@ -31,9 +31,14 @@
   <string name="dialog_geolocation_share">Partager la position</string>
   <string name="disable_autofill">Désactiver la saisie automatique</string>
   <string name="MIUI_startpage">Page d\'accueil</string>
+  <string name="abc_action_bar_home_description">Retour à l\'accueil</string>
+  <string name="abc_action_bar_up_description">Retour en haut</string>
+  <string name="abc_action_menu_overflow_description">Plus</string>
+  <string name="abc_action_mode_done">Terminé</string>
   <string name="accessibility_button_clear">Effacer la saisie</string>
   <string name="account">Compte</string>
   <string name="action">Se connecter</string>
+  <string name="action_menu_text_add_bookmark">Ajouter un favori</string>
   <string name="add_bookmark">"Ajouter un favori "</string>
   <string name="add_folder">Ajouter un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
@@ -70,6 +75,7 @@
   <string name="autologin_bar_login_text">Connexion</string>
   <string name="autologin_bar_text">Se connecter à l\'aide du compte</string>
   <string name="back">Retour</string>
+  <string name="back_button_label">Retour</string>
   <string name="block">Bloquer</string>
   <string name="bookmark_add_to">Ajouter à</string>
   <string name="bookmark_cannot_save_url">Impossible d\'ajouter cette URL aux favoris.</string>
@@ -136,6 +142,7 @@
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
   <string name="download">Télécharger</string>
+  <string name="dont_remind_again">Se souvenir de ce choix</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
   <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
@@ -156,6 +163,8 @@
   <string name="dump_dom_tree">Dump de l\'arborescence DOM au fichier</string>
   <string name="dump_nav">Extraire le cache de navigation</string>
   <string name="dump_render_tree">Dump de l\'arborescence de rendu au fichier</string>
+  <string name="download_sdcard_busy_dlg_msg">La carte SD est pleine. Pour autoriser les téléchargements, toucher sur « désactiver le stockage USB » dans la notification.</string>
+  <string name="download_sdcard_busy_dlg_title">Carte SD indisponible</string>
   <string name="edit">Modifier</string>
   <string name="edit_bookmark">Modifier le favori</string>
   <string name="edit_folder">Modifier le dossier</string>
@@ -175,6 +184,7 @@
   <string name="file_picker">Choisir le chemin</string>
   <string name="filename_empty_alert_message">"Le nom du fichier ne peut pas être vide"</string>
   <string name="filename_illegal_alert_message">Le nom du fichier contient des caractères illégaux, le fichier a été automatiquement supprimé</string>
+  <string name="find_new_version">Mises à jour disponibles</string>
   <string name="find_on_page">Rechercher sur la page</string>
   <string name="folder_name">Nom du dossier</string>
   <string name="forward">Suivant</string>
@@ -238,6 +248,7 @@
   <string name="network_show_wifi_setting_tip_dialog_description">Souhaitez-vous vous connecter ?</string>
   <string name="new_incognito_tab">Nouvel onglet navigation privée</string>
   <string name="new_tab">Nouvel onglet</string>
+  <string name="next_button_label">Suivant</string>
   <string name="not_remind_again">Ne plus me le rappeler</string>
   <string name="notif_install_successful">Téléchargement réussi</string>
   <string name="ok">OK</string>
@@ -312,6 +323,7 @@
   <string name="pref_extras_title">Options avancées</string>
   <string name="pref_extras_website_settings">Paramètres du site Web</string>
   <string name="pref_extras_website_settings_summary">Paramètres avancés de sites Web individuels</string>
+  <string name="pref_extras_title_version">Version</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurer le chemin de téléchargement par défaut</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Valeur par défaut</string>
   <string name="pref_file_download_save_modify_default_path">Modifier le chemin par défaut</string>
@@ -430,6 +442,7 @@
   <string name="same_folder_name_warning">Ce dossier existe déjà</string>
   <string name="save">Enregistrer</string>
   <string name="save_bookmark">+ favoris</string>
+  <string name="save_button_text">Sauvegarder</string>
   <string name="save_dialog_title">Sauvegarder</string>
   <string name="save_file_already_exist_alert_message">Le fichier existe déjà, voulez-vous le remplacer ?</string>
   <string name="save_file_already_exist_alert_title">Le fichier existe !</string>
@@ -575,7 +588,9 @@
   <string name="webview_last_month">Le mois dernier</string>
   <string name="webview_older">Plus ancien</string>
   <string name="pref_version_summary">Version : %s</string>
+  <string name="pref_version_info">Version Info</string>
   <string name="pref_category_title_version">Version</string>
+  <string name="pref_auto_update_under_wifi">Mise à jour automatique depuis Wi-Fi</string>
   <string name="save_image_success">Image enregistrée</string>
   <string name="save_image_failed">"Échec de l'enregistrement de l'image"</string>
   <string name="js_disable_confirm_title">Désactiver le JavaScript ?</string>
@@ -594,6 +609,9 @@
   <string name="use_cellular_network_alert_title">Avertissement</string>
   <string name="use_cellular_network_alert_message">Wi-Fi non disponible, utiliser le réseau mobile ?</string>
   <string name="date_picker_dialog_other_button_label">Autres</string>
+  <string name="contextmenu_webpage_capture">Enregistrer en tant que capture d\'écran</string>
+  <string name="contextmenu_webpage_html">Enregistrer en tant que fichier HTML</string>
+  <string name="contextmenu_webpage_snapshot">Enregistrer cette page</string>
   <string name="copy_to_clipboard_failure_message">Impossible de copier dans le presse-papier</string>
   <string name="miuichromium_error_page_title">Impossible de trouver cette page</string>
   <string name="miuichromium_error_page_reason_network">"Echec de connexion au réseau"</string>
@@ -675,12 +693,17 @@
   <string name="add_to_desk">Ajouter sur l\'écran d\'accueil</string>
   <string name="add_to_desk_success">Ajouté sur l\'écran d\'accueil</string>
   <string name="action_menu_text_bookmark">Ajouter favori</string>
+  <string name="action_menu_text_bookmark_added">Favori ajouté</string>
+  <string name="action_menu_text_copy_url">Copier l\'URL</string>
+  <string name="action_menu_text_create_qr_code">Code QR</string>
+  <string name="action_menu_text_exit">Quitter</string>
+  <string name="action_menu_text_find_in_page">Rechercher une page</string>
   <string name="action_menu_text_share">Partager</string>
   <string name="action_menu_text_history">Favoris/Historique</string>
   <string name="action_menu_text_nightmode">Mode nuit</string>
   <string name="action_menu_text_nightmode_on">Mode nuit on</string>
   <string name="action_menu_text_nightmode_off">Mode nuit off</string>
-  <string name="action_menu_text_exit">Quitter</string>
+  <string name="action_menu_text_refresh">Rafraîchir</string>
   <string name="action_menu_text_setting">Paramètres</string>
   <string name="url_suggest_indicator_hoturl">Populaires</string>
   <string name="url_suggest_indicator_bookmark">Favoris/Historique</string>
@@ -766,6 +789,7 @@
   <string name="data_traffic_prompt_title">Alerte d\'utilisation des données</string>
   <string name="enter_developer_mode">Passer en mode développeur</string>
   <string name="find_on_page_cancel">Annuler</string>
+  <string name="find_on_page_hint">Taper votre recherche</string>
   <string name="find_on_page_next">Suivant</string>
   <string name="find_on_page_prev">Précédent</string>
   <string name="maximum_input_alert">2048 caractères maximum</string>
@@ -792,6 +816,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="js_dialog_before_unload_title">Confirmer navigation</string>
   <string name="js_dialog_title">Le page \"%s\" indique : </string>
   <string name="last_month">Le mois dernier</string>
+  <string name="license_activity_title">Aperçu du système de licence</string>
   <string name="media_error_action_refresh">Actualiser</string>
   <string name="media_error_action_replace_video_source">Changer de source vidéo</string>
   <string name="media_error_failure">Échec de lecture de la vidéo</string>
@@ -805,6 +830,9 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="older">Ancien</string>
   <string name="private_browsing_warning">Cette fonctionnalité n\'est pas supportée par cette version d\'Android.</string>
   <string name="save_password_message">Mémoriser le mot de passe ?</string>
+  <string name="save_page_capture_tip">Ouvrir la notification pour afficher la capture d\'écran.</string>
+  <string name="save_page_capture_to_camera">Capture d\'écran sauvegardée</string>
+  <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
   <string name="save_password_never">Jamais</string>
   <string name="save_password_notnow">Pas maintenant</string>
   <string name="save_password_remember">Mémoriser</string>
