@@ -59,8 +59,4 @@
         <item quantity="other">%1$d sur %2$d</item>
         <item quantity="one">1 résultat</item>
      </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d sélectionné</item>
-        <item quantity="one">%1$d sélectionné</item>
-    </plurals>     
 </resources>
