@@ -142,7 +142,6 @@
   <string name="delete_folder">Supprimer le dossier</string>
   <string name="delete_multi_bookmarks_alert_title">Êtes-vous sûr de vouloir supprimer %1$s ?</string>
   <string name="download">Télécharger</string>
-  <string name="dont_remind_again">Se souvenir de ce choix</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
   <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
@@ -163,8 +162,6 @@
   <string name="dump_dom_tree">Dump de l\'arborescence DOM au fichier</string>
   <string name="dump_nav">Extraire le cache de navigation</string>
   <string name="dump_render_tree">Dump de l\'arborescence de rendu au fichier</string>
-  <string name="download_sdcard_busy_dlg_msg">La carte SD est pleine. Pour autoriser les téléchargements, toucher sur « désactiver le stockage USB » dans la notification.</string>
-  <string name="download_sdcard_busy_dlg_title">Carte SD indisponible</string>
   <string name="edit">Modifier</string>
   <string name="edit_bookmark">Modifier le favori</string>
   <string name="edit_folder">Modifier le dossier</string>
@@ -832,7 +829,6 @@ Voulez-vous vraiment quitter cette page ?"</string>
   <string name="save_password_message">Mémoriser le mot de passe ?</string>
   <string name="save_page_capture_tip">Ouvrir la notification pour afficher la capture d\'écran.</string>
   <string name="save_page_capture_to_camera">Capture d\'écran sauvegardée</string>
-  <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
   <string name="save_password_never">Jamais</string>
   <string name="save_password_notnow">Pas maintenant</string>
   <string name="save_password_remember">Mémoriser</string>
