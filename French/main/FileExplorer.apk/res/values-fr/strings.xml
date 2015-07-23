@@ -22,7 +22,7 @@
   <string name="category_favorite">Favoris</string>
   <string name="category_log">Journaux</string>
   <string name="category_file">Fichiers</string>
-  <string name="category_music">Musiques</string>
+  <string name="category_music">Musique</string>
   <string name="category_other">Divers</string>
   <string name="category_picture">Photos</string>
   <string name="category_recent">Récent</string>
@@ -149,6 +149,7 @@
 2. L\'envoyer (mettre à jour le fichier distant)"</string>
   <string name="open_changed_file_title">Fichier modifié</string>
   <string name="operating">En cours…</string>
+  <string name="operation_add_fav">Ajout aux favoris…</string>
   <string name="operation_cancel">Annuler</string>
   <string name="operation_compress">Compresser</string>
   <string name="operation_compressing">Compression…</string>
@@ -158,6 +159,7 @@
   <string name="operation_create_folder">Nouveau dossier</string>
   <string name="operation_create_folder_message">Entrez le nom du dossier</string>
   <string name="operation_decompressing">Décompression…</string>
+  <string name="operation_del_fav">Suppression des favoris…</string>
   <string name="operation_delete">Supprimer</string>
   <string name="operation_delete_confirm_message">Confirmer la suppression ?</string>
   <string name="operation_delete_confirm_message_folder">"Tout le contenu du dossier sera supprimé.
@@ -310,9 +312,9 @@
   <string name="petabyteShort">" Po"</string>
   <string name="group_title">%2$s sur %1$s</string>
   <string name="tab_local">Local</string>
-  <string name="tab_more">plus</string>
+  <string name="tab_more">Plus</string>
   <string name="tab_path">DOSSIERS</string>
-  <string name="tab_source">APPLICATIONS</string>
+  <string name="tab_source">Applications</string>
   <string name="tab_storage">STOCKAGE</string>
   <string name="title_more_source">Plus d\'applications</string>
   <string name="title_recent">Récent</string>

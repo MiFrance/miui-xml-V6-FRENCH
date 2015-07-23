@@ -50,6 +50,7 @@
   <string name="button_ok">OK</string>
   <string name="button_return">Retour</string>
   <string name="call_title">Journal d\'appels</string>
+  <string name="camera_summary">Réglages de l\'appareil photo (photos non comprises)</string>
   <string name="cancel">Annuler</string>
   <string name="cancel_backup">Annuler</string>
   <string name="cancel_restore">Annuler</string>
@@ -178,7 +179,7 @@
   <string name="select_backup_item">Éléments à sauvegarder</string>
   <string name="select_storage_location">Choisissez l\'emplacement de sauvegarde</string>
   <string name="service_stoped">Service arrêté</string>
-  <string name="settings_summary">"Données : paramètres téléphone et messagerie"</string>
+  <string name="settings_summary">"Paramètres de téléphone et messagerie"</string>
   <string name="sms_title">Messages</string>
   <string name="software_backup_info">Applications et leurs données</string>
   <string name="start_backup">Démarrer la sauvegarde</string>

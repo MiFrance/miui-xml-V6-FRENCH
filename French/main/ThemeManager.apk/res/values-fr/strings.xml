@@ -22,6 +22,7 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="backup_theme_progress_message">Sauvegarde du thème en cours, veuillez patienter…</string>
   <string name="backup_theme_success_message">Le thème a été sauvegardé avec succès !</string>
   <string name="change_wallpaper">Fond d\'écran</string>
+  <string name="choose_new_themes">Nouveaux Thèmes</string>
   <string name="close">Fermer</string>
   <string name="component_category_finest_title">Principaux</string>
   <string name="component_category_more_title">Plus</string>
@@ -206,6 +207,8 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="apply_theme_with_ringtones">Utiliser les sonneries du thème</string>
   <string name="basic_info">Informations</string>
   <string name="payment_info">MiCredits</string>
+  <string name="present_local_themes">Téléchargés</string>
+  <string name="present_online_themes">En ligne</string>
   <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
   <string name="resource_account_fail_to_add">Impossible d\'ajouter le compte !</string>
   <string name="resource_account_login">Connexion</string>

@@ -264,7 +264,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
   <string name="mark_harass">Harcèlement</string>
   <string name="mark_harass_block">Signalé comme du harcèlement</string>
-  <string name="mark_harass_time_setting">Bloquer les numéros signalés comme du harcèlement à un moment précis.</string>
+  <string name="mark_harass_time_setting">Bloquer les numéros signalés de manière récurrente comme du harcèlement.</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Fraude</string>
   <string name="mark_number_harass">Harcèlement</string>
@@ -280,11 +280,11 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="dlg_message_not_open_stranger_identify">Vous devez activer Identifier les numéros inconnus dans les paramètres, avant de pouvoir marquer un numéro.</string>
   <string name="mark_agent">Commercial</string>
   <string name="mark_agent_block">Marqué comme commercial</string>
-  <string name="mark_agent_time_setting">Bloquer les numéros signalés comme télévendeurs à un moment précis</string>
+  <string name="mark_agent_time_setting">Bloquer les numéros signalés de manière récurrente comme télévendeurs</string>
   <string name="mark_express">Courrier</string>
   <string name="mark_express_block">Marqué comme courrier</string>
   <string name="mark_fraud">Arnaque</string>
-  <string name="mark_fraud_time_setting">Bloquer les numéros signalés comme escroqueries à un moment précis</string>
+  <string name="mark_fraud_time_setting">Bloquer les numéros signalés de manière récurrente comme escroqueries</string>
   <string name="mark_fraud_block">Marqué comme arnaque</string>
   <string name="mark_meal">Livraison de nourriture</string>
   <string name="mark_meal_block">Marqué comme livraison de nourriture</string>
@@ -297,8 +297,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="mark_number_setting_guide_forward">Paramètres de la liste noire</string>
   <string name="mark_number_setting_guide_title">Bloquer les numéros signalés</string>
   <string name="mark_sell_block">Marqué comme télévendeur</string>
-  <string name="mark_sell_time_setting">Bloquer les numéros signalés comme ventes à un moment précis</string>
-  <string name="mark_time_setting_dialog_title">Paramètres des temps de signalements</string>
+  <string name="mark_sell_time_setting">Bloquer les numéros signalés de manière récurrente comme ventes</string>
+  <string name="mark_time_setting_dialog_title">Paramètres des appels signalés</string>
   <string name="mark_time_text">%d</string>
   <string name="st_title_markednumber_group">Liste noire de numéros marqués</string>
   <string name="dlg_antispam_mode_delete_message">"Vous ne pouvez récupérer les règles personnalisées après leur suppression."</string>
@@ -315,8 +315,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="mark_banking_insurance">Démarcheurs</string>
   <string name="mark_banking_insurance_block">Signalé comme démarcheur</string>
   <string name="read_all_sms">Marqué comme lu(s)</string>
-  <string name="repeated_marked_number_summary">"Ne pas bloquer un deuxième appel de la même personne dans les 3 minutes."</string>
-  <string name="repeated_marked_number_title">"Ne pas bloquer les appels manqués"</string>
+  <string name="repeated_marked_number_summary">"Ne pas bloquer un deuxième appel provenant du même numéro signalé dans les 3 minutes."</string>
+  <string name="repeated_marked_number_title">"Ne pas bloquer les appels répétés provenant de numéros signalés"</string>
   <string name="report">Signaler</string>
   <string name="report_error">"Impossible de signaler"</string>
   <string name="report_error_not_net">"Pas de connexion réseau"</string>

@@ -592,7 +592,9 @@
   <string name="pref_summary_send_delivery_reports">Répondre à l\'accusé de réception de l\'expéditeur après réception d\'un MMS</string>
   <string name="pref_title_send_delivery_reports">Répondre aux accusés de réception</string>
   <string name="storage_unavailable">Espace disponible insuffisant</string>
-  <string name="security_alert_desc">"L\'expéditeur n\'est pas un de vos contacts. "&lt;font color=red>Signaler ce numéro&lt;/font></string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"L\'expéditeur ne fait pas partie de vos contacts.
+ "&lt;/font&gt;</string>
+  <string name="security_alert_desc_highlight">Signaler ce numéro</string>
   <string name="security_alert_dialog_desc">Signaler ce message et numéro (%s) en l\'envoyant a Xiaomi pour analyse.</string>
   <string name="security_alert_dialog_title">Signalement</string>
   <string name="sms_report_failed">"Impossible d'envoyer le signalement"</string>
