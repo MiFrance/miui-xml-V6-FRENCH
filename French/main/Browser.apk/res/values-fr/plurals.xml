@@ -21,15 +21,15 @@
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
   <plurals name="webview_matches_found">
-      <item quantity="other">%1$d sur %2$d</item>
-      <item quantity="one">1 résultat</item>
+    <item quantity="other">%1$d sur %2$d</item>
+    <item quantity="one">1 résultat</item>
   </plurals>
   <plurals name="webview_last_num_days">
-      <item quantity="other">Les %d derniers jours</item>
+    <item quantity="other">Les %d derniers jours</item>
   </plurals>
   <plurals name="v5_edit_mode_title">
-      <item quantity="other">%1$d éléments sélectionnés</item>
-      <item quantity="one">%1$d élément sélectionné</item>
+    <item quantity="other">%1$d éléments sélectionnés</item>
+    <item quantity="one">%1$d élément sélectionné</item>
   </plurals>
   <plurals name="adblock_rules_number_text">
     <item quantity="other">%d éléments bloqués</item>
@@ -51,12 +51,12 @@
     <item quantity="other">%d chansons populaires</item>
     <item quantity="one">%d chanson populaire</item>
   </plurals>
-     <plurals name="last_num_days">
-        <item quantity="other">Les %d derniers jours</item>
-        <item quantity="one">Hier</item>
-     </plurals>
-     <plurals name="matches_found">
-        <item quantity="other">%1$d sur %2$d</item>
-        <item quantity="one">1 résultat</item>
-     </plurals>
+  <plurals name="last_num_days">
+    <item quantity="other">Les %d derniers jours</item>
+    <item quantity="one">Hier</item>
+  </plurals>
+  <plurals name="matches_found">
+    <item quantity="other">%1$d sur %2$d</item>
+    <item quantity="one">1 résultat</item>
+  </plurals>
 </resources>
