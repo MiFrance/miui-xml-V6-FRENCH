@@ -511,7 +511,7 @@
   <string name="pref_audio_focus_entry_rear">Arrière</string>
   <string name="pref_audio_focus_title">Focus audio</string>
   <string name="pref_camera_asd_night_title">Amélioration auto des photos de nuit</string>
-  <string name="pref_camera_asd_popup_title">Ouvrir un popup lorsque le flash est requis</string>
+  <string name="pref_camera_asd_popup_title">Notifier l\'utilisateur lorsque le flash est requis</string>
   <string name="pref_camera_delay_capture_title">Minuteur</string>
   <string name="pref_camera_long_press_shutter_feature_title">Appui long sur le bouton de l\'obturateur</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Prise en rafale</string>
@@ -534,8 +534,8 @@
   <string name="confirm_location_title">Se souvenir du lieu des photos ?</string>
   <string name="confirm_location_message">"Ajoutez des tags à vos photos et à vos vidéos pour identifier l\'endroit de la prise de vue."\n\n"D\'autres applications peuvent accéder à ces informations, ainsi qu\'aux images enregistrées."</string>
   <string name="confirm_recording_fail_calling_alert">Impossible d\'enregistrer durant un appel.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Une autre application est peut-être en train d\'enregistrer, réessayez après avoir stoppé cette dernière.</string>
-  <string name="confirm_recording_fail_title">Echec de l\'enregistrement</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Une autre application semble utiliser le micro de l\'appareil pour enregistrer.</string>
+  <string name="confirm_recording_fail_title">"Enregistrement impossible"</string>
   <string name="pref_simple_hdr_entry_off">Inactif</string>
   <string name="pref_simple_hdr_entry_on">Actif</string>
   <string name="pref_camera_asd_title">Détection auto de la scène</string>

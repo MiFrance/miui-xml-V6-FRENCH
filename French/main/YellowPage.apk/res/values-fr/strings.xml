@@ -161,8 +161,6 @@
   <string name="scan">Scanner</string>
   <string name="express_inqiury_select_logistics">Entreprise postale</string>
   <string name="expresss_inquiry_frequently_used_logistics">Fréquents</string>
-  <string name="follow_express">Suivre %1$s</string>
-  <string name="follow_express_success">Vous suivez désormais %1$s.</string>
   <string name="expresss_inquiry_all_logistics">Tous</string>
   <string name="express_inquiry_history">Historique</string>
   <string name="express_inquiry_delivered">Livré</string>
@@ -170,6 +168,8 @@
   <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
   <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
   <string name="express_sender_info">Info expéditeur</string>
+  <string name="follow_label">Suivre %1$s</string>
+  <string name="follow_success">Vous suivez maintenant %1$s.</string>
 
   <string name="express_addressee_info">Info adresse</string>
   <string name="express_add_new_address">Ajouter une adresse</string>
@@ -285,4 +285,6 @@
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Améliorer les résultats de recherche en autorisant l\'application à accéder aux informations de localisation.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Accès à la localisation</string>
   <string name="network_access_denied">Accès réseau refusé</string>
+  <string name="about_phone_event">A propos du service</string>
+  <string name="express_banner_header">%1$s / Numéro de suivi</string>
 </resources>

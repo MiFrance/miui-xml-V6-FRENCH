@@ -20,6 +20,7 @@
   <string name="experience">Exp</string>
   <string name="expired">Expiré</string>
   <string name="fail_reach_server">"Echec de connexion au serveur"</string>
+  <string name="giveup">Abandonner</string>
   <string name="in_progress">Envoi de la requête…</string>
   <string name="invalid_json">La réponse est une chaîne JSON invalide</string>
   <string name="level">Niveau</string>

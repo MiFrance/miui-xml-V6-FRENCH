@@ -462,6 +462,8 @@
 	 <string name="app_latest_version">Pas de mises à jour</string>
 	 <string name="app_upgrade_version">Mise à jour disponible</string>
 	 <string name="app_version">Version</string>
+     <string name="app_wifi_mode">Mise à jour auto en Wi-Fi</string>
+     <string name="app_wifi_mode_summary">Lorsque le Wi-Fi est activé, mettre à jour automatiquement.</string>
 	 <string name="data_buffering">Mise en mémoire tampon...</string>
 	 <string name="debug_mode">Mode débogage</string>
 	 <string name="debug_mode_desc">Active le débogage et affiche l\'id de la vidéo dans le coin en haut à gauche</string>

@@ -268,6 +268,7 @@
   <string name="mx_current_status">En ligne</string>
   <string name="mx_dspt">Envoyer des messages via internet entre appareils MIUI, activez ce paramètre pour envoyer votre message de manière classique en cas d\'échec</string>
   <string name="mx_enable">Activer Mi Message</string>
+  <string name="mx_enable_ex">Mi Message &amp; Voix</string>
   <string name="mx_enable_popup_msg">Mi Message vous permet d\'envoyer gratuitement des messages entre utilisateurs de cette fonction.</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Hors-ligne</string>
@@ -560,8 +561,10 @@
   <string name="message_sent">Envoyé</string>
   <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Activer Mi Message</string>
-  <string name="mx_activate_user_agreement_p1">"En utilisant ce service, vous acceptez les conditions de Mi Message "</string>
+  <string name="mx_activate_dlg_title_ex">Activer Mi Message &amp; Voix</string>
   <string name="mx_dspt_provision">Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI gratuitement. Votre opérateur peut vous facturer le prix d\'un SMS pour activer ce service.</string>
+  <string name="mx_dspt_provision_ex">"Envoyez des messages et appelez d\'autres utilisateurs de MIUI gratuitement. VoIP est fourni par Weihui. Consultez la politique de confidentialité de Weihui."</string>
+  <string name="mx_dspt_provision_ex2">Politique de confidentialité</string>
   <string name="mx_type_guide">Mi Message vous permet d\'envoyer des messages aux autres utilisateurs de MIUI gratuitement</string>
   <string name="playing_failed">"Impossible de lire"</string>
   <string name="press_recording">Appuyez et maintenez la touche Micro pour enregistrer</string>

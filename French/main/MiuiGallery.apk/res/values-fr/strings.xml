@@ -107,6 +107,8 @@
   <string name="cloud_camera_display_name">Non trié</string>
   <string name="cloud_gallery_recyclebin_full">Corbeille Mi Cloud pleine, veuillez la vider sur i.mi.com.</string>
   <string name="cloud_gallery_space_full">Échec de l\'envoi ! Mémoire de la galerie Mi Cloud pleine</string>
+  <string name="cloud_gallery_space_full_buy_more">"Impossible de synchroniser d'autres photos sur Mi Cloud. Pour synchroniser, achetez de l'espace de stockage supplémentaire."</string>
+  <string name="cloud_gallery_space_full_title">Mi Cloud est saturé</string>
   <string name="cloud_media_set_set">Mi Cloud</string>
   <string name="cloud_owner_album_share_guide">Vous pouvez partager cet album avec des amis</string>
   <string name="cloud_screenshots_display_name">Captures d\'écran</string>
@@ -456,6 +458,7 @@
   <string name="unpublish_succeeded">Album non publié !</string>
   <string name="unpublishing">Annulation de la publication, veuillez patienter…</string>
   <string name="untagged">Aucun tag</string>
+  <string name="upgrade_micloud_space">Obtenez de l\'espace supplémentaire</string>
   <string name="user_alias_self">Moi</string>
   <string name="video_err">Impossible de lire la vidéo.</string>
   <string name="view_sharers">Afficher les partageurs</string>
@@ -613,10 +616,12 @@
   <string name="face_album">Personnes</string>
   <string name="face_album_not_named">Sans titre</string>
   <string name="face_album_rename_hint">Saisir le nom</string>
+  <string name="face_album_new_name_hint">Nouveau nom</string>
   <string name="face_albumset_detecting_tip">Chargement…</string>
   <string name="face_albumset_empty">Vide.</string>
   <string name="face_albumset_use_tip">"Trier les photos selon les personnes identifiées
  Ce traitement est effectuée automatiquement par l\'appareil sans aucune intervention humaine"</string>
+  <string name="face_choose_tip">Sélectionnez à partir d\'un album existant</string>
   <string name="face_move_dialog_title">Sélectionnez un album</string>
   <string name="home_page_tab_face">Personnes</string>
   <string name="ignore_face">Ignorer cette personne</string>

@@ -152,7 +152,7 @@ connexion au réseau de données mobiles"</string>
   <string name="traffic_setting_fragment_sms_content_tips">Écrivez votre message ici</string>
   <string name="traffic_setting_fragment_null">Vide</string>
   <string name="pref_category_title_other">Paramètres avancés</string>
-  <string name="pref_connect_settings_exceed_limit_hint">Interrompre la connexion au réseau mobile lorsque l\'usage des données a atteint la limite prédéfinie</string>
+  <string name="pref_connect_settings_exceed_limit_hint">Désactiver les données mobiles lorsque l\'usage des données a atteint la limite prédéfinie</string>
   <string name="pref_connect_settings_exceed_limit">Restreindre l\'usage des données</string>
   <string name="pref_free_traffic_exceed_limit">Prévenir lorsque l\'usage des données a atteint la limite prédéfinie</string>
   <string name="pref_free_traffic_limit_warn">Avertissement sur le creux d\'usage des données</string>
@@ -163,14 +163,14 @@ connexion au réseau de données mobiles"</string>
   <string name="pref_title_network_diagnostics">Diagnostic réseau</string>
   <string name="pref_check_network_diagnostics">Vérifiez si votre connexion de données fonctionne normalement</string>
   <string name="pref_title_update_notification">Aff. la consom. dans le menu déroulant</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Réduire la consommation de données pour les nouvelles applis</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Activer les exceptions intelligentes</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Activer automatiquement l\'économiseur de données pour les nouvelles applis, pour lesquelles la consommation peut être réduite significativement</string>
   <string name="pref_traffic_saving_compressed">Compressé</string>
   <string name="pref_traffic_saving_no_compress">Non compressé</string>
   <string name="pref_traffic_saving_notify_switch">Afficher dans le menu déroulant</string>
   <string name="pref_traffic_saving_pic_compress_level">Ratio de compression de l\'image</string>
   <string name="pref_title_traffic_speed_state">Afficher la vitesse de transfert</string>
-  <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lorsque vous déverrouillez votre téléphone, pour la période où celui-ci est verrouillé (5 minutes minimum)</string>
+  <string name="pref_show_mobile_traffic">Affiche les stats d\'usage des données lors du déverrouillage de votre téléphone, si celui-ci est verrouillé depuis plus de 5 minutes</string>
   <string name="pref_title_mobile_traffic">Afficher l\'usage des données en tenant compte du verrouillage</string>
   <string name="pref_title_declaration">Avertissement important</string>
   <string name="pref_new_installed_preconfig_title">Paramètres par défaut des nouvelles applications</string>
@@ -179,7 +179,7 @@ connexion au réseau de données mobiles"</string>
   <string name="pref_free_adjust">Définir la limite du creux de données</string>
   <string name="pref_specified_adjust">Définir une limite de données personnalisée</string>
   <string name="pref_automatic_adjust">Paramètres</string>
-  <string name="pref_open_adjust_traffic">"Synchronisez vos stats d\'usage de données avec les serveurs de votre opérateur"</string>
+  <string name="pref_open_adjust_traffic">"Synchronisez chaque jour vos stats d\'usage de données avec les serveurs de votre opérateur"</string>
   <string name="pref_auto_adjust_traffic">Synchro-auto des stats d\'usage des données</string>
   <string name="pref_auto_adjust_settings">Paramètres de synchro-auto des stats d\'usage des données</string>
   <string name="pref_adjust_data_usage">Modèle de message Opérateur</string>
@@ -198,8 +198,7 @@ connexion au réseau de données mobiles"</string>
   <string name="input_traffic_pkg">Saisir le total</string>
   <string name="begin_date">Date de remise à zéro de votre forfait</string>
   <string name="tips_dialog_title">Quota de données mobiles inconnu ?</string>
-<!-- à re-vérifier plus tard, tips_message : supprimé variable, elles n'affichent rien…-->
-  <string name="tips_message">Si vous ne connaissez pas le quota de données mobiles associé à votre forfait, renseignez-vous auprès de votre opérateur.</string>
+  <string name="tips_message">Pour consulter les détails de votre forfait mobile, composez le %2$s (%1$s).</string>
   <string name="daily_pkg_traffic">Définir la limite du pic d\'usage des données</string>
   <string name="input_aviable_traffic">Définir la limite</string>
   <string name="pkg_traffic">Définir la limite d\'usage des données</string>
@@ -289,7 +288,7 @@ Au-delà de cette-ci la connexion au réseau mobile peut entrainer des frais sup
   <string name="datausage_ignore_app_list_count">"%d applis ignorées"</string>
   <string name="pref_data_usage_ignore_settings">Ignorer l\'utilisation des données</string>
   <string name="pref_data_usage_ignore_settings_summary">"Ne pas prendre un compte les données utilisées par les applis sélectionnées"</string>
-  <string name="input_used_max_hint">Saisir le montant(moins de %s)</string>
+  <string name="input_used_max_hint">Saisir le montant (moins de %s)</string>
   <string name="datausage_purchase_order_failure">Échec de l\'achat</string>
   <string name="datausage_purchase_order_failure_cause">Votre achat a échoué car…</string>
   <string name="main_primary_message_traffic_enough">Sous la limite de données</string>
@@ -369,7 +368,7 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="lock_screen_warning_switch_summary">Afficher un avertissement sur l\'écran de verrouillage lorsque la consommation de données dépasse un certain seuil</string>
   <string name="lock_screen_warning_switch_title">Affichers les avertissements sur l\'écran de verrouillage</string>
   <string name="lock_screen_warning_value">Seuil d\'avertissement de la consommation de données</string>
-  <string name="main_alert_message_month_limit_error">La limite de données saisie est incorrecte</string>
+  <string name="main_alert_message_month_limit_error">Limite de données incorrecte</string>
   <string name="network_speed_for_apps_close">Forcer l\'arrêt</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Forcer l\'arrêt de cette application?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Impossible de forcer l'arrêt des applications système."</string>
@@ -396,19 +395,19 @@ Pour plus d\'informations, consultez le message envoyé par votre fournisseur d\
   <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
   <string name="pref_title_over_traffic_limit_warning">En dépassement</string>
   <string name="pref_title_traffic_limit_number">Taille</string>
-  <string name="pref_whitelist_setting">Exceptions</string>
+  <string name="pref_whitelist_setting">Gérer les exceptions</string>
   <string name="privacy_declare_dialog_message">"En utilisant ce service, vous acceptes les &lt;a href=%s&gt; Termes et Conditions&lt;/a&gt; d'Opera ."</string>
   <string name="privacy_declare_dialog_title">Termes et Conditions</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour mettre à jour vos informations de consommation de données."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour mettre à jour les modèles de requêtes SMS et vérifier la disponibilité de cette fonction dans votre pays."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Xiaomi pour obtenir plus d'informations sur l'achat de données."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Mi pour mettre à jour vos informations de consommation de données."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Mi pour mettre à jour les modèles de requêtes SMS et vérifier la disponibilité de cette fonction dans votre pays."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Votre numéro et détails opérateur seront transférés sur les serveurs Mi pour obtenir plus d'informations sur l'achat de données."</string>
   <string name="privacy_prompt_upload">Notification de confidentialité</string>
   <string name="reach_daily_limit_value_body">Réduisez votre consommation de données.</string>
   <string name="reach_daily_limit_value_title">Limite de conso quotidienne atteinte</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Touchez pour ouvrir l\'économiseur de données.</string>
   <string name="roaming_not_start_body">Les applis présentes dans la liste d\'exceptions pourront utiliser les données en itinérance</string>
   <string name="roaming_not_start_title">Itinérance</string>
-  <string name="roaming_start_body">Autoriser les applis dans la liste d\'exceptions à utiliser les données en itinérance.</string>
+  <string name="roaming_start_body">Touchez pour voir les applications autorisées à utiliser les données en itinérance.</string>
   <string name="roaming_start_title">Itinérance</string>
   <string name="sc_allow_network_dialog_message">Vous devez autoriser cette appli à se connecter à internet afin qu\'elle fonctionne normalement.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne peut utiliser l'économie de données"</string>
@@ -589,5 +588,5 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="permission_exception_summary">"Certaines applis n'ont pas l'autorisation de se connecter à Internet"</string>
   <string name="permission_exception_title">Voir les permissions réseau</string>
   <string name="gateway_exception_summary2">"Échec de connexion au serveur"</string>
-  <string name="pref_title_diagnostics_dont_show_float_notification">Afficher les alertes dans les notifications</string>
+  <string name="pref_title_diagnostics_show_float_notification">Notifications flottantes</string>
 </resources>

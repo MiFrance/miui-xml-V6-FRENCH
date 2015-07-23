@@ -97,6 +97,8 @@
   <string name="event_edit">Modifier l\'événement</string>
   <string name="event_info_organizer">Organisateur :</string>
   <string name="event_info_reminders_label">Rappels</string>
+  <string name="event_info_reminders_label_1">Rappel</string>
+  <string name="event_info_reminders_label_more">Rappel %d</string>
   <string name="event_info_title">Afficher l\'événement</string>
   <string name="event_info_title_invite">Invitation à une réunion</string>
   <string name="event_view">Afficher l\'événement</string>

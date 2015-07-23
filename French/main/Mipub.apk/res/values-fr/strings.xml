@@ -95,6 +95,7 @@
   <string name="cannot_get_details">Impossible de récupérer les détails.</string>
   <string name="cannot_send_message">Impossible d\'envoyer le message</string>
   <string name="cannot_send_message_reason">Aucun destinataire valide n\'a été spécifié pour votre message.</string>
+  <string name="check_network">Paramètres Réseau</string>
   <string name="change_duration_activity">Changer la durée</string>
   <string name="check_all">Tout sélectionner</string>
   <string name="chenghu_disable_mms">Impossible d\'utiliser un pseudonyme dans les MMS</string>
@@ -147,6 +148,7 @@
   <string name="copy_to_sdcard">Enregistrer le fichier</string>
   <string name="copy_to_sdcard_fail">Impossible enreg. pièce jointe.</string>
   <string name="copy_to_sdcard_success">Pièce jointe enregistrée sous %s</string>
+  <string name="current_service_number">Numéro de service actuel</string>
   <string name="database_corruption">Base de données corrompue, reconstruction…</string>
   <string name="delete">Supprimer</string>
   <string name="delete_bookmark">Supprimer des favoris</string>
@@ -173,6 +175,7 @@
   <string name="edit_nickname_for_nocontact">Aucun destinataire trouvé. Vous devez avoir au moins un destinataire pour éditer son nom.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Vous devez avoir au moins un destinataire pour éditer des noms.</string>
   <string name="edit_phrase">Modifier les phrases</string>
+  <string name="empty_mipub_list">Vider</string>
   <string name="edit_slide_activity">Modifier la diapositive</string>
   <string name="edit_slideshow_activity">Modifier le diaporama</string>
   <string name="enable_password_protect">Schéma de verrouillage requis</string>
@@ -191,8 +194,8 @@
   <string name="failed_to_resize_image">L\'image n\'a pas été redimensionnée.</string>
   <string name="fdn_check_failure">Vous pouvez envoyer des messages uniquement vers vos numéros autorisés.</string>
   <string name="festival">Recommandé</string>
-  <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">Je voudrais partager des fichiers avec vous</string>
+  <string name="followed_accounts">Comptes suivis</string>
   <string name="forward_from">Transf. depuis :</string>
   <string name="forward_prefix">"TR : "</string>
   <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
@@ -227,6 +230,7 @@
   <string name="menu_edit">Modifier</string>
   <string name="menu_forward">Transférer</string>
   <string name="menu_lock">Verrouiller</string>
+  <string name="menu_more_service">Plus</string>
   <string name="menu_new_manual">Saisir le numéro manuellement</string>
   <string name="menu_pick_from_contact">Sélectionner à partir des contacts</string>
   <string name="menu_preferences">Paramètres</string>
@@ -250,6 +254,9 @@
   <string name="message_too_big_for_video">Impossible de joindre une vidéo. Le message est trop volumineux.</string>
   <string name="message_type_label">"Type : "</string>
   <string name="messagelist_sender_self">Moi</string>
+  <string name="mipub_message_block">Ne pas recevoir les messages de %s</string>
+  <string name="mipub_message_block_already">Vous avez déjà activé cette option</string>
+  <string name="mipub_message_receive">Recevoir les messages de %s</string>
   <string name="mipub_messaging_entry_title">Messages Mi</string>
   <string name="mms">MMS</string>
   <string name="move_down">Déplacer vers le bas</string>
@@ -462,6 +469,7 @@
   <string name="too_many_attachments">Le nombre de pièces jointes est limité à %1$s. Seules les %2$s premières seront ajoutées.</string>
   <string name="too_many_recipients">Le message comporte trop de destinataires (%1$s). Le nombre de destinataires est limité à %2$s.</string>
   <string name="too_many_unsent_mms">"Impossible d'envoyer le message maintenant. Trop grand nombre de MMS non envoyés."</string>
+  <string name="try_again">Réessayer</string>
   <string name="try_to_send">Essayer d\'envoyer</string>
   <string name="type_attachment">pièce jointe</string>
   <string name="type_audio">audio</string>

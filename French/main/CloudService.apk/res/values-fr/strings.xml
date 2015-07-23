@@ -329,10 +329,11 @@ Dernière sauvegarde : %2$s"</string>
   <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messages, Galerie, et les autres applis système MIUI ne seront pas affectées.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Sauvegarder les données des applis</string>
   <string name="activate_number_change_dialog_message">Choisissez un numéro de téléphone qui sera visible par les autres correspondants lors d\'un appel VoIP</string>
-  <string name="mx_dspt_provision_with_voip">Appelez les autres utilisateurs de MIUI gratuitement via votre connexion Internet. Vous pouvez activer/désactiver cette fonction à tout moment dans les Paramètres.</string>
+  <string name="mx_dspt_provision_with_voip">Appelez les autres utilisateurs de MIUI gratuitement via votre connexion Internet. Vous pouvez activer/désactiver cette fonction à tout moment dans les Paramètres. VoIP est fourni par Weihui. Consultez la politique de confidentialité de Weihui.</string>
+  <string name="mx_dspt_provision_with_voip2">Politique de confidentialité</string>
   <string name="mx_sub_dspt_provision_with_voip">Appels Internet</string>
+  <string name="mx_voip_dspt">Mi Communication</string>
   <string name="voip_choose_sim">Choisissez un numéro de téléphone pour activer Mi Voice</string>
-  <string name="voip_dspt">Mi Voice</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="deskclock_backup">Sauvegarde des horloges</string>
   <string name="micloud_main_suggest_setting">"En attente de connexion au Wi-Fi pour synchroniser

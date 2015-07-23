@@ -144,12 +144,12 @@
   <string name="download_dialog_file_length_hint_txt">"Taille du fichier : "</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
-  <string name="download_dialog_file_length_nolength_txt">Calcul de la taille du fichier</string>
+  <string name="download_dialog_file_length_nolength_txt">Un instant…</string>
   <string name="download_failed">Le téléchargement a échoué</string>
   <string name="download_no_sdcard_dlg_msg">Le téléchargement de %1$s requiert une carte SD.</string>
   <string name="download_no_sdcard_dlg_title">Aucune carte SD</string>
   <string name="download_pending">Démarrage du téléchargement…</string>
-  <string name="download_sdcard_busy_dlg_msg">La carte SD est indisponible. Pour autoriser les téléchargements, sélectionnez l\'option \"Désactiver la mémoire de stockage USB\" dans la notification.</string>
+  <string name="download_sdcard_busy_dlg_msg">La carte SD est indisponible. Pour autoriser les téléchargements, désactivez la mémoire de stockage USB dans le menu déroulant des notifications.</string>
   <string name="download_sdcard_busy_dlg_title">Carte SD non disponible</string>
   <string name="downloaded">Téléchargé</string>
   <string name="downloading">En cours de téléchargement…</string>
@@ -413,7 +413,7 @@
   <string name="readmode_login">Connexion au compte</string>
   <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
   <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Actualiser pour réessayer</string>
-  <string name="readmode_page_loading">Chargement, veuillez patienter…</string>
+  <string name="readmode_page_loading">Un instant…</string>
   <string name="readmode_pay">S\'abonner au chapitre</string>
   <string name="readmode_pay_message">Les chapitres suivants nécessitent un abonnement avant de pouvoir les lire</string>
   <string name="readmode_reach_last_page">La dernière page a été atteinte</string>

@@ -230,6 +230,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="btn_text_quick_cleanup">Nettoyer</string>
   <string name="btn_text_quick_scan">Analyser</string>
   <string name="btn_text_done">OK</string>
+  <string name="btn_text_power_cleanup">Super Nettoyage</string>
   <string name="btn_text_quick_optimize">Optimiser</string>
   <string name="menu_text_antivirus">Anti-virus</string>
   <string name="menu_text_networkassistants">Moniteur réseau</string>
@@ -312,6 +313,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="hints_scan_result_risk">Menaces détectées</string>
   <string name="hints_scan_result_virus">Virus détectés</string>
   <string name="hints_virus_scan_result_descx">Cette application représente un risque majeur pour la sécurité de votre appareil</string>
+  <string name="history_details_title">Détails de l\'historique</string>
   <string name="hints_unknown_virus_name">Inconnu</string>
   <string name="descx_quick_scan_done">Analyse terminée</string>
   <string name="descx_quick_scan_cancel">Analyse annulée</string>

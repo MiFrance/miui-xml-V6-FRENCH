@@ -262,18 +262,21 @@
   <string name="content_description">%1$s à propos de %2$s, %3$s le %4$s, %5$s</string>
   <string name="content_description_today">%1$s à propos de %2$s, %3$s à %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Ajouter un contact</string>
+  <string name="contextmenu_call">Appeler</string>
   <string name="contextmenu_copy">Copier</string>
   <string name="contextmenu_copylink">Copier l\'URL</string>
   <string name="contextmenu_dial_dot">Composer…</string>
   <string name="contextmenu_feedback">Retour d\'expérience</string>
   <string name="contextmenu_help">Aide</string>
   <string name="contextmenu_map">Carte</string>
+  <string name="contextmenu_open">Ouvrir</string>
   <string name="contextmenu_openlink">Ouvrir dans le navigateur</string>
   <string name="contextmenu_send_mail">Envoyer un e-mail</string>
   <string name="contextmenu_sharelink">Partager le lien</string>
   <string name="contextmenu_sms_dot">Envoyer un SMS…</string>
   <string name="conversation_folder_moved">Déplacée vers %1$s</string>
   <string name="conversation_photo_welcome_text">Appuyez sur l\'image d\'un expéditeur pour sélectionner la conversation.</string>
+  <string name="copied">Copié</string>
   <string name="copy_email">Copier l\'adresse e-mail</string>
   <string name="copy_number">Copier le numéro de téléphone</string>
   <string name="create_action">Créer</string>
@@ -304,6 +307,7 @@
   <string name="done_action">OK</string>
   <string name="download_again">Retélécharger</string>
   <string name="download_failed">"Télécharg. impossible. Appuyez pour réessayer."</string>
+  <string name="download_message_failed_for_too_large">Le message est trop gros pour être téléchargé.</string>
   <string name="draft_count_format">&#160;(%1$s)</string>
   <string name="drawer_close">Fermer le panneau de navigation</string>
   <string name="drawer_open">Ouvrir le panneau de navigation</string>
@@ -475,6 +479,7 @@
   <string name="preferences_signature_title">Signature</string>
   <string name="preview_attachment">Prévisualiser</string>
   <string name="previous_action">Précédente</string>
+  <string name="print">Imprimer</string>
   <string name="provider_note_live">"Seuls certains comptes \"Plus\" disposent d'un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l'adresse e-mail et le mot de passe corrects, vous ne possédez peut-être pas de compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez le navigateur Web."</string>
   <string name="provider_note_t_online">Avant de configurer ce compte de messagerie, consultez le site Web de T-Online et créez un mot de passe d\'accès à la messagerie POP3.</string>
   <string name="quick_1">Merci !</string>
