@@ -42,6 +42,8 @@
   <string name="download_title_sorted_by_date">Téléchargements : triés par date</string>
   <string name="download_title_sorted_by_size">Téléchargements : triés par taille</string>
   <string name="download_when_network_connected">Le téléchargement utilise le réseau mobile</string>
+  <string name="downloaded_empty">Vider</string>
+  <string name="downloading_empty">Vider</string>
   <string name="downloads_operating">En cours…</string>
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
@@ -72,6 +74,7 @@
   <string name="select_all">Tout sélectionner</string>
   <string name="select_operation_items">Sélectionner les éléments</string>
   <string name="selected_count">%1$d sélectionné(s) sur %2$d</string>
+  <string name="show_more">Afficher %s de plus</string>
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_switch">Accélérateur de téléchargement Xunlei</string>
   <string name="turn_off_xunlei_message">Votre vitesse de téléchargement sera, peut-être, réduite.</string>
