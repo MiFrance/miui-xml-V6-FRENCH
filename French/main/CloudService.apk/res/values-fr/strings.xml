@@ -114,14 +114,9 @@ Pour résoudre ce problème, vous pouvez supprimer les anciens fichiers, ou ache
   <string name="micloud_storage_usage" formatted="false">utilisé : %s | total : %s</string>
   <string name="storage">Espace de stockage</string>
   <string name="setting">Paramètres</string>
-  <string name="sync_setting">Économie des données</string>
-  <string name="sync_standard">Normal</string>
-  <string name="only_in_wlan">Uniquement via Wi-Fi</string>
   <string name="photo">Photos</string>
   <string name="contact">Contacts</string>
   <string name="sms">SMS</string>
-  <string name="cloud_sync_setting_summary_standard">Les photos, vidéos, MMS, données des applis et images des contacts ne seront synchronisés qu\'en Wi-Fi, le reste le sera via le réseau mobile</string>
-  <string name="cloud_sync_setting_summary_wlan">Les données seront synchronisés uniquement via Wi-Fi</string>
   <string name="enable_cloud_service_notification">Vous n\'avez pas activé le service Mi Cloud</string>
   <string name="sync_item_calllog_title">Synchroniser le journal d\'appels</string>
   <string name="sync_item_calllog_summary">Synchronise le journal d\'appels émis et reçus sur ce téléphone</string>
