@@ -27,19 +27,83 @@
       <item quantity="one">%1$d sélectionné</item>
   </plurals>
   <plurals name="items_file">
-        <item quantity="other"> (%1$d éléments)</item>
-        <item quantity="zero"> (%1$d éléments)</item>
-        <item quantity="one"> (%1$d élément)</item>
-        <item quantity="two"> (%1$d éléments)</item>
-        <item quantity="few"> (%1$d éléments)</item>
-        <item quantity="many"> (%1$d éléments)</item>
-    </plurals>
-    <plurals name="items_picture">
-        <item quantity="other"> (%1$d éléments)</item>
-        <item quantity="zero"> (%1$d éléments)</item>
-        <item quantity="one"> (%1$d élément)</item>
-        <item quantity="two"> (%1$d éléments)</item>
-        <item quantity="few"> (%1$d éléments)</item>
-        <item quantity="many"> (%1$d éléments)</item>
-    </plurals>
+      <item quantity="other"> (%1$d éléments)</item>
+      <item quantity="zero"> (%1$d éléments)</item>
+      <item quantity="one"> (%1$d élément)</item>
+      <item quantity="two"> (%1$d éléments)</item>
+      <item quantity="few"> (%1$d éléments)</item>
+      <item quantity="many"> (%1$d éléments)</item>
+  </plurals>
+  <plurals name="items_picture">
+      <item quantity="other"> (%1$d éléments)</item>
+      <item quantity="zero"> (%1$d éléments)</item>
+      <item quantity="one"> (%1$d élément)</item>
+      <item quantity="two"> (%1$d éléments)</item>
+      <item quantity="few"> (%1$d éléments)</item>
+      <item quantity="many"> (%1$d éléments)</item>
+  </plurals>
+  <plurals name="search_head_hint_app">
+      <item quantity="other">Fichiers liés à l\'appli %1$s (%2$d éléments)</item>
+      <item quantity="zero">Fichiers liés à l\'appli %1$s (%2$d éléments)</item>
+      <item quantity="one">Fichiers liés à l\'appli %1$s (%2$d élément)</item>
+      <item quantity="two">Fichiers liés à l\'appli %1$s (%2$d éléments)</item>
+      <item quantity="few">Fichiers liés à l\'appli %1$s (%2$d éléments)</item>
+      <item quantity="many">Fichiers liés à l\'appli %1$s (%2$d éléments)</item>
+  </plurals>
+  <plurals name="search_head_hint_file">
+      <item quantity="other">Fichiers liés à %1$s (%2$d éléments)</item>
+      <item quantity="zero">Fichiers liés à %1$s (%2$d éléments)</item>
+      <item quantity="one">Fichiers liés à %1$s (%2$d élément)</item>
+      <item quantity="two">Fichiers liés à %1$s (%2$d éléments)</item>
+      <item quantity="few">Fichiers liés à %1$s (%2$d éléments)</item>
+      <item quantity="many">Fichiers liés à %1$s (%2$d éléments)</item>
+  </plurals>
+  <plurals name="search_head_hint_tag">
+      <item quantity="other">Fichiers liés au tag %1$s (%2$d éléments)</item>
+      <item quantity="zero">Fichiers liés au tag %1$s (%2$d éléments)</item>
+      <item quantity="one">Fichiers liés au tag %1$s (%2$d élément)</item>
+      <item quantity="two">Fichiers liés au tag %1$s (%2$d éléments)</item>
+      <item quantity="few">Fichiers liés au tag %1$s (%2$d éléments)</item>
+      <item quantity="many">Fichiers liés au tag %1$s (%2$d éléments)</item>
+  </plurals>
+  <plurals name="mins_ago">
+      <item quantity="other">Il y a %1$d minutes</item>
+      <item quantity="zero">Il y a %1$d minutes</item>
+      <item quantity="one">Il y a %1$d minute</item>
+      <item quantity="two">Il y a %1$d minutes</item>
+      <item quantity="few">Il y a %1$d minutes</item>
+      <item quantity="many">Il y a %1$d minutes</item>
+  </plurals>
+  <plurals name="hours_ago">
+      <item quantity="other">Il y a %1$d heures</item>
+      <item quantity="zero">Il y a %1$d heures</item>
+      <item quantity="one">Il y a %1$d heure</item>
+      <item quantity="two">Il y a %1$d heures</item>
+      <item quantity="few">Il y a %1$d heures</item>
+      <item quantity="many">Il y a %1$d heures</item>
+  </plurals>
+  <plurals name="days_ago">
+      <item quantity="other">Il y a %1$d jours</item>
+      <item quantity="zero">Il y a %1$d jours</item>
+      <item quantity="one">Il y a %1$d jour</item>
+      <item quantity="two">Il y a %1$d jours</item>
+      <item quantity="few">Il y a %1$d jours</item>
+      <item quantity="many">Il y a %1$d jours</item>
+  </plurals>
+  <plurals name="found_new_files">
+      <item quantity="other">%1$d nouveaux fichiers trouvés</item>
+      <item quantity="zero">%1$d nouveaux fichiers trouvés</item>
+      <item quantity="one">%1$d nouveau fichier trouvé</item>
+      <item quantity="two">%1$d nouveaux fichiers trouvés</item>
+      <item quantity="few">%1$d nouveaux fichiers trouvés</item>
+      <item quantity="many">%1$d nouveaux fichiers trouvés</item>
+  </plurals>
+  <plurals name="file_notify_title">
+      <item quantity="other">%1$d fichiers reçus pour l\'appli %2$s</item>
+      <item quantity="zero">%1$d fichiers reçus pour l\'appli %2$s</item>
+      <item quantity="one">%1$d fichier reçu pour l\'appli %2$s</item>
+      <item quantity="two">%1$d fichiers reçus pour l\'appli %2$s</item>
+      <item quantity="few">%1$d fichiers reçus pour l\'appli %2$s</item>
+      <item quantity="many">%1$d fichiers reçus pour l\'appli %2$s</item>
+  </plurals>
 </resources>

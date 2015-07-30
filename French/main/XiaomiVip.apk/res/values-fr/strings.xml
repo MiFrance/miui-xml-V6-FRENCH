@@ -2,7 +2,7 @@
 <resources>
   <string name="action">Voir</string>
   <string name="already_used">Utilisé</string>
-  <string name="app_name">Mi VIP</string>
+  <string name="app_name">XiaomiVIP</string>
   <string name="award_taken">Points collectés</string>
   <string name="award_time">Collectés sur %s</string>
   <string name="awarded_package_is_expired">Expiré</string>
@@ -29,7 +29,7 @@
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
   <string name="my_award">Mes récompenses</string>
-  <string name="no_app">Veuillez d\'abord installer l\'application Mi VIP</string>
+  <string name="no_app">Veuillez d\'abord installer l\'application</string>
   <string name="no_award">Aucune récompense</string>
   <string name="no_network">"Echec de connexion au réseau"</string>
   <string name="no_task">Toutes les tâches ont été effectuées</string>

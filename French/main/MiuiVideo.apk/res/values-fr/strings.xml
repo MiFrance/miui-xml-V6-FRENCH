@@ -454,6 +454,7 @@
      <string name="vp_video_loading"><CDATA>Chargement…</CDATA></string>
 	 <string name="ads_control">Contrôle des publicités</string>
 	 <string name="ads_control_desc">Affiche des publicités au démarrage de l\'application</string>
+     <string name="ads_ignore">Ignorer</string>
 	 <string name="alert_dialog_download_btn_hide">Masquer</string>
 	 <string name="alert_dialog_download_dup_task">Attente de la fin d\'un téléchargement existant...</string>
 	 <string name="alert_dialog_download_error">Erreur de téléchargement</string>
