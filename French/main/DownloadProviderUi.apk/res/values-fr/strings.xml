@@ -48,7 +48,7 @@
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
   <string name="expire_notification_msg">Votre abonnement à Xunlei va bientôt expirer.</string>
-  <string name="expire_today_notification_msg">Votre abonnement à Xunlei expire aujourd'hui.</string>
+  <string name="expire_today_notification_msg">Votre abonnement à Xunlei expire aujourd\'hui.</string>
   <string name="keep_queued_download">Conserver</string>
   <string name="menu_enter_edit_mode">Éditeur</string>
   <string name="menu_preferences">Paramètres</string>
