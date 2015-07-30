@@ -198,9 +198,9 @@ toucher le dos de votre téléphone avec un autre tag.""</string>
   <string name="xiaomi_external_storage_unavailable">Stockage indisponible, veuillez vérifier la carte SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$s Ko</string>
   <string name="xiaomi_megabytes_unit">%1$s Mo</string>
-  <string name="xiaomi_update_dialog_message">"Version %1$s disponible
+  <string name="xiaomi_update_dialog_message">"Nouvelle version %1$s disponible
 Taille : %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Version %1$s disponible
+  <string name="xiaomi_update_dialog_message_diff">"Nouvelle version %1$s disponible
 Taille delta patch : %2$s"</string>
   <string name="xiaomi_update_dialog_title">Mise à jour %1$s !</string>
   <string name="write_pon_pon_tile">Écrire</string>

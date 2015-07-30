@@ -35,6 +35,9 @@
   <string name="account">Compte</string>
   <string name="action">Se connecter</string>
   <string name="action_menu_text_add_bookmark">Ajouter un favori</string>
+  <string name="action_menu_text_bandwidth">Economiseur de données</string>
+  <string name="action_menu_text_bandwidth_off">Economiseur inactif</string>
+  <string name="action_menu_text_bandwidth_on">Economiseur actif</string>
   <string name="add_bookmark">"Ajouter un favori "</string>
   <string name="add_folder">Ajouter un dossier</string>
   <string name="add_new_bookmark">Ajouter un favori</string>
@@ -97,7 +100,7 @@
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Dernier onglet</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisser haut pour fermer</string>
   <string name="browserFrameFileErrorLabel">Problème de fichier</string>
-  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées (\"POSTDATA\"). Si vous les renvoyez, toute action effectuée par le formulaire sur la page exécutée (telle que les recherches ou les achats en ligne) sera répétée."</string>
+  <string name="browserFrameFormResubmitMessage">"La page que vous tentez d'afficher contient des données qui ont déjà été envoyées. Si vous les renvoyez, les actions précédentes (telles que les recherches ou les achats en ligne) seront répétées."</string>
   <string name="browserFrameNetworkErrorLabel">Problème de connexion</string>
   <string name="cancel">Annuler</string>
   <string name="cannot_download">Vous ne pouvez télécharger que des URL de type \"http\" et \"https\".</string>
@@ -140,7 +143,7 @@
   <string name="download">Télécharger</string>
   <string name="download_complete">Téléchargement terminé</string>
   <string name="download_default_path_txt">Définir comme chemin de téléchargement par défaut et ne plus me demander</string>
-  <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
+  <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide. Enregistrement dans le chemin par défaut…</string>
   <string name="download_dialog_file_length_hint_txt">"Taille du fichier : "</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
@@ -567,9 +570,9 @@
   <string name="miuichromium_save_password_remember">Retenir</string>
   <string name="miuichromium_save_password_never">Jamais</string>
   <string name="webview_js_dialog_before_unload_title">Confirmer la Navigation</string>
-  <string name="webview_js_dialog_before_unload_positive_button">Quitter cette page</string>
-  <string name="webview_js_dialog_before_unload_negative_button">Rester sur cette Page</string>
-  <string name="webview_js_dialog_before_unload">"%s Êtes-vous sûr de vouloir quitter cette page ?"</string>
+  <string name="webview_js_dialog_before_unload_positive_button">Quitter</string>
+  <string name="webview_js_dialog_before_unload_negative_button">Rester</string>
+  <string name="webview_js_dialog_before_unload">"Quitter cette page ?"</string>
   <string name="webview_ok">OK</string>
   <string name="webview_cancel">Quitter</string>
   <string name="webview_js_dialog_title">La page \"%s\" renvoie le message :</string>
@@ -597,7 +600,7 @@
   <string name="sub_sync_item_browser_title_novel_summary">Synchronise les livres du navigateur</string>
   <string name="sub_sync_item_browser_title_cloud_tab">Synchroniser les onglets</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchronise les onglets ouverts du navigateur sur les autres appareils</string>
-  <string name="snapshot_successed">Enregistrement pour lecture hors-ligne effectué</string>
+  <string name="snapshot_successed">Enregistrer pour lecture hors-connexion</string>
   <string name="dont_remind_again">Se souvenir de mon choix</string>
   <string name="use_cellular_network_alert_title">Avertissement</string>
   <string name="use_cellular_network_alert_message">Wi-Fi non disponible, utiliser le réseau mobile ?</string>
@@ -609,7 +612,7 @@
   <string name="miuichromium_error_page_title">Impossible de trouver cette page</string>
   <string name="miuichromium_error_page_reason_network">"Echec de connexion au réseau"</string>
   <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
-  <string name="miuichromium_error_page_wlan">Wi-Fi</string>
+  <string name="miuichromium_error_page_wlan">Paramètres Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation requise</string>
   <string name="miuishare_account_activate_ok">Activer</string>
   <string name="miuishare_account_login_cancel">Annuler</string>
@@ -628,7 +631,7 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
   <string name="miuichromium_error_page_reload">Recharger</string>
-  <string name="miuichromium_error_page_url">Afficher l\'URL de la page</string>
+  <string name="miuichromium_error_page_url">Echec de connexion au réseau</string>
   <string name="webapp_add_to_favorite_toast">Ajouté aux favoris</string>
   <string name="webapp_webapp_favortes_title">Mes favoris</string>
   <string name="webapp_menu_addtodesk">Ajouter à l\'accueil</string>
@@ -777,10 +780,10 @@
   <string name="data_traffic_prompt_title">Alerte d\'utilisation des données</string>
   <string name="enter_developer_mode">Passer en mode développeur</string>
   <string name="find_on_page_cancel">Annuler</string>
-  <string name="find_on_page_hint">Taper votre recherche</string>
+  <string name="find_on_page_hint">Rechercher dans la page</string>
   <string name="find_on_page_next">Suivant</string>
   <string name="find_on_page_prev">Précédent</string>
-  <string name="maximum_input_alert">2048 caractères maximum</string>
+  <string name="maximum_input_alert">Impossible de saisir plus de 2048 caractères</string>
   <string name="suggest_access_appstore">Mi App Store</string>
   <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Maj : %s</string>
