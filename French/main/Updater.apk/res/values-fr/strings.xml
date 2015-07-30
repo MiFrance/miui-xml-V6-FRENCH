@@ -117,6 +117,10 @@
   <string name="sina_share_success">Envoyé</string>
   <string name="sina_token_expired_warning">Le compte Weibo a expiré, veuillez vous reconnecter</string>
   <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
+  <string name="sogou_uninstall_msg">Le clavier Sogou (Edition Mi) n\'est plus compatible avec MIUI 6. Changez de clavier ou installez une version plus récente de Sogou.</string>
+  <string name="sogou_uninstall_negative_button">Mettre à jour Sogou</string>
+  <string name="sogou_uninstall_positive_button">Changer de clavier</string>
+  <string name="sogou_uninstall_title">Compatibilité du clavier</string>
   <string name="space_not_enough_title">Espace de stockage insuffisant</string>
   <string name="stable_build">stable</string>
   <string name="submit">Envoyer</string>

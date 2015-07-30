@@ -30,9 +30,9 @@ Voulez-vous autoriser cette installation, ainsi que d\'autres à l\'avenir ?"</
   <string name="app_not_found_dlg_text">L\'application ne figure pas dans la liste des applications installées.</string>
   <string name="app_not_found_dlg_title">Application non trouvée</string>
   <string name="app_store_install_hint">Installer maintenant</string>
-  <string name="app_store_installing_message">Installation de l\'App Store ……</string>
-  <string name="app_store_missing_message">L\'App Store Xiaomi n\'est pas installé sur cet appareil, nous vous suggérons de l\'installer immédiatement.</string>
-  <string name="app_store_missing_title">App Store manquant</string>
+  <string name="app_store_installing_message">Installation…</string>
+  <string name="app_store_missing_message">"Il semble que vous n\'ayez pas installé notre App Store officiel. L\'installer maintenant ?"</string>
+  <string name="app_store_missing_title">L\'App Store n\'est pas installé</string>
   <string name="auto_startup_dialog_msg">"MIUI autorisera l\'application à démarrer automatiquement sans confirmation, ce qui peut engendrer une consommation d\'énergie et de données.
   Autoriser le démarrage automatique ?"</string>
   <string name="caller_app">Source : %1$s</string>
@@ -84,7 +84,7 @@ Toutes les données utilisateur existantes seront sauvegardées."</string>
   <string name="perm_sysopt_boost_auto_start">Autorisation de démarrage auto</string>
   <string name="perm_sysopt_boost_auto_start_summary">L\'application démarrera automatiquement !</string>
   <string name="privacy_relative">Autorisations de confidentialité</string>
-  <string name="reboot_time">Préparation au redémarrage……(%1$s)</string>
+  <string name="reboot_time">Préparation pour le redémarrage… (%1$s)</string>
   <string name="safe_guard_support">Propulsé par %1$s</string>
   <string name="safe_relative">Autorisations de sécurité</string>
   <string name="security_settings_desc">Autoriser cette application à :</string>

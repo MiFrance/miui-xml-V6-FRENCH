@@ -411,6 +411,8 @@ Vous pouvez l\'utiliser pour vous connecter et récupérer votre mot de passe."<
   <string name="passport_wrong_phone_number_format">Le format du n° de téléphone saisi est invalide</string>
   <string name="passport_wrong_vcode">Le code saisi est incorrect</string>
   <string name="passport_xiaomi_account_dspt">Utilisez votre compte Mi pour vous connecter au Mi Cloud, à la boutique de thèmes et aux autres services Mi, d\'où que vous soyez.</string>
+  <string name="passport_xiaomi_account_sec_dspt"/>
+  <string name="passport_xiaomi_account_sec_dspt2">L\'accès au compte Mi nécessite une connexion Internet. De plus, les accès à la localisation, Mi Cloud, et Mi VIP seront activés automatiquement.</string>
   <string name="phone_activated">%s activé</string>
   <string name="phone_unactivated">Désactivé</string>
   <string name="phone_unknown">Inconnu</string>

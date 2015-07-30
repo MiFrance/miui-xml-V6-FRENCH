@@ -587,7 +587,7 @@
   <string name="original_scale">Échelle d\'origine</string>
   <string name="paint_crop_cancel_context">Enregistrer l\'image recadrée ?</string>
   <string name="paint_crop_cancel_title">Annuler les modifications</string>
-  <string name="paint_crop_tips">Pour obtenir une meilleure image, essayez d\'ajuster les points des zones d\'intérêt sur la grille.</string>
+  <string name="paint_crop_tips">Placez la zone cible de l\'image près du centre de la grille.</string>
   <string name="same_name_album_exists_alert">Les photos seront transférées sur un album existant avec le même nom.</string>
   <string name="sdcard_root">Répertoire racine de la carte SD</string>
   <string name="select_auto_upload_albums">Sélectionnez les albums à synchroniser</string>
@@ -630,7 +630,7 @@
   <string name="hybrid_network_access_denied">Accès réseau refusé</string>
   <string name="hybrid_network_unavaliable">"Echec de connexion au réseau"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Tirer pour rafraîchir…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Chargement…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Un instant…</string>
   <string name="hybrid_pull_to_refresh_release_label">Relâcher pour rafraîchir…</string>
   <string name="hybrid_service_unavailiable">Service indisponible</string>
   <string name="hybrid_try_again">Réessayer</string>

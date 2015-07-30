@@ -47,11 +47,16 @@
   <string name="downloads_operating">En cours…</string>
   <string name="editmode_menu_delete">Supprimer</string>
   <string name="editmode_menu_share">Partager</string>
+  <string name="expire_notification_msg">Votre abonnement à Xunlei va bientôt expirer.</string>
+  <string name="expire_today_notification_msg">Votre abonnement à Xunlei expire aujourd'hui.</string>
   <string name="keep_queued_download">Conserver</string>
   <string name="menu_enter_edit_mode">Éditeur</string>
   <string name="menu_preferences">Paramètres</string>
   <string name="missing_title">&lt;Inconnu&gt;</string>
   <string name="no_downloads">Aucun téléchargement</string>
+  <string name="no_vip_info">Abonnez-vous à Xunlei pour accélérer vos téléchargements</string>
+  <string name="no_vip_show_info">"Accélérez vos téléchargements
+sur tous vos appareils avec Xunlei"</string>
   <string name="open_download">Ouvrir</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Mis en pause</string>
@@ -75,6 +80,14 @@
   <string name="select_operation_items">Sélectionner les éléments</string>
   <string name="selected_count">%1$d sélectionné(s) sur %2$d</string>
   <string name="show_more">Afficher %s de plus</string>
+  <string name="start_xunlei_speedup_info">Identifiez-vous pour accélérer vos téléchargements.</string>
+  <string name="third_web_cancel">Cancel</string>
+  <string name="third_web_confirm">OK</string>
+  <string name="third_web_default">Remember this location</string>
+  <string name="third_web_filename_hint">Name</string>
+  <string name="third_web_filesize">Size</string>
+  <string name="third_web_savepath">Location</string>
+  <string name="third_web_title">Save</string>
   <string name="xunlei_brand">Propulsé par Xunlei</string>
   <string name="xunlei_switch">Accélérateur de téléchargement Xunlei</string>
   <string name="turn_off_xunlei_message">Votre vitesse de téléchargement sera, peut-être, réduite.</string>
@@ -133,6 +146,12 @@
   <string name="dialog_confirm_delete_downloads_message">Supprimer les %d téléchargements ?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Supprimer</string>
   <string name="vip_auto_speedup">Accélération directe pour les membres VIP Xunlei</string>
+  <string name="vip_expire_show_info">"Votre abonnement à Xunlei a expiré.
+Renouvelez dès maintenant et profitez de 5% de réduction."</string>
+  <string name="vip_expire_today_show_info">"Votre abonnement à Xunlei a expiré.
+Renouvelez dès maintenant et profitez de 5% de réduction."</string>
+  <string name="vip_show_info">"5 millions d\'abonnés.
+Accélérez les téléchargements sur tous vos appareils."</string>
   <string name="high_speed_channel">Canal à haute vitesse</string>
   <string name="add_flow_fail_haveget_msg">La période d\'essai a expiré.</string>
   <string name="add_flow_fail_vip_msg">L\'accélérateur Xunlei est actif</string>
@@ -160,11 +179,4 @@
   <string name="recommend_show_other_downloads">Afficher les populaires</string>
   <string name="mi_money">Mi Money</string>
   <string name="display_expire_netiv1">Propriétaire du mois</string>
-  <!--
-  <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用
-  可在右上角设置中更改配置"</string>
-  <string name="xunlei_close_tips_button">立即加速</string>
-  <string name="xunlei_close_tips_content">95%用户已选择</string>
-  <string name="xunlei_close_tips_title">迅雷免费帮您提升下载速度</string>
-  -->
 </resources>

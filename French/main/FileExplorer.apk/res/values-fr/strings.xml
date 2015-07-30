@@ -91,9 +91,11 @@
   <string name="file_info_modified">Date de modification :</string>
   <string name="file_info_size">Taille :</string>
   <string name="file_loading">Chargement…</string>
+  <string name="file_name_invalid">"Les noms de fichiers ne peuvent contenir les caractères suivants: /\\:*?&lt;&gt;"</string>
   <string name="file_too_large">Le fichier est trop volumineux et ne peut être envoyé</string>
   <string name="finished">Terminé</string>
   <string name="folder_exist">Un dossier avec le même nom existe déjà</string>
+  <string name="folder_name_empty">Le nom de dossier ne peut être vide</string>
   <string name="folder_name_illegal">Nom de dossier non valide</string>
   <string name="forward_to_web_recycle_prompt"><a href="%1$s">Appuyez ici</a> pour ouvrir la corbeille du cloud</string>
   <string name="ftp_account_req_notice">Le nom de l\'utilisateur et le mot de passe doivent contenir de 4 à 16 caractères, peuvent contenir des chiffres et des lettres. Sensible à la casse.</string>
@@ -130,7 +132,7 @@
   <string name="migrate_announcement_msg">Si vous avez un compte vous pouvez y accéder dans les paramètres et préférences d\'accès</string>
   <string name="move_failed">Impossible de déplacer</string>
   <string name="multi_select_title">%1$s élément(s) sélectionné(s)</string>
-  <string name="name_illegal">Le nom de fichier ne peut être vide</string>
+  <string name="name_empty">Vous devez saisir un nom.</string>
   <string name="net_lose_connected">Réseau non disponible, impossible d\'obtenir la taille</string>
   <string name="networkView_notConnected">Aucun réseau disponible</string>
   <string name="new_folder_name">Nouveau dossier</string>
@@ -187,8 +189,10 @@
   <string name="operation_unfavorite">Supprimer des favoris</string>
   <string name="pan_settting">Paramètres KuaiPan</string>
   <string name="paused">En pause</string>
+  <string name="port_range">Le port doit être compris dans l\'intervalle 1024–65535</string>
   <string name="pull_to_signin">Glissez vers le bas pour vous connecter</string>
   <string name="release_to_signin">Libérez pour vos connecter</string>
+  <string name="rename_alert">"Si vous changez l'extension de ce fichier, vous ne serez peut-être plus en mesure de l'ouvrir."</string>
   <string name="rename_description">Changement de nom, veuillez patienter…</string>
   <string name="rename_failed">Le changement de nom de %1$s a échoué</string>
   <string name="sd_card_available">Disponible : %1$s</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="action">Voir</string>
   <string name="already_used">Utilisé</string>
-  <string name="app_name">XiaomiVip</string>
+  <string name="app_name">Mi VIP</string>
   <string name="award_taken">Points collectés</string>
   <string name="award_time">Collectés sur %s</string>
   <string name="awarded_package_is_expired">Expiré</string>
@@ -22,19 +22,19 @@
   <string name="fail_reach_server">"Echec de connexion au serveur"</string>
   <string name="giveup">Abandonner</string>
   <string name="in_progress">Envoi de la requête…</string>
-  <string name="invalid_json">La réponse est une chaîne JSON invalide</string>
+  <string name="invalid_json">Une erreur est survenue</string>
   <string name="level">Niveau</string>
   <string name="level_detail">Limite de tâches quotidiennes: %d</string>
   <string name="level_exp_value" formatted="false">%d/%d</string>
   <string name="level_info_format" formatted="false">"Niveau %d %d/%d
 %s"</string>
   <string name="my_award">Mes récompenses</string>
-  <string name="no_app">Veuillez d\'abord installer l\'application</string>
+  <string name="no_app">Veuillez d\'abord installer l\'application Mi VIP</string>
   <string name="no_award">Aucune récompense</string>
   <string name="no_network">"Echec de connexion au réseau"</string>
   <string name="no_task">Toutes les tâches ont été effectuées</string>
-  <string name="passive_task">Tâches passives</string>
-  <string name="privilege">Privilège</string>
+  <string name="passive_task">Tâches d\'arrière-plan</string>
+  <string name="privilege">Privilèges</string>
   <string name="promote">Niveau supérieur</string>
   <string name="query_level_fail">"Ne peut récupérer l\'info"</string>
   <string name="query_user_tasks_fail">"Ne peut récupérer l\'info de tâche"</string>
@@ -44,7 +44,7 @@
   <string name="task_begin">En cours…</string>
   <string name="task_completed">Terminée</string>
   <string name="task_done">Effectuée</string>
-  <string name="task_limit">Aucune tâche restante pour aujourd\'hui, à demain!</string>
+  <string name="task_limit">Pas de tâches restantes pour aujourd\'hui. A demain!</string>
   <string name="task_not_completed">Non terminée</string>
   <string name="task_ongoing">En cours</string>
   <string name="task_score">%d points</string>
@@ -54,7 +54,7 @@
   <string name="today_task">"Tâches du jour"</string>
   <string name="today_task_format" formatted="false">%d/%d</string>
   <string name="unlimited_task">Tâches spéciales</string>
-  <string name="upgraded">Niveau Sup!</string>
+  <string name="upgraded">Niv. Sup!</string>
   <string name="use">Utiliser</string>
   <string name="validity">Expire le %s</string>
 </resources>

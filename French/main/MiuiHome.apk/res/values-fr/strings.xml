@@ -129,6 +129,7 @@
   <string name="gadget_photo_44_label">Cadre photo 4x4</string>
   <string name="gadget_photo_22_label">Photo 2x2</string>
   <string name="gadget_photo_24_label">Cadre photo 4x2</string>
+  <string name="gadget_power_clear_button_label">Nettoyage avancé</string>
   <string name="gadget_google_search_label">Recherche Google</string>
   <string name="gadget_load_error">Erreur de chargement du widget…</string>
   <string name="invalid_contact_shortcut">Raccourci du contact non valide</string>

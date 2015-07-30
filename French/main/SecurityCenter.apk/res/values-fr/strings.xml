@@ -230,7 +230,7 @@ Votre appareil est configuré pour basculer sur ce profil quand l\'heure planifi
   <string name="btn_text_quick_cleanup">Nettoyer</string>
   <string name="btn_text_quick_scan">Analyser</string>
   <string name="btn_text_done">OK</string>
-  <string name="btn_text_power_cleanup">Super Nettoyage</string>
+  <string name="btn_text_power_cleanup">Nettoyage avancé</string>
   <string name="btn_text_quick_optimize">Optimiser</string>
   <string name="menu_text_antivirus">Anti-virus</string>
   <string name="menu_text_networkassistants">Moniteur réseau</string>

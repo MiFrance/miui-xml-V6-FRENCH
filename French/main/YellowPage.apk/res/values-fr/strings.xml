@@ -287,4 +287,5 @@
   <string name="network_access_denied">Accès réseau refusé</string>
   <string name="about_phone_event">A propos du service</string>
   <string name="express_banner_header">%1$s / Numéro de suivi</string>
+  <string name="phone_event_setting_notice_text">"Pages Jaunes souhaite transférer les numéros de service certifiés (par ex. votre opérateur mobile) sur les serveurs Mi, afin que vous puissiez recevoir des mises à jour de service."</string> 
 </resources>
