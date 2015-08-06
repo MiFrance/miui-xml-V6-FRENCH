@@ -8,8 +8,7 @@
   <string name="systemui">Barre de notification</string>
   <string name="screen_lock">Écran de verrouillage</string>
   <string name="nonsystemapp_description">Décrivez le problème (en anglais)</string>
-  <string name="suggestion_description">"Description (en anglais) :
-I hope you'll add X feature, because…"</string>
+  <string name="suggestion_description">"Ajouter une description ici</string>
   <string name="title_hot_problem">Bugs courants</string>
   <string name="loading_apps">Chargement…</string>
   <string name="hot_problem">Voir les bugs courants</string>

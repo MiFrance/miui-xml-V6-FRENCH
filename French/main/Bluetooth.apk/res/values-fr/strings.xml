@@ -90,6 +90,8 @@
   <string name="notification_sent">Partage Bluetooth : %1$s envoyé</string>
   <string name="notification_sent_complete">100 % effectués</string>
   <string name="notification_sent_fail">Partage Bluetooth : fichier %1$s non envoyé</string>
+  <string name="notify_device_lose_connection_text">%1$s a perdu la connexion depuis un moment, cliquez pour supprimer le lien.</string>
+  <string name="notify_device_lose_connection_title">L\'appareil %1$s a perdu la connexion</string>
   <string name="notify_server">Avertir le serveur TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferts sortants</string>
@@ -121,6 +123,10 @@
   <string name="transfer_menu_clear">Effacer de la liste</string>
   <string name="transfer_menu_clear_all">Effacer la liste</string>
   <string name="transfer_menu_open">Ouvrir</string>
+  <string name="unbind_device_alert_cancel">Annuler</string>
+  <string name="unbind_device_alert_content">L\'appareil %1$s a perdu la connexion depuis un long moment, et supprimer le lien améliorera les performances. Souhaitez-vous supprimer le lien maintenant ?</string>
+  <string name="unbind_device_alert_ok">OK</string>
+  <string name="unbind_device_alert_title">Supprimer le lien à un appareil</string>
   <string name="unknownName">Nom inconnu</string>
   <string name="unknownNumber">Inconnu</string>
   <string name="unknown_device">Périphérique inconnu</string>

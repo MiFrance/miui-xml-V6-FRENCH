@@ -84,7 +84,7 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="softap_notifif_summary">%d connecté</string>
   <string name="softap_notifif_title">Hotspot \"%s\" actif</string>
   <string name="unknown_caller">Numéro inconnu</string>
-  <string name="handy_mode_summary">Pour fermer, touchez une zone vide hors de l\'écran</string>
+  <string name="handy_mode_summary">Pour fermer, touchez la zone assombrie</string>
   <string name="handy_mode_title">Mode à une main</string>
 
   <string name="perm_send_push_dspt">Autoriser les messages push Mi</string>

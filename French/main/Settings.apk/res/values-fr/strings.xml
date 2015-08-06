@@ -655,7 +655,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="debug_log">Journal de débogage</string>
   <string name="debug_monitoring_category">Suivi</string>
   <string name="default_date_format">dd/MM/yyyy</string>
-  <string name="default_input_method">Choisissez la méthode d\'entrée par défaut</string>
+  <string name="default_input_method">Choisissez le clavier par défaut</string>
   <string name="default_usb_mode">Type de connexion USB par défaut</string>
   <string name="delete">Supprimer</string>
   <string name="deny">Refuser</string>
@@ -686,7 +686,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="device_name">Nom de l\'appareil</string>
   <string name="device_name_input_error">Impossible d\'enregistrer le nom de l\'appareil, veuillez le saisir à nouveau</string>
   <string name="device_name_input_hint">Entrez le nom du périphérique</string>
-  <string name="device_name_usage_point">Autoriser l\'appareil à être découvert par d\'autres périphériques Bluetooth afin de permettre le transfert de fichiers et autres.</string>
+  <string name="device_name_usage_point">Les périphériques à proximité pourront voir le nom de votre appareil.</string>
   <string name="device_picker">Sélectionner un appareil Bluetooth</string>
   <string name="device_sd_memory">Carte SD</string>
   <string name="device_status">État</string>
@@ -846,13 +846,13 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="floating_window_switch_label">Afficher la fenêtre pop-up</string>
   <string name="floating_window_switch_label_disable">Masquer la fenêtre pop-up</string>
   <string name="font_size_huge">Énorme</string>
-  <string name="font_size_large">Grande</string>
-  <string name="font_size_medium">Moyenne</string>
-  <string name="font_size_normal">Standard</string>
+  <string name="font_size_large">Plus grande</string>
+  <string name="font_size_medium">Grande</string>
+  <string name="font_size_normal">Petite</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
-  <string name="font_size_small">Petite</string>
+  <string name="font_size_small">Plus petite</string>
   <string name="font_size_summary">Modifie la taille du texte affiché sur votre appareil.</string>
   <string name="force_hw_ui">Forcer le rendu GPU</string>
   <string name="force_hw_ui_summary">Forcer l\'utilisation du GPU pour le dessin 2D</string>
@@ -912,7 +912,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="ims_reg_required_off">Désactivation de l\'enregistrement IMS requise</string>
   <string name="ims_reg_required_on">Activation de l\'enregistrement IMS requise</string>
   <string name="incoming_call_volume_title">Sonnerie</string>
-  <string name="input_method">Mode de saisie</string>
+  <string name="input_method">Clavier</string>
   <string name="input_method_selector">Sélection du mode de saisie</string>
   <string name="input_method_selector_always_hide_title">Toujours masquer</string>
   <string name="input_method_selector_always_show_title">Toujours afficher</string>
@@ -1318,8 +1318,8 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="radioInfo_phone_idle">Inactif</string>
   <string name="radioInfo_phone_offhook">Appel en cours</string>
   <string name="radioInfo_phone_ringing">Sonnerie</string>
-  <string name="radioInfo_roaming_in">Itinérance</string>
-  <string name="radioInfo_roaming_not">Sans itinérance</string>
+  <string name="radioInfo_roaming_in">Actif</string>
+  <string name="radioInfo_roaming_not">Inactif</string>
   <string name="radioInfo_service_emergency">Appels d\'urgence uniquement</string>
   <string name="radioInfo_service_in">Service en cours</string>
   <string name="radioInfo_service_off">Signal radio désactivé</string>
@@ -2837,8 +2837,7 @@ et lancer le logiciel."</string>
   <string name="wireless_off">Inactif</string>
   <string name="other_advanced_settings">Paramètres additionnels</string>
   <string name="other_personal_settings">Paramètres additionnels</string>
-  <string name="font_size_summary1">"
-Si la police est encore trop petite, essayez d'utiliser le : "</string>
+  <string name="font_size_summary1">"Si la police est encore trop petite, essayez d'utiliser le : "</string>
   <string name="font_size_summary2">Mode allégé</string>
   <string name="handy_mode">Mode à une main</string>
   <string name="handy_mode_enable">Mode à une main</string>

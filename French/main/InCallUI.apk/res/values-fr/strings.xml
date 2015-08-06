@@ -195,8 +195,8 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Mode réseau préféré : CDMA/LTE/EvDo</string>
   <string name="preferred_network_mode_global_summary">Mode réseau préféré : général</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Mode réseau préféré : LTE/WCDMA</string>
-  <string name="data_enabled">Données activées</string>
-  <string name="data_enable_summary">Activer l\'accès aux données sur le réseau mobile</string>
+  <string name="data_enabled">Données mobile</string>
+  <string name="data_enable_summary">Accéder aux données via le réseau mobile</string>
   <string name="roaming">Itinérance des données</string>
   <string name="roaming_enable">Se connecter aux services de données lors de l\'itinérance</string>
   <string name="roaming_disable">Se connecter aux services de données lors de l\'itinérance</string>

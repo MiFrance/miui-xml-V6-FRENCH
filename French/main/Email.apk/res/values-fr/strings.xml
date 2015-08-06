@@ -190,6 +190,7 @@
   <string name="activity_mailbox_selection">Sélectionner un compte</string>
   <string name="add_account">Ajouter un compte</string>
   <string name="add_bcc_label">Ajouter Cci</string>
+  <string name="add_calendar">Rappel</string>
   <string name="add_cc_label">Ajouter Cc/Cci</string>
   <string name="add_file_attachment">Joindre un fichier</string>
   <string name="add_label">Ajouter un dossier</string>
@@ -261,11 +262,14 @@
   <string name="contact_info_string_default">Afficher les coordonnées de l\'expéditeur</string>
   <string name="content_description">%1$s à propos de %2$s, %3$s le %4$s, %5$s</string>
   <string name="content_description_today">%1$s à propos de %2$s, %3$s à %4$s, %5$s</string>
+  <string name="contextmenu_add">Ajouter aux contacts</string>
   <string name="contextmenu_add_contact">Ajouter un contact</string>
   <string name="contextmenu_call">Appeler</string>
   <string name="contextmenu_copy">Copier</string>
   <string name="contextmenu_copylink">Copier l\'URL</string>
+  <string name="contextmenu_create">Créer un nouveau contact</string>
   <string name="contextmenu_dial_dot">Composer…</string>
+  <string name="contextmenu_edit">Editer le contact</string>
   <string name="contextmenu_feedback">Retour d\'expérience</string>
   <string name="contextmenu_help">Aide</string>
   <string name="contextmenu_map">Carte</string>
@@ -975,7 +979,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="oauth_error_description">Impossible de s\'authentifier</string>
   <string name="oauth_gmail_login_notify">"Entrez vos identifiants Google sur la page d\'authentification suivante"</string>
   <string name="oauth_login_continue">Continuer</string>
-<!-- à traduire
-   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
- -->
+  <string name="outbox_alert_description_insufficient_storage_error">Espace insuffisant sur le serveur de messagerie</string>
+  <string name="contact_edit_set_black_list_receive">Supprimer le message avec ce destinataire</string>
+  <string name="contact_edit_set_black_list_receive_summary">Supprimer les messages incluant ce destinataire, dans les champs A ou Cc</string>
 </resources>
