@@ -94,7 +94,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="toast_keyword_exist">Mot clé ajouté à la liste</string>
   <string name="toast_keyword_invalid">Mot clé non valide</string>
   <string name="st_antispam_delete">Supprimer</string>
-  <string name="baidu_thanks">" "</string>
+  <string name="baidu_thanks">Propulsé par Baidu</string>
+  <string name="birthday">Anniversaire</string>
   <string name="ad_update_title">Mise à jour auto.</string>
   <string name="ad_update_time">Dernière màj : %s</string>
   <string name="ad_update_time_unKnown">Dernière màj : inconnu</string>
@@ -155,6 +156,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="note_keyword_none">Aucun mot clé</string>
   <string name="note_preference_delete">Impossible de supprimer une règle en cours d\'utilisation</string>
   <string name="user_define_title">Personnalisé</string>
+  <string name="website">Site Internet</string>
   <string name="blacklist_prefix_add_hint">Ajouter tous les numéros avec préfixe à la liste noire</string>
   <string name="whitelist_prefix_add_hint">Ajouter tous les numéros avec préfixe aux exceptions</string>
   <string name="customizer_mode_user_define_name">Personnalisé</string>
@@ -164,6 +166,8 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="one_address_choose_hint">%s1 emplacement</string>
   <string name="dlg_black_antispam_message">Ajouter ce numéro à la liste noire ?</string>
   <string name="dlg_white_antispam_message">Ajouter ce numéro aux exceptions ?</string>
+  <string name="email">Email</string>
+  <string name="empty_activity_title">" "</string>
   <string name="dlg_black_address_antispam_message">Ajouter cet emplacement à la liste noire ?</string>
   <string name="dlg_white_address_antispam_message">Ajouter cet emplacement aux exceptions ?</string>
   <string name="dlg_white_antispam_hint">Exceptions</string>
@@ -171,12 +175,15 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Attention</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s et %2$s autres contacts sont déjà inscrits sur votre liste d\'exceptions.</string>
   <string name="dlg_remove_whitelist">Supprimer ces numéros des exceptions ?</string>
+  <string name="dlg_remove_whitelist_content">Supprimer ces numéros des exceptions ?</string>
   <string name="dlg_remove_address_blacklist">Supprimer cet emplacement de la liste noire et restaurer les messages associés à la boîte de réception ?</string>
   <string name="dlg_remove_address_whitelist">Supprimer cet emplacement des exceptions ?</string>
   <string name="st_show_num_keyword">" mots-clés"</string>
   <string name="st_show_num_number">" numéros"</string>
   <string name="label_callwait">Appel en attente</string>
   <string name="open_callwait">Activé</string>
+  <string name="organization">Organisation</string>
+  <string name="phone">Téléphone</string>
   <string name="quiet">Silence</string>
   <string name="quiet_group">Ne pas déranger</string>
   <string name="quiet_important_interruptions_mode">Autoriser uniquement les exceptions</string>
@@ -221,6 +228,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
 <!-- à revoir st_antispam_bw_choose_modes ? modif 4.6.12 : Blocked numbers -->
   <string name="st_antispam_bw_choose_modes">Sélection du mode</string>
   <string name="hint_antispam_mode_edit">Mode personnalisé</string>
+  <string name="im">IM</string>
   <string name="st_title_adress">Sélectionner un lieu</string>
   <string name="st_title_adress_num">%d sélectionné</string>
 <!-- à vérifier/ trop long? revoir formulation : -->
@@ -255,6 +263,9 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_install_monitor_hint">Vérifie la présence de adwares. Peut réduire les performances de l\'application ou l\'empêcher de fonctionner correctement.</string>
   <string name="ad_update_setting">Mettre à jour</string>
   <string name="menu_wh_remove">Supprimer de la liste blanche</string>
+  <string name="name">Nom</string>
+  <string name="nickname">Prénom</string>
+  <string name="note">Note</string>
   <string name="NACaddnumcontent">Saisir le numéro</string>
   <string name="ACaddnumcontent">Saisissez le numéro, vous pouvez utilisez le joker *</string>
   <string name="sms_delete_hint">Supprimer tous les messages bloqués envoyés depuis ce numéro ?</string>
@@ -265,6 +276,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="ad_permission_hint">L\'utilisation d\'un bloqueur de publicités peut impacter les performances de l\'application ou l\'empêcher de fonctionner correctement"</string>
   <string name="mark_harass">Harcèlement</string>
   <string name="mark_harass_block">Signalé comme du harcèlement</string>
+  <string name="mark_harass_block_large">Harcèlement</string>
   <string name="mark_harass_time_setting">Bloquer les numéros signalés de manière récurrente comme du harcèlement.</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Fraude</string>
@@ -275,6 +287,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="st_title_not_sim">Aucune SIM</string>
   <string name="sim_not_ready">Carte SIM non prête</string>
   <string name="sim_not_ready_toast">Carte SIM non prête, le paramétrage a échoué</string>
+  <string name="sip_phone">Téléphone SIP</string>
   <string name="button_to_setting">Paramètres</string>
   <string name="dlg_title_not_open_stranger_identify">Identifier les numéros inconnus</string>
   <string name="STRANGER_BLOCK">Liste noire inconnus</string>
@@ -283,11 +296,14 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="mark_agent">Commercial</string>
   <string name="mark_agent_block">Marqué comme commercial</string>
   <string name="mark_agent_time_setting">Bloquer les numéros signalés de manière récurrente comme télévendeurs</string>
+  <string name="mark_agent_block_large">Intermédiaire</string>
+  <string name="mark_agent_time_setting">Bloquer les numéros signalés de manière récurrente comme intermédiaires</string>
   <string name="mark_express">Courrier</string>
   <string name="mark_express_block">Marqué comme courrier</string>
   <string name="mark_fraud">Arnaque</string>
   <string name="mark_fraud_time_setting">Bloquer les numéros signalés de manière récurrente comme escroqueries</string>
   <string name="mark_fraud_block">Marqué comme arnaque</string>
+  <string name="mark_fraud_block_large">Arnaque</string>
   <string name="mark_meal">Livraison de nourriture</string>
   <string name="mark_meal_block">Marqué comme livraison de nourriture</string>
   <string name="mark_number_info">"Veuillez noter que ces numéros peuvent parfois être utiles (par ex. lorsque vous cherchez un appartement). Ne bloquez que les numéros pour lesquels vous ne souhaiterez jamais d\'appels."</string>
@@ -299,6 +315,7 @@ Utilisez une virgule pour séparer plusieurs mots clés"</string>
   <string name="mark_number_setting_guide_forward">Paramètres de la liste noire</string>
   <string name="mark_number_setting_guide_title">Bloquer les numéros signalés</string>
   <string name="mark_sell_block">Marqué comme télévendeur</string>
+  <string name="mark_sell_block_large">Télévendeur</string>
   <string name="mark_sell_time_setting">Bloquer les numéros signalés de manière récurrente comme ventes</string>
   <string name="mark_time_setting_dialog_title">Paramètres des appels signalés</string>
   <string name="mark_time_text">%d</string>

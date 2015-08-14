@@ -78,6 +78,7 @@
   <string name="date_format">dd/MM/yyyy H:mm:ss</string>
   <string name="delete">Supprimer</string>
   <string name="delete_backup_process">Suppression…</string>
+  <string name="delete_backup_title">Suppression d\'une sauvegarde</string>
   <string name="delete_failed_backup_confirm">La sauvegarde est corrompue, impossible de la restaurée</string>
   <string name="dir_date_format">dd-MM-yyyy_H-mm-ss</string>
   <string name="disable_encrypt_title">Désactiver le cryptage</string>
