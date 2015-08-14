@@ -311,9 +311,9 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_ask_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement">Une application requiert l\'activation du Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil pendant %1$d secondes."</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">souhaite activer le Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil pendant %1$d secondes.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">souhaite activer le Bluetooth et nécessite que d\'autres appareils puissent détecter votre appareil pendant %1$d secondes.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">souhaite activer le Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil. Vous pouvez changer cela plus tard dans les paramètres Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">souhaite activer le Bluetooth et nécessite que d\'autres appareils puissent détecter votre appareil. Vous pouvez changer cela plus tard dans les paramètres Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">souhaite activer le Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>

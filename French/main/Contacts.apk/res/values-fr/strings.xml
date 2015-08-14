@@ -261,7 +261,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="deleteConfirmation">Ce contact sera supprimé.</string>
   <string name="deleteConfirmationDetail">Voulez-vous vraiment supprimer \"%s\" ?</string>
   <string name="deleteConfirmation_title">Supprimer</string>
-  <string name="delete_call_log_message">Supprimer l'historique des appels ?</string>
+  <string name="delete_call_log_message">Supprimer l\'historique des appels ?</string>
   <string name="delete_call_log_title">Sélectionnez le journal d\'appels à supprimer ?</string>
   <string name="delete_contact_calllog_title">"Êtes-vous sûr de vouloir supprimer le journal d'appel du contact ?"</string>
   <string name="delete_dial_input">supprimer</string>
@@ -598,7 +598,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="messageShortcutActivityTitle">Choisissez le numéro auquel envoyer le message</string>
   <string name="miprofile_account_type">Compte Mi</string>
   <string name="miprofile_alertdialog_edit">Saisissez le nom</string>
-  <string name="miprofile_alertdialog_message">Montrer ce nom à des contacts quand vous demandez d'échanger des fiches.</string>
+  <string name="miprofile_alertdialog_message">Montrer ce nom à des contacts quand vous demandez d\'échanger des fiches.</string>
   <string name="miprofile_alertdialog_title">Saisissez le nom</string>
   <string name="miprofile_bind_account_alertdialog_message">"Vous devez ajouter le numéro de téléphone sur votre compte Mi pour utiliser cette fonctionnalité."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Ajouter un numéro</string>
@@ -626,7 +626,7 @@ Les fiches de contact sont désactivés"</string>
   <string name="miprofile_request_exchange_title">Demande de fiche de contact</string>
   <string name="miprofile_request_menu_clear_request">Effacer l\'historique</string>
   <string name="miprofile_request_message">%1$s personnes veulent échanger des fiches de contact</string>
-  <string name="miprofile_request_notification_message">Accepter pour consulter la photo du profil et plus d'info</string>
+  <string name="miprofile_request_notification_message">Accepter pour consulter la photo du profil et plus d\'info</string>
   <string name="miprofile_request_notification_title">%1$s personnes veulent échanger des fiches de contact</string>
   <string name="miprofile_request_notification_title_name">%1$s veut échanger des fiches de contact</string>
   <string name="miprofile_request_time_expired_deleted">Les demandes âgées de 1 semaine seront automatiquement supprimées.</string>
