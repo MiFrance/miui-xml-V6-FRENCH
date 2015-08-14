@@ -64,8 +64,10 @@
   <string-array name="entries_font_size">
       <item>Petit</item>
       <item>Normal</item>
+      <item>Moyen</item>
       <item>Grand</item>
       <item>Très grand</item>
+      <item>Énorme</item>
   </string-array>
      <string-array name="captioning_font_size_selector_titles">
       <item>Très petit</item>
@@ -757,5 +759,15 @@
     <string-array name="fluency_mode_confirms">
        <item>Redémarrer votre appareil pour appliquer ce réglage ?</item>
        <item>Redémarrer votre appareil pour appliquer ce réglage ?</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+       <item>Chaque jour</item>
+       <item>En semaine</item>
+       <item>Personnaliser</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+       <item>Chaque jour</item>
+       <item>En semaine</item>
+       <item>Personnaliser</item>
     </string-array>
 </resources>

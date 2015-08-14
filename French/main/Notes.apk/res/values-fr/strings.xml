@@ -12,10 +12,13 @@
   <string name="alert_edit_action_update">Mise à jour</string>
   <string name="alert_message_delete_folders">Supprimer %1$s dossier(s) sélectionné(s) ?</string>
   <string name="alert_message_delete_folders_notes">Supprimer %1$s dossier(s) et %2$s note(s) sélectionné(s) ?</string>
+  <string name="alert_message_delete">Supprimer %1$s ?</string>
   <string name="alert_message_delete_note">Êtes-vous sûr de vouloir supprimer cette note ?</string>
   <string name="alert_message_delete_notes">Confirmer la suppression de %1$s ?</string>
   <string name="alert_message_edit_anyway">La note contient un contenu non supporté, l\'éditer pourrait engendrer une perte de données.</string>
+  <string name="alert_title_delete">Supprimer la note</string>
   <string name="alert_title_edit_anyway">Confirmer l\'édition de la note qui pourrait engendrer une perte de données.</string>
+  <string name="all_terms">%1$s et %2$s</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="attachment_camera">Appareil photo</string>
@@ -48,6 +51,7 @@
   <string name="menu_stick">Épingler</string>
   <string name="menu_title_select_folder">Choix du dossier</string>
   <string name="menu_unstick">Désépingler</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Pas maintenant</string>
   <string name="note_alert_expired">Expiré</string>
   <string name="note_link_email">Envoyer un e-mail</string>

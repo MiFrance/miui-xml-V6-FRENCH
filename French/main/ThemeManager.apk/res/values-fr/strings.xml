@@ -7,6 +7,11 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="apply_default_font_tip">Souhaitez-vous continuer à utiliser la police actuelle ?</string>
   <string name="theme_yes">Oui</string>
   <string name="theme_no">Non</string>
+  <string name="theme_precast_update_notification_content">Touchez pour afficher les nouveaux thèmes.</string>
+  <string name="theme_precast_update_notification_title">Mis à jour pour MIUI 7</string>
+  <string name="theme_provision_default_theme_title">Par défaut</string>
+  <string name="theme_provision_loading_tips">Un moment svp…</string>
+  <string name="theme_provision_title">Choisissez un thème</string>
   <string name="theme_fresh_man_notifaction">Nouveaux thèmes disponibles</string>
   <string name="resource_delete">Supprimer</string>
   <string name="all_resources">Tout</string>
@@ -44,6 +49,11 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="loading">Chargement…</string>
   <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
   <string name="loading_resource_detail_info">Chargement…</string>
+  <string name="lockscreen_magazine_subscribe">%1$s adeptes</string>
+  <string name="lockscreen_magazine_summary">Obtenir de nouveaux fonds d\'écran directement sur votre écran de verrouillage</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s sélectionné</string>
+  <string name="lockscreen_magazine_system_title">Par défaut</string>
+  <string name="lockscreen_magazine_title">Organiser l\'écran de verrouillage</string>
   <string name="lockscreen_wallpaper">Écran de verrouillage</string>
   <string name="lockstyle_personal_settings">Personnalisation</string>
   <string name="long_ringtone_resource">Long</string>
@@ -153,6 +163,9 @@ le contenu que vous recherchez n\'est actuellement pas disponible dans votre ré
   <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
   <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
   <string name="short_ringtone_resource">Court(&lt;5s)</string>
+  <string name="theme_apply_failured">"Vous ne pouvez pas appliquer le fond d'écran, sur l'écran de verrouillage"</string>
+  <string name="theme_apply_success">Écran de verrouillage appliquée</string>
+  <string name="theme_applying">Personnalisation…</string>
   <string name="theme_batch_has_update_text">%1$d mise(s) à jour disponible(s)</string>
   <string name="theme_batch_update_all">Tout mettre à jour</string>
   <string name="theme_batch_update_dlg_content">Mettre à jour %1$s et %2$d autres thèmes ?</string>

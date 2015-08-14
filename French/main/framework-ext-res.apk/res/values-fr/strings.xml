@@ -43,6 +43,8 @@
   <string name="caller_info_name_delimiter">" ou "</string>
   <string name="copy">Copier</string>
   <string name="cut">Couper</string>
+  <string name="fc_dialog_body">Envoyer un rapport de bogue à Mi pour une analyse ? Ce rapport peut contenir des informations personnelles. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais divulgué dans un contexte commercial.</string>
+  <string name="fc_dialog_jump_to_preview">Afficher le résumé</string>
   <string name="first_back_long_press_message">"Maintenez appuyé le bouton Retour pour tuer le processus courant et ses services en arrière-plan.
 
 Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Boutons"</string>
@@ -53,6 +55,8 @@ Pour activer cette fonctionnalité, allez dans Paramètres &gt; Système &gt; Bo
   <string name="global_actions_reboot">Redémarrer</string>
   <string name="global_actions_shutdown">Eteindre</string>
   <string name="global_actions_silent_mode">Mode silencieux</string>
+  <string name="handy_mode_enter_dlg_msg">Entrez dans le mode à une main ?</string>
+  <string name="handy_mode_enter_dlg_title">Entrez dans le mode à une main</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espace</string>
   <string name="location_usage_restricted_body">Toucher pour enlever la restriction.</string>

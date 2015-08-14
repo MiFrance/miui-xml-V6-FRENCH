@@ -255,8 +255,11 @@
   <string name="move_down">Déplacer vers le bas</string>
   <string name="move_up">Déplacer vers le haut</string>
   <string name="msg_type_hint_mms">Message multimédia</string>
-  <string name="msg_type_hint_mx">Message Cloud</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
+  <string name="msg_type_hint_mx">Message Mi</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Message texte</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="multimedia_message">Message multimédia</string>
   <string name="multimedia_notification">Notification de messages MMS</string>
   <string name="mx_auto_resend_mms">Envoyer en tant que MMS</string>
@@ -307,6 +310,7 @@
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Autre</string>
   <string name="pref_show_blocked_messages_summary">Afficher les SMS bloqués dans les conversations</string>
+  <string name="pref_show_sms_template_in_summary">Détecter automatiquement OTP dans les SMS</string>
   <string name="pref_show_sms_template_summary">Copier automatiquement et insérer les codes de vérification</string>
   <string name="pref_sms_theme_title">Configuration des thèmes</string>
   <string name="pref_summary_allow_si_sl_push">Autoriser la réception et la notification des messages WAP push (SI/SL)</string>
@@ -323,6 +327,7 @@
   <string name="pref_summary_show_recent_contacts">Afficher la liste des derniers contacts utilisés lors de la composition d\'un message</string>
   <string name="pref_summary_wake_up_screen">Allumer l\'écran lorsque vous recevez de nouveaux messages</string>
   <string name="pref_system_title">Système</string>
+  <string name="pref_time_auto_group_disabled_summary">"N'est pas prise en charge avec la taille de la police actuelle"</string>
   <string name="pref_time_auto_group_summary">Dans la fenêtre de discussion, grouper les messages par heure</string>
   <string name="pref_time_auto_group_title">Grouper les messages</string>
   <string name="pref_title_allow_si_sl_push">Autoriser le WAP push</string>
@@ -455,6 +460,7 @@
   <string name="title_date_type">Horodatage</string>
   <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
   <string name="title_show_sms_template">Vérifiez les SMS pour les codes de vérification</string>
+  <string name="title_show_sms_template_in">Vérifiez les SMS pour OTP</string>
   <string name="title_timed_message_dialog">Définir l\'heure d\'envoi</string>
   <string name="to_address_label">"À : "</string>
   <string name="to_count">%d au total</string>

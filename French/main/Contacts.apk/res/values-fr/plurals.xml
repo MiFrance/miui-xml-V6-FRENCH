@@ -141,4 +141,12 @@
         <item quantity="other">Débloquer ces %1$d numéros ?</item>
         <item quantity="one">Débloquer ce numéro ?</item>
     </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d contacts</item>
+        <item quantity="one">%1$d contact</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d des contacts n'ont pas été synchronisé"</item>
+        <item quantity="one">"1 contact n\'a pas été synchronisé"</item>
+    </plurals>
 </resources>

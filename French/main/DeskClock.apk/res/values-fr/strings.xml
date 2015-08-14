@@ -48,6 +48,8 @@
   <string name="auto_silence_summary">Alarme en silence après %d min</string>
   <string name="auto_silence_title">Silence automatique</string>
   <string name="battery_charging_level">%d %%</string>
+  <string name="birthday_alarm">Alarme d\'anniversaire</string>
+  <string name="birthday_alarm_summary">Jouer \"Happy Birthday\" au lieu de l\'alarme par défaut pour votre anniversaire</string>
   <string name="cancel">Annuler</string>
   <string name="close_alarm">Fermer l\'alarme</string>
   <string name="common_settings">Paramètres</string>

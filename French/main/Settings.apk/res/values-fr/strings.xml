@@ -311,7 +311,10 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_ask_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement">Une application requiert l\'activation du Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil pendant %1$d secondes."</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">souhaite activer le Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil pendant %1$d secondes.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">souhaite activer le Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil. Vous pouvez changer cela plus tard dans les paramètres Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_detected">souhaite activer le Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
   <string name="bluetooth_confirm_passkey_msg">Pour associer votre appareil à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s\'affiche.</string>
@@ -472,6 +475,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="camera_key_action_title">Bouton Mi</string>
   <string name="camera_key_action_toggle_title">Gâchette</string>
   <string name="cancel">Annuler</string>
+  <string name="cancel_action">Annuler</string>
   <string name="cancel_alert">Annuler l\'alerte ?</string>
   <string name="cant_sync_dialog_message">La synchronisation de cet élément est actuellement désactivée. Pour modifier ce paramètre, activez temporairement les données en arrière-plan et la synchronisation automatique.</string>
   <string name="cant_sync_dialog_title">"Impossible de procéder à la synchronisation manuelle."</string>
@@ -502,6 +506,7 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Configurer les méthodes de saisie</string>
+  <string name="confirm_action">Valider</string>
   <string name="confirm_erase">Confirmer</string>
   <string name="confirm_new_backup_pw_prompt">Confirmez votre nouveau mot de passe de sauvegarde complète.</string>
   <string name="connected_wifi">Wi-Fi connecté</string>
@@ -659,6 +664,8 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="default_usb_mode">Type de connexion USB par défaut</string>
   <string name="delete">Supprimer</string>
   <string name="deny">Refuser</string>
+  <string name="deny_sms_message">"Ne pas laisser les applications installées à envoyer des SMS"</string>
+  <string name="deny_sms_title">Bloquer les SMS</string>
   <string name="details_subtitle">Détails d\'utilisation</string>
   <string name="details_title">Informations sur l\'utilisation</string>
   <string name="dev_settings_warning_message">Ces paramètres sont en cours de développement. Ils peuvent endommager votre appareil et les applications qui s\'y trouvent, ou provoquer leur dysfonctionnement.</string>
@@ -738,6 +745,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
   <string name="dndm_summary">Lorsque le mode NPD est activé et l\'appareil verrouillé, les appels et les notifications seront mis sous silence.</string>
   <string name="dndm_vip_call_button_title">Autoriser les appels des exceptions</string>
+  <string name="dndm_vip_call_setting_detal">Toujours accepter les appels à partir des exceptions</string>
   <string name="dndm_vip_call_setting_title">Paramètres des exceptions</string>
   <string name="dndm_vip_call_summary_contact">Tous les contacts</string>
   <string name="dndm_vip_call_summary_custom">Exceptions : %d </string>
@@ -746,6 +754,9 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
+  <string name="dndm_wristband">Bracelet connecté</string>
+  <string name="dndm_wristband_detailed">"Activer le mode Ne pas déranger si le Bracelet Mi détecte que vous dormez moins d'une heure avant l'heure de début prévue"</string>
+  <string name="dndm_wristband_detailed2">"Désactiver le mode Ne pas déranger si le Bracelet Mi détecte que vous dormez moins d'une heure avant l'heure de fin"</string>
   <string name="do_not_disturb_mode">Ne pas déranger</string>
   <string name="dock_audio_settings_title">Audio</string>
   <string name="dock_audio_summary_car">Paramètres support voiture associé</string>
@@ -828,6 +839,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="error_mnc_not23">Le champ MNC doit contenir 2 ou 3 chiffres.</string>
   <string name="error_name_empty">Le champ \"Nom\" est obligatoire.</string>
   <string name="error_title"></string>
+  <string name="every_day">Chaque jour</string>
   <string name="external_code_size_label">Application sur USB</string>
   <string name="external_data_size_label">Données sur USB</string>
   <string name="factory_reset_summary">Vous pouvez effacer vos données personnelles en réinitialisant votre appareil ou choisissez Effacer les applications installées et formater la carte SD pour restaurer les réglages d\'usine</string>
@@ -974,6 +986,10 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="led_pulse_summary">Faire clignoter la LED pour les appels, messages et notifications</string>
   <string name="led_settings">LED</string>
   <string name="legal_information">Informations légales</string>
+  <string name="legal_workday">Journées de travail légales</string>
+  <string name="legal_workday_invalidate">Lun-Ven (info vacances expirées)</string>
+  <string name="legal_workday_invalidate_message">Appuyez sur pour mettre à jour les informations de jour férié.</string>
+  <string name="legal_workday_message">(Passer les vacances)</string>
   <string name="license_title">Licence</string>
   <string name="line_breaking_title">Optimisation des paragraphes de textes</string>
   <string name="line_breaking_summary">Optimiser l\'affichage des paragraphes avec un alinéa</string>
@@ -1173,6 +1189,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="network_state_label">État du réseau :</string>
   <string name="networkid_label">ID réseau :</string>
   <string name="networks">Sélection de l\'opérateur</string>
+  <string name="never">Jamais</string>
   <string name="new_backup_pw_prompt">Saisissez votre nouveau mot de passe pour les sauvegardes complètes.</string>
   <string name="next_button_label">Suivant</string>
   <string name="next_label">Suivant</string>
@@ -1248,7 +1265,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="power_usage_level_and_status">%1$s – %2$s</string>
   <string name="power_usage_not_available">"Info d'utilisation batterie indisp."</string>
   <string name="power_usage_summary">Répartition de l\'utilisation de la batterie</string>
-  <string name="power_usage_summary_title">Batterie</string>
+  <string name="power_usage_summary_title">Batterie &amp; performance</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Activer l\'éclairage</string>
   <string name="pref_button_light_summary">Éclaire les touches Menu, Accueil et Retour</string>
@@ -1368,6 +1385,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="remove_account_label">Supprimer le compte</string>
   <string name="remove_device_admin">Désactiver</string>
   <string name="remove_from_frequently_fragment">Supprimer "%s" des paramètres communs ?</string>
+  <string name="repeat">Répéter</string>
   <string name="reset_app_preferences">Réinitialiser préf. des apps</string>
   <string name="reset_app_preferences_button">Réinitialiser</string>
   <string name="reset_app_preferences_desc">"Cette opération entraîne la réinitialisation de toutes les préférences pour : 
@@ -1693,6 +1711,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
   <string name="tether_settings_title_usb_bluetooth">Partage de connexion</string>
   <string name="tether_settings_title_wifi">Point d\'accès Wi-Fi mobile</string>
   <string name="tethering_help_button_text">Aide</string>
+  <string name="theme_settings_title">Thèmes</string>
   <string name="time_picker_title">Heure</string>
   <string name="time_zone_auto_stub">Sélectionner la zone de temps</string>
   <string name="timezone_settings">Paramètres du fuseau horaire</string>
@@ -2536,6 +2555,9 @@ La configuration de l\'appareil peut générer une forte activité sur le résea
   <string name="select_runtime_title">"Sélect. moteur d'exécution"</string>
   <string name="select_runtime_warning_message">"Redémarrer pour remplacer le moteur d'exécution %1$s par %2$s ?"</string>
   <string name="services_subtitle">Services</string>
+  <string name="set_password_action">Définir un mot de passe</string>
+  <string name="set_password_message">Définissez un mot de passe pour désactiver le contrôle parental ainsi que pour déverrouiller cet appareil</string>
+  <string name="set_password_title">Définir un mot de passe</string>
   <string name="sms_application_title">Application SMS par défaut</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utiliser %s au lieu de %s comme application SMS ?</string>
   <string name="sms_change_default_dialog_title">"Modifier l'application SMS ?"</string>
@@ -2577,6 +2599,11 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
   <string name="cancel_download_buton_text">Annuler</string>
   <string name="check_update">Vérifiez MàJ</string>
   <string name="checking_for_updates">Vérification de la disponibilité de mises à jour…</string>
+  <string name="children_mode_enable_title">Contrôle parental</string>
+  <string name="children_mode_set_apps_title">Applications accessible</string>
+  <string name="children_mode_tips_off">Après avoir activé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil</string>
+  <string name="children_mode_tips_on">Après avoir désactivé le contrôle parental, appuyez sur la touche d\'accueil pour revenir à l\'écran d\'accueil</string>
+  <string name="children_mode_title">Contrôle parental</string>
   <string name="choose_smartcover_type">Choisissez le type de protection d\'écran</string>
   <string name="confirm_download_cancelation_dialog_message">Annuler le téléchargement ?</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
@@ -2841,11 +2868,16 @@ et lancer le logiciel."</string>
   <string name="font_size_summary2">Mode allégé</string>
   <string name="handy_mode">Mode à une main</string>
   <string name="handy_mode_enable">Mode à une main</string>
+  <string name="handy_mode_enter_ask">Demandez avant d\'entrer dans le mode à une main</string>
   <string name="handy_mode_size">Taille de l\'écran</string>
   <string name="handy_mode_tips">Glissez vers la gauche ou la droite depuis le bouton Accueil pour ajuster la taille de l\'écran.</string>
   <string name="layout_size_large">Grand</string>
   <string name="layout_size_medium">Moyen</string>
   <string name="layout_size_normal">Standard</string>
+  <string name="layout_size_exhuge">Large</string>
+  <string name="layout_size_huge"/>
+  <string name="layout_size_large"/>
+  <string name="layout_size_medium"/>
   <string name="layout_size_small">Petit</string>
   <string name="local_auto_backup_section_title">Sauvegarde automatique</string>
   <string name="location_agps_apn_choose_dialog_title">Types d\'APN</string>
@@ -2955,14 +2987,16 @@ et lancer le logiciel."</string>
   <string name="page_layout_22">Définir mon profil</string>
   <string name="page_layout_23">Mes groupes</string>
   <string name="page_layout_24">Favoris</string>
-  <string name="page_layout_25">Charles Babbage</string>
-  <string name="page_layout_26">Lin Bin</string>
-  <string name="page_layout_27">Manu Jain</string>
-  <string name="page_layout_28">Tim Berners Lee</string>
-  <string name="page_layout_29">Jai Mani</string>
+  <string name="page_layout_25">Daddy</string>
+  <string name="page_layout_26">Zoey Hannah</string>
+  <string name="page_layout_27">Lian Josie</string>
+  <string name="page_layout_28">Zhaohad</string>
+  <string name="page_layout_29">Kathy</string>
   <string name="page_layout_3">Galerie</string>
-  <string name="page_layout_30">Frank Santo</string>
-  <string name="page_layout_31">Katie Whitman</string>
+  <string name="page_layout_30">Zoey Jhone</string>
+  <string name="page_layout_31">Chartte Yvon</string>
+  <string name="page_layout_32">Play Store</string>
+  <string name="page_layout_33">Google</string>
   <string name="page_layout_4">Musique</string>
   <string name="page_layout_5">Vidéo</string>
   <string name="page_layout_6">Applis</string>
@@ -3007,6 +3041,8 @@ et lancer le logiciel."</string>
   <string name="music_dolby_mode_off">Désactivé</string>
   <string name="status_bar_settings_enable_notification">Activer les notifications</string>
   <string name="status_bar_settings_notification_led">Led de notification</string>
+  <string name="status_bar_settings_notification_priority">Priorité</string>
+  <string name="status_bar_settings_notification_priority_summary">Afficher les notifications en tête de liste</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sons &amp; vibrations</string>
   <string name="status_bar_settings_show_home_message">Badge sur l\'icône de l\'app</string>
   <string name="status_bar_settings_show_keyguard_notification">Notifications flottantes et verrouillage</string>
@@ -3613,6 +3649,7 @@ l'assistant  e-mail"</string>
   <string name="fluency_mode_enabled_name">Optimiser les performances système</string>
   <string name="fluency_mode_summary">Désactive les animations système et réduit l\'utilisation de la RAM</string>
   <string name="fluency_mode_confirm_and_reboot">Redémarrer maintenant</string>
+  <string name="font_size_exhuge">Très grang</string>
   <string name="gesture_wakeup_title">Double appui sur l\'écran pour allumer</string>
   <string name="install_no_market_app_summary">Autoriser l\'installation d\'applications provenant de sources autres que l\'App Store</string>
   <string name="install_no_market_app_title">Sources inconnues</string>
