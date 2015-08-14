@@ -370,6 +370,8 @@ Appuyez sur OK pour continuer.\""</string>
   <string name="incall_error_no_phone_number_supplied">L\'appel n\'a pas été effectué. Le numéro composé n\'est pas valide.</string>
   <string name="incall_error_call_failed">L\'appel n\'a pas été effectué.</string>
   <string name="incall_status_dialed_mmi">Lancement de la séquence IHM…</string>
+  <string name="incoming_video_show_pref_summary">Voir le profil vidéo défini par l\'interlocuteur. Pour utiliser cette fonction, activer les fiches de contact.</string>
+  <string name="incoming_video_show_pref_title">"Voir le profil vidéo de l\'interlocuteur"</string>
   <string name="incall_error_turn_off_airplane_mode">Désactiver</string>
   <string name="emergency_enable_radio_dialog_title">Appel d\'urgence</string>
   <string name="dial_emergency_error">L\'appel n\'a pas été effectué. %s n\'est pas un numéro d\'urgence !</string>
@@ -731,6 +733,7 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="cdma_display_precise_call_state_summary">Le minuteur d\'appels CDMA est restreint par votre opérateur. S\'il le supporte, l\'information pourra être affichée précisément.</string>
   <string name="cdma_display_precise_call_state_message">"Si votre opérateur ne le supporte pas, ce paramètre affichera des informations erronées. Voulez-vous l'ouvrir malgré tout ?"</string>
   <string name="other_settings_category">Autres</string>
+  <string name="overseas_roaming_setting">Itinérance à l\'étranger</string>
   <string name="caller_id_title">Affichage du numéro</string>
   <string name="caller_id_summary"/>
   <string name="get_smsc_address_error">"Impossible d'obtenir le numéro du centre SMS, veuillez recommencer plus tard."</string>

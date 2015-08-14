@@ -224,6 +224,7 @@
   <string name="cit_tool_modem">Outils de test Modem</string>
   <string name="cit_tool_modem_bugreport">Forcer le Coredump du modem</string>
   <string name="cit_tool_modem_exit_ftm">Quitter le mode FTM</string>
+  <string name="cit_tool_modem_mbn">Changer la configuration du modem</string>
   <string name="cit_tool_modem_offline_log">Ouvrir/Fermer le journal hors-ligne</string>
   <string name="cit_tool_wifi">Outils de test Wi-Fi</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>

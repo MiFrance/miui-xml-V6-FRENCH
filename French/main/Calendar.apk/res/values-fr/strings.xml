@@ -339,11 +339,11 @@
   <string name="travel_load_failed">"Chargement impossible"</string>
   <string name="travel_loaded">Propulsé par Veryzhun</string>
   <string name="travel_loading">Un moment svp…</string>
-  <string name="travel_local">Destination</string>
-  <string name="travel_notice_message">Calendar needs to connect to the internet and access your location in order to display travel information.</string>
-  <string name="travel_seat_number_text">Seat</string>
+  <string name="travel_local">Localisation</string>
+  <string name="travel_notice_message">Calendrier à besoin de se connecter à Internet pour accéder à votre position afin d\'afficher les informations relatives à votre Voyage.</string>
+  <string name="travel_seat_number_text">Siège</string>
   <string name="travel_train_number_text">Train</string>
-  <string name="travel_train_station">Train station</string>
+  <string name="travel_train_station">Gare</string>
   <string name="user_notice_online_agreement">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
   <string name="user_notice_online_ok">同意并继续</string>
   <string name="user_notice_online_title">声明与条款</string>

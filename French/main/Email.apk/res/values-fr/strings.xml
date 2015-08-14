@@ -353,6 +353,7 @@
   <string name="general_preference_text_zoom_small">Petite</string>
   <string name="general_preference_text_zoom_tiny">Très petite</string>
   <string name="generic_attachment_problem">"Impossible de joindre le fichier."</string>
+  <string name="get_database_exception">Base de données anormal, veuillez effacer les données dans les informations de l\'App Mail.</string>
   <string name="header_label_general_preferences">Paramètres généraux</string>
   <string name="help_and_info">Aide</string>
   <string name="hide_elided">▼ Masquer le texte des messages précédents</string>
@@ -655,6 +656,7 @@
   <string name="str_select_none">Tout désélectionner</string>
   <string name="att_mgr_no_attachment">Aucune pièce jointe</string>
   <string name="zip_viewer_no_file">Aucun fichier</string>
+  <string name="share_choose">Veuillez choisir</string>
   <string name="sharing">Partager</string>
   <string name="forward_attachment">Faire suivre</string>
   <string name="sort_attachment">Trier par</string>
@@ -695,6 +697,7 @@
   <string name="widget_other_views">Autres</string>
   <string name="search_result">Résultats :</string>
   <string name="set_network">Définir le réseau</string>
+  <string name="setting_default_lable"/>
   <string name="pull_to_refresh">Tirer pour actualiser</string>
   <string name="release_to_refresh">Relâcher pour actualiser</string>
   <string name="not_updated_yet">Pas encore mis à jour</string>
@@ -794,6 +797,7 @@ Taille du patch Delta : %2$s"</string>
   <string name="bottom_bar_more_delete">Supprimer</string>
   <string name="bottom_bar_more_quickreply">Réponse rapide</string>
   <string name="bottom_bar_more_unread">Marquer non lu</string>
+  <string name="bottom_bar_more_share">Partager</string>
   <string name="compose_send">Envoyer</string>
   <string name="compose_sent">Envoyé</string>
   <string name="header_category_account">Paramètres du compte</string>

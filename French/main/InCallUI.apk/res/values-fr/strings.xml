@@ -281,6 +281,7 @@ La prochaine période démarre dans %2$d jours (%3$s)"</string>
   <string name="enable_disable_mhh">Médecine, services de santé et hôpitaux</string>
   <string name="mhh_enable">Option \"Médecine, services de santé et hôpitaux\" activée</string>
   <string name="mhh_disable">Option \"Médecine, services de santé et hôpitaux\" désactivée</string>
+  <string name="miprofile_stranger_card">Carte étrangère</string>
   <string name="enable_disable_technology_news">Technologies</string>
   <string name="technology_news_enable">Option \"Nouvelles technologies\" activée</string>
   <string name="technology_news_disable">Option \"Technologies\" désactivée</string>
@@ -573,7 +574,11 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="description_image_button_one">un</string>
   <string name="description_image_button_two">deux</string>
   <string name="description_image_button_three">trois</string>
+  <string name="description_image_button_tools">Options</string>
   <string name="description_image_button_four">quatre</string>
+  <string name="description_image_button_hangup">Raccrocher</string>
+  <string name="description_image_button_message_enter">Glissez vers le haut pour répondre au message</string>
+  <string name="description_image_button_message_exit">Masquer les messages</string>
   <string name="description_image_button_five">cinq</string>
   <string name="description_image_button_six">six</string>
   <string name="description_image_button_seven">sept</string>
@@ -582,7 +587,10 @@ Veuillez réessayer ou appeler le service client pour plus d\'options."</string>
   <string name="description_image_button_star">étoile</string>
   <string name="description_image_button_zero">zéro</string>
   <string name="description_image_button_pound">dièse</string>
+  <string name="description_image_button_reject">Glissez vers le haut pour rejeter l\'appel</string>
   <string name="description_dial_button">composer</string>
+  <string name="description_image_button_answer">Glissez vers le haut pour répondre</string>
+  <string name="description_image_button_dialpad">Clavier téléphonique</string>
   <string name="description_delete_button">retour arrière</string>
   <string name="accessibility_speakerphone_enabled">Haut-parleur activé</string>
   <string name="accessibility_call_muted">Son coupé</string>

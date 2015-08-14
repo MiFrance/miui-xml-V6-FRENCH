@@ -10,6 +10,7 @@
   <string name="calibrate_failed_timeout">Échec du calibrage : délai d\'attente du serveur écoulé</string>
   <string name="calibrate_success">Calibrage complet</string>
   <string name="cannot_get_location">Inconnue</string>
+  <string name="dialog_body_no_network">"Impossible de se connecter au réseau"</string>
   <string name="dialog_calibrat_altitude">Calibrage de l\'altitude via la connexion internet…</string>
   <string name="dialog_title_no_network">Aucun réseau trouvé, connectez-vous au Wi-Fi ou activez la connexion de données</string>
   <string name="direction_east">E</string>
@@ -35,6 +36,8 @@
   <string name="mobiledata_alert_dialog_title">Information</string>
   <string name="mobiledata_alert_dialog_message">Se connecter à internet pour calibrer l\'altitude ?</string>
   <string name="do_not_show_next_time">Ne plus afficher</string>
+  <string name="error_camera_unavailable">Vérifiez si une autre application utilise actuellement Caméra.</string>
+  <string name="error_camera_unavailable_title">Caméra indisponible</string>
   <string name="calibrate_altitude">Calibrer</string>
   <string name="location_enable">Activer</string>
   <string name="location_enable_later">Plus tard</string>

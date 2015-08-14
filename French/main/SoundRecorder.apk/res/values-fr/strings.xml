@@ -22,6 +22,7 @@
   <string name="error_filename_too_long">Nom de fichier trop long</string>
   <string name="error_sdcard_access">Impossible d\'accéder au stockage externe ou interne</string>
   <string name="fm_record">Enregistrements FM (%d)</string>
+  <string name="loading_recording">Chargement</string>
   <string name="hour">%d heure(s)</string>
   <string name="low_battery_error">La batterie est inférieure à 5%, pour s\'assurer que l\'enregistrement ne soit pas perdu il a été arrêté et sauvegardé.</string>
   <string name="low_battery_message_title">Batterie faible</string>

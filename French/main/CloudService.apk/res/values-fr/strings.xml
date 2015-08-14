@@ -6,9 +6,11 @@
   <string name="app_name">Mi Cloud</string>
   <string name="find_device_stop_noise">Arrêter l\'alerte sonore</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les messages contenants des photos, audio ou autres médias, réduit l\'usage des données</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Les vidéos de profil des contacts seront synchronisés uniquement s'ils sont connectés sur un réseau WLAN"</string>
   <string name="pref_title_sync_contacts_title">Synchroniser les contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Wi-Fi uniquement</string>
   <string name="pref_title_sync_my_profile_title">Synchroniser mon profil</string>
+  <string name="pref_title_sync_video_on_wifi_only">Utilisez uniquement WLAN pour synchroniser la vidéo</string>
   <string name="sub_sync_item_sms_summary">Les messages contenant photos, audio ou autres médias seront synchronisés uniquement lorsque connecté à un réseau Wi-Fi.</string>
   <string name="sub_sync_item_sms_title_wifi_only">Wi-Fi uniquement</string>
   <string name="sync_item_sms_summary">Synchronise les SMS reçus et envoyés de cet appareil</string>
@@ -199,6 +201,7 @@ Si vous changez de carte SIM, un autre SMS sera envoyé automatiquement afin de 
   <string name="micloud_detail_preference_wlan">Synchronisation via Wi-Fi</string>
   <string name="micloud_detail_success">Synchronisé</string>
   <string name="micloud_detail_syncing">Synchronisation...</string>
+  <string name="micloud_detail_upload_syncing">%s synchronisé</string>
   <string name="micloud_detail_wlan">%d de données non synchronisées</string>
   <string name="micloud_detail_wlan_contact">%d de photos de contacts non synchronisées</string>
   <string name="micloud_detail_wlan_mms">%d de MMS non synchronisés</string>
@@ -245,6 +248,7 @@ sur votre compte Mi pour réactiver Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Réactiver Mi Cloud</string>
   <string name="micloud_check_sim_title">"Il semble que vous ayez changé de carte(s) SIM. Identifiez-vous
 sur votre compte Mi pour réactiver Mi Cloud."</string>
+  <string name="micloud_detail_download_syncing">%s en téléchargement</string>
   <string name="micloud_main_sync_exception">Erreur de synchro</string>
   <string name="micloud_setting_browser_summary">Marque-pages, historique et onglets</string>
   <string name="micloud_setting_contact_summary">Infos et photos des contacts</string>
