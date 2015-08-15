@@ -2871,8 +2871,6 @@ et lancer le logiciel."</string>
   <string name="handy_mode_enter_ask">Demandez avant d\'entrer dans le mode à une main</string>
   <string name="handy_mode_size">Taille de l\'écran</string>
   <string name="handy_mode_tips">Glissez vers la gauche ou la droite depuis le bouton Accueil pour ajuster la taille de l\'écran.</string>
-  <string name="layout_size_large">Grand</string>
-  <string name="layout_size_medium">Moyen</string>
   <string name="layout_size_normal">Standard</string>
   <string name="layout_size_exhuge">Large</string>
   <string name="layout_size_huge"/>
