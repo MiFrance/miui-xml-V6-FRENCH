@@ -37,7 +37,7 @@
     <string name="button_text_install">Installer</string>
     <string name="button_text_known">OK</string>
     <string name="button_text_uninstall">Désinstaller</string>
-    <string name="button_text_uninstall_only">Désinstaller</string>
+    <string name="button_text_uninstall_only">Désinstaller %s</string>
     <string name="button_text_view_detail">Détails</string>
     <string name="button_text_view_file">Fichier</string>
     <string name="cache_title_empty_folder">Dossiers vides (%d)</string>
@@ -101,6 +101,7 @@
     <string name="hints_title_garbage">de déchets</string>
     <string name="item_title_process_mode">Choisir une action</string>
     <string name="last_check_canceled">Analyse recommandée : la précédente a été annulée avant la fin</string>
+    <string name="mainbtn_text_quick_cleanup">Nettoyer %s</string>
     <string name="msg_cleanup_db_update_time_unknown">Dernière MàJ : inconnue</string>
     <string name="msg_update_error_code_already_running">Mise à jour en cours…</string>
     <string name="msg_update_error_code_network_error">Erreur réseau</string>

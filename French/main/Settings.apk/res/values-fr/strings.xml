@@ -312,10 +312,10 @@ Il vous suffit de rapprocher les appareils (en les plaçant dos à dos), puis d'
   <string name="bluetooth_ask_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement">Une application requiert l\'activation du Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil pendant %1$d secondes."</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">souhaite activer le Bluetooth et nécessite que d\'autres appareils puissent détecter votre appareil pendant %1$d secondes.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">"souhaite activer le Bluetooth et nécessite que d\'autres appareils puissent détecter votre appareil pendant %1$d secondes."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">"Une application requiert l'activation du Bluetooth et nécessite que d'autres appareils puissent détecter votre appareil. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">souhaite activer le Bluetooth et nécessite que d\'autres appareils puissent détecter votre appareil. Vous pouvez changer cela plus tard dans les paramètres Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_detected">souhaite activer le Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"souhaite activer le Bluetooth et nécessite que d\'autres appareils puissent détecter votre appareil. Vous pouvez changer cela plus tard dans les paramètres Bluetooth."</string>
+  <string name="bluetooth_ask_enablement_detected">"souhaite activer le Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">"Une application nécessite que d'autres appareils Bluetooth puissent détecter votre appareil. Vous pourrez ensuite annuler cette opération dans les paramètres du Bluetooth."</string>
   <string name="bluetooth_auto_connect">Connexion automatique</string>
   <string name="bluetooth_confirm_passkey_msg">Pour associer votre appareil à :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Assurez-vous que le mot de passe &lt;br>&lt;b>%2$s&lt;/b> s\'affiche.</string>
@@ -1271,6 +1271,7 @@ Veuillez sélectionner votre système d'exploitation : "</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Activer l\'éclairage</string>
   <string name="pref_button_light_summary">Éclaire les touches Menu, Accueil et Retour</string>
+  <string name="pref_edge_handgrip">Edge handgrip</string>
   <string name="pref_operational_key">Touches opérationnelles</string>
   <string name="pref_volume_wake_summary">Presser les touches de volume réactive l\'écran. Utile si le bouton Marche/Arrêt est difficile d\'accès</string>
   <string name="pref_volume_wake_title">Éveil par les touches volume</string>
@@ -3027,7 +3028,7 @@ et lancer le logiciel."</string>
   <string name="enable_crypt_keeper_encrypt">Activer le chiffrage</string>
   <string name="bluetooth_unlock_state_disconnected">Déconnecté</string>
   <string name="bluetooth_unlock_state_key_error">Erreur de clef</string>
-  <string name="bluetooth_unlock_state_label">État :</string>
+  <string name="bluetooth_unlock_state_label">"État :"</string>
   <string name="bluetooth_unlock_state_ok">OK</string>
   <string name="bluetooth_unlock_state_too_far">Trop éloigné</string>
   <string name="location_access_off">Désactivé</string>
