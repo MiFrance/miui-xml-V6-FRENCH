@@ -148,6 +148,8 @@
   <string name="no_title_label">(Sans titre)</string>
   <string name="not_synced">non synchronisé</string>
   <string name="notice_button_ok">Accepter</string>
+  <string name="notice_button_ok_and_go_on">Accepter et continuer</string>
+  <string name="notice_title_agreement">Conditions générales de vente</string>
   <string name="notice_title_request">Demander</string>
   <string name="prefDialogTitle_vibrateWhen">Vibreur</string>
   <string name="preferences_about_title">À propos</string>
@@ -266,6 +268,8 @@
   <string name="text_year">Année</string>
   <string name="week_view_today_toast">Semaine en cours</string>
   <string name="alarm_label">OK</string>
+  <string name="alert_reminder_divider">|</string>
+  <string name="alert_reminder_expired">Expiré</string>
   <string name="edit_event_confirm_message">Ignorer les modifications de l\'événement ?</string>
   <string name="action_text_today">Aujourd\'hui</string>
   <string name="action_text_new_event">Ajouter</string>
@@ -311,6 +315,7 @@
   <string name="action_label">Entrée</string>
   
   <!-- utilisé seulement si telephone en chinois -->
+  <string name="birthday_notice_message">Détails de l\'anniversaire, besoin de se connecter au réseau avant le visionnement. Êtes-vous d\'accord ?</string>
   <string name="anniversary_term">anniversary</string>
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
   <string name="subscribe_all">全部订阅</string>
@@ -377,6 +382,7 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="online_calendar_activity_label">订阅日历</string>
+  <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
   <string name="online_reminder_change_text">修改提醒</string>
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>

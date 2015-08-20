@@ -120,6 +120,7 @@
   <string name="account_setup_failed_security">"Impossible d'établir la connexion avec le serveur en raison d'une erreur de sécurité."</string>
   <string name="account_setup_failed_security_policies_unsupported">"Ce serveur nécessite des fonctionnalités de sécurité incompatibles avec votre appareil Android, dont : %s"</string>
   <string name="account_setup_failed_tls_required">Protocole TLS requis mais non pris en charge par le serveur.</string>
+  <string name="account_setup_failed_too_many_partnerships">La connexion a échoué, le nombre maximal de connexions au serveur autorisé a été atteint.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Si messages suppr. de la corbeille</string>
   <string name="account_setup_incoming_delete_policy_label">Supprimer les e-mails du serveur</string>
   <string name="account_setup_incoming_delete_policy_never_label">Jamais</string>
@@ -966,6 +967,8 @@ Taille du patch Delta : %2$s"</string>
   <string name="folder_list_display_only_import">Afficher uniquement les dossiers importants</string>
   <string name="imap_password_error">Le mot de passe du serveur entrant est incorrect</string>
   <string name="outbox_alert_description_cannot_authenticate">Echec d\'authentification pour %s</string>
+  <string name="outbox_alert_description_email_size_error">La taille maximale des e-mail a été atteinte.</string>
+  <string name="outbox_alert_description_fail_authentication">L\'identifiant ou le mot de passe est incorrect.</string>
   <string name="outbox_alert_description_reject_by_server">Rejeté par %s</string>
   <string name="outbox_alert_description_time_out">Expiration de la connexion réseau</string>
   <string name="smtp_password_error">Le mot de passe du serveur sortant est incorrect</string>

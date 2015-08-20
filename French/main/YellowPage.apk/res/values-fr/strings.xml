@@ -167,6 +167,10 @@
   <string name="express_inquiry_no_history">Pas d\'historique</string>
   <string name="express_inquiry_delete_warning_single">Supprimer l\'élément sélectionné ?</string>
   <string name="express_inquiry_delete_warning_multiple">Supprimer les %d éléments sélectionnés ?</string>
+  <string name="express_inquiry_trace_user_notice_content">"Nous vous informerons du changement d'état de votre commande."</string>
+  <string name="express_inquiry_untrace">"Ne pas suivre"</string>
+  <string name="express_inquiry_untrace_success">Suivi arrêté</string>
+  <string name="express_location_failed">Localisation échoué, veuillez insérer votre adresse.</string>
   <string name="express_sender_info">Info expéditeur</string>
   <string name="follow_label">Suivre %1$s</string>
   <string name="follow_success">Vous suivez maintenant %1$s.</string>

@@ -185,6 +185,7 @@
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS</string>
   <string name="exceed_message_size_limitation">Taille maximale atteinte pour ce message.</string>
+  <string name="exceed_message_text_limitation">Limite de la longueur du texte du message atteinte.</string>
   <string name="expire_on">Date d\'expiration : %s</string>
   <string name="exporting_progress_private_message">Exportation de messages vers la boîte privée</string>
   <string name="failed_to_add_media">Vous ne pouvez pas ajouter l\'élément %1$s à votre message.</string>

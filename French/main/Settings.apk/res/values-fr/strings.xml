@@ -755,7 +755,7 @@ Ce paramètre affecte tous les utilisateurs de cet appareil"</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Liste des exceptions</string>
-  <string name="dndm_wristband">Bracelet connecté</string>
+  <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Activer le mode Ne pas déranger si le Bracelet Mi détecte que vous dormez moins d'une heure avant l'heure de début prévue"</string>
   <string name="dndm_wristband_detailed2">"Désactiver le mode Ne pas déranger si le Bracelet Mi détecte que vous dormez moins d'une heure avant l'heure de fin"</string>
   <string name="do_not_disturb_mode">Ne pas déranger</string>
