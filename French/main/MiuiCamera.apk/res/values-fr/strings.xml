@@ -43,6 +43,8 @@
   <string name="camera_error_title">Erreur de l\'appareil photo.</string>
   <string name="camera_label">Appareil photo</string>
   <string name="camera_settings_label">Appareil photo</string>
+  <string name="camera_snap_mode_title">Mode de prise rapide</string>
+  <string name="camera_snap_mode_title_detail">Touchez pour afficher les détails</string>
   <string name="can_not_play_video">Pour lire la vidéo, vous devez déverrouiller l\'écran</string>
   <string name="cancel">Annuler</string>
   <string name="cannot_connect_camera_once">"Impossible de se connecter à l\'appareil photo"</string>
@@ -321,6 +323,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">Désactiver</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activer</string>
   <string name="pref_camera_skinToneEnhancement_title">Amélioration de la teinte de peau</string>
+  <string name="pref_camera_snap_enable_summary">Lorsque l\'écran est éteint, appuyez et maintenez la touche Volume Bas pour entrer dans le mode de prise rapide. Appuyez à nouveau pour prendre une photo.</string>
+  <string name="pref_camera_snap_enable_title">Mode de prise rapide</string>
   <string name="pref_camera_sound_title">Son de déclenchement</string>
   <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
   <string name="pref_camera_touchafaec_entry_on">Activé</string>

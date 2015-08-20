@@ -96,6 +96,7 @@ Remarque : vous pouvez appuyer trois fois sur l\'écran pour agrandir le conte
   <string name="additional_system_update_settings_list_item_title">Mises à jour supplémentaires du système</string>
   <string name="advanced_settings">Paramètres avancés</string>
   <string name="advanced_settings_summary">Activer d\'autres paramètres</string>
+  <string name="advanced_text_layout">Activez la fonction avancée de présentation de texte</string>
   <string name="airplane_mode">Mode avion</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Afficher l\'écran de veille lorsque l\'appareil n\'est pas en charge engendra une consommation d\'énergie excessive. Voulez-vous désactiver cette option ?</string>
@@ -840,6 +841,7 @@ Certaines applications peuvent ne pas fonctionner jusqu\'à ce que leurs dévelo
   <string name="error_name_empty">Le champ \"Nom\" est obligatoire.</string>
   <string name="error_title"></string>
   <string name="every_day">Chaque jour</string>
+  <string name="experience_optimization_category">Optimisation de l\'expérience</string>
   <string name="external_code_size_label">Application sur USB</string>
   <string name="external_data_size_label">Données sur USB</string>
   <string name="factory_reset_summary">Vous pouvez effacer vos données personnelles en réinitialisant votre appareil ou choisissez Effacer les applications installées et formater la carte SD pour restaurer les réglages d\'usine</string>

@@ -505,6 +505,7 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="pay_charge">Acheter des données supplémentaires</string>
   <string name="repair">Réparer</string>
   <string name="replace_dns">Remplacement DNS auto</string>
+  <string name="restrictbackground_conflict_saving_msg">"Vous ne pouvez pas utiliser l'économiseur de données lorsque les données de fond sont restreintes. Désactiver les données et ajouter une limite d'utilisation de donnée ?</string>
   <string name="see_detail">Détails</string>
   <string name="unable_connect_internet">"Pas de connexion Internet"</string>
   <string name="notify_daily_limit_title_for_slotnum">Entrez une limite quotidienne pour %s</string>
@@ -525,6 +526,10 @@ Vous avez acheté %s de données supplémentaires ce mois-ci. Cela diffère avec
   <string name="add_miservice_dialog_title">Service de framework MIUI</string>
   <string name="repair_loading_text">Chargement…</string>
   <string name="root">Accès root</string>
+  <string name="saving_conflict_dialog_cancel">Annuler</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Attention</string>
+  <string name="saving_conflict_restrictbackground_msg">"Vous ne pouvez pas utiliser l'économiseur de données lorsque les données de fond sont restreintes. Autorisez les données de fond et activez l'économiseur de données ?"</string>
   <string name="firewall_network_restrict_notify_message">Appuyer pour modifier les paramètres.</string>
   <string name="firewall_network_restrict_notify_title">"%1$s n'est pas autorisé à se connecter à %2$s."</string>
   <string name="traffic_correction_success_notify_message">Appuyer pour afficher les détails.</string>

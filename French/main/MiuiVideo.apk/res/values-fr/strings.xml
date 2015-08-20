@@ -69,6 +69,9 @@
   <string name="declaration">Conditions d\'utilisation</string>
   <string name="video">"Vidéo"</string>
   <string name="myfavorite_onlylocal">Favoris</string>
+  <string name="need_upgrade_button">Vérifier</string>
+  <string name="need_upgrade_summary">Cette fonction est disponible dans une nouvelle version, cliquez sur la mise à jour à installer la nouvelle version.</string>
+  <string name="need_upgrade_title">Disponible dans une nouvelle version</string>
   <string name="favorite">"Favoris"</string>
   <string name="count_ge">"Éléments : %d "</string>
   <string name="gong_count_xiang">"Éléments : %d "</string>

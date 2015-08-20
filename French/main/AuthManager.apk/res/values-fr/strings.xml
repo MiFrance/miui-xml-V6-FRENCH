@@ -254,4 +254,5 @@
   <string name="HIPS_SecurityPrompt_Accept_Once">Autoriser une fois (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Refuser une fois (%d)</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" n\'a pas les permissions pour %2$s. Vous pouvez changer ces permissions à tout moment dans Sécurité &gt; Permissions."</string>
+  <string name="static_cache_db_md5">d3bcc85e9ff1f1f8f1e641ea19e7b30f</string>
 </resources>
