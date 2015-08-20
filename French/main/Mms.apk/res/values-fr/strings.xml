@@ -47,6 +47,9 @@
   <string name="mx_activate_int_hint_malformed_info">Erreur durant la requête. Un SMS international est requis pour réactiver Mi Message. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_server">L\'activation de Mi Message par le serveur a échoué, un SMS international est requis pour réactiver Mi Message. Désirez-vous l\'activer maintenant ?</string>
   <string name="mx_activate_int_hint_sim_change">L\'état de la carte SIM a changé. Un SMS international est requis pour réactiver Mi Message. Désirez-vous l\'activer maintenant ?</string>
+  <string name="mx_and_voip_enable">Mi Message &amp; Voix</string>
+  <string name="mx_and_voip_enable_popup_msg">"Envoyer des messages et passez des appels vers d'autres utilisateurs MIUI sans encourir de frais auprès de votre opérateur. VoIP est soutenue par Weihui. Afficher la politique de confidentialité de Weihui."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Politique de confidentialité</string>
   <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
   <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
   <string name="activity_not_found">Impossible d\'ouvrir la pièce jointe</string>
@@ -493,6 +496,9 @@
   <string name="view">Afficher</string>
   <string name="view_bookmark">Voir le message original</string>
   <string name="view_message_details">Afficher les détails</string>
+  <string name="voip_enable">Mi Message et Voix</string>
+  <string name="voip_enable_popup_msg">"Effectuer des appels vers d'autres utilisateurs MIUI sans encourir de frais auprès de votre opérateur. VoIP est soutenue par Weihui. Voir la Politique de confidentialité de Weihui."</string>
+  <string name="voip_enable_popup_msg2">Politique de confidentialité</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
   <string name="sp_conversation_title">Notifications</string>

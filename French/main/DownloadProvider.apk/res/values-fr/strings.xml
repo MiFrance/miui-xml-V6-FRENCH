@@ -33,7 +33,9 @@ Appuyez sur "File d\'attente" pour lancer le téléchargement lors de votre proc
 Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="button_queue_for_wifi">File d\'attente</string>
   <string name="button_cancel_download">Annuler</string>
+  <string name="button_download_now">Débuter le téléchargement</string>
   <string name="button_start_now">Commencer</string>
+  <string name="button_wait_for_wifi">Patientez</string>
   <string name="dialog_insufficient_space_on_cache">Impossible de terminer le téléchargement. L\'espace disponible sur la mémoire interne est insuffisant.</string>
   <string name="dialog_insufficient_space_on_external">Impossible de terminer le téléchargement. L\'espace disponible sur la carte SD est insuffisant.</string>
   <string name="auto_restart_under_wifi">Le téléchargement sera automatiquement démarré dès la connexion à un réseau Wi-Fi.</string>
@@ -54,6 +56,12 @@ Vous pourrez modifier ce choix dans les réglages de l\'application."</string>
   <string name="privacy_tip_content">"Utiliser l'accélérateur Xunlei pour les téléchargements ? L\'URL du téléchargement sera envoyé sur les serveurs Xunlei. Les détails de votre compte Mi seront également envoyés pour vérifier si vous avez des abonnements actifs au service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utiliser l\'accélérateur Xunlei ?</string>
+  <string name="recommended_file_more_in_mobile" formatted="false">En utilisant votre connexion de données mobile pour télécharger les ces %s fichiers (%s ) augmentera votre consommation de données mobiles.</string>
+  <string name="recommended_file_one_in_mobile">En utilisant votre connexion de données mobile pour télécharger ce fichier (%s ) augmentera votre consommation de données mobiles.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"Vous n'êtes pas connecté à WLAN pour l'instant. %s
+
+Vous ne pouvez pas obtenir les informations sur la taille de ce fichier. Pour télécharger ce fichier avec les données mobiles, appuyez %s. Pour attendre et téléchargez ce fichier uniquement si vous êtes connecté au WLAN, appuyez sur %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Vous ne pouvez pas obtenir les informations sur la taille de ce fichier. Pour télécharger ce fichier avec les données mobiles, appuyez %s. Pour attendre et téléchargez ce fichier uniquement si vous êtes connecté au WLAN, appuyez sur %s."</string>
   <string name="task_already_exist">Cette tâche existe déjà</string>
   <string name="paused_waiting_for_network">En attente de réseau</string>
   <string name="notif_title_file_size">Total : %1$d</string>

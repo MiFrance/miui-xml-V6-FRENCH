@@ -81,6 +81,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s partagé %5$s l\'album avec vous"</string>
   <string name="baby_album_sharer_recommand_face">Ajouter des photos existantes de %1$s ?</string>
+  <string name="baby_album_sharers_page_title">Partager avec la famille</string>
   <string name="baby_birthday">Anniversaire</string>
   <string name="baby_lock_wallpaper">Fond d\'écran de verrouillage</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Choisissez un album</string>
@@ -751,6 +752,7 @@
   <string name="ubifocus_data_invalid">Certaines données de cette image sont corrompues.</string>
   <string name="ubifocus_refocus_data_invalid">"Impossible de modifier la mise au point car certaines données de cette images sont corrompues"</string>
   <string name="videos">" vidéos"</string>
+  <string name="view_baby_album">Voir l\'album de bébé</string>
   <string name="paint_highlight_cancel_context">Enregistrer l\'image surlignée ?</string>
   <string name="paint_highlight_cancel_title">Abandonner les modifications</string>
   <string name="add_event">Ajouter un évènement</string>

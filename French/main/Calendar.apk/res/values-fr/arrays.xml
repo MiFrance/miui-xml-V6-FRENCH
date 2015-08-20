@@ -314,4 +314,16 @@
         <item>2 jours</item>
         <item>1 semaine</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Aucun rappel</item>
+        <item>0 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+        <item>1 jour</item>
+        <item>2 jours</item>
+        <item>1 semaine</item>
+    </string-array>    
 </resources>
