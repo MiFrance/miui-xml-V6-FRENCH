@@ -87,5 +87,6 @@
         <item>Galerie</item>
         <item>Musique</item>
         <item>E-mail</item>
+	<item>Vidéo</item>
      </string-array>
 </resources>
